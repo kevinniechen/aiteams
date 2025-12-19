@@ -1,0 +1,509 @@
+SCALE - EARLIEST EMPLOYEES
+(Founded: 2016-06)
+================================================================================
+
+Employee #1
+  Name: Alexandr Wang
+  Age: ~29 | YoE: 12
+  Start Date: 2016-06
+  Title: Chief Executive Officer And Founder
+  Previous: Algorithm Developer @ Hudson River Trading
+  Education: BS CS, MIT '18
+  LinkedIn: https://linkedin.com/in/alexandrwang
+
+Employee #2
+  Name: Derby Sum
+  Age: ~42 | YoE: 20
+  Start Date: 2016-09
+  Title: Ai Platform Product Manager
+  Previous: Demand Analyst @ Github
+  Education: Universidad Politécn '21
+  LinkedIn: https://linkedin.com/in/derby-sum-46679a1b2
+
+Employee #3
+  Name: Joy Obrador
+  Age: ~35 | YoE: 12
+  Start Date: 2016-09
+  Title: Researcher / Data Collector / Transcriber / Appointment-Setter
+  Previous: Email Support Specialist @ Taskus
+  Education: BS Management, Polytechnic Universi '12
+  LinkedIn: https://linkedin.com/in/joy-obrador-008777131
+
+Employee #4
+  Name: Mary Sastrillo
+  Age: ~37 | YoE: 17
+  Start Date: 2016-10
+  Title: Researcher
+  Previous: Customer Support @ Xapo
+  Education: BBA Banking, Palawan State Univer '10
+
+Employee #5
+  Name: Rachel Guinto
+  Age: ~34 | YoE: 12
+  Start Date: 2016-11
+  Title: Freelancer
+  Previous: Business Process Associate @ Amdatex Services Corp.
+  Education: BS, Laguna State Polytec '10
+  LinkedIn: https://linkedin.com/in/rachel-anne-guinto-5807779a
+
+Employee #6
+  Name: Aimee Samante
+  Age: ~44 | YoE: 22
+  Start Date: 2016-11
+  Title: Virtual Assistant
+  Previous: Customer Service Representative @ Synchrony
+  Education: Accountancy, San Pedro College Of '03
+  LinkedIn: https://linkedin.com/in/aimee-samante-76549a142
+
+Employee #7
+  Name: Daisy Lim
+  Age: ~31 | YoE: 9
+  Start Date: 2016-11
+  Title: Reviewer
+  Previous: N/A @ N/A
+  Education: N/A
+  LinkedIn: https://linkedin.com/in/daisy-lou-lim-7969b454
+
+Employee #8
+  Name: Janine Jimenea
+  Age: ~34 | YoE: 9
+  Start Date: 2016-11
+  Title: Administrative Assistant
+  Previous: N/A @ N/A
+  Education: BS Nursing, Stratford School '13
+  LinkedIn: https://linkedin.com/in/janine-mariel-jimenea-99478b131
+
+Employee #9
+  Name: Inna Tenedero
+  Age: ~33 | YoE: 11
+  Start Date: 2016-12
+  Title: Reviewer
+  Previous: Video Consultant @ Appen
+  Education: Human Resources, The City College Of  '14
+  LinkedIn: https://linkedin.com/in/inna-patricia-tenedero-22a65114b
+
+Employee #10
+  Name: Ricky Rauch
+  Age: ~40 | YoE: 18
+  Start Date: 2017-01
+  Title: Design And Code
+  Previous: Head Of Design @ Auth0 By Okta
+  Education: Escuela Superior De 
+
+Employee #11
+  Name: Aider C
+  Age: ~38 | YoE: 16
+  Start Date: 2017-01
+  Title: Vice President, Technical Program Manager | Genai / Llm
+  Previous: Principal Ml Architect & Program Manager @ Microsoft
+  Education: MIT
+  LinkedIn: https://linkedin.com/in/a-colin
+
+Employee #12
+  Name: Janet Reyes
+  Age: ~31 | YoE: 9
+  Start Date: 2017-01
+  Title: Scaler
+  Previous: N/A @ N/A
+  Education: CS, University Of Calooc '02
+  LinkedIn: https://linkedin.com/in/janet-reyes-06a545137
+
+Employee #13
+  Name: Jasmin Juanzo
+  Age: ~31 | YoE: 9
+  Start Date: 2017-01
+  Title: Freelancer Reviewer
+  Previous: N/A @ N/A
+  Education: N/A
+  LinkedIn: https://linkedin.com/in/jasmin-juanzo-9a1533143
+
+Employee #14
+  Name: Luciano Prado
+  Age: ~31 | YoE: 9
+  Start Date: 2017-02
+  Title: Estagiário
+  Previous: N/A @ N/A
+  Education: Universidade Paulist '18
+  LinkedIn: https://linkedin.com/in/luciano-prado-1798a69b
+
+Employee #15
+  Name: Nate Herman
+  Age: 32 | YoE: 11
+  Start Date: 2017-03
+  Title: Builder
+  Previous: Software Engineer @ Dropbox
+  Education: MS CS, Harvard Kenneth C. G '15
+  LinkedIn: https://linkedin.com/in/nathaniel-herman
+
+Employee #16
+  Name: Sagi Reichberg
+  Age: ~50 | YoE: 28
+  Start Date: 2017-04
+  Title: Founder: Scale Inc
+  Previous: Board Of Directors @ Ik2.Co
+  Education: CS, Open Universoty '00
+  LinkedIn: https://linkedin.com/in/sagireichberg
+
+Employee #17
+  Name: Lalaine Concepcion
+  Age: ~30 | YoE: 9
+  Start Date: 2017-05
+  Title: Professional Freelancer
+  Previous: N/A @ N/A
+  Education: BS, University Of The Ea '17
+
+Employee #18
+  Name: Allan Aquino
+  Age: ~36 | YoE: 14
+  Start Date: 2017-09
+  Title: Video And Image Annotator
+  Previous: Chat Support Agent @ Build A Head
+  Education: BS CS, Metro Dagupan Colleg '11
+  LinkedIn: https://linkedin.com/in/allanpaulaquino
+
+Employee #19
+  Name: Guido Maliandi
+  Age: ~38 | YoE: 16
+  Start Date: 2017-11
+  Title: Engineering
+  Previous: Engineering @ Scvsoft
+  Education: CS, University Of Buenos '17
+  LinkedIn: https://linkedin.com/in/gmaliandi
+
+Employee #20
+  Name: Sean Lenehan
+  Age: ~44 | YoE: 22
+  Start Date: 2017-12
+  Title: Subject Matter Expert : Finance, Marketing, Economics Plus Additional Firms
+  Previous: Entrepreneurial And Growth Acceleration @ Pirates Booty And Amuse Bouche
+  Education: PhD Management, University Of Maryla '17
+  LinkedIn: https://linkedin.com/in/seanlenehan
+
+Employee #21
+  Name: Hamada Elghany
+  Age: ~30 | YoE: 8
+  Start Date: 2017-12
+  Title: Sales Manager
+  Previous: N/A @ N/A
+  Education: N/A
+  LinkedIn: https://linkedin.com/in/hamada-abd-elghany-a489a3155
+
+Employee #22
+  Name: Jessica Davis
+  Age: ~34 | YoE: 13
+  Start Date: 2018-01
+  Title: Game Programmer
+  Previous: Software Developer @ Astor Chocolate
+  Education: BTech, Rochester Institute  '19
+  LinkedIn: https://linkedin.com/in/jessica-davis-54228a196
+
+Employee #23
+  Name: Moon Feng
+  Age: ~42 | YoE: 17
+  Start Date: 2018-01
+  Title: Senior Engineering Manager Generative Ai
+  Previous: Tech Lead & Manager Machine Learning Engineering @ Snap Inc.
+  Education: MS Engineering, UW '08
+  LinkedIn: https://linkedin.com/in/moon-feng-bb0a33362
+
+Employee #24
+  Name: Carlos López
+  Age: ~34 | YoE: 12
+  Start Date: 2018-01
+  Title: Customer Support Agent
+  Previous: General Manager @ Pulsar Software
+  Education: Universidad 'Alejand '18
+  LinkedIn: https://linkedin.com/in/ing-carlos-lópez-a55a54156
+
+Employee #25
+  Name: Xiangru Liu
+  Age: ~42 | YoE: 17
+  Start Date: 2018-01
+  Title: Senior Engineering Manager
+  Previous: Tech Lead & Manager Machine Learning Engineering @ Snap Inc.
+  Education: MS Engineering, UC Berkeley '08
+  LinkedIn: https://linkedin.com/in/xiangru-liu-26440b253
+
+Employee #26
+  Name: Susan Atchley
+  Age: ~31 | YoE: 12
+  Start Date: 2018-01
+  Title: Training Specialist
+  Previous: Curator @ Appen
+  Education: Chemistry, Institut Teknologi B '18
+  LinkedIn: https://linkedin.com/in/susan-atchley-445153344
+
+Employee #27
+  Name: Jason Chan
+  Age: ~43 | YoE: 21
+  Start Date: 2018-01
+  Title: Senior Data Scientist
+  Previous: Technical Lead @ Intel Corporation
+  Education: MS CS, UW
+
+Employee #28
+  Name: Rais Rehman
+  Age: ~30 | YoE: 8
+  Start Date: 2018-01
+  Title: Ai Consultant
+  Previous: N/A @ N/A
+  Education: N/A
+  LinkedIn: https://linkedin.com/in/rais-ur-rehman-59b779164
+
+Employee #29
+  Name: Blake Chan
+  Age: ~40 | YoE: 18
+  Start Date: 2018-03
+  Title: Senior Data Scientist
+  Previous: Technical Lead @ Texas Instruments
+  Education: MS CS, University Of Florid
+  LinkedIn: https://linkedin.com/in/blake-chan-00bb07255
+
+Employee #30
+  Name: Frederick Calibo
+  Age: ~30 | YoE: 8
+  Start Date: 2018-04
+  Title: Quality Assurance Specialist
+  Previous: N/A @ N/A
+  Education: Management, World Academy '12
+  LinkedIn: https://linkedin.com/in/frederick-calibo-595926282
+
+Employee #31
+  Name: Ginny Haung
+  Age: ~39 | YoE: 13
+  Start Date: 2018-05
+  Title: Senior Data Analyst
+  Previous: Data Analyst @ Zhejiang Guoji Hulian Information Technology
+  Education: BTech Civil Engineering, Meerut Institute Of  '21
+  LinkedIn: https://linkedin.com/in/ginny-haung-4568ab176
+
+Employee #32
+  Name: Lesley Huang
+  Age: ~39 | YoE: 14
+  Start Date: 2018-05
+  Title: Senior Data Analyst
+  Previous: Data Analyst @ Hangzhou Moshitech Technology
+  Education: BS CS, Zhejiang University '08
+  LinkedIn: https://linkedin.com/in/lesley-huang-300652a7
+
+Employee #33
+  Name: Sally Zhang
+  Age: ~39 | YoE: 13
+  Start Date: 2018-05
+  Title: Senior Data Analyst
+  Previous: Data Analyst @ Alibaba Group
+  Education: BS CS, Zhejiang University '08
+  LinkedIn: https://linkedin.com/in/sally-zhang-a7237969
+
+Employee #34
+  Name: Patricio Perez
+  Age: ~34 | YoE: 12
+  Start Date: 2018-05
+  Title: Software Engineering
+  Previous: Experimental Developer @ Shovel Apps
+  Education: Universidad Tecnológ '17
+  LinkedIn: https://linkedin.com/in/patricio-perez-92836711a
+
+Employee #35
+  Name: Diane Z
+  Age: ~39 | YoE: 9
+  Start Date: 2018-05
+  Title: Senior Data Analyst
+  Previous: Data Analyst @ Softbank
+  Education: BS CS, National University  '08
+  LinkedIn: https://linkedin.com/in/diane-z-3932a8144
+
+Employee #36
+  Name: Rebecca Pang
+  Age: ~42 | YoE: 17
+  Start Date: 2018-05
+  Title: Senior Engineering Manager Generative Ai
+  Previous: Tech Lead & Manager Machine Learning Engineering @ Snap Inc.
+  Education: MS Engineering, UC Berkeley '08
+  LinkedIn: https://linkedin.com/in/rebecca-pang-553a74318
+
+Employee #37
+  Name: Jai Elwakiel
+  Age: ~30 | YoE: 8
+  Start Date: 2018-05
+  Title: Content Writer
+  Previous: N/A @ N/A
+  Education: N/A
+  LinkedIn: https://linkedin.com/in/jai-elwakiel-61439a1b3
+
+Employee #38
+  Name: Cora Ng
+  Age: ~39 | YoE: 11
+  Start Date: 2018-05
+  Title: Senior Data Analyst
+  Previous: Senior Data Analyst @ Halcyon Agri Corporation Limited
+  Education: BS CS, National University  '08
+  LinkedIn: https://linkedin.com/in/cora-ng-1a6694145
+
+Employee #39
+  Name: Ashiqur Rahman
+  Age: ~34 | YoE: 11
+  Start Date: 2018-06
+  Title: Software Developer
+  Previous: Student Research Assistant @ Rwth Aachen University
+  Education: MS Engineering, Rwth Aachen Universi '18
+  LinkedIn: https://linkedin.com/in/asikbcc
+
+Employee #40
+  Name: Roy Bandalan
+  Age: ~30 | YoE: 8
+  Start Date: 2018-06
+  Title: Data Annotator
+  Previous: N/A @ N/A
+  Education: University Of Mindan '10
+  LinkedIn: https://linkedin.com/in/roy-bandalan-029519116
+
+Employee #41
+  Name: Tasabeeh Abdulrahman
+  Age: ~30 | YoE: 8
+  Start Date: 2018-06
+  Title: Architect
+  Previous: N/A @ N/A
+  Education: MS Architecture, University Of Kharto
+  LinkedIn: https://linkedin.com/in/tasabeeh-abdulrahman-26700b280
+
+Employee #42
+  Name: Crisan Alcantara
+  Age: ~34 | YoE: 12
+  Start Date: 2018-06
+  Title: Qa / Qc
+  Previous: Data Annotator @ Remotasks
+  Education: Negros Oriental Stat '22
+  LinkedIn: https://linkedin.com/in/crisan-alcantara-5857b728a
+
+Employee #43
+  Name: Catherine Mantel
+  Age: ~56 | YoE: 34
+  Start Date: 2018-07
+  Title: Vice President Business Development
+  Previous: Vice President Business Development @ Twi Terrawatt Initiative
+  Education: MS Econ, Ifp School '83
+  LinkedIn: https://linkedin.com/in/catherine-mantel-a415a710
+
+Employee #44
+  Name: Mohammad Abu Saqri
+  Age: ~30 | YoE: 8
+  Start Date: 2018-07
+  Title: Real Estate Appraiser
+  Previous: Civil Engineer @ Betar Consultants
+  Education: BS Engineering, Al - Balqa' Applied  '17
+
+Employee #45
+  Name: Gloria Mucebui
+  Age: ~30 | YoE: 9
+  Start Date: 2018-08
+  Title: Online Data Entry
+  Previous: Data Expert @ Cloudfactory
+  Education: BS, Taita Taveta Univers '17
+  LinkedIn: https://linkedin.com/in/gloria-mucebui-b4968a9b
+
+Employee #46
+  Name: Tiago Dias
+  Age: ~29 | YoE: 7
+  Start Date: 2018-08
+  Title: Operário Em Fábrica
+  Previous: N/A @ N/A
+  Education: N/A
+  LinkedIn: https://linkedin.com/in/tiago-dias-2963b9198
+
+Employee #47
+  Name: Facundo Pepe
+  Age: ~34 | YoE: 12
+  Start Date: 2018-09
+  Title: User Experience / User Interface Developer
+  Previous: Desarrollador User Interface / User Experience @ Aerolab
+  Education: Design, Escuela Da Vinci '15
+  LinkedIn: https://linkedin.com/in/facundo-pepe
+
+Employee #48
+  Name: Shireen Abbas
+  Age: ~34 | YoE: 12
+  Start Date: 2018-09
+  Title: Design Team Lead
+  Previous: Senior Interior Designer @ Flair Egypt
+  Education: BS Design, High Institute Of Ap '13
+  LinkedIn: https://linkedin.com/in/shireenabbas
+
+Employee #49
+  Name: Francis Kariuki
+  Age: ~30 | YoE: 7
+  Start Date: 2018-09
+  Title: Data Expert
+  Previous: N/A @ N/A
+  Education: BS Engineering, Taita Taveta Univers '17
+  LinkedIn: https://linkedin.com/in/francis-kariuki-4a4b8213a
+
+Employee #50
+  Name: Jeffrey Yuen
+  Age: ~29 | YoE: 7
+  Start Date: 2018-09
+  Title: Quality Assurance Specialist
+  Previous: N/A @ N/A
+  Education: BS, University Of Califo '18
+
+Employee #51
+  Name: Anthony Smith
+  Age: ~34 | YoE: 13
+  Start Date: 2018-09
+  Title: Senior Software Engineer
+  Previous: Senior Software Developer @ Databricks
+  Education: BS CS, Alliance University '13
+
+Employee #52
+  Name: Angelica Arroz
+  Age: ~34 | YoE: 12
+  Start Date: 2018-11
+  Title: Freelance Reviewer
+  Previous: Freelancer @ Humanatic Official
+  Education: Sti College '10
+  LinkedIn: https://linkedin.com/in/angelica-arroz-5bb75412a
+
+Employee #53
+  Name: Glen Timario
+  Age: ~29 | YoE: 7
+  Start Date: 2018-11
+  Title: Quality Assurance Specialist
+  Previous: N/A @ N/A
+  Education: Liceo De Cagayan Uni '14
+  LinkedIn: https://linkedin.com/in/glen-rianne-timario-6161111b7
+
+Employee #54
+  Name: Liz De Lara
+  Age: ~41 | YoE: 19
+  Start Date: 2018-11
+  Title: Worker
+  Previous: English Teacher @ 51Talk Philippines
+  Education: Psychology, Xavier University - 
+  LinkedIn: https://linkedin.com/in/liz-de-lara-66314918a
+
+Employee #55
+  Name: Melvin Landabora
+  Age: ~31 | YoE: 9
+  Start Date: 2018-11
+  Title: Data Analyst
+  Previous: Data Encoder @ Business Process Resource Inc. (Bizpro)
+  Education: Sti College '18
+  LinkedIn: https://linkedin.com/in/melvin-l-874333126
+
+Employee #56
+  Name: Allen Han
+  Age: ~48 | YoE: 26
+  Start Date: 2018-12
+  Title: Ai Investor
+  Previous: N/A @ N/A
+  Education: MS CS, MIT
+  LinkedIn: https://linkedin.com/in/ahmadkhairallah
+
+Employee #57
+  Name: Moses Kinyua
+  Age: ~29 | YoE: 7
+  Start Date: 2018-12
+  Title: Data Specialist
+  Previous: Quality Analyst @ Cloudfactory
+  Education: Cosmetology, Kenya Institute Of P '21
+  LinkedIn: https://linkedin.com/in/moses-kinyua-7727b3223

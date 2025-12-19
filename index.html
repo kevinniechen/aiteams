@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Early Employees</title>
+    <style>
+        body { font-family: monospace; font-size: 13px; padding: 20px; margin: 0; }
+        h1 { margin: 0 0 10px 0; }
+        h2 { margin: 10px 0; }
+        h3 { margin: 10px 0; }
+        .header { margin-bottom: 15px; }
+        .tabs { margin-bottom: 15px; }
+        .tabs button { margin-right: 10px; padding: 5px 15px; cursor: pointer; }
+        .tabs button.active { font-weight: bold; }
+        
+        .main-layout {
+            display: flex;
+            gap: 20px;
+            align-items: flex-start;
+        }
+        
+        .chart-panel {
+            position: sticky;
+            top: 20px;
+            flex-shrink: 0;
+            width: 200px;
+        }
+        
+        .chart-container {
+            display: flex;
+            flex-direction: column;
+            gap: 2px;
+        }
+        
+        .chart-row {
+            display: flex;
+            align-items: center;
+            height: 18px;
+        }
+        
+        .chart-label {
+            width: 45px;
+            font-size: 10px;
+            text-align: right;
+            padding-right: 8px;
+            flex-shrink: 0;
+        }
+        
+        .chart-bar-container {
+            flex: 1;
+            display: flex;
+            align-items: center;
+        }
+        
+        .chart-bar {
+            background: #d0d0d0;
+            height: 14px;
+            min-width: 0;
+            transition: background 0.1s;
+        }
+        
+        .chart-count {
+            font-size: 10px;
+            padding-left: 5px;
+            color: #666;
+        }
+        
+        .chart-row.highlight .chart-bar { background: #333; }
+        .chart-row.highlight .chart-label { font-weight: bold; }
+        .chart-row.highlight .chart-count { color: #000; font-weight: bold; }
+        
+        .table-panel {
+            flex: 1;
+            overflow-x: auto;
+        }
+        
+        table { border-collapse: collapse; width: 100%; }
+        th, td { border: 1px solid #ccc; padding: 6px 10px; text-align: left; }
+        th { background: #f5f5f5; position: sticky; top: 0; }
+        a { color: #0066cc; }
+        
+        .spam-btn { cursor: pointer; padding: 2px 8px; font-size: 11px; }
+        
+        tr.employee-row { transition: background 0.1s; }
+        tr.employee-row.soft-highlight { background: #e8e8e8; }
+        tr.employee-row.primary-highlight { background: #c0c0c0; }
+        
+        /* Mobile responsive */
+        @media (max-width: 800px) {
+            .main-layout {
+                flex-direction: column;
+            }
+            
+            .chart-panel {
+                position: static;
+                width: 100%;
+                max-height: 300px;
+                overflow-y: auto;
+                border-bottom: 1px solid #ccc;
+                padding-bottom: 15px;
+                margin-bottom: 15px;
+            }
+            
+            .table-panel {
+                width: 100%;
+            }
+            
+            table {
+                font-size: 11px;
+            }
+            
+            th, td {
+                padding: 4px 6px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Early Employee Tracker</h1>
+        <div class="tabs" id="tabs"></div>
+        <div id="company-info"></div>
+    </div>
+    <div id="content">Loading...</div>
+
+    <script>
+        const COMPANIES = [
+            { slug: 'perplexity', file: 'perplexity_processed.json' },
+            { slug: 'cognition', file: 'cognition_processed.json' },
+            { slug: 'scale', file: 'scale_processed.json' },
+        ];
+        
+        let companyData = {};
+        let spamData = {};
+        let currentCompany = null;
+        
+        async function loadData() {
+            try {
+                const spamRes = await fetch('/spam.json');
+                if (spamRes.ok) spamData = await spamRes.json();
+            } catch (e) {}
+            
+            for (const company of COMPANIES) {
+                try {
+                    const response = await fetch(company.file);
+                    if (response.ok) {
+                        companyData[company.slug] = await response.json();
+                    }
+                } catch (e) {}
+            }
+            renderTabs();
+            const first = Object.keys(companyData)[0];
+            if (first) showCompany(first);
+            else document.getElementById('content').textContent = 'No data found.';
+        }
+        
+        function renderTabs() {
+            const tabs = document.getElementById('tabs');
+            Object.keys(companyData).forEach(slug => {
+                const btn = document.createElement('button');
+                btn.textContent = companyData[slug].company_display || slug;
+                btn.dataset.slug = slug;
+                btn.onclick = () => showCompany(slug);
+                tabs.appendChild(btn);
+            });
+        }
+        
+        function isSpam(company, name) {
+            return spamData[company]?.includes(name) || false;
+        }
+        
+        async function toggleSpam(company, name) {
+            const wasSpam = isSpam(company, name);
+            
+            try {
+                await fetch('/spam', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ company, name, is_spam: !wasSpam })
+                });
+                
+                if (!spamData[company]) spamData[company] = [];
+                if (wasSpam) {
+                    spamData[company] = spamData[company].filter(n => n !== name);
+                } else {
+                    spamData[company].push(name);
+                }
+                
+                showCompany(currentCompany);
+            } catch (e) {
+                alert('Failed to save spam status');
+            }
+        }
+        
+        function highlightMonth(month, primaryRow = null) {
+            document.querySelectorAll('.chart-row').forEach(row => {
+                row.classList.toggle('highlight', row.dataset.month === month);
+            });
+            document.querySelectorAll('.employee-row').forEach(row => {
+                row.classList.remove('soft-highlight', 'primary-highlight');
+                if (row.dataset.month === month) {
+                    if (row === primaryRow) {
+                        row.classList.add('primary-highlight');
+                    } else {
+                        row.classList.add('soft-highlight');
+                    }
+                }
+            });
+        }
+        
+        function clearHighlight() {
+            document.querySelectorAll('.chart-row').forEach(row => row.classList.remove('highlight'));
+            document.querySelectorAll('.employee-row').forEach(row => {
+                row.classList.remove('soft-highlight', 'primary-highlight');
+            });
+        }
+        
+        function buildTimeline(employees) {
+            const byMonth = {};
+            employees.forEach(e => {
+                const month = e.start_date;
+                if (!byMonth[month]) byMonth[month] = [];
+                byMonth[month].push(e.rank);
+            });
+            
+            const existingMonths = Object.keys(byMonth).sort();
+            if (existingMonths.length === 0) return '<p>No hires</p>';
+            
+            const months = [];
+            let [year, month] = existingMonths[0].split('-').map(Number);
+            const [endYear, endMonth] = existingMonths[existingMonths.length - 1].split('-').map(Number);
+            
+            while (year < endYear || (year === endYear && month <= endMonth)) {
+                const key = `${year}-${String(month).padStart(2, '0')}`;
+                months.push(key);
+                if (!byMonth[key]) byMonth[key] = [];
+                month++;
+                if (month > 12) { month = 1; year++; }
+            }
+            
+            const maxCount = Math.max(...months.map(m => byMonth[m].length), 1);
+            
+            let html = '<div class="chart-container">';
+            months.forEach(m => {
+                const hires = byMonth[m];
+                const count = hires.length;
+                const barWidth = count > 0 ? Math.max((count / maxCount) * 100, 5) : 0;
+                const parts = m.split('-');
+                const shortMonth = parts[1] + '/' + parts[0].slice(2);
+                
+                html += `<div class="chart-row" data-month="${m}" 
+                    onmouseenter="highlightMonth('${m}')" onmouseleave="clearHighlight()">
+                    <span class="chart-label">${shortMonth}</span>
+                    <div class="chart-bar-container">
+                        <div class="chart-bar" style="width: ${barWidth}%"></div>
+                        <span class="chart-count">${count}</span>
+                    </div>
+                </div>`;
+            });
+            html += '</div>';
+            return html;
+        }
+        
+        function showCompany(slug) {
+            currentCompany = slug;
+            document.querySelectorAll('.tabs button').forEach(b => 
+                b.classList.toggle('active', b.dataset.slug === slug));
+            
+            const data = companyData[slug];
+            const allEmployees = data.employees || [];
+            
+            const employees = allEmployees.filter(e => !isSpam(slug, e.name));
+            const spamCount = allEmployees.length - employees.length;
+            
+            document.getElementById('company-info').innerHTML = 
+                `<strong>${data.company_display || data.company}</strong> · Founded: ${data.founded || '?'} · ${employees.length} employees${spamCount > 0 ? ` (${spamCount} hidden)` : ''}`;
+            
+            let html = '<div class="main-layout">';
+            
+            // Chart panel
+            html += '<div class="chart-panel">';
+            html += '<h3>Hires by Month</h3>';
+            html += buildTimeline(employees);
+            html += '</div>';
+            
+            // Table panel
+            html += '<div class="table-panel">';
+            html += `<table>
+                <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Name</th>
+                    <th>Age</th>
+                    <th>YoE</th>
+                    <th>Started</th>
+                    <th>Title</th>
+                    <th>Education</th>
+                    <th>Previous</th>
+                    <th></th>
+                </tr>
+                </thead>
+                <tbody>`;
+            
+            employees.forEach(e => {
+                const name = e.linkedin_url 
+                    ? `<a href="${e.linkedin_url}" target="_blank">${e.name}</a>` 
+                    : e.name;
+                html += `<tr class="employee-row" data-month="${e.start_date}" 
+                    onmouseenter="highlightMonth('${e.start_date}', this)" onmouseleave="clearHighlight()">
+                    <td>${e.rank}</td>
+                    <td>${name}</td>
+                    <td>${e.age}</td>
+                    <td>${e.yoe}</td>
+                    <td>${e.start_date}</td>
+                    <td>${e.title}</td>
+                    <td>${e.education}</td>
+                    <td>${e.previous_title} @ ${e.previous_company}</td>
+                    <td><button class="spam-btn" onclick="toggleSpam('${slug}', '${e.name.replace(/'/g, "\\'")}')">×</button></td>
+                </tr>`;
+            });
+            
+            html += '</tbody></table></div>';
+            html += '</div>';
+            
+            document.getElementById('content').innerHTML = html;
+        }
+        
+        loadData();
+    </script>
+</body>
+</html>

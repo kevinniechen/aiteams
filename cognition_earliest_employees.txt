@@ -1,191 +1,245 @@
-COGNITION AI LABS - EARLIEST EMPLOYEES
+COGNITION - EARLIEST EMPLOYEES
+(Founded: 2023-11)
 ================================================================================
 
 Employee #1
   Name: Tony Jiang
+  Age: ~30 | YoE: 8
   Start Date: 2023-11
-  Title at Cognition: founding engineer
-  Previous Title: tech lead manager at nuro
-  Education: computer science - yale university; de anza college
+  Title: Founding Engineer
+  Previous: Tech Lead Manager @ Nuro
+  Education: CS, Yale '18
+  LinkedIn: https://linkedin.com/in/jiangtony
 
 Employee #2
   Name: Sara Xiang
+  Age: ~29 | YoE: 10
   Start Date: 2023-11
-  Title at Cognition: human product manager
-  Previous Title: product at arena
-  Education: bachelor of science in computer science - carnegie mellon university; william mason high school
+  Title: Human Product Manager
+  Previous: Product @ Arena
+  Education: BS CS, CMU '18
+  LinkedIn: https://linkedin.com/in/saraxiang
 
 Employee #3
   Name: Adhyyan Sekhsaria
+  Age: ~25 | YoE: 5
   Start Date: 2023-11
-  Title at Cognition: founding engineer
-  Previous Title: software engineer at quadric
-  Education: bachelor of science in applied mathematics - university of southern california; dhirubhai ambani international school
+  Title: Founding Engineer
+  Previous: Software Engineer @ Quadric
+  Education: BS Math, USC '22
+  LinkedIn: https://linkedin.com/in/adhyyansekhsaria
 
 Employee #4
   Name: Scott Wu
+  Age: ~31 | YoE: 9
   Start Date: 2023-11
-  Title at Cognition: co-founder and chief executive officer
-  Previous Title: co-founder and chief technology officer at lunchclub
-  Education: economics - harvard university
+  Title: Co-Founder And Chief Executive Officer
+  Previous: Co-Founder And Chief Technology Officer @ Lunchclub
+  Education: Econ, Harvard '19
+  LinkedIn: https://linkedin.com/in/scott-wu-8b94ab96
 
 Employee #5
   Name: Steven Hao
+  Age: ~29 | YoE: 8
   Start Date: 2023-11
-  Title at Cognition: co-founder
-  Previous Title: software engineer at scale ai
-  Education: bachelors in computer science - massachusetts institute of technology
+  Title: Co-Founder
+  Previous: Software Engineer @ Scale Ai
+  Education: BS CS, MIT '18
+  LinkedIn: https://linkedin.com/in/steven-hao-160b9638
 
 Employee #6
   Name: Walden Yan
+  Age: ~23 | YoE: 7
   Start Date: 2023-11
-  Title at Cognition: co-founder
-  Previous Title: early engineer at anysphere
-  Education: bachelors in computer science - harvard university; avon high school
+  Title: Co-Founder
+  Previous: Early Engineer @ Anysphere
+  Education: BS CS, Harvard '24
+  LinkedIn: https://linkedin.com/in/waldenyan
 
 Employee #7
   Name: Andrew H
+  Age: ~28 | YoE: 6
   Start Date: 2023-11
-  Title at Cognition: human software engineer
-  Previous Title: software engineer at modal
-  Education: bachelor of science in computer science - massachusetts institute of technology; monta vista high school
+  Title: Human Software Engineer
+  Previous: Software Engineer @ Modal
+  Education: BS CS, MIT '19
+  LinkedIn: https://linkedin.com/in/andrew-he
 
 Employee #8
   Name: Russell Kaplan
+  Age: ~30 | YoE: 12
   Start Date: 2024-01
-  Title at Cognition: president
-  Previous Title: director of engineering & ml at scale ai
-  Education: master of science in computer science - stanford university; bachelor of science in computer science - stanford university
+  Title: President
+  Previous: Director Of Engineering & Ml @ Scale Ai
+  Education: MS CS, Stanford '18
+  LinkedIn: https://linkedin.com/in/russelljkaplan
 
 Employee #9
   Name: Jeffrey Ling
+  Age: ~30 | YoE: 8
   Start Date: 2024-01
-  Title at Cognition: human software engineer
-  Previous Title: co-founder at stealth startup
-  Education: bachelor of arts in computer science - harvard university
+  Title: Human Software Engineer
+  Previous: Co-Founder @ Stealth Startup
+  Education: BA CS, Harvard '17
+  LinkedIn: https://linkedin.com/in/jeffrey-ling-92163879
 
 Employee #10
   Name: Calvin Giroud
+  Age: ~29 | YoE: 8
   Start Date: 2024-01
-  Title at Cognition: gtm
-  Previous Title: founder & chief executive officer at refractive
-  Education: bachelors in computer engineering - carnegie mellon university
+  Title: Gtm
+  Previous: Founder & Chief Executive Officer @ Refractive
+  Education: BS CE, CMU '18
+  LinkedIn: https://linkedin.com/in/calvin-giroud-9667a8100
 
 Employee #11
   Name: Ziwei D
+  Age: ~39 | YoE: 17
   Start Date: 2024-01
-  Title at Cognition: board member
-  Previous Title: technical manager at splunk
-  Education: masters in computer science - university of california, berkeley
+  Title: Board Member
+  Previous: Technical Manager @ Splunk
+  Education: MS CS, UC Berkeley
 
 Employee #12
   Name: Ramiro D'Avila
+  Age: ~32 | YoE: 10
   Start Date: 2024-02
-  Title at Cognition: software engineer
-  Previous Title: software engineer at scale ai
-  Education: engineering - universidad nacional del litoral; escuela normal superior "josé maría torres"
+  Title: Software Engineer
+  Previous: Software Engineer @ Scale Ai
+  Education: Engineering, Universidad Nacional '20
+  LinkedIn: https://linkedin.com/in/ramasilveyra
 
 Employee #13
   Name: Martin Cabral
+  Age: ~39 | YoE: 17
   Start Date: 2024-02
-  Title at Cognition: software engineer
-  Previous Title: software engineer at scale ai
-  Education: instituto tecnolã³gico de buenos aires; computer science - instituto tecnológico de buenos aires
+  Title: Software Engineer
+  Previous: Software Engineer @ Scale Ai
+  Education: Instituto Tecnolã³Gi '10
+  LinkedIn: https://linkedin.com/in/martin-cabral-b0897615
 
 Employee #14
   Name: Salima Ghadimi
+  Age: ~31 | YoE: 10
   Start Date: 2024-03
-  Title at Cognition: operations
-  Previous Title: platform operations at capchase
-  Education: master of business administration - columbia business school; bachelors in economics - university of pennsylvania
+  Title: Operations
+  Previous: Platform Operations @ Capchase
+  Education: MBA, Columbia Business Sc '21
+  LinkedIn: https://linkedin.com/in/salima-ghadimi-17064789
 
 Employee #15
   Name: Federico Marcos
+  Age: ~31 | YoE: 11
   Start Date: 2024-03
-  Title at Cognition: senior software engineer
-  Previous Title: senior data scientist at scale ai
-  Education: software engineering - free code camp; software engineering - freecodecamp
+  Title: Senior Software Engineer
+  Previous: Senior Data Scientist @ Scale Ai
+  Education: Software Engineering, Free Code Camp '16
+  LinkedIn: https://linkedin.com/in/federicomarcos
 
 Employee #16
   Name: Bryce Hunt
+  Age: ~27 | YoE: 5
   Start Date: 2024-03
-  Title at Cognition: human
-  Previous Title: co-founder at stealth
-  Education: computer science - stanford university; social studies - wesleyan university
+  Title: Human
+  Previous: Co-Founder @ Stealth
+  Education: CS, Stanford '22
+  LinkedIn: https://linkedin.com/in/-bryce
 
 Employee #17
   Name: Silas Alberti
+  Age: ~25 | YoE: 6
   Start Date: 2024-03
-  Title at Cognition: founding team
-  Previous Title: student researcher at google deepmind
-  Education: doctor of philosophy in electrical engineering - stanford university; mathematics - university of california, berkeley
+  Title: Founding Team
+  Previous: Student Researcher @ Google Deepmind
+  Education: PhD EE, Stanford '27
+  LinkedIn: https://linkedin.com/in/silasalberti
 
 Employee #18
   Name: Moritz Stephan
+  Age: ~23 | YoE: 9
   Start Date: 2024-04
-  Title at Cognition: human software engineer
-  Previous Title: research engineer at trunk tools
-  Education: master of science in computer science - stanford university; bachelor of science in computer science - stanford university
+  Title: Human Software Engineer
+  Previous: Research Engineer @ Trunk Tools
+  Education: MS CS, Stanford '24
+  LinkedIn: https://linkedin.com/in/moritz-stephan
 
 Employee #19
   Name: Dev Chheda
+  Age: ~22 | YoE: 7
   Start Date: 2024-04
-  Title at Cognition: software engineer
-  Previous Title: researcher at low-energy autonomy and navigation (lean) group at research laboratory of electronics at mit
-  Education: bachelor of science in architecture - massachusetts institute of technology; shri maa satgarhi devi kushinagar up
+  Title: Software Engineer
+  Previous: Researcher At Low-Energy Autonomy And Navigation (Lean) Group @ Research Laboratory Of Electronics At Mit
+  Education: BS Architecture, MIT '25
+  LinkedIn: https://linkedin.com/in/dev-chheda-6497bb1a7
 
 Employee #20
   Name: Mokshit Jain
+  Age: ~25 | YoE: 3
   Start Date: 2024-06
-  Title at Cognition: product engineer
-  Previous Title: frontend engineer intern at replay.io
-  Education: montfort secondary school; bachelor of science in computer science - caltech
+  Title: Product Engineer
+  Previous: Frontend Engineer Intern @ Replay.Io
+  Education: Montfort Secondary S '24
+  LinkedIn: https://linkedin.com/in/mokshit-jain-34318018a
 
 Employee #21
   Name: Calvin Huang
+  Age: 29 | YoE: 16
   Start Date: 2024-08
-  Title at Cognition: software engineer
-  Previous Title: staff software engineer at scale ai
-  Education: bachelor of science in computer science - massachusetts institute of technology; mathematics - gunn high school
+  Title: Software Engineer
+  Previous: Staff Software Engineer @ Scale Ai
+  Education: BS CS, MIT '18
+  LinkedIn: https://linkedin.com/in/clhuang
 
 Employee #22
   Name: Sean Sullivan
+  Age: ~27 | YoE: 7
   Start Date: 2024-08
-  Title at Cognition: human engineer
-  Previous Title: software engineering contractor at windsurf
-  Education: masters in applied mathematics - harvard university; bachelors in neuroscience - harvard university
+  Title: Human Engineer
+  Previous: Software Engineering Contractor @ Windsurf
+  Education: MS Math, Harvard '20
+  LinkedIn: https://linkedin.com/in/sullivan-sean
 
 Employee #23
   Name: Shannon Kahn
+  Age: ~33 | YoE: 11
   Start Date: 2024-09
-  Title at Cognition: account executive, strategic / majors (windsurf and devin)
-  Previous Title: enterprise account executive at chronosphere
-  Education: french language - université paris - sorbonne; bachelors in entrepreneurship - university of michigan
+  Title: Account Executive, Strategic / Majors (Windsurf And Devin)
+  Previous: Enterprise Account Executive @ Chronosphere
+  Education: French Language, Université Paris - S
+  LinkedIn: https://linkedin.com/in/shannonscheel
 
 Employee #24
   Name: Dani Mccabe
+  Age: ~31 | YoE: 9
   Start Date: 2024-10
-  Title at Cognition: director, sales enablement
-  Previous Title: director, sales enablement at navan
-  Education: economics - semester at sea / ise; economics - university of california, davis
+  Title: Director, Sales Enablement
+  Previous: Director, Sales Enablement @ Navan
+  Education: Econ, Semester At Sea / Is '17
+  LinkedIn: https://linkedin.com/in/danielle-mccabe
 
 Employee #25
   Name: Sam Rudy
+  Age: ~33 | YoE: 12
   Start Date: 2024-10
-  Title at Cognition: gtm
-  Previous Title: strategic account executive, emea at airtable
-  Education: bachelors in international relations - university of colorado boulder; mccallum high school
+  Title: Gtm
+  Previous: Strategic Account Executive, Emea @ Airtable
+  Education: BS International Relati, University Of Colora '14
+  LinkedIn: https://linkedin.com/in/sam-rudy-44a2287b
 
 Employee #26
   Name: Kira Busman
+  Age: ~35 | YoE: 13
   Start Date: 2024-10
-  Title at Cognition: advisor
-  Previous Title: advisor at stealth mode
-  Education: bachelor of science in history - binghamton university
+  Title: Advisor
+  Previous: Advisor @ Stealth Mode
+  Education: BS History, Binghamton Universit
+  LinkedIn: https://linkedin.com/in/kirabusman
 
 Employee #27
   Name: Gennady Korotkevich
+  Age: ~29 | YoE: 3
   Start Date: 2024-12
-  Title at Cognition: software engineer
-  Previous Title: research engineer at ramp
-  Education: bachelor of science in computer science - itmo university
+  Title: Software Engineer
+  Previous: Research Engineer @ Ramp
+  Education: BS CS, Itmo University '18
+  LinkedIn: https://linkedin.com/in/gennady-korotkevich

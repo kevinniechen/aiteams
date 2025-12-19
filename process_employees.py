@@ -1,16 +1,84 @@
 #!/usr/bin/env python3
 """
 Process company employee data from PeopleDataLabs
-Usage: python process_employees.py <company_slug> <linkedin_id> <website> <founding_date>
+Usage: python process_employees.py <company_slug> <linkedin_id> <website> [founding_date]
+
+The founding_date (YYYY-MM format) filters out employees who "started" before 
+the company existed (data quality issues). If not provided, no date filtering is applied.
 
 Examples:
   python process_employees.py cognition cognition-ai-labs cognition.ai 2023-11
-  python process_employees.py scale scaleai scale.com 2016-01
+  python process_employees.py scale scaleai scale.com 2016-06
+  python process_employees.py perplexity perplexity-ai perplexity.ai 2022-08
 """
 
 import json
 import sys
 from datetime import datetime
+
+CURRENT_YEAR = datetime.now().year
+
+# Degree abbreviations
+DEGREE_MAP = {
+    'bachelor of science': 'BS',
+    'bachelor of arts': 'BA',
+    'bachelor of engineering': 'BE',
+    'bachelor of business administration': 'BBA',
+    'bachelor of fine arts': 'BFA',
+    'bachelor of technology': 'BTech',
+    'bachelors': 'BS',
+    'master of science': 'MS',
+    'master of arts': 'MA',
+    'master of engineering': 'MEng',
+    'master of business administration': 'MBA',
+    'masters': 'MS',
+    'doctor of philosophy': 'PhD',
+    'doctorates': 'PhD',
+    'juris doctor': 'JD',
+}
+
+# Major abbreviations
+MAJOR_MAP = {
+    'computer science': 'CS',
+    'electrical engineering': 'EE',
+    'mechanical engineering': 'ME',
+    'computer engineering': 'CE',
+    'mathematics': 'Math',
+    'applied mathematics': 'Applied Math',
+    'economics': 'Econ',
+    'business administration': 'Business',
+    'finance': 'Finance',
+    'statistics': 'Stats',
+    'physics': 'Physics',
+    'data science': 'Data Science',
+    'artificial intelligence': 'AI',
+    'machine learning': 'ML',
+}
+
+# School abbreviations
+SCHOOL_MAP = {
+    'massachusetts institute of technology': 'MIT',
+    'stanford university': 'Stanford',
+    'harvard university': 'Harvard',
+    'university of california, berkeley': 'UC Berkeley',
+    'california institute of technology': 'Caltech',
+    'carnegie mellon university': 'CMU',
+    'university of california, los angeles': 'UCLA',
+    'new york university': 'NYU',
+    'university of southern california': 'USC',
+    'university of pennsylvania': 'UPenn',
+    'cornell university': 'Cornell',
+    'princeton university': 'Princeton',
+    'yale university': 'Yale',
+    'columbia university': 'Columbia',
+    'university of michigan': 'UMich',
+    'university of illinois urbana - champaign': 'UIUC',
+    'georgia institute of technology': 'Georgia Tech',
+    'university of washington': 'UW',
+    'university of texas at austin': 'UT Austin',
+    'indian institute of technology, madras': 'IIT Madras',
+    'indian institute of technology': 'IIT',
+}
 
 def parse_date(date_str):
     """Parse date string in various formats to datetime for sorting"""
@@ -25,6 +93,16 @@ def parse_date(date_str):
         return datetime.strptime(date_str, "%Y")
     else:
         return datetime.max
+
+def abbreviate(text, mapping):
+    """Abbreviate text using mapping, case-insensitive"""
+    if not text:
+        return None
+    text_lower = text.lower()
+    for full, abbrev in mapping.items():
+        if full in text_lower:
+            return abbrev
+    return text.title()[:20]  # Truncate long names
 
 def is_target_company(company, linkedin_id, website):
     """Check if a company matches our target"""
@@ -44,8 +122,7 @@ def get_company_start_date(person, linkedin_id, website, founding_date):
             start_date = exp.get('start_date')
             if start_date:
                 parsed = parse_date(start_date)
-                # Filter out dates before founding (fraudulent data)
-                if parsed < founding_date:
+                if founding_date and parsed < founding_date:
                     continue
                 if earliest is None or parsed < earliest:
                     earliest = parsed
@@ -65,8 +142,8 @@ def get_company_title(person, linkedin_id, website):
     
     return person.get('job_title', 'N/A')
 
-def get_previous_title(person, linkedin_id, website):
-    """Get the title at the job immediately before target company"""
+def get_previous_job(person, linkedin_id, website):
+    """Get the title and company immediately before target company"""
     experiences = person.get('experience', [])
     sorted_exp = sorted(experiences, key=lambda x: parse_date(x.get('start_date')), reverse=True)
     
@@ -80,60 +157,154 @@ def get_previous_title(person, linkedin_id, website):
         
         if found_company:
             title = exp.get('title', {})
-            company_name_display = company.get('name', 'Unknown')
+            company_name = company.get('name', 'Unknown')
             if isinstance(title, dict):
                 title_name = title.get('name', 'N/A')
             else:
                 title_name = title or 'N/A'
-            return f"{title_name} at {company_name_display}"
+            return title_name, company_name
     
-    return "N/A"
+    return "N/A", "N/A"
 
-def get_education(person):
-    """Get education details"""
+def get_education_formatted(person):
+    """Get formatted education like 'BS CS, MIT '16' """
     education = person.get('education', [])
     if not education:
-        return "N/A"
+        return None, None
     
-    edu_list = []
-    for edu in education[:2]:
-        school = edu.get('school', {})
-        school_name = school.get('name', 'Unknown') if isinstance(school, dict) else str(school)
+    bachelors_edu = None
+    highest_edu = None
+    bachelors_year = None
+    
+    for edu in education:
         degrees = edu.get('degrees', [])
-        majors = edu.get('majors', [])
+        end_date = edu.get('end_date')
         
-        degree_str = degrees[0] if degrees else ""
-        major_str = majors[0] if majors else ""
+        grad_year = None
+        if end_date:
+            if len(end_date) >= 4:
+                try:
+                    grad_year = int(end_date[:4])
+                except:
+                    pass
         
-        if degree_str and major_str:
-            edu_list.append(f"{degree_str} in {major_str} - {school_name}")
-        elif degree_str:
-            edu_list.append(f"{degree_str} - {school_name}")
-        elif major_str:
-            edu_list.append(f"{major_str} - {school_name}")
-        else:
-            edu_list.append(school_name)
+        for degree in degrees:
+            degree_lower = degree.lower()
+            if 'bachelor' in degree_lower or degree_lower == 'bachelors':
+                bachelors_edu = edu
+                bachelors_year = grad_year
+                break
+        
+        if highest_edu is None:
+            highest_edu = edu
     
-    return "; ".join(edu_list)
+    display_edu = highest_edu or bachelors_edu
+    if not display_edu:
+        display_edu = education[0]
+    
+    school = display_edu.get('school', {})
+    school_name = school.get('name', '') if isinstance(school, dict) else str(school)
+    degrees = display_edu.get('degrees', [])
+    majors = display_edu.get('majors', [])
+    end_date = display_edu.get('end_date')
+    
+    degree_abbrev = None
+    if degrees:
+        degree_abbrev = abbreviate(degrees[0], DEGREE_MAP)
+    
+    major_abbrev = None
+    if majors:
+        major_abbrev = abbreviate(majors[0], MAJOR_MAP)
+    
+    school_abbrev = abbreviate(school_name, SCHOOL_MAP) if school_name else None
+    
+    year_str = None
+    if end_date and len(end_date) >= 4:
+        try:
+            year = int(end_date[:4])
+            if 1980 < year < 2030:
+                year_str = f"'{str(year)[2:]}"
+        except:
+            pass
+    
+    parts = []
+    if degree_abbrev and major_abbrev:
+        parts.append(f"{degree_abbrev} {major_abbrev}")
+    elif degree_abbrev:
+        parts.append(degree_abbrev)
+    elif major_abbrev:
+        parts.append(major_abbrev)
+    
+    if school_abbrev:
+        if year_str:
+            parts.append(f"{school_abbrev} {year_str}")
+        else:
+            parts.append(school_abbrev)
+    
+    formatted = ", ".join(parts) if parts else None
+    
+    return formatted, bachelors_year
+
+def get_age(person, bachelors_year, yoe=None):
+    """Calculate age from birth_year, bachelor's graduation, or YoE"""
+    birth_year = person.get('birth_year')
+    
+    if birth_year and isinstance(birth_year, int) and 1950 < birth_year < 2010:
+        return CURRENT_YEAR - birth_year, False
+    
+    if bachelors_year and isinstance(bachelors_year, int) and 1980 < bachelors_year < 2030:
+        estimated_birth = bachelors_year - 22
+        return CURRENT_YEAR - estimated_birth, True
+    
+    # Estimate from YoE: assume started working at 22
+    if yoe and isinstance(yoe, (int, float)) and yoe > 0:
+        return 22 + int(yoe), True
+    
+    return None, False
+
+def get_yoe(person):
+    """Get years of experience"""
+    yoe = person.get('inferred_years_experience')
+    if yoe and isinstance(yoe, (int, float)):
+        return int(yoe)
+    return None
+
+def get_linkedin_url(person):
+    """Get LinkedIn URL"""
+    url = person.get('linkedin_url')
+    if url:
+        if not url.startswith('http'):
+            return f"https://{url}"
+        return url
+    return None
 
 def main():
-    if len(sys.argv) < 5:
-        print("Usage: python process_employees.py <company_slug> <linkedin_id> <website> <founding_date>")
+    if len(sys.argv) < 4:
+        print("Usage: python process_employees.py <company_slug> <linkedin_id> <website> [founding_date]")
+        print()
+        print("founding_date is optional (YYYY-MM format). If provided, filters out employees")
+        print("with start dates before the company was founded (data quality filter).")
         print()
         print("Examples:")
         print("  python process_employees.py cognition cognition-ai-labs cognition.ai 2023-11")
-        print("  python process_employees.py scale scaleai scale.com 2016-01")
+        print("  python process_employees.py scale scaleai scale.com 2016-06")
+        print("  python process_employees.py perplexity perplexity-ai perplexity.ai 2022-08")
         sys.exit(1)
     
     company_slug = sys.argv[1]
     linkedin_id = sys.argv[2]
     website = sys.argv[3]
-    founding_date = parse_date(sys.argv[4])
+    
+    founding_date = None
+    founding_date_str = None
+    if len(sys.argv) >= 5:
+        founding_date_str = sys.argv[4]
+        founding_date = parse_date(founding_date_str)
     
     input_file = f"{company_slug}_employees_raw.json"
-    output_file = f"{company_slug}_earliest_employees.txt"
+    output_txt = f"{company_slug}_earliest_employees.txt"
+    output_json = f"{company_slug}_processed.json"
     
-    # Load data
     try:
         with open(input_file, "r") as f:
             data = json.load(f)
@@ -144,10 +315,12 @@ def main():
     employees = data.get('data', [])
     print(f"Total employees found: {len(employees)}")
     print(f"Company: {company_slug} (LinkedIn: {linkedin_id}, Website: {website})")
-    print(f"Founding date filter: {founding_date.strftime('%Y-%m')}")
+    if founding_date:
+        print(f"Founding date filter: {founding_date.strftime('%Y-%m')} (excluding earlier dates)")
+    else:
+        print("Founding date filter: None (no date filtering)")
     print()
     
-    # Filter and sort employees
     valid_employees = []
     for emp in employees:
         start_date = get_company_start_date(emp, linkedin_id, website, founding_date)
@@ -160,40 +333,85 @@ def main():
     print("=" * 100)
     print()
     
-    # Output results
+    # Build output data
     output_lines = []
     output_lines.append(f"{company_slug.upper()} - EARLIEST EMPLOYEES")
+    if founding_date:
+        output_lines.append(f"(Founded: {founding_date.strftime('%Y-%m')})")
     output_lines.append("=" * 80)
     output_lines.append("")
     
-    for i, (emp, start_date) in enumerate(sorted_employees[:30], 1):
+    json_data = {
+        "company": company_slug,
+        "company_display": company_slug.title(),
+        "founded": founding_date_str,
+        "employees": []
+    }
+    
+    for i, (emp, start_date) in enumerate(sorted_employees[:100], 1):
         name = emp.get('full_name', 'Unknown').title()
-        title = get_company_title(emp, linkedin_id, website)
-        prev_title = get_previous_title(emp, linkedin_id, website)
-        education = get_education(emp)
+        title = get_company_title(emp, linkedin_id, website).title()
+        prev_title, prev_company = get_previous_job(emp, linkedin_id, website)
+        prev_title = prev_title.title()
+        prev_company = prev_company.title()
+        edu_formatted, bachelors_year = get_education_formatted(emp)
+        yoe = get_yoe(emp)
+        age, is_estimated = get_age(emp, bachelors_year, yoe)
+        linkedin_url = get_linkedin_url(emp)
         start_str = start_date.strftime("%Y-%m")
+        
+        if age:
+            age_str = f"~{age}" if is_estimated else str(age)
+        else:
+            age_str = "?"
+        
+        yoe_str = str(yoe) if yoe else "?"
+        edu_str = edu_formatted if edu_formatted else "N/A"
         
         print(f"Employee #{i}")
         print(f"  Name: {name}")
+        print(f"  Age: {age_str} | YoE: {yoe_str}")
         print(f"  Start Date: {start_str}")
         print(f"  Title: {title}")
-        print(f"  Previous Title: {prev_title}")
-        print(f"  Education: {education}")
+        print(f"  Previous: {prev_title} @ {prev_company}")
+        print(f"  Education: {edu_str}")
+        if linkedin_url:
+            print(f"  LinkedIn: {linkedin_url}")
         print()
         
         output_lines.append(f"Employee #{i}")
         output_lines.append(f"  Name: {name}")
+        output_lines.append(f"  Age: {age_str} | YoE: {yoe_str}")
         output_lines.append(f"  Start Date: {start_str}")
         output_lines.append(f"  Title: {title}")
-        output_lines.append(f"  Previous Title: {prev_title}")
-        output_lines.append(f"  Education: {education}")
+        output_lines.append(f"  Previous: {prev_title} @ {prev_company}")
+        output_lines.append(f"  Education: {edu_str}")
+        if linkedin_url:
+            output_lines.append(f"  LinkedIn: {linkedin_url}")
         output_lines.append("")
+        
+        # Add to JSON
+        json_data["employees"].append({
+            "rank": i,
+            "name": name,
+            "age": age_str,
+            "yoe": yoe_str,
+            "start_date": start_str,
+            "title": title,
+            "previous_title": prev_title,
+            "previous_company": prev_company,
+            "education": edu_str,
+            "linkedin_url": linkedin_url
+        })
     
-    with open(output_file, "w") as f:
+    with open(output_txt, "w") as f:
         f.write("\n".join(output_lines))
     
+    with open(output_json, "w") as f:
+        json.dump(json_data, f, indent=2)
+    
     print("=" * 100)
-    print(f"Results saved to {output_file}")
+    print(f"Results saved to {output_txt} and {output_json}")
 
 if __name__ == "__main__":
     main()
