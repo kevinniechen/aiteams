@@ -5,6 +5,30 @@
   "employees": [
     {
       "rank": 1,
+      "name": "Gabe Pereyra",
+      "grad_year": "'16",
+      "yoe": "9",
+      "start_date": "2022-08",
+      "title": "President & Co-Founder",
+      "previous_title": "Research Scientist",
+      "previous_company": "Meta",
+      "education": "PhD Neuroscience, University Of Oxford '18",
+      "linkedin_url": "https://linkedin.com/in/gabepereyra"
+    },
+    {
+      "rank": 2,
+      "name": "Winston Weinberg",
+      "grad_year": "'17",
+      "yoe": "8",
+      "start_date": "2022-08",
+      "title": "Chief Executive Officer & Co-Founder",
+      "previous_title": "Associate",
+      "previous_company": "O'Melveny & Myers Llp",
+      "education": "Doctor Of Jurisprude Law, Usc Gould School Of  '21",
+      "linkedin_url": "https://linkedin.com/in/winston-weinberg"
+    },
+    {
+      "rank": 3,
       "name": "Brian Burns",
       "grad_year": "'19",
       "yoe": "6",
@@ -16,7 +40,7 @@
       "linkedin_url": "https://linkedin.com/in/brianandrewburns"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "name": "Adam Erickson",
       "grad_year": "'17",
       "yoe": "8",
@@ -28,7 +52,7 @@
       "linkedin_url": "https://linkedin.com/in/agerick"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "name": "Timothy Lu",
       "grad_year": "'18",
       "yoe": "7",
@@ -40,7 +64,7 @@
       "linkedin_url": "https://linkedin.com/in/timothy-y-lu"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "name": "Beth Lebens",
       "grad_year": "'16",
       "yoe": "9",
@@ -52,7 +76,7 @@
       "linkedin_url": "https://linkedin.com/in/beth-de-la-roche-lebens-777847263"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "name": "Spencer Poff",
       "grad_year": "'09",
       "yoe": "16",
@@ -64,7 +88,7 @@
       "linkedin_url": "https://linkedin.com/in/spencerpoff"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "name": "John Labarre",
       "grad_year": "'94",
       "yoe": "31",
@@ -76,7 +100,7 @@
       "linkedin_url": "https://linkedin.com/in/labaj"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "name": "Karl De La Roche",
       "grad_year": "'12",
       "yoe": "13",
@@ -88,7 +112,7 @@
       "linkedin_url": "https://linkedin.com/in/karldelaroche"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "name": "Tonya Mitchell",
       "grad_year": "'12",
       "yoe": "13",
@@ -100,7 +124,7 @@
       "linkedin_url": "https://linkedin.com/in/tonya-mayfield-mitchell-5733aaa6"
     },
     {
-      "rank": 9,
+      "rank": 11,
       "name": "Rob Saliterman",
       "grad_year": "'03",
       "yoe": "22",
@@ -112,7 +136,7 @@
       "linkedin_url": "https://linkedin.com/in/robsaliterman"
     },
     {
-      "rank": 10,
+      "rank": 12,
       "name": "Aatish Nayak",
       "grad_year": "'17",
       "yoe": "8",
@@ -124,7 +148,7 @@
       "linkedin_url": "https://linkedin.com/in/aatishn"
     },
     {
-      "rank": 11,
+      "rank": 13,
       "name": "Carl Fuda",
       "grad_year": "'12",
       "yoe": "13",
@@ -136,10 +160,10 @@
       "linkedin_url": "https://linkedin.com/in/carlfuda"
     },
     {
-      "rank": 12,
+      "rank": 14,
       "name": "Tobias Boelter",
-      "grad_year": "'14",
-      "yoe": "11",
+      "grad_year": "'15",
+      "yoe": "10",
       "start_date": "2023-10",
       "title": "Head Of Security",
       "previous_title": "Security Engineer (Tech Lead)",
@@ -148,7 +172,7 @@
       "linkedin_url": "https://linkedin.com/in/tobias-boelter"
     },
     {
-      "rank": 13,
+      "rank": 15,
       "name": "Vasudha Rengarajan",
       "grad_year": "'19",
       "yoe": "6",
@@ -160,7 +184,7 @@
       "linkedin_url": "https://linkedin.com/in/vasudha-rengarajan-90700364"
     },
     {
-      "rank": 14,
+      "rank": 16,
       "name": "Tia Thomson",
       "grad_year": "'17",
       "yoe": "8",
@@ -172,7 +196,7 @@
       "linkedin_url": "https://linkedin.com/in/tiathomson"
     },
     {
-      "rank": 15,
+      "rank": 17,
       "name": "Abhishek Verma",
       "grad_year": "'17",
       "yoe": "8",

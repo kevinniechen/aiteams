@@ -58,7 +58,7 @@ Employee #6
 
 Employee #7
   Name: Robert Duran
-  Grad: '03 | YoE: 22
+  Grad: '07 | YoE: 18
   Start Date: 2023-04
   Title: Research & Development Engineer And Test Manager
   Previous: Research Engineer @ Southwest Research Institute
@@ -67,7 +67,7 @@ Employee #7
 
 Employee #8
   Name: William Traylor
-  Grad: '13 | YoE: 12
+  Grad: '16 | YoE: 9
   Start Date: 2023-05
   Title: Senior Manufacturing Engineer
   Previous: Manufacturing Engineer @ Hyliion
@@ -85,7 +85,7 @@ Employee #9
 
 Employee #10
   Name: James Stackhouse
-  Grad: '23 | YoE: 2
+  Grad: '24 | YoE: 1
   Start Date: 2023-09
   Title: Forward Deployed Engineer
   Previous: Combat Systems Test Engineer @ Jsl Technologies, Inc.

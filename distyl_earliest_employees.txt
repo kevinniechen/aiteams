@@ -112,7 +112,7 @@ Employee #12
 
 Employee #13
   Name: Daniel Jaroslawicz
-  Grad: '16 | YoE: 9
+  Grad: '19 | YoE: 6
   Start Date: 2024-03
   Title: Ai Research Engineer
   Previous: Advanced Ai Scientist @ Benevolentai
@@ -292,7 +292,7 @@ Employee #32
 
 Employee #33
   Name: Ozden Onder
-  Grad: '00 | YoE: 25
+  Grad: '04 | YoE: 21
   Start Date: 2025-01
   Title: Fractional People & Talent Leader
   Previous: People Strategy Consultant @ Alpeniq
@@ -472,7 +472,7 @@ Employee #52
 
 Employee #53
   Name: Aria Eghbali
-  Grad: '20 | YoE: 5
+  Grad: '24 | YoE: 1
   Start Date: 2025-04
   Title: Ai Strategist
   Previous: Analyst @ Morgan Stanley

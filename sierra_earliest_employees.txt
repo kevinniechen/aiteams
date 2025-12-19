@@ -22,7 +22,7 @@ Employee #2
 
 Employee #3
   Name: Mihai Parparita
-  Grad: '04 | YoE: 21
+  Grad: '09 | YoE: 16
   Start Date: 2023-04
   Title: Founding Engineer
   Previous: Member Of Technical Staff @ Tailscale
@@ -678,7 +678,7 @@ Employee #75
 
 Employee #76
   Name: Cody Krainock
-  Grad: '10 | YoE: 15
+  Grad: '12 | YoE: 13
   Start Date: 2024-12
   Title: Engineer
   Previous: Engineer @ Loop

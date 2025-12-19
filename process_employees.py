@@ -111,18 +111,32 @@ def is_target_company(company, linkedin_id, website):
     
     return (linkedin_id in company_linkedin or website in company_website)
 
+def is_founder_title(title):
+    """Check if title indicates a founder role"""
+    if not title:
+        return False
+    title_lower = title.lower()
+    return 'founder' in title_lower or 'cofounder' in title_lower
+
 def get_company_start_date(person, linkedin_id, website, founding_date):
     """Get the earliest start date at target company for a person"""
     earliest = None
+    is_founder = False
     
     for exp in person.get('experience', []):
         company = exp.get('company', {})
         
         if is_target_company(company, linkedin_id, website):
+            title = exp.get('title', {})
+            title_name = title.get('name', '') if isinstance(title, dict) else str(title)
+            if is_founder_title(title_name):
+                is_founder = True
+            
             start_date = exp.get('start_date')
             if start_date:
                 parsed = parse_date(start_date)
-                if founding_date and parsed < founding_date:
+                # Don't filter out founders even if start date is before founding date
+                if founding_date and parsed < founding_date and not is_founder:
                     continue
                 if earliest is None or parsed < earliest:
                     earliest = parsed

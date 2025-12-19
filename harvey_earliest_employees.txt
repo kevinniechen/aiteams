@@ -3,6 +3,24 @@ HARVEY - EARLIEST EMPLOYEES
 ================================================================================
 
 Employee #1
+  Name: Gabe Pereyra
+  Grad: '16 | YoE: 9
+  Start Date: 2022-08
+  Title: President & Co-Founder
+  Previous: Research Scientist @ Meta
+  Education: PhD Neuroscience, University Of Oxford '18
+  LinkedIn: https://linkedin.com/in/gabepereyra
+
+Employee #2
+  Name: Winston Weinberg
+  Grad: '17 | YoE: 8
+  Start Date: 2022-08
+  Title: Chief Executive Officer & Co-Founder
+  Previous: Associate @ O'Melveny & Myers Llp
+  Education: Doctor Of Jurisprude Law, Usc Gould School Of  '21
+  LinkedIn: https://linkedin.com/in/winston-weinberg
+
+Employee #3
   Name: Brian Burns
   Grad: '19 | YoE: 6
   Start Date: 2022-11
@@ -11,7 +29,7 @@ Employee #1
   Education: UW '25
   LinkedIn: https://linkedin.com/in/brianandrewburns
 
-Employee #2
+Employee #4
   Name: Adam Erickson
   Grad: '17 | YoE: 8
   Start Date: 2023-01
@@ -20,7 +38,7 @@ Employee #2
   Education: Yale
   LinkedIn: https://linkedin.com/in/agerick
 
-Employee #3
+Employee #5
   Name: Timothy Lu
   Grad: '18 | YoE: 7
   Start Date: 2023-01
@@ -29,7 +47,7 @@ Employee #3
   Education: MS Engineering, UMich
   LinkedIn: https://linkedin.com/in/timothy-y-lu
 
-Employee #4
+Employee #6
   Name: Beth Lebens
   Grad: '16 | YoE: 9
   Start Date: 2023-02
@@ -38,7 +56,7 @@ Employee #4
   Education: Doctor Of Jurisprude Law, Northwestern Univers '20
   LinkedIn: https://linkedin.com/in/beth-de-la-roche-lebens-777847263
 
-Employee #5
+Employee #7
   Name: Spencer Poff
   Grad: '09 | YoE: 16
   Start Date: 2023-03
@@ -47,7 +65,7 @@ Employee #5
   Education: Marina High
   LinkedIn: https://linkedin.com/in/spencerpoff
 
-Employee #6
+Employee #8
   Name: John Labarre
   Grad: '94 | YoE: 31
   Start Date: 2023-04
@@ -56,7 +74,7 @@ Employee #6
   Education: PhD, Letourneau Universit '05
   LinkedIn: https://linkedin.com/in/labaj
 
-Employee #7
+Employee #9
   Name: Karl De La Roche
   Grad: '12 | YoE: 13
   Start Date: 2023-04
@@ -65,7 +83,7 @@ Employee #7
   Education: Doctor Of Jurisprude Criminology, Northwestern Univers '19
   LinkedIn: https://linkedin.com/in/karldelaroche
 
-Employee #8
+Employee #10
   Name: Tonya Mitchell
   Grad: '12 | YoE: 13
   Start Date: 2023-07
@@ -74,7 +92,7 @@ Employee #8
   Education: Master Of Public Adm Business, Kentucky State Unive
   LinkedIn: https://linkedin.com/in/tonya-mayfield-mitchell-5733aaa6
 
-Employee #9
+Employee #11
   Name: Rob Saliterman
   Grad: '03 | YoE: 22
   Start Date: 2023-08
@@ -83,7 +101,7 @@ Employee #9
   Education: MBA, Harvard Business Sch '11
   LinkedIn: https://linkedin.com/in/robsaliterman
 
-Employee #10
+Employee #12
   Name: Aatish Nayak
   Grad: '17 | YoE: 8
   Start Date: 2023-10
@@ -92,7 +110,7 @@ Employee #10
   Education: BS CE, CMU '17
   LinkedIn: https://linkedin.com/in/aatishn
 
-Employee #11
+Employee #13
   Name: Carl Fuda
   Grad: '12 | YoE: 13
   Start Date: 2023-10
@@ -101,16 +119,16 @@ Employee #11
   Education: MBA Business, Harvard Business Sch '18
   LinkedIn: https://linkedin.com/in/carlfuda
 
-Employee #12
+Employee #14
   Name: Tobias Boelter
-  Grad: '14 | YoE: 11
+  Grad: '15 | YoE: 10
   Start Date: 2023-10
   Title: Head Of Security
   Previous: Security Engineer (Tech Lead) @ Jump Trading
   Education: Doctor Of Jurisprude Law, Santa Clara Universi '24
   LinkedIn: https://linkedin.com/in/tobias-boelter
 
-Employee #13
+Employee #15
   Name: Vasudha Rengarajan
   Grad: '19 | YoE: 6
   Start Date: 2023-11
@@ -119,7 +137,7 @@ Employee #13
   Education: MS CS, Columbia Engineering '20
   LinkedIn: https://linkedin.com/in/vasudha-rengarajan-90700364
 
-Employee #14
+Employee #16
   Name: Tia Thomson
   Grad: '17 | YoE: 8
   Start Date: 2023-11
@@ -128,7 +146,7 @@ Employee #14
   Education: Chinese Culture, City University Of H
   LinkedIn: https://linkedin.com/in/tiathomson
 
-Employee #15
+Employee #17
   Name: Abhishek Verma
   Grad: '17 | YoE: 8
   Start Date: 2023-11
