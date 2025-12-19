@@ -1,0 +1,191 @@
+COGNITION AI LABS - EARLIEST EMPLOYEES
+================================================================================
+
+Employee #1
+  Name: Tony Jiang
+  Start Date: 2023-11
+  Title at Cognition: founding engineer
+  Previous Title: tech lead manager at nuro
+  Education: computer science - yale university; de anza college
+
+Employee #2
+  Name: Sara Xiang
+  Start Date: 2023-11
+  Title at Cognition: human product manager
+  Previous Title: product at arena
+  Education: bachelor of science in computer science - carnegie mellon university; william mason high school
+
+Employee #3
+  Name: Adhyyan Sekhsaria
+  Start Date: 2023-11
+  Title at Cognition: founding engineer
+  Previous Title: software engineer at quadric
+  Education: bachelor of science in applied mathematics - university of southern california; dhirubhai ambani international school
+
+Employee #4
+  Name: Scott Wu
+  Start Date: 2023-11
+  Title at Cognition: co-founder and chief executive officer
+  Previous Title: co-founder and chief technology officer at lunchclub
+  Education: economics - harvard university
+
+Employee #5
+  Name: Steven Hao
+  Start Date: 2023-11
+  Title at Cognition: co-founder
+  Previous Title: software engineer at scale ai
+  Education: bachelors in computer science - massachusetts institute of technology
+
+Employee #6
+  Name: Walden Yan
+  Start Date: 2023-11
+  Title at Cognition: co-founder
+  Previous Title: early engineer at anysphere
+  Education: bachelors in computer science - harvard university; avon high school
+
+Employee #7
+  Name: Andrew H
+  Start Date: 2023-11
+  Title at Cognition: human software engineer
+  Previous Title: software engineer at modal
+  Education: bachelor of science in computer science - massachusetts institute of technology; monta vista high school
+
+Employee #8
+  Name: Russell Kaplan
+  Start Date: 2024-01
+  Title at Cognition: president
+  Previous Title: director of engineering & ml at scale ai
+  Education: master of science in computer science - stanford university; bachelor of science in computer science - stanford university
+
+Employee #9
+  Name: Jeffrey Ling
+  Start Date: 2024-01
+  Title at Cognition: human software engineer
+  Previous Title: co-founder at stealth startup
+  Education: bachelor of arts in computer science - harvard university
+
+Employee #10
+  Name: Calvin Giroud
+  Start Date: 2024-01
+  Title at Cognition: gtm
+  Previous Title: founder & chief executive officer at refractive
+  Education: bachelors in computer engineering - carnegie mellon university
+
+Employee #11
+  Name: Ziwei D
+  Start Date: 2024-01
+  Title at Cognition: board member
+  Previous Title: technical manager at splunk
+  Education: masters in computer science - university of california, berkeley
+
+Employee #12
+  Name: Ramiro D'Avila
+  Start Date: 2024-02
+  Title at Cognition: software engineer
+  Previous Title: software engineer at scale ai
+  Education: engineering - universidad nacional del litoral; escuela normal superior "josé maría torres"
+
+Employee #13
+  Name: Martin Cabral
+  Start Date: 2024-02
+  Title at Cognition: software engineer
+  Previous Title: software engineer at scale ai
+  Education: instituto tecnolã³gico de buenos aires; computer science - instituto tecnológico de buenos aires
+
+Employee #14
+  Name: Salima Ghadimi
+  Start Date: 2024-03
+  Title at Cognition: operations
+  Previous Title: platform operations at capchase
+  Education: master of business administration - columbia business school; bachelors in economics - university of pennsylvania
+
+Employee #15
+  Name: Federico Marcos
+  Start Date: 2024-03
+  Title at Cognition: senior software engineer
+  Previous Title: senior data scientist at scale ai
+  Education: software engineering - free code camp; software engineering - freecodecamp
+
+Employee #16
+  Name: Bryce Hunt
+  Start Date: 2024-03
+  Title at Cognition: human
+  Previous Title: co-founder at stealth
+  Education: computer science - stanford university; social studies - wesleyan university
+
+Employee #17
+  Name: Silas Alberti
+  Start Date: 2024-03
+  Title at Cognition: founding team
+  Previous Title: student researcher at google deepmind
+  Education: doctor of philosophy in electrical engineering - stanford university; mathematics - university of california, berkeley
+
+Employee #18
+  Name: Moritz Stephan
+  Start Date: 2024-04
+  Title at Cognition: human software engineer
+  Previous Title: research engineer at trunk tools
+  Education: master of science in computer science - stanford university; bachelor of science in computer science - stanford university
+
+Employee #19
+  Name: Dev Chheda
+  Start Date: 2024-04
+  Title at Cognition: software engineer
+  Previous Title: researcher at low-energy autonomy and navigation (lean) group at research laboratory of electronics at mit
+  Education: bachelor of science in architecture - massachusetts institute of technology; shri maa satgarhi devi kushinagar up
+
+Employee #20
+  Name: Mokshit Jain
+  Start Date: 2024-06
+  Title at Cognition: product engineer
+  Previous Title: frontend engineer intern at replay.io
+  Education: montfort secondary school; bachelor of science in computer science - caltech
+
+Employee #21
+  Name: Calvin Huang
+  Start Date: 2024-08
+  Title at Cognition: software engineer
+  Previous Title: staff software engineer at scale ai
+  Education: bachelor of science in computer science - massachusetts institute of technology; mathematics - gunn high school
+
+Employee #22
+  Name: Sean Sullivan
+  Start Date: 2024-08
+  Title at Cognition: human engineer
+  Previous Title: software engineering contractor at windsurf
+  Education: masters in applied mathematics - harvard university; bachelors in neuroscience - harvard university
+
+Employee #23
+  Name: Shannon Kahn
+  Start Date: 2024-09
+  Title at Cognition: account executive, strategic / majors (windsurf and devin)
+  Previous Title: enterprise account executive at chronosphere
+  Education: french language - université paris - sorbonne; bachelors in entrepreneurship - university of michigan
+
+Employee #24
+  Name: Dani Mccabe
+  Start Date: 2024-10
+  Title at Cognition: director, sales enablement
+  Previous Title: director, sales enablement at navan
+  Education: economics - semester at sea / ise; economics - university of california, davis
+
+Employee #25
+  Name: Sam Rudy
+  Start Date: 2024-10
+  Title at Cognition: gtm
+  Previous Title: strategic account executive, emea at airtable
+  Education: bachelors in international relations - university of colorado boulder; mccallum high school
+
+Employee #26
+  Name: Kira Busman
+  Start Date: 2024-10
+  Title at Cognition: advisor
+  Previous Title: advisor at stealth mode
+  Education: bachelor of science in history - binghamton university
+
+Employee #27
+  Name: Gennady Korotkevich
+  Start Date: 2024-12
+  Title at Cognition: software engineer
+  Previous Title: research engineer at ramp
+  Education: bachelor of science in computer science - itmo university
