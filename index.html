@@ -8,11 +8,14 @@
         body { font-family: monospace; font-size: 13px; padding: 20px; margin: 0; }
         h1 { margin: 0 0 10px 0; }
         h2 { margin: 10px 0; }
-        h3 { margin: 10px 0; }
+        h3 { margin: 10px 0 5px 0; font-size: 13px; }
+        h4 { margin: 8px 0 4px 0; font-size: 12px; font-weight: normal; color: #666; }
         .header { margin-bottom: 15px; }
         .tabs { margin-bottom: 15px; }
-        .tabs button { margin-right: 10px; padding: 5px 15px; cursor: pointer; }
-        .tabs button.active { font-weight: bold; }
+        .tabs span { color: #999; cursor: pointer; }
+        .tabs span:hover { color: #333; }
+        .tabs span.active { color: #000; font-weight: bold; text-decoration: underline; }
+        .tabs .sep { color: #ccc; margin: 0 8px; cursor: default; }
         
         .main-layout {
             display: flex;
@@ -24,13 +27,14 @@
             position: sticky;
             top: 20px;
             flex-shrink: 0;
-            width: 200px;
+            width: 280px;
         }
         
         .chart-container {
             display: flex;
             flex-direction: column;
             gap: 2px;
+            margin-bottom: 15px;
         }
         
         .chart-row {
@@ -69,6 +73,31 @@
         .chart-row.highlight .chart-bar { background: #333; }
         .chart-row.highlight .chart-label { font-weight: bold; }
         .chart-row.highlight .chart-count { color: #000; font-weight: bold; }
+        .chart-row.selected { background: #eee; }
+        
+        .snapshot {
+            border-top: 1px solid #ccc;
+            padding-top: 10px;
+            font-size: 11px;
+        }
+        
+        .snapshot-header {
+            font-weight: bold;
+            margin-bottom: 8px;
+        }
+        
+        .snapshot-category {
+            margin-bottom: 6px;
+        }
+        
+        .snapshot-category-title {
+            color: #666;
+            font-size: 10px;
+        }
+        
+        .snapshot-people {
+            margin-left: 0;
+        }
         
         .table-panel {
             flex: 1;
@@ -86,7 +115,6 @@
         tr.employee-row.soft-highlight { background: #e8e8e8; }
         tr.employee-row.primary-highlight { background: #c0c0c0; }
         
-        /* Mobile responsive */
         @media (max-width: 800px) {
             .main-layout {
                 flex-direction: column;
@@ -95,7 +123,7 @@
             .chart-panel {
                 position: static;
                 width: 100%;
-                max-height: 300px;
+                max-height: 400px;
                 overflow-y: auto;
                 border-bottom: 1px solid #ccc;
                 padding-bottom: 15px;
@@ -128,12 +156,136 @@
         const COMPANIES = [
             { slug: 'perplexity', file: 'perplexity_processed.json' },
             { slug: 'cognition', file: 'cognition_processed.json' },
-            { slug: 'scale', file: 'scale_processed.json' },
         ];
         
         let companyData = {};
         let spamData = {};
         let currentCompany = null;
+        let currentEmployees = [];
+        let allMonths = [];
+        
+        // Role categorization
+        function getEngLevel(yoe) {
+            const y = parseInt(yoe) || 0;
+            if (y <= 1) return 'Uni';
+            if (y <= 3) return 'Jr';
+            if (y <= 8) return 'Sr';
+            return 'Staff';
+        }
+        
+        function categorizeRole(emp) {
+            const t = emp.title.toLowerCase();
+            const yoe = emp.yoe;
+            
+            // Founders
+            if (t.includes('founder') || t.includes('co-founder') || t.includes('cofounder')) {
+                return { category: 'Founders', level: null };
+            }
+            
+            // Engineering
+            if (t.includes('engineer') || t.includes('developer') || t.includes('swe') || 
+                t.includes('technical staff') || t.includes('software')) {
+                return { category: 'Engineering', level: getEngLevel(yoe) };
+            }
+            
+            // Research
+            if (t.includes('research')) {
+                return { category: 'Research', level: null };
+            }
+            
+            // Product
+            if (t.includes('product manager') || t.includes('pm') || t.includes('product')) {
+                return { category: 'Product', level: null };
+            }
+            
+            // Design
+            if (t.includes('design') || t.includes('ux') || t.includes('ui')) {
+                return { category: 'Design', level: null };
+            }
+            
+            // Ops / Business
+            if (t.includes('operations') || t.includes('ops') || t.includes('business') || 
+                t.includes('strategy') || t.includes('gtm') || t.includes('sales') || 
+                t.includes('marketing') || t.includes('hr') || t.includes('human resources') ||
+                t.includes('account') || t.includes('enablement')) {
+                return { category: 'Operations', level: null };
+            }
+            
+            return { category: 'Other', level: null };
+        }
+        
+        function formatPersonName(name, age) {
+            const parts = name.split(' ');
+            const firstName = parts[0];
+            const lastInitial = parts.length > 1 ? parts[parts.length - 1][0] : '';
+            const ageStr = age && age !== '?' ? ` (${age.replace('~', '')})` : '';
+            return `${firstName} ${lastInitial}${ageStr}`;
+        }
+        
+        function buildSnapshot(employees, selectedMonth) {
+            // Get cumulative team up to and including selected month
+            const team = employees.filter(e => e.start_date <= selectedMonth);
+            
+            if (team.length === 0) {
+                return '<div class="snapshot"><div class="snapshot-header">No team yet</div></div>';
+            }
+            
+            // Categorize everyone
+            const categories = {};
+            const engLevels = { Uni: [], Jr: [], Sr: [], Staff: [] };
+            
+            team.forEach(e => {
+                const { category, level } = categorizeRole(e);
+                const personStr = formatPersonName(e.name, e.age);
+                
+                if (category === 'Engineering' && level) {
+                    engLevels[level].push(personStr);
+                }
+                
+                if (!categories[category]) categories[category] = [];
+                categories[category].push(personStr);
+            });
+            
+            const parts = selectedMonth.split('-');
+            const displayMonth = parts[1] + '/' + parts[0].slice(2);
+            
+            let html = '<div class="snapshot">';
+            html += `<div class="snapshot-header">Team @ ${displayMonth}: ${team.length} people</div>`;
+            
+            // Show categories in order
+            const order = ['Founders', 'Engineering', 'Research', 'Product', 'Design', 'Operations', 'Other'];
+            
+            order.forEach(cat => {
+                if (categories[cat] && categories[cat].length > 0) {
+                    html += '<div class="snapshot-category">';
+                    
+                    if (cat === 'Engineering') {
+                        const staffCount = engLevels.Staff.length;
+                        const srCount = engLevels.Sr.length;
+                        const jrCount = engLevels.Jr.length;
+                        const uniCount = engLevels.Uni.length;
+                        
+                        let engLabel = `Engineering (${categories[cat].length})`;
+                        const breakdown = [];
+                        if (staffCount) breakdown.push(`${staffCount} Staff`);
+                        if (srCount) breakdown.push(`${srCount} Sr`);
+                        if (jrCount) breakdown.push(`${jrCount} Jr`);
+                        if (uniCount) breakdown.push(`${uniCount} Uni`);
+                        if (breakdown.length) engLabel += `: ${breakdown.join(', ')}`;
+                        
+                        html += `<div class="snapshot-category-title">${engLabel}</div>`;
+                    } else {
+                        html += `<div class="snapshot-category-title">${cat} (${categories[cat].length})</div>`;
+                    }
+                    
+                    html += `<div class="snapshot-people">${categories[cat].join(', ')}</div>`;
+                    html += '</div>';
+                }
+            });
+            
+            html += '</div>';
+            return html;
+        }
         
         async function loadData() {
             try {
@@ -157,12 +309,19 @@
         
         function renderTabs() {
             const tabs = document.getElementById('tabs');
-            Object.keys(companyData).forEach(slug => {
-                const btn = document.createElement('button');
-                btn.textContent = companyData[slug].company_display || slug;
-                btn.dataset.slug = slug;
-                btn.onclick = () => showCompany(slug);
-                tabs.appendChild(btn);
+            const slugs = Object.keys(companyData);
+            slugs.forEach((slug, i) => {
+                const span = document.createElement('span');
+                span.textContent = companyData[slug].company_display || slug;
+                span.dataset.slug = slug;
+                span.onclick = () => showCompany(slug);
+                tabs.appendChild(span);
+                if (i < slugs.length - 1) {
+                    const sep = document.createElement('span');
+                    sep.className = 'sep';
+                    sep.textContent = '/';
+                    tabs.appendChild(sep);
+                }
             });
         }
         
@@ -207,6 +366,12 @@
                     }
                 }
             });
+            
+            // Update snapshot on hover
+            const snapshotEl = document.getElementById('snapshot');
+            if (snapshotEl && month) {
+                snapshotEl.innerHTML = buildSnapshot(currentEmployees, month);
+            }
         }
         
         function clearHighlight() {
@@ -214,6 +379,26 @@
             document.querySelectorAll('.employee-row').forEach(row => {
                 row.classList.remove('soft-highlight', 'primary-highlight');
             });
+        }
+        
+        function selectMonth(month) {
+            // Update selected state
+            document.querySelectorAll('.chart-row').forEach(row => {
+                row.classList.toggle('selected', row.dataset.month === month);
+            });
+            
+            // Update snapshot
+            const snapshotEl = document.getElementById('snapshot');
+            if (snapshotEl) {
+                snapshotEl.innerHTML = buildSnapshot(currentEmployees, month);
+            }
+            
+            // Jump to first row
+            const firstRow = document.querySelector(`.employee-row[data-month="${month}"]`);
+            if (firstRow) {
+                firstRow.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                highlightMonth(month, firstRow);
+            }
         }
         
         function buildTimeline(employees) {
@@ -227,22 +412,22 @@
             const existingMonths = Object.keys(byMonth).sort();
             if (existingMonths.length === 0) return '<p>No hires</p>';
             
-            const months = [];
+            allMonths = [];
             let [year, month] = existingMonths[0].split('-').map(Number);
             const [endYear, endMonth] = existingMonths[existingMonths.length - 1].split('-').map(Number);
             
             while (year < endYear || (year === endYear && month <= endMonth)) {
                 const key = `${year}-${String(month).padStart(2, '0')}`;
-                months.push(key);
+                allMonths.push(key);
                 if (!byMonth[key]) byMonth[key] = [];
                 month++;
                 if (month > 12) { month = 1; year++; }
             }
             
-            const maxCount = Math.max(...months.map(m => byMonth[m].length), 1);
+            const maxCount = Math.max(...allMonths.map(m => byMonth[m].length), 1);
             
             let html = '<div class="chart-container">';
-            months.forEach(m => {
+            allMonths.forEach(m => {
                 const hires = byMonth[m];
                 const count = hires.length;
                 const barWidth = count > 0 ? Math.max((count / maxCount) * 100, 5) : 0;
@@ -250,7 +435,8 @@
                 const shortMonth = parts[1] + '/' + parts[0].slice(2);
                 
                 html += `<div class="chart-row" data-month="${m}" 
-                    onmouseenter="highlightMonth('${m}')" onmouseleave="clearHighlight()">
+                    onmouseenter="highlightMonth('${m}')" onmouseleave="clearHighlight()"
+                    onclick="selectMonth('${m}')" style="cursor: pointer">
                     <span class="chart-label">${shortMonth}</span>
                     <div class="chart-bar-container">
                         <div class="chart-bar" style="width: ${barWidth}%"></div>
@@ -264,24 +450,28 @@
         
         function showCompany(slug) {
             currentCompany = slug;
-            document.querySelectorAll('.tabs button').forEach(b => 
-                b.classList.toggle('active', b.dataset.slug === slug));
+            document.querySelectorAll('.tabs span[data-slug]').forEach(s => 
+                s.classList.toggle('active', s.dataset.slug === slug));
             
             const data = companyData[slug];
             const allEmployees = data.employees || [];
             
-            const employees = allEmployees.filter(e => !isSpam(slug, e.name));
-            const spamCount = allEmployees.length - employees.length;
+            currentEmployees = allEmployees.filter(e => !isSpam(slug, e.name));
+            const spamCount = allEmployees.length - currentEmployees.length;
             
             document.getElementById('company-info').innerHTML = 
-                `<strong>${data.company_display || data.company}</strong> · Founded: ${data.founded || '?'} · ${employees.length} employees${spamCount > 0 ? ` (${spamCount} hidden)` : ''}`;
+                `<strong>${data.company_display || data.company}</strong> · Founded: ${data.founded || '?'} · ${currentEmployees.length} employees${spamCount > 0 ? ` (${spamCount} hidden)` : ''}`;
             
             let html = '<div class="main-layout">';
             
             // Chart panel
             html += '<div class="chart-panel">';
             html += '<h3>Hires by Month</h3>';
-            html += buildTimeline(employees);
+            html += buildTimeline(currentEmployees);
+            
+            // Snapshot (default to last month)
+            const lastMonth = allMonths.length > 0 ? allMonths[allMonths.length - 1] : null;
+            html += `<div id="snapshot">${lastMonth ? buildSnapshot(currentEmployees, lastMonth) : ''}</div>`;
             html += '</div>';
             
             // Table panel
@@ -302,7 +492,7 @@
                 </thead>
                 <tbody>`;
             
-            employees.forEach(e => {
+            currentEmployees.forEach(e => {
                 const name = e.linkedin_url 
                     ? `<a href="${e.linkedin_url}" target="_blank">${e.name}</a>` 
                     : e.name;

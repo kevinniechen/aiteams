@@ -13,7 +13,7 @@ Employee #1
 
 Employee #2
   Name: Denis Yarats
-  Age: ~37 | YoE: 14
+  Age: ~37 | YoE: 15
   Start Date: 2022-08
   Title: Co-Founder & Chief Technology Officer
   Previous: Ai Research Scientist @ Facebook
@@ -22,7 +22,7 @@ Employee #2
 
 Employee #3
   Name: Nick Jalbert
-  Age: 39 | YoE: 11
+  Age: 39 | YoE: 17
   Start Date: 2022-08
   Title: Full Stack Engineer
   Previous: Senior Engineer, Technical Product Manager, And Founding Team Member @ Captricity
@@ -31,7 +31,7 @@ Employee #3
 
 Employee #4
   Name: Aravind Srinivas
-  Age: ~30 | YoE: 6
+  Age: ~30 | YoE: 8
   Start Date: 2022-08
   Title: Cofounder, President, Chief Executive Officer
   Previous: Research Scientist @ Openai
@@ -66,7 +66,7 @@ Employee #7
 
 Employee #8
   Name: Henry Modisett
-  Age: 34 | YoE: 14
+  Age: 34 | YoE: 36
   Start Date: 2022-10
   Title: Vice President Of Design
   Previous: Founding Designer @ Beam
@@ -84,7 +84,7 @@ Employee #9
 
 Employee #10
   Name: Adam Chen
-  Age: ~48 | YoE: 25
+  Age: ~48 | YoE: 26
   Start Date: 2022-12
   Title: Vice President
   Previous: Senior Technical Manager / Technical Director @ C3 Ai
@@ -102,7 +102,7 @@ Employee #11
 
 Employee #12
   Name: Nikhil Thota
-  Age: 29 | YoE: 13
+  Age: 29 | YoE: 7
   Start Date: 2023-01
   Title: Member Of Technical Staff
   Previous: Startup Explorations @ Various Startups
@@ -111,7 +111,7 @@ Employee #12
 
 Employee #13
   Name: Kathan Pathak
-  Age: ~28 | YoE: 8
+  Age: ~28 | YoE: 6
   Start Date: 2023-01
   Title: Senior Data Scientist
   Previous: Senior Data Engineer @ Walmart Global Tech
@@ -119,7 +119,7 @@ Employee #13
 
 Employee #14
   Name: Kevin Hu
-  Age: ~25 | YoE: 7
+  Age: ~25 | YoE: 3
   Start Date: 2023-01
   Title: Technical Staff
   Previous: Tensorrt Developer @ Nvidia
@@ -154,7 +154,7 @@ Employee #17
 
 Employee #18
   Name: Syed Ali
-  Age: ~31 | YoE: 15
+  Age: ~31 | YoE: 9
   Start Date: 2023-03
   Title: Senior Human Resources Manager
   Previous: Human Resources Manager @ S&S Infinite Mobile Inc
@@ -198,7 +198,7 @@ Employee #22
 
 Employee #23
   Name: Niharika Sunkara
-  Age: ~29 | YoE: 4
+  Age: ~29 | YoE: 7
   Start Date: 2023-05
   Title: Business Development Associate
   Previous: Technical Product Manager @ Factwise
@@ -207,7 +207,7 @@ Employee #23
 
 Employee #24
   Name: Arnav Gudibande
-  Age: ~25 | YoE: 5
+  Age: ~25 | YoE: 3
   Start Date: 2023-06
   Title: Research Engineer
   Previous: Ml Intern @ Cresta
@@ -216,7 +216,7 @@ Employee #24
 
 Employee #25
   Name: Indrajeet Bose
-  Age: ~30 | YoE: 6
+  Age: ~30 | YoE: 8
   Start Date: 2023-06
   Title: Artificial Intelligence Developer
   Previous: Data Scientist @ Optum
@@ -225,7 +225,7 @@ Employee #25
 
 Employee #26
   Name: Phi Hoang
-  Age: ~35 | YoE: 14
+  Age: ~35 | YoE: 13
   Start Date: 2023-07
   Title: Brand Experience
   Previous: Director Of Design @ Flexa
@@ -243,7 +243,7 @@ Employee #27
 
 Employee #28
   Name: Gradey Wang
-  Age: ~29 | YoE: 5
+  Age: ~29 | YoE: 7
   Start Date: 2023-08
   Title: Research Engineer
   Previous: Research Intern @ Bosch
@@ -252,7 +252,7 @@ Employee #28
 
 Employee #29
   Name: William Z
-  Age: ~25 | YoE: 4
+  Age: ~25 | YoE: 3
   Start Date: 2023-08
   Title: Employee
   Previous: Employee @ Robust Intelligence
@@ -314,7 +314,7 @@ Employee #35
 
 Employee #36
   Name: Alexis Weill
-  Age: 35 | YoE: 12
+  Age: 35 | YoE: 11
   Start Date: 2023-10
   Title: Data Science
   Previous: Data Science Manager, Value & Pickup @ Instacart
@@ -341,7 +341,7 @@ Employee #38
 
 Employee #39
   Name: Julius Potrykus
-  Age: ~20 | YoE: 2
+  Age: ~20 | YoE: -2
   Start Date: 2023-10
   Title: Llm Teacher
   Previous: N/A @ N/A
@@ -350,7 +350,7 @@ Employee #39
 
 Employee #40
   Name: Andrew Lebedev
-  Age: ~31 | YoE: 10
+  Age: ~31 | YoE: 9
   Start Date: 2023-11
   Title: Technical Staff
   Previous: Head Of Ios Development At Video Service @ Дзен
@@ -368,7 +368,7 @@ Employee #41
 
 Employee #42
   Name: Nikhil Birmiwal
-  Age: ~29 | YoE: 8
+  Age: ~29 | YoE: 7
   Start Date: 2023-12
   Title: Software Engineer
   Previous: Software Engineer @ Trunk
@@ -386,7 +386,7 @@ Employee #43
 
 Employee #44
   Name: Daniel Kwak
-  Age: ~34 | YoE: 10
+  Age: ~34 | YoE: 12
   Start Date: 2024-01
   Title: Head Of Strategic Finance & Corporate Development
   Previous: Co-Founder @ Paperplane
@@ -395,7 +395,7 @@ Employee #44
 
 Employee #45
   Name: Mikhail Galanin
-  Age: ~36 | YoE: 20
+  Age: ~36 | YoE: 14
   Start Date: 2024-01
   Title: Technical Staff
   Previous: Lead Software Engineer, Platform Team @ Bumble Inc.
@@ -404,7 +404,7 @@ Employee #45
 
 Employee #46
   Name: Ali Panju
-  Age: ~25 | YoE: 6
+  Age: ~25 | YoE: 3
   Start Date: 2024-01
   Title: Head Of Special Projects
   Previous: Associate @ Social Capital
@@ -413,7 +413,7 @@ Employee #46
 
 Employee #47
   Name: Vydehi D
-  Age: ~43 | YoE: 9
+  Age: ~43 | YoE: 21
   Start Date: 2024-01
   Title: Product Qa
   Previous: Senior Qa Engineer @ Navan
@@ -422,7 +422,7 @@ Employee #47
 
 Employee #48
   Name: Rohanth G
-  Age: ~24 | YoE: 6
+  Age: ~24 | YoE: 2
   Start Date: 2024-01
   Title: Ai / Ml Engineer
   Previous: Ai / Ml Engineer @ Meta
@@ -440,7 +440,7 @@ Employee #49
 
 Employee #50
   Name: Maita Paik
-  Age: ~35 | YoE: 8
+  Age: ~35 | YoE: 13
   Start Date: 2024-02
   Title: Talent Acquisition
   Previous: Recruiting @ Benchling
@@ -458,7 +458,7 @@ Employee #51
 
 Employee #52
   Name: Sai Garikapati
-  Age: ~32 | YoE: 6
+  Age: ~32 | YoE: 10
   Start Date: 2024-02
   Title: Full Stack Software Engineer
   Previous: Full Stack Engineer @ Accenture
@@ -476,7 +476,7 @@ Employee #53
 
 Employee #54
   Name: Larmon Luo
-  Age: 33 | YoE: 13
+  Age: 33 | YoE: 11
   Start Date: 2024-03
   Title: Member Of Technical Staff
   Previous: Head Of Data Science, Growth @ Instacart
@@ -485,7 +485,7 @@ Employee #54
 
 Employee #55
   Name: Nikash Sethi
-  Age: ~26 | YoE: 7
+  Age: ~26 | YoE: 4
   Start Date: 2024-03
   Title: Member Of Technical Staff
   Previous: Software Engineer @ Scale Ai
@@ -494,7 +494,7 @@ Employee #55
 
 Employee #56
   Name: Morris Tao
-  Age: ~47 | YoE: 23
+  Age: ~47 | YoE: 25
   Start Date: 2024-04
   Title: Engineering Leader
   Previous: Director Of Software Engineering @ Yext
@@ -503,7 +503,7 @@ Employee #56
 
 Employee #57
   Name: Liane Phun
-  Age: ~30 | YoE: 13
+  Age: ~30 | YoE: 8
   Start Date: 2024-04
   Title: Workplace Experience Manager
   Previous: Workplace Experience @ Skillz
@@ -512,7 +512,7 @@ Employee #57
 
 Employee #58
   Name: John-Michael Murphy
-  Age: ~31 | YoE: 10
+  Age: ~31 | YoE: 9
   Start Date: 2024-04
   Title: Member Of Technical Staff
   Previous: Graphics Developer / Editor @ The New York Times
@@ -539,7 +539,7 @@ Employee #60
 
 Employee #61
   Name: Yashwanth Thallapalli
-  Age: ~26 | YoE: 6
+  Age: ~26 | YoE: 4
   Start Date: 2024-04
   Title: Ai / Ml Engineer
   Previous: Full-Stack Developer @ Ibm
@@ -548,7 +548,7 @@ Employee #61
 
 Employee #62
   Name: Patrick Liu
-  Age: ~23 | YoE: 6
+  Age: ~23 | YoE: 1
   Start Date: 2024-04
   Title: Ai Research Engineer
   Previous: Software Engineer Intern @ Hippocratic Ai
@@ -557,7 +557,7 @@ Employee #62
 
 Employee #63
   Name: Lequn Chen
-  Age: ~29 | YoE: 9
+  Age: ~29 | YoE: 7
   Start Date: 2024-04
   Title: Research Engineer
   Previous: Software Engineer Intern @ Google
@@ -566,7 +566,7 @@ Employee #63
 
 Employee #64
   Name: Frank Pas
-  Age: ~41 | YoE: 22
+  Age: ~41 | YoE: 19
   Start Date: 2024-05
   Title: Head Of Enterprise Product
   Previous: Director Of Product Management - Head Of Customer Platform @ Flexport
@@ -584,7 +584,7 @@ Employee #65
 
 Employee #66
   Name: Weihua Hu
-  Age: ~31 | YoE: 4
+  Age: ~31 | YoE: 9
   Start Date: 2024-05
   Title: Member Of Technical Staff
   Previous: Software Engineer @ Kumo.Ai
@@ -593,7 +593,7 @@ Employee #66
 
 Employee #67
   Name: Niteesh Singh
-  Age: ~33 | YoE: 5
+  Age: ~33 | YoE: 11
   Start Date: 2024-05
   Title: Ai / Ml Engineer
   Previous: Ai / Ml Engineer @ Meta
@@ -602,7 +602,7 @@ Employee #67
 
 Employee #68
   Name: Ryan Putnam
-  Age: 43 | YoE: 18
+  Age: 43 | YoE: 21
   Start Date: 2024-06
   Title: Brand Designer
   Previous: Creative Director @ Carbon Health
@@ -629,7 +629,7 @@ Employee #70
 
 Employee #71
   Name: Larry Yang
-  Age: ~28 | YoE: 7
+  Age: ~28 | YoE: 6
   Start Date: 2024-06
   Title: Software Engineer
   Previous: Software Engineer @ Covariant
@@ -638,7 +638,7 @@ Employee #71
 
 Employee #72
   Name: Xin Xia
-  Age: ~42 | YoE: 18
+  Age: ~42 | YoE: 20
   Start Date: 2024-06
   Title: Member Of Technical Staff
   Previous: Engineering Leader - Home & Categories @ Whatnot
@@ -656,7 +656,7 @@ Employee #73
 
 Employee #74
   Name: Julia Ashton
-  Age: ~22 | YoE: 5
+  Age: ~22 | YoE: ?
   Start Date: 2024-06
   Title: Large Language Model Teacher
   Previous: Computational Structures Teaching Assistant @ Georgetown University
@@ -665,7 +665,7 @@ Employee #74
 
 Employee #75
   Name: Julia Ashton
-  Age: ~22 | YoE: 5
+  Age: ~22 | YoE: ?
   Start Date: 2024-06
   Title: Large Language Model Teacher
   Previous: Computational Structures Teaching Assistant @ Georgetown University
@@ -701,7 +701,7 @@ Employee #78
 
 Employee #79
   Name: Alexandr Bogutskiy
-  Age: ~35 | YoE: 12
+  Age: ~35 | YoE: 13
   Start Date: 2024-07
   Title: Senior Software Engineer
   Previous: Team Leaad @ Nebius
@@ -719,7 +719,7 @@ Employee #80
 
 Employee #81
   Name: Nicholas Bien
-  Age: ~29 | YoE: 11
+  Age: ~29 | YoE: 7
   Start Date: 2024-08
   Title: Member Of Technical Staff
   Previous: Senior Machine Learning Engineer Ii @ Cruise
@@ -728,7 +728,7 @@ Employee #81
 
 Employee #82
   Name: Robin Yang
-  Age: ~35 | YoE: 14
+  Age: ~35 | YoE: 13
   Start Date: 2024-08
   Title: Member Of Technical Staff
   Previous: Staff Software Engineer @ Aquarium
@@ -773,7 +773,7 @@ Employee #86
 
 Employee #87
   Name: Vernon Man
-  Age: 42 | YoE: 16
+  Age: 42 | YoE: 17
   Start Date: 2024-09
   Title: System Administration And Head Of It
   Previous: System Administrator @ Redis
@@ -791,7 +791,7 @@ Employee #88
 
 Employee #89
   Name: Matthew Baird
-  Age: ~34 | YoE: 22
+  Age: ~34 | YoE: 12
   Start Date: 2024-09
   Title: Enterprise Customer Support Lead
   Previous: Zendesk Administrator @ Tractive
@@ -809,7 +809,7 @@ Employee #90
 
 Employee #91
   Name: Yen Lee
-  Age: ~29 | YoE: 5
+  Age: ~29 | YoE: 7
   Start Date: 2024-09
   Title: Cx & User Ops
   Previous: Legal Policy Operations @ Twitter
@@ -818,7 +818,7 @@ Employee #91
 
 Employee #92
   Name: Ryan Siu
-  Age: ~25 | YoE: 5
+  Age: ~25 | YoE: 3
   Start Date: 2024-09
   Title: Member Of Technical Staff
   Previous: Software Engineer @ Rockset
@@ -827,7 +827,7 @@ Employee #92
 
 Employee #93
   Name: Uday Kyama
-  Age: ~21 | YoE: 3
+  Age: ~21 | YoE: -1
   Start Date: 2024-09
   Title: Product Growth Intern
   Previous: Parc Instructional Student Assistant @ Center For Counseling And Diagnostic Services
@@ -836,7 +836,7 @@ Employee #93
 
 Employee #94
   Name: Nandor Licker
-  Age: ~31 | YoE: 6
+  Age: ~31 | YoE: 9
   Start Date: 2024-09
   Title: Technical Staff
   Previous: Senior Staff Compiler Engineer @ Sifive
@@ -854,7 +854,7 @@ Employee #95
 
 Employee #96
   Name: Nathan Barksdale
-  Age: 39 | YoE: 13
+  Age: 39 | YoE: 17
   Start Date: 2024-10
   Title: Head Of Legal & Operations
   Previous: Senior Director, Head Of Commercial Legal And Intellectual Property @ Opensea
@@ -863,7 +863,7 @@ Employee #96
 
 Employee #97
   Name: Will Brooke
-  Age: 34 | YoE: 10
+  Age: 34 | YoE: 11
   Start Date: 2024-10
   Title: Partnerships
   Previous: Business Development @ Opensea
@@ -872,7 +872,7 @@ Employee #97
 
 Employee #98
   Name: Nasar Massis
-  Age: ~57 | YoE: 19
+  Age: ~57 | YoE: 35
   Start Date: 2024-10
   Title: Governance Risk & Compliance Lead
   Previous: Staff Cybersecurity Engineer @ General Motors
@@ -881,7 +881,7 @@ Employee #98
 
 Employee #99
   Name: Lauren Kolm
-  Age: ~34 | YoE: 14
+  Age: ~34 | YoE: 12
   Start Date: 2024-10
   Title: Brand Designer
   Previous: Senior Art Director @ Attentive

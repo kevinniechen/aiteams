@@ -262,8 +262,11 @@ def get_age(person, bachelors_year, yoe=None):
     
     return None, False
 
-def get_yoe(person):
-    """Get years of experience"""
+def get_yoe(person, bachelors_year):
+    """Get years of experience from bachelor's graduation year"""
+    if bachelors_year and isinstance(bachelors_year, int) and 1980 < bachelors_year < 2030:
+        return CURRENT_YEAR - bachelors_year
+    # Fallback to PDL's estimate if no graduation year
     yoe = person.get('inferred_years_experience')
     if yoe and isinstance(yoe, (int, float)):
         return int(yoe)
@@ -355,7 +358,7 @@ def main():
         prev_title = prev_title.title()
         prev_company = prev_company.title()
         edu_formatted, bachelors_year = get_education_formatted(emp)
-        yoe = get_yoe(emp)
+        yoe = get_yoe(emp, bachelors_year)
         age, is_estimated = get_age(emp, bachelors_year, yoe)
         linkedin_url = get_linkedin_url(emp)
         start_str = start_date.strftime("%Y-%m")

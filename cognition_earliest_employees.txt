@@ -13,7 +13,7 @@ Employee #1
 
 Employee #2
   Name: Sara Xiang
-  Age: ~29 | YoE: 10
+  Age: ~29 | YoE: 7
   Start Date: 2023-11
   Title: Human Product Manager
   Previous: Product @ Arena
@@ -22,7 +22,7 @@ Employee #2
 
 Employee #3
   Name: Adhyyan Sekhsaria
-  Age: ~25 | YoE: 5
+  Age: ~25 | YoE: 3
   Start Date: 2023-11
   Title: Founding Engineer
   Previous: Software Engineer @ Quadric
@@ -40,7 +40,7 @@ Employee #4
 
 Employee #5
   Name: Steven Hao
-  Age: ~29 | YoE: 8
+  Age: ~29 | YoE: 7
   Start Date: 2023-11
   Title: Co-Founder
   Previous: Software Engineer @ Scale Ai
@@ -49,7 +49,7 @@ Employee #5
 
 Employee #6
   Name: Walden Yan
-  Age: ~23 | YoE: 7
+  Age: ~23 | YoE: 1
   Start Date: 2023-11
   Title: Co-Founder
   Previous: Early Engineer @ Anysphere
@@ -67,7 +67,7 @@ Employee #7
 
 Employee #8
   Name: Russell Kaplan
-  Age: ~30 | YoE: 12
+  Age: ~30 | YoE: 8
   Start Date: 2024-01
   Title: President
   Previous: Director Of Engineering & Ml @ Scale Ai
@@ -85,7 +85,7 @@ Employee #9
 
 Employee #10
   Name: Calvin Giroud
-  Age: ~29 | YoE: 8
+  Age: ~29 | YoE: 7
   Start Date: 2024-01
   Title: Gtm
   Previous: Founder & Chief Executive Officer @ Refractive
@@ -120,7 +120,7 @@ Employee #13
 
 Employee #14
   Name: Salima Ghadimi
-  Age: ~31 | YoE: 10
+  Age: ~31 | YoE: 9
   Start Date: 2024-03
   Title: Operations
   Previous: Platform Operations @ Capchase
@@ -129,7 +129,7 @@ Employee #14
 
 Employee #15
   Name: Federico Marcos
-  Age: ~31 | YoE: 11
+  Age: ~31 | YoE: 9
   Start Date: 2024-03
   Title: Senior Software Engineer
   Previous: Senior Data Scientist @ Scale Ai
@@ -147,7 +147,7 @@ Employee #16
 
 Employee #17
   Name: Silas Alberti
-  Age: ~25 | YoE: 6
+  Age: ~25 | YoE: 3
   Start Date: 2024-03
   Title: Founding Team
   Previous: Student Researcher @ Google Deepmind
@@ -156,7 +156,7 @@ Employee #17
 
 Employee #18
   Name: Moritz Stephan
-  Age: ~23 | YoE: 9
+  Age: ~23 | YoE: 1
   Start Date: 2024-04
   Title: Human Software Engineer
   Previous: Research Engineer @ Trunk Tools
@@ -165,7 +165,7 @@ Employee #18
 
 Employee #19
   Name: Dev Chheda
-  Age: ~22 | YoE: 7
+  Age: ~22 | YoE: ?
   Start Date: 2024-04
   Title: Software Engineer
   Previous: Researcher At Low-Energy Autonomy And Navigation (Lean) Group @ Research Laboratory Of Electronics At Mit
@@ -183,7 +183,7 @@ Employee #20
 
 Employee #21
   Name: Calvin Huang
-  Age: 29 | YoE: 16
+  Age: 29 | YoE: 7
   Start Date: 2024-08
   Title: Software Engineer
   Previous: Staff Software Engineer @ Scale Ai
@@ -192,7 +192,7 @@ Employee #21
 
 Employee #22
   Name: Sean Sullivan
-  Age: ~27 | YoE: 7
+  Age: ~27 | YoE: 5
   Start Date: 2024-08
   Title: Human Engineer
   Previous: Software Engineering Contractor @ Windsurf
@@ -219,7 +219,7 @@ Employee #24
 
 Employee #25
   Name: Sam Rudy
-  Age: ~33 | YoE: 12
+  Age: ~33 | YoE: 11
   Start Date: 2024-10
   Title: Gtm
   Previous: Strategic Account Executive, Emea @ Airtable
@@ -237,7 +237,7 @@ Employee #26
 
 Employee #27
   Name: Gennady Korotkevich
-  Age: ~29 | YoE: 3
+  Age: ~29 | YoE: 7
   Start Date: 2024-12
   Title: Software Engineer
   Previous: Research Engineer @ Ramp
