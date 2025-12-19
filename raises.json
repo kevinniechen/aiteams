@@ -38,10 +38,9 @@
     { "date": "2024-03", "amount": 32, "round": "A" }
   ],
   "cursor": [
-    { "date": "2022-10", "amount": 3, "round": "Seed" },
-    { "date": "2023-01", "amount": 20, "round": "A" },
-    { "date": "2024-08", "amount": 60, "round": "B" },
-    { "date": "2024-12", "amount": 105, "round": "C" }
+    { "date": "2023-08", "amount": 8, "round": "Seed" },
+    { "date": "2024-08", "amount": 60, "round": "A" },
+    { "date": "2024-12", "amount": 105, "round": "B" }
   ],
   "peregrine": [
     { "date": "2019-03", "amount": 5, "round": "Seed" },
