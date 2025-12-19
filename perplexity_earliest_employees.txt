@@ -66,7 +66,7 @@ Employee #7
 
 Employee #8
   Name: Henry Modisett
-  Grad: '89 | YoE: 36
+  Grad: '13 | YoE: 12
   Start Date: 2022-10
   Title: Vice President Of Design
   Previous: Founding Designer @ Beam
@@ -84,7 +84,7 @@ Employee #9
 
 Employee #10
   Name: Adam Chen
-  Grad: '99 | YoE: 26
+  Grad: '20 | YoE: 5
   Start Date: 2022-12
   Title: Vice President
   Previous: Senior Technical Manager / Technical Director @ C3 Ai
@@ -458,7 +458,7 @@ Employee #51
 
 Employee #52
   Name: Sai Garikapati
-  Grad: '15 | YoE: 10
+  Grad: '23 | YoE: 2
   Start Date: 2024-02
   Title: Full Stack Software Engineer
   Previous: Full Stack Engineer @ Accenture

@@ -187,13 +187,13 @@ def get_first_job_year(person):
 def get_bachelors_grad_year(person):
     """
     Get bachelor's graduation year with fallbacks:
-    1. Actual bachelor's graduation year
+    1. Actual bachelor's graduation year (use LATEST valid one to handle bad data)
     2. Year before grad school started (if no bachelor's found)
     3. First job start year (assume graduated same year)
     """
     education = person.get('education', [])
     
-    bachelors_year = None
+    bachelors_years = []  # Collect all valid bachelor's years
     earliest_grad_school_start = None
     
     for edu in education:
@@ -220,7 +220,7 @@ def get_bachelors_grad_year(person):
             # Check for bachelor's
             if 'bachelor' in degree_lower or degree_lower == 'bachelors':
                 if grad_year and 1980 < grad_year < 2030:
-                    bachelors_year = grad_year
+                    bachelors_years.append(grad_year)
                 break
             # Check for grad school (master's, PhD, MBA, JD)
             if any(g in degree_lower for g in ['master', 'doctor', 'phd', 'mba', 'juris']):
@@ -228,9 +228,9 @@ def get_bachelors_grad_year(person):
                     if earliest_grad_school_start is None or start_year < earliest_grad_school_start:
                         earliest_grad_school_start = start_year
     
-    # Priority 1: Actual bachelor's year
-    if bachelors_year:
-        return bachelors_year, False
+    # Priority 1: Use the LATEST bachelor's year (to filter out bad old data)
+    if bachelors_years:
+        return max(bachelors_years), False
     
     # Priority 2: Year before grad school started
     if earliest_grad_school_start:
