@@ -1,0 +1,80 @@
+{
+  "perplexity": [
+    { "date": "2022-08", "amount": 3.5, "round": "Seed" },
+    { "date": "2023-01", "amount": 25, "round": "A" },
+    { "date": "2023-12", "amount": 73, "round": "A2" },
+    { "date": "2024-04", "amount": 63, "round": "B" },
+    { "date": "2024-06", "amount": 250, "round": "B2" },
+    { "date": "2024-12", "amount": 500, "round": "C" }
+  ],
+  "cognition": [
+    { "date": "2024-03", "amount": 21, "round": "A" },
+    { "date": "2024-04", "amount": 175, "round": "A2" }
+  ],
+  "harvey": [
+    { "date": "2022-11", "amount": 5, "round": "Seed" },
+    { "date": "2023-04", "amount": 21, "round": "A" },
+    { "date": "2023-12", "amount": 80, "round": "B" },
+    { "date": "2024-07", "amount": 100, "round": "C" }
+  ],
+  "sierra": [
+    { "date": "2024-01", "amount": 110, "round": "A" },
+    { "date": "2024-10", "amount": 175, "round": "B" }
+  ],
+  "decagon": [
+    { "date": "2023-06", "amount": 5, "round": "Seed" },
+    { "date": "2024-06", "amount": 35, "round": "A" }
+  ],
+  "glean": [
+    { "date": "2019-09", "amount": 8, "round": "Seed" },
+    { "date": "2021-02", "amount": 55, "round": "A" },
+    { "date": "2021-12", "amount": 100, "round": "B" },
+    { "date": "2022-08", "amount": 200, "round": "C" },
+    { "date": "2023-02", "amount": 200, "round": "D" },
+    { "date": "2024-05", "amount": 200, "round": "E" }
+  ],
+  "distyl": [
+    { "date": "2023-06", "amount": 12, "round": "Seed" },
+    { "date": "2024-03", "amount": 32, "round": "A" }
+  ],
+  "cursor": [
+    { "date": "2022-10", "amount": 3, "round": "Seed" },
+    { "date": "2023-01", "amount": 20, "round": "A" },
+    { "date": "2024-08", "amount": 60, "round": "B" },
+    { "date": "2024-12", "amount": 105, "round": "C" }
+  ],
+  "peregrine": [
+    { "date": "2019-03", "amount": 5, "round": "Seed" },
+    { "date": "2021-02", "amount": 11, "round": "A" },
+    { "date": "2023-03", "amount": 60, "round": "B" },
+    { "date": "2025-04", "amount": 190, "round": "C" }
+  ],
+  "physical-intelligence": [
+    { "date": "2024-03", "amount": 70, "round": "Seed" },
+    { "date": "2024-11", "amount": 400, "round": "A" },
+    { "date": "2025-11", "amount": 600, "round": "B" }
+  ],
+  "serval": [
+    { "date": "2024-06", "amount": 7, "round": "Seed" },
+    { "date": "2025-10", "amount": 47, "round": "A" },
+    { "date": "2025-12", "amount": 75, "round": "B" }
+  ],
+  "elevenlabs": [
+    { "date": "2023-01", "amount": 2, "round": "Seed" },
+    { "date": "2023-06", "amount": 19, "round": "A" },
+    { "date": "2024-01", "amount": 80, "round": "B" },
+    { "date": "2024-12", "amount": 250, "round": "C" }
+  ],
+  "contextual": [
+    { "date": "2023-06", "amount": 20, "round": "Seed" },
+    { "date": "2024-08", "amount": 80, "round": "A" }
+  ],
+  "saronic": [
+    { "date": "2022-09", "amount": 15, "round": "Seed" },
+    { "date": "2023-09", "amount": 55, "round": "A" },
+    { "date": "2024-09", "amount": 175, "round": "B" },
+    { "date": "2025-03", "amount": 600, "round": "C" }
+  ],
+  "brainco": []
+}
+

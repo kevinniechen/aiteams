@@ -6,8 +6,8 @@
     {
       "rank": 1,
       "name": "Tony Jiang",
-      "age": "~30",
-      "yoe": "8",
+      "grad_year": "'13",
+      "yoe": "12",
       "start_date": "2023-11",
       "title": "Founding Engineer",
       "previous_title": "Tech Lead Manager",
@@ -18,7 +18,7 @@
     {
       "rank": 2,
       "name": "Sara Xiang",
-      "age": "~29",
+      "grad_year": "'18",
       "yoe": "7",
       "start_date": "2023-11",
       "title": "Human Product Manager",
@@ -30,7 +30,7 @@
     {
       "rank": 3,
       "name": "Adhyyan Sekhsaria",
-      "age": "~25",
+      "grad_year": "'22",
       "yoe": "3",
       "start_date": "2023-11",
       "title": "Founding Engineer",
@@ -42,8 +42,8 @@
     {
       "rank": 4,
       "name": "Scott Wu",
-      "age": "~31",
-      "yoe": "9",
+      "grad_year": "'14",
+      "yoe": "11",
       "start_date": "2023-11",
       "title": "Co-Founder And Chief Executive Officer",
       "previous_title": "Co-Founder And Chief Technology Officer",
@@ -54,7 +54,7 @@
     {
       "rank": 5,
       "name": "Steven Hao",
-      "age": "~29",
+      "grad_year": "'18",
       "yoe": "7",
       "start_date": "2023-11",
       "title": "Co-Founder",
@@ -66,7 +66,7 @@
     {
       "rank": 6,
       "name": "Walden Yan",
-      "age": "~23",
+      "grad_year": "'24",
       "yoe": "1",
       "start_date": "2023-11",
       "title": "Co-Founder",
@@ -78,7 +78,7 @@
     {
       "rank": 7,
       "name": "Andrew H",
-      "age": "~28",
+      "grad_year": "'19",
       "yoe": "6",
       "start_date": "2023-11",
       "title": "Human Software Engineer",
@@ -90,7 +90,7 @@
     {
       "rank": 8,
       "name": "Russell Kaplan",
-      "age": "~30",
+      "grad_year": "'17",
       "yoe": "8",
       "start_date": "2024-01",
       "title": "President",
@@ -102,7 +102,7 @@
     {
       "rank": 9,
       "name": "Jeffrey Ling",
-      "age": "~30",
+      "grad_year": "'17",
       "yoe": "8",
       "start_date": "2024-01",
       "title": "Human Software Engineer",
@@ -114,7 +114,7 @@
     {
       "rank": 10,
       "name": "Calvin Giroud",
-      "age": "~29",
+      "grad_year": "'18",
       "yoe": "7",
       "start_date": "2024-01",
       "title": "Gtm",
@@ -126,7 +126,7 @@
     {
       "rank": 11,
       "name": "Ziwei D",
-      "age": "~39",
+      "grad_year": "'08",
       "yoe": "17",
       "start_date": "2024-01",
       "title": "Board Member",
@@ -138,8 +138,8 @@
     {
       "rank": 12,
       "name": "Ramiro D'Avila",
-      "age": "~32",
-      "yoe": "10",
+      "grad_year": "'14",
+      "yoe": "11",
       "start_date": "2024-02",
       "title": "Software Engineer",
       "previous_title": "Software Engineer",
@@ -150,8 +150,8 @@
     {
       "rank": 13,
       "name": "Martin Cabral",
-      "age": "~39",
-      "yoe": "17",
+      "grad_year": "'09",
+      "yoe": "16",
       "start_date": "2024-02",
       "title": "Software Engineer",
       "previous_title": "Software Engineer",
@@ -162,7 +162,7 @@
     {
       "rank": 14,
       "name": "Salima Ghadimi",
-      "age": "~31",
+      "grad_year": "'16",
       "yoe": "9",
       "start_date": "2024-03",
       "title": "Operations",
@@ -174,7 +174,7 @@
     {
       "rank": 15,
       "name": "Federico Marcos",
-      "age": "~31",
+      "grad_year": "'16",
       "yoe": "9",
       "start_date": "2024-03",
       "title": "Senior Software Engineer",
@@ -186,8 +186,8 @@
     {
       "rank": 16,
       "name": "Bryce Hunt",
-      "age": "~27",
-      "yoe": "5",
+      "grad_year": "'21",
+      "yoe": "4",
       "start_date": "2024-03",
       "title": "Human",
       "previous_title": "Co-Founder",
@@ -198,7 +198,7 @@
     {
       "rank": 17,
       "name": "Silas Alberti",
-      "age": "~25",
+      "grad_year": "'22",
       "yoe": "3",
       "start_date": "2024-03",
       "title": "Founding Team",
@@ -210,7 +210,7 @@
     {
       "rank": 18,
       "name": "Moritz Stephan",
-      "age": "~23",
+      "grad_year": "'24",
       "yoe": "1",
       "start_date": "2024-04",
       "title": "Human Software Engineer",
@@ -222,7 +222,7 @@
     {
       "rank": 19,
       "name": "Dev Chheda",
-      "age": "~22",
+      "grad_year": "'25",
       "yoe": "?",
       "start_date": "2024-04",
       "title": "Software Engineer",
@@ -234,7 +234,7 @@
     {
       "rank": 20,
       "name": "Mokshit Jain",
-      "age": "~25",
+      "grad_year": "'22",
       "yoe": "3",
       "start_date": "2024-06",
       "title": "Product Engineer",
@@ -246,7 +246,7 @@
     {
       "rank": 21,
       "name": "Calvin Huang",
-      "age": "29",
+      "grad_year": "'18",
       "yoe": "7",
       "start_date": "2024-08",
       "title": "Software Engineer",
@@ -258,7 +258,7 @@
     {
       "rank": 22,
       "name": "Sean Sullivan",
-      "age": "~27",
+      "grad_year": "'20",
       "yoe": "5",
       "start_date": "2024-08",
       "title": "Human Engineer",
@@ -270,8 +270,8 @@
     {
       "rank": 23,
       "name": "Shannon Kahn",
-      "age": "~33",
-      "yoe": "11",
+      "grad_year": "'16",
+      "yoe": "9",
       "start_date": "2024-09",
       "title": "Account Executive, Strategic / Majors (Windsurf And Devin)",
       "previous_title": "Enterprise Account Executive",
@@ -282,8 +282,8 @@
     {
       "rank": 24,
       "name": "Dani Mccabe",
-      "age": "~31",
-      "yoe": "9",
+      "grad_year": "'17",
+      "yoe": "8",
       "start_date": "2024-10",
       "title": "Director, Sales Enablement",
       "previous_title": "Director, Sales Enablement",
@@ -294,7 +294,7 @@
     {
       "rank": 25,
       "name": "Sam Rudy",
-      "age": "~33",
+      "grad_year": "'14",
       "yoe": "11",
       "start_date": "2024-10",
       "title": "Gtm",
@@ -306,8 +306,8 @@
     {
       "rank": 26,
       "name": "Kira Busman",
-      "age": "~35",
-      "yoe": "13",
+      "grad_year": "'13",
+      "yoe": "12",
       "start_date": "2024-10",
       "title": "Advisor",
       "previous_title": "Advisor",
@@ -318,7 +318,7 @@
     {
       "rank": 27,
       "name": "Gennady Korotkevich",
-      "age": "~29",
+      "grad_year": "'18",
       "yoe": "7",
       "start_date": "2024-12",
       "title": "Software Engineer",

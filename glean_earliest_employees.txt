@@ -1,0 +1,272 @@
+GLEAN - EARLIEST EMPLOYEES
+(Founded: 2019-05)
+================================================================================
+
+Employee #1
+  Name: Eddie Zhou
+  Grad: '16 | YoE: 9
+  Start Date: 2019-06
+  Title: Founding Engineer
+  Previous: Software Engineer, Research @ Google
+  Education: BS CS, Princeton '16
+  LinkedIn: https://linkedin.com/in/eddie-zhou-70364b54
+
+Employee #2
+  Name: Mahsin Hossain
+  Grad: '19 | YoE: 6
+  Start Date: 2019-07
+  Title: Digital Marketing Manager
+  Previous: N/A @ N/A
+  Education: N/A
+  LinkedIn: https://linkedin.com/in/mahsin-hossain-345b87179
+
+Employee #3
+  Name: Peter Gi
+  Grad: '14 | YoE: 11
+  Start Date: 2019-07
+  Title: Staff Software Engineer
+  Previous: Senior Software Engineer @ Chiron Health - A Medici Company
+  Education: BS CS, UT Austin '14
+  LinkedIn: https://linkedin.com/in/peter-gi-793361343
+
+Employee #4
+  Name: Chaitanya Asawa
+  Grad: '18 | YoE: 7
+  Start Date: 2019-08
+  Title: Founding Engineer, Engineering Manager
+  Previous: Research Engineer @ Vicarious
+  Education: Stanford '23
+  LinkedIn: https://linkedin.com/in/casawa
+
+Employee #5
+  Name: James Simonsen
+  Grad: '02 | YoE: 23
+  Start Date: 2019-08
+  Title: Software Engineer
+  Previous: Software Engineer @ Google
+  Education: BS CS, Oregon State Univers '02
+  LinkedIn: https://linkedin.com/in/james-simonsen-6914843
+
+Employee #6
+  Name: Yiming Jen
+  Grad: '17 | YoE: 8
+  Start Date: 2019-09
+  Title: Engineering Manager
+  Previous: Software Engineer @ Pinterest
+  Education: BS CS, UC Berkeley '17
+  LinkedIn: https://linkedin.com/in/yiming-jen
+
+Employee #7
+  Name: Phil Ophus
+  Grad: '07 | YoE: 18
+  Start Date: 2019-12
+  Title: Software Engineer
+  Previous: Software Engineer @ Meta
+  Education: MS ME, University Of Albert '11
+  LinkedIn: https://linkedin.com/in/pophus
+
+Employee #8
+  Name: Mustafa Tikir
+  Grad: '96 | YoE: 29
+  Start Date: 2019-12
+  Title: Software Engineer
+  Previous: Software Engineer @ Dropbox
+  Education: PhD CS, University Of Maryla '05
+  LinkedIn: https://linkedin.com/in/mustafa-tikir-07a30b2
+
+Employee #9
+  Name: Joshua Chang
+  Grad: '11 | YoE: 14
+  Start Date: 2020-05
+  Title: Head Of Sales
+  Previous: Manager, Inside Enterprise West & U.S. Higher Education Sales @ Box
+  Education: BA Econ, Rutgers University '11
+  LinkedIn: https://linkedin.com/in/joshuajchang
+
+Employee #10
+  Name: Abhijith Shankar
+  Grad: '15 | YoE: 10
+  Start Date: 2020-12
+  Title: Engineer
+  Previous: Member Of Technical Staff @ Qubole
+  Education: BTech Electronics Engineer, School Of Engineerin '15
+  LinkedIn: https://linkedin.com/in/abhijith-shankar-9b70a898
+
+Employee #11
+  Name: Stephen Chu
+  Grad: '10 | YoE: 15
+  Start Date: 2021-01
+  Title: Engineering Manager
+  Previous: Senior Engineering Manager @ Rubrik
+  Education: MS CS, Stanford '16
+  LinkedIn: https://linkedin.com/in/chustephen
+
+Employee #12
+  Name: Rachel Li
+  Grad: '16 | YoE: 9
+  Start Date: 2021-01
+  Title: Product Manager
+  Previous: Product Manager @ Loom
+  Education: BA, UPenn '16
+
+Employee #13
+  Name: Daniel Shen
+  Grad: '97 | YoE: 28
+  Start Date: 2021-01
+  Title: Director
+  Previous: Software Engineering Manager @ Facebook
+  Education: MS CS, Ucla '00
+  LinkedIn: https://linkedin.com/in/daniel-shen-74bba81b0
+
+Employee #14
+  Name: Garvit Juniwal
+  Grad: '12 | YoE: 13
+  Start Date: 2021-03
+  Title: Site Lead, India Research & Development
+  Previous: Advisor @ Relicx
+  Education: Stanford
+  LinkedIn: https://linkedin.com/in/garvitjuniwal
+
+Employee #15
+  Name: Vincent Jiang
+  Grad: '14 | YoE: 11
+  Start Date: 2021-05
+  Title: Investor
+  Previous: Investor @ Affirm
+  Education: Y Combinator
+  LinkedIn: https://linkedin.com/in/vincentjiangx
+
+Employee #16
+  Name: Purvi Jain
+  Grad: '21 | YoE: 4
+  Start Date: 2021-05
+  Title: Software Engineer
+  Previous: Sde Intern @ Globalfair
+  Education: BTech, Heritage Institute O '21
+  LinkedIn: https://linkedin.com/in/purvi-jain-083333171
+
+Employee #17
+  Name: Purvi Jain
+  Grad: '21 | YoE: 4
+  Start Date: 2021-05
+  Title: Software Engineer
+  Previous: Sde Intern @ Globalfair
+  Education: BTech CS, Heritage Institute O '21
+  LinkedIn: https://linkedin.com/in/purvi01
+
+Employee #18
+  Name: Nathan Arritt
+  Grad: '99 | YoE: 26
+  Start Date: 2021-07
+  Title: Software Engineer (Ui)
+  Previous: Member Of Technical Staff (Ui) @ Clumio
+  Education: Woodbridge High Scho '93
+  LinkedIn: https://linkedin.com/in/nathanarritt
+
+Employee #19
+  Name: Arjun Landes
+  Grad: '11 | YoE: 14
+  Start Date: 2021-07
+  Title: Engineering Manager
+  Previous: Angel Investor @ Angel Investor
+  Education: PhD Physics, Princeton '14
+  LinkedIn: https://linkedin.com/in/arjunlandes
+
+Employee #20
+  Name: Gary Luo
+  Grad: '96 | YoE: 29
+  Start Date: 2021-07
+  Title: Site Reliability Engineer
+  Previous: Senior Site Reliability Engineer @ Google
+  Education: N/A
+  LinkedIn: https://linkedin.com/in/gary-luo-7130014
+
+Employee #21
+  Name: Rui Wu
+  Grad: '08 | YoE: 17
+  Start Date: 2021-07
+  Title: Search Ranking Tech Lead
+  Previous: Senior Software Engineer @ Google
+  Education: MS CE, UIUC '13
+  LinkedIn: https://linkedin.com/in/wrui
+
+Employee #22
+  Name: Gary Luo
+  Grad: '96 | YoE: 29
+  Start Date: 2021-07
+  Title: Site Reliability Engineer
+  Previous: Senior Site Reliability Engineer @ Google
+  Education: N/A
+  LinkedIn: https://linkedin.com/in/gary-luo-7130014
+
+Employee #23
+  Name: Omar Khan
+  Grad: '21 | YoE: 4
+  Start Date: 2021-08
+  Title: Software Engineer
+  Previous: Cs 61B Head Ta @ University Of California, Berkeley
+  Education: BS CS, Uc Berkeley College  '21
+  LinkedIn: https://linkedin.com/in/omarnabikhan
+
+Employee #24
+  Name: Gayan Edirisinghe
+  Grad: '05 | YoE: 20
+  Start Date: 2021-08
+  Title: Software Engineer
+  Previous: Software Engineer @ Facebook
+  Education: Cornell '10
+  LinkedIn: https://linkedin.com/in/gayan-edirisinghe-8472503
+
+Employee #25
+  Name: Connor Lafferty
+  Grad: '20 | YoE: 5
+  Start Date: 2021-08
+  Title: Software Engineer
+  Previous: Software Engineer @ Stealth Startup
+  Education: BS CS, UC Berkeley '20
+  LinkedIn: https://linkedin.com/in/connor-lafferty-b1133516a
+
+Employee #26
+  Name: Haydn Ahmed
+  Grad: '16 | YoE: 9
+  Start Date: 2021-08
+  Title: Management Accountant
+  Previous: Management Accountant @ John Hornby Skewes And Company Limited
+  Education: Aat
+  LinkedIn: https://linkedin.com/in/haydn-ahmed-9104a3191
+
+Employee #27
+  Name: Kyle Dos Remedios
+  Grad: '14 | YoE: 11
+  Start Date: 2021-10
+  Title: Account Executive, Strategic Accounts
+  Previous: Enterprise Account Executive @ Box
+  Education: BS Business, University Of San Fr '14
+  LinkedIn: https://linkedin.com/in/kyle-dos-remedios
+
+Employee #28
+  Name: Aditya Kumar
+  Grad: '19 | YoE: 6
+  Start Date: 2021-10
+  Title: Software Engineer
+  Previous: Software Engineer @ Rippling
+  Education: BE CS, Birla Institute Of T '19
+  LinkedIn: https://linkedin.com/in/adityaku
+
+Employee #29
+  Name: Dorothy Kang
+  Grad: '20 | YoE: 5
+  Start Date: 2021-12
+  Title: Product Designer
+  Previous: Product Designer @ Intuit
+  Education: BS Architecture, Stanford '20
+  LinkedIn: https://linkedin.com/in/dorothy-kang
+
+Employee #30
+  Name: Shaan Vaidya
+  Grad: '19 | YoE: 6
+  Start Date: 2021-12
+  Title: Software Engineer
+  Previous: Research Intern @ Uppsala University
+  Education: MS CS, UPenn '21
+  LinkedIn: https://linkedin.com/in/shaan-vaidya

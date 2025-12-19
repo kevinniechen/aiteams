@@ -1,0 +1,138 @@
+HARVEY - EARLIEST EMPLOYEES
+(Founded: 2022-09)
+================================================================================
+
+Employee #1
+  Name: Brian Burns
+  Grad: '19 | YoE: 6
+  Start Date: 2022-11
+  Title: Technical Recruiter
+  Previous: Founder + Writer + Recruiter @ Ai Pub
+  Education: UW '25
+  LinkedIn: https://linkedin.com/in/brianandrewburns
+
+Employee #2
+  Name: Adam Erickson
+  Grad: '17 | YoE: 8
+  Start Date: 2023-01
+  Title: Member Of Technical Staff
+  Previous: Software Engineer @ Rippling
+  Education: Yale
+  LinkedIn: https://linkedin.com/in/agerick
+
+Employee #3
+  Name: Timothy Lu
+  Grad: '18 | YoE: 7
+  Start Date: 2023-01
+  Title: Head Of Revenue Operations
+  Previous: Sales Strategy & Operations @ Airtable
+  Education: MS Engineering, UMich
+  LinkedIn: https://linkedin.com/in/timothy-y-lu
+
+Employee #4
+  Name: Beth Lebens
+  Grad: '16 | YoE: 9
+  Start Date: 2023-02
+  Title: Member Of Legal Staff
+  Previous: Associate @ Gunderson Dettmer
+  Education: Doctor Of Jurisprude Law, Northwestern Univers '20
+  LinkedIn: https://linkedin.com/in/beth-de-la-roche-lebens-777847263
+
+Employee #5
+  Name: Spencer Poff
+  Grad: '09 | YoE: 16
+  Start Date: 2023-03
+  Title: Member Of Technical Staff
+  Previous: Research Engineer @ Fair @ Meta
+  Education: Marina High
+  LinkedIn: https://linkedin.com/in/spencerpoff
+
+Employee #6
+  Name: John Labarre
+  Grad: '94 | YoE: 31
+  Start Date: 2023-04
+  Title: General Counsel
+  Previous: Vice President, Deputy General Counsel @ Snowflake
+  Education: PhD, Letourneau Universit '05
+  LinkedIn: https://linkedin.com/in/labaj
+
+Employee #7
+  Name: Karl De La Roche
+  Grad: '12 | YoE: 13
+  Start Date: 2023-04
+  Title: Member Of Legal Staff
+  Previous: Associate @ Sidley Austin Llp
+  Education: Doctor Of Jurisprude Criminology, Northwestern Univers '19
+  LinkedIn: https://linkedin.com/in/karldelaroche
+
+Employee #8
+  Name: Tonya Mitchell
+  Grad: '12 | YoE: 13
+  Start Date: 2023-07
+  Title: Senior Business Analyst
+  Previous: Senior Business Analyst With Ettain Group @ Ettain Group
+  Education: Master Of Public Adm Business, Kentucky State Unive
+  LinkedIn: https://linkedin.com/in/tonya-mayfield-mitchell-5733aaa6
+
+Employee #9
+  Name: Rob Saliterman
+  Grad: '03 | YoE: 22
+  Start Date: 2023-08
+  Title: Vice President Of Sales
+  Previous: Head Of Platform Sales @ Stripe
+  Education: MBA, Harvard Business Sch '11
+  LinkedIn: https://linkedin.com/in/robsaliterman
+
+Employee #10
+  Name: Aatish Nayak
+  Grad: '17 | YoE: 8
+  Start Date: 2023-10
+  Title: Vice President Of Product
+  Previous: Director Of Product @ Scale Ai
+  Education: BS CE, CMU '17
+  LinkedIn: https://linkedin.com/in/aatishn
+
+Employee #11
+  Name: Carl Fuda
+  Grad: '12 | YoE: 13
+  Start Date: 2023-10
+  Title: Head Of Partnerships
+  Previous: Strategic Account Director @ Nobleai
+  Education: MBA Business, Harvard Business Sch '18
+  LinkedIn: https://linkedin.com/in/carlfuda
+
+Employee #12
+  Name: Tobias Boelter
+  Grad: '14 | YoE: 11
+  Start Date: 2023-10
+  Title: Head Of Security
+  Previous: Security Engineer (Tech Lead) @ Jump Trading
+  Education: Doctor Of Jurisprude Law, Santa Clara Universi '24
+  LinkedIn: https://linkedin.com/in/tobias-boelter
+
+Employee #13
+  Name: Vasudha Rengarajan
+  Grad: '19 | YoE: 6
+  Start Date: 2023-11
+  Title: Member Of Technical Staff (Ai / Ml)
+  Previous: Machine Learning Engineer @ Meta
+  Education: MS CS, Columbia Engineering '20
+  LinkedIn: https://linkedin.com/in/vasudha-rengarajan-90700364
+
+Employee #14
+  Name: Tia Thomson
+  Grad: '17 | YoE: 8
+  Start Date: 2023-11
+  Title: Operations Lead
+  Previous: Head Of Business Operations @ Visible Hands
+  Education: Chinese Culture, City University Of H
+  LinkedIn: https://linkedin.com/in/tiathomson
+
+Employee #15
+  Name: Abhishek Verma
+  Grad: '17 | YoE: 8
+  Start Date: 2023-11
+  Title: Member Of Technical Staff
+  Previous: Senior Software Engineer @ Zipline
+  Education: BS CS, UIUC '17
+  LinkedIn: https://linkedin.com/in/abhiver

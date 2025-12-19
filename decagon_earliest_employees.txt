@@ -1,0 +1,219 @@
+DECAGON - EARLIEST EMPLOYEES
+(Founded: 2023-01)
+================================================================================
+
+Employee #1
+  Name: Ashwin Sreenivas
+  Grad: '17 | YoE: 8
+  Start Date: 2023-01
+  Title: Co-Founder
+  Previous: Co-Founder @ Helia (Acquired By Scale Ai)
+  Education: MS CS, Stanford '19
+  LinkedIn: https://linkedin.com/in/sreenivasashwin
+
+Employee #2
+  Name: Jesse Zhang
+  Grad: '16 | YoE: 9
+  Start Date: 2023-08
+  Title: Chief Executive Officer / Co-Founder
+  Previous: Chief Executive Officer / Founder @ Lowkey (Acquired By Niantic!)
+  Education: Math, Fairview High School
+  LinkedIn: https://linkedin.com/in/thejessezhang
+
+Employee #3
+  Name: Sangwoo Bae
+  Grad: '19 | YoE: 6
+  Start Date: 2024-01
+  Title: Engineering
+  Previous: Engineering Manager @ Scale Ai
+  Education: BA CS, UC Berkeley '19
+  LinkedIn: https://linkedin.com/in/sang
+
+Employee #4
+  Name: Sambhav Jain
+  Grad: '20 | YoE: 5
+  Start Date: 2024-01
+  Title: Agents
+  Previous: General Manager, Product @ Truework
+  Education: BS Engineering, Columbia '20
+  LinkedIn: https://linkedin.com/in/sambhavjain1436789
+
+Employee #5
+  Name: Katherine Xiao
+  Grad: '18 | YoE: 7
+  Start Date: 2024-01
+  Title: Agent Product Manager
+  Previous: Software Investor @ Spectrum Equity
+  Education: CS, Amador Valley High S
+  LinkedIn: https://linkedin.com/in/katherinexiao
+
+Employee #6
+  Name: Grant Proctor
+  Grad: '17 | YoE: 8
+  Start Date: 2024-01
+  Title: Sales
+  Previous: Worldwide Sales | Data Observability @ Ibm
+  Education: UPenn '17
+  LinkedIn: https://linkedin.com/in/proctorg
+
+Employee #7
+  Name: Cynthia Chen
+  Grad: '24 | YoE: 1
+  Start Date: 2024-01
+  Title: Engineer
+  Previous: Intern @ Scale Ai
+  Education: MS CS, Harvard '24
+  LinkedIn: https://linkedin.com/in/chen-cynthia
+
+Employee #8
+  Name: Amy Jin
+  Grad: '16 | YoE: 9
+  Start Date: 2024-01
+  Title: Engineering
+  Previous: Chief Of Staff @ Dorsal Health
+  Education: Harvard '22
+  LinkedIn: https://linkedin.com/in/ayjin
+
+Employee #9
+  Name: Sambhav Jain
+  Grad: '17 | YoE: 8
+  Start Date: 2024-01
+  Title: Product + Gtm
+  Previous: General Manager, Product @ Truework
+  Education: BS Industrial Engineeri, Columbia
+  LinkedIn: https://linkedin.com/in/sambhavjain2799
+
+Employee #10
+  Name: Perry Ha
+  Grad: '17 | YoE: 8
+  Start Date: 2024-05
+  Title: Vice President, Agent Product
+  Previous: Co-Founder, Chief Executive Officer @ Homeflow
+  Education: BS Management, MIT '17
+  LinkedIn: https://linkedin.com/in/perryha95
+
+Employee #11
+  Name: Rohan D'Souza
+  Grad: '22 | YoE: 3
+  Start Date: 2024-06
+  Title: Engineer
+  Previous: Software Engineer @ Lyft
+  Education: BA Math, UC Berkeley '22
+  LinkedIn: https://linkedin.com/in/rohan-d-souza
+
+Employee #12
+  Name: Matt Tosi
+  Grad: '08 | YoE: 17
+  Start Date: 2024-07
+  Title: Sales
+  Previous: Strategic Accounts @ Mux
+  Education: Solo Schools '07
+  LinkedIn: https://linkedin.com/in/matthewtosi
+
+Employee #13
+  Name: Max Lowenthal
+  Grad: '18 | YoE: 7
+  Start Date: 2024-09
+  Title: Director, Agent Product
+  Previous: Business Operations Manager @ Rodeo
+  Education: BS Business, Washington Universit '18
+  LinkedIn: https://linkedin.com/in/maxlowenthal
+
+Employee #14
+  Name: Andrew Chen
+  Grad: '17 | YoE: 8
+  Start Date: 2024-09
+  Title: Member Of The Technical Staff
+  Previous: Software Engineer, Product @ Plaid
+  Education: CS, MIT
+  LinkedIn: https://linkedin.com/in/andrew-chen-962979122
+
+Employee #15
+  Name: Noah Springwater
+  Grad: '15 | YoE: 10
+  Start Date: 2024-10
+  Title: Sales
+  Previous: Enterprise Account Executive @ Retool
+  Education: Web Development, General Assembly '15
+  LinkedIn: https://linkedin.com/in/noahspringwater
+
+Employee #16
+  Name: Jacob Arnall
+  Grad: '15 | YoE: 10
+  Start Date: 2024-10
+  Title: Head Of Talent
+  Previous: Talent @ Adept
+  Education: BS Communication, UW '15
+  LinkedIn: https://linkedin.com/in/jacobarnall
+
+Employee #17
+  Name: Gram Liu
+  Grad: '23 | YoE: 2
+  Start Date: 2024-10
+  Title: Member Of Technical Staff
+  Previous: Software Engineer Ii @ Stripe
+  Education: BS CE, CMU '23
+  LinkedIn: https://linkedin.com/in/gramliu
+
+Employee #18
+  Name: Viraj Maddur
+  Grad: '22 | YoE: 3
+  Start Date: 2024-10
+  Title: Member Of Technical Staff
+  Previous: Gardening Leave @ Headlands Technologies Llc
+  Education: BS CS, UT Austin '22
+  LinkedIn: https://linkedin.com/in/virajmaddur
+
+Employee #19
+  Name: Alexia Esquivel
+  Grad: '21 | YoE: 4
+  Start Date: 2024-10
+  Title: Executive Assistant
+  Previous: Rupa University Program Manager @ Rupa Health
+  Education: BBA International Busine, San Francisco State  '21
+  LinkedIn: https://linkedin.com/in/alexia-esquivel-443113184
+
+Employee #20
+  Name: Ryan Buick
+  Grad: '13 | YoE: 12
+  Start Date: 2024-12
+  Title: Sales
+  Previous: Co-Founder And Head Of Gtm @ Canvas
+  Education: BS Advertising, University Of Oregon '13
+  LinkedIn: https://linkedin.com/in/ryanjbuick
+
+Employee #21
+  Name: Joseph Grinstain
+  Grad: '16 | YoE: 9
+  Start Date: 2024-12
+  Title: Sales Development Representative
+  Previous: Sales Development Representative @ Tropic
+  Education: BS Kinesiology, California State Uni '16
+  LinkedIn: https://linkedin.com/in/joseph-grinstain-4787285a
+
+Employee #22
+  Name: Cyrus Miremadi
+  Grad: '20 | YoE: 5
+  Start Date: 2024-12
+  Title: Enterprise Gtm Lead
+  Previous: Sales Lead @ Userclouds
+  Education: BS EE, Santa Clara Universi '20
+  LinkedIn: https://linkedin.com/in/cymir
+
+Employee #23
+  Name: Christopher Chen
+  Grad: '17 | YoE: 8
+  Start Date: 2024-12
+  Title: Member Of Technical Staff
+  Previous: Software Engineer - Conversation Product @ Moveworks
+  Education: BA CS, UC Berkeley '17
+  LinkedIn: https://linkedin.com/in/christopherchen95
+
+Employee #24
+  Name: Allen Gu
+  Grad: '24 | YoE: 1
+  Start Date: 2024-12
+  Title: Member Of Technical Staff
+  Previous: Software Engineer Intern @ Scale Ai
+  Education: BS, UC Berkeley '24
+  LinkedIn: https://linkedin.com/in/allengu01

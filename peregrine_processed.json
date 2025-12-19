@@ -1,0 +1,151 @@
+{
+  "company": "peregrine",
+  "company_display": "Peregrine",
+  "founded": "2018-01",
+  "employees": [
+    {
+      "rank": 1,
+      "name": "Ben Rudolph",
+      "grad_year": "'13",
+      "yoe": "12",
+      "start_date": "2018-01",
+      "title": "Co-Founder",
+      "previous_title": "Software Engineer",
+      "previous_company": "Dimagi",
+      "education": "BS CS, Stanford '13",
+      "linkedin_url": "https://linkedin.com/in/brudolph"
+    },
+    {
+      "rank": 2,
+      "name": "Eric Hergenrader",
+      "grad_year": "'10",
+      "yoe": "15",
+      "start_date": "2018-12",
+      "title": "Software Engineer",
+      "previous_title": "Software Engineer 3",
+      "previous_company": "Surveymonkey",
+      "education": "BA Econ, Stanford '10",
+      "linkedin_url": "https://linkedin.com/in/erichergenrader"
+    },
+    {
+      "rank": 3,
+      "name": "Gilad Gray",
+      "grad_year": "'11",
+      "yoe": "14",
+      "start_date": "2019-09",
+      "title": "Lead User Experience Engineer",
+      "previous_title": "Senior Software Engineer",
+      "previous_company": "Palantir Technologies",
+      "education": "BS CS, Tufts University '11",
+      "linkedin_url": "https://linkedin.com/in/giladgray"
+    },
+    {
+      "rank": 4,
+      "name": "Antoine Llorca",
+      "grad_year": "'11",
+      "yoe": "14",
+      "start_date": "2020-03",
+      "title": "Head Of Design",
+      "previous_title": "Product Designer",
+      "previous_company": "Slack",
+      "education": "CS, University Of Delhi  '12",
+      "linkedin_url": "https://linkedin.com/in/antoinellorca"
+    },
+    {
+      "rank": 5,
+      "name": "Sunali Devi",
+      "grad_year": "'21",
+      "yoe": "4",
+      "start_date": "2021-02",
+      "title": "Security Supervisor",
+      "previous_title": "N/A",
+      "previous_company": "N/A",
+      "education": "N/A",
+      "linkedin_url": "https://linkedin.com/in/sunali-devi-75b85a2b5"
+    },
+    {
+      "rank": 6,
+      "name": "Jonathan Emord",
+      "grad_year": "'13",
+      "yoe": "12",
+      "start_date": "2021-03",
+      "title": "Software Engineer",
+      "previous_title": "Senior Software Engineer",
+      "previous_company": "Hopper",
+      "education": "BS CE, Tennessee Technologi '13",
+      "linkedin_url": "https://linkedin.com/in/jonathan-emord-4ba52875"
+    },
+    {
+      "rank": 7,
+      "name": "Calvin Fernandez",
+      "grad_year": "'13",
+      "yoe": "12",
+      "start_date": "2021-03",
+      "title": "Software Engineer",
+      "previous_title": "Senior Software Engineer",
+      "previous_company": "Meta",
+      "education": "BS CS, Stanford '13",
+      "linkedin_url": "https://linkedin.com/in/calvin-fernandez-85b92760"
+    },
+    {
+      "rank": 8,
+      "name": "Aakash Pattabi",
+      "grad_year": "'19",
+      "yoe": "6",
+      "start_date": "2021-03",
+      "title": "Deployment Team Lead",
+      "previous_title": "Venture Architect",
+      "previous_company": "Bcg Digital Ventures",
+      "education": "MS CS, Stanford '19",
+      "linkedin_url": "https://linkedin.com/in/aakashpattabi"
+    },
+    {
+      "rank": 9,
+      "name": "Chandra Varona",
+      "grad_year": "'07",
+      "yoe": "18",
+      "start_date": "2021-05",
+      "title": "Peregrine Technologies",
+      "previous_title": "Right Hand To The Executive Vice President",
+      "previous_company": "Palantir Technologies",
+      "education": "MS Management, Codarts Rotterdam |  '11",
+      "linkedin_url": null
+    },
+    {
+      "rank": 10,
+      "name": "Jersey Leonard Nerbetski Captain",
+      "grad_year": "'04",
+      "yoe": "21",
+      "start_date": "2021-09",
+      "title": "Senior Law Enforcement Advisor, Peregrine Technologies",
+      "previous_title": "Commander, Albuquerque Police Department",
+      "previous_company": "Albuquerque Police Department",
+      "education": "Leadership, Naval Postgraduate S '15",
+      "linkedin_url": "https://linkedin.com/in/leonard-nerbetski-captain-new-jersey-state-police-ret-66360a133"
+    },
+    {
+      "rank": 11,
+      "name": "David Zhao",
+      "grad_year": "'19",
+      "yoe": "6",
+      "start_date": "2021-10",
+      "title": "Software Engineer",
+      "previous_title": "Forward Deployed Engineer",
+      "previous_company": "Palantir Technologies",
+      "education": "BS CS, University Of Virgin '19",
+      "linkedin_url": "https://linkedin.com/in/davidbzhao"
+    },
+    {
+      "rank": 12,
+      "name": "Holland Matheson",
+      "grad_year": "'12",
+      "yoe": "13",
+      "start_date": "2021-11",
+      "title": "Head Of Recruiting",
+      "previous_title": "Recruiter",
+      "previous_company": "Keystone Strategy",
+      "education": "BA Communication, Brigham Young Univer '12",
+      "linkedin_url": "https://linkedin.com/in/holland-matheson-b2ab3888"
+    }
+  ]
+}

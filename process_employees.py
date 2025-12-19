@@ -166,6 +166,83 @@ def get_previous_job(person, linkedin_id, website):
     
     return "N/A", "N/A"
 
+def get_first_job_year(person):
+    """Get the year of the first job as a proxy for graduation"""
+    experiences = person.get('experience', [])
+    earliest_year = None
+    
+    for exp in experiences:
+        start_date = exp.get('start_date')
+        if start_date and len(start_date) >= 4:
+            try:
+                year = int(start_date[:4])
+                if 1980 < year < 2030:
+                    if earliest_year is None or year < earliest_year:
+                        earliest_year = year
+            except:
+                pass
+    
+    return earliest_year
+
+def get_bachelors_grad_year(person):
+    """
+    Get bachelor's graduation year with fallbacks:
+    1. Actual bachelor's graduation year
+    2. Year before grad school started (if no bachelor's found)
+    3. First job start year (assume graduated same year)
+    """
+    education = person.get('education', [])
+    
+    bachelors_year = None
+    earliest_grad_school_start = None
+    
+    for edu in education:
+        degrees = edu.get('degrees', [])
+        end_date = edu.get('end_date')
+        start_date = edu.get('start_date')
+        
+        grad_year = None
+        if end_date and len(end_date) >= 4:
+            try:
+                grad_year = int(end_date[:4])
+            except:
+                pass
+        
+        start_year = None
+        if start_date and len(start_date) >= 4:
+            try:
+                start_year = int(start_date[:4])
+            except:
+                pass
+        
+        for degree in degrees:
+            degree_lower = degree.lower()
+            # Check for bachelor's
+            if 'bachelor' in degree_lower or degree_lower == 'bachelors':
+                if grad_year and 1980 < grad_year < 2030:
+                    bachelors_year = grad_year
+                break
+            # Check for grad school (master's, PhD, MBA, JD)
+            if any(g in degree_lower for g in ['master', 'doctor', 'phd', 'mba', 'juris']):
+                if start_year and 1980 < start_year < 2030:
+                    if earliest_grad_school_start is None or start_year < earliest_grad_school_start:
+                        earliest_grad_school_start = start_year
+    
+    # Priority 1: Actual bachelor's year
+    if bachelors_year:
+        return bachelors_year, False
+    
+    # Priority 2: Year before grad school started
+    if earliest_grad_school_start:
+        return earliest_grad_school_start - 1, True
+    
+    # Priority 3: First job year
+    first_job_year = get_first_job_year(person)
+    if first_job_year:
+        return first_job_year, True
+    
+    return None, False
+
 def get_education_formatted(person):
     """Get formatted education like 'BS CS, MIT '16' """
     education = person.get('education', [])
@@ -246,30 +323,41 @@ def get_education_formatted(person):
     return formatted, bachelors_year
 
 def get_age(person, bachelors_year, yoe=None):
-    """Calculate age from birth_year, bachelor's graduation, or YoE"""
+    """Calculate age from birth_year, bachelor's graduation, or YoE. Always returns an age."""
     birth_year = person.get('birth_year')
     
+    # Priority 1: Actual birth year
     if birth_year and isinstance(birth_year, int) and 1950 < birth_year < 2010:
         return CURRENT_YEAR - birth_year, False
     
+    # Priority 2: Bachelor's graduation (assume graduated at 22)
     if bachelors_year and isinstance(bachelors_year, int) and 1980 < bachelors_year < 2030:
         estimated_birth = bachelors_year - 22
         return CURRENT_YEAR - estimated_birth, True
     
-    # Estimate from YoE: assume started working at 22
+    # Priority 3: YoE (assume started working at 22)
     if yoe and isinstance(yoe, (int, float)) and yoe > 0:
         return 22 + int(yoe), True
     
-    return None, False
+    # Priority 4: Fallback - assume 30 years old
+    return 30, True
 
 def get_yoe(person, bachelors_year):
-    """Get years of experience from bachelor's graduation year"""
+    """Get years of experience from bachelor's graduation year, first job, or PDL estimate"""
+    # Priority 1: Bachelor's graduation year
     if bachelors_year and isinstance(bachelors_year, int) and 1980 < bachelors_year < 2030:
         return CURRENT_YEAR - bachelors_year
-    # Fallback to PDL's estimate if no graduation year
+    
+    # Priority 2: First job year (assume started working right after college)
+    first_job_year = get_first_job_year(person)
+    if first_job_year:
+        return CURRENT_YEAR - first_job_year
+    
+    # Priority 3: PDL's estimate
     yoe = person.get('inferred_years_experience')
     if yoe and isinstance(yoe, (int, float)):
         return int(yoe)
+    
     return None
 
 def get_linkedin_url(person):
@@ -357,17 +445,20 @@ def main():
         prev_title, prev_company = get_previous_job(emp, linkedin_id, website)
         prev_title = prev_title.title()
         prev_company = prev_company.title()
-        edu_formatted, bachelors_year = get_education_formatted(emp)
-        yoe = get_yoe(emp, bachelors_year)
-        age, is_estimated = get_age(emp, bachelors_year, yoe)
+        edu_formatted, _ = get_education_formatted(emp)
+        grad_year, grad_estimated = get_bachelors_grad_year(emp)
+        yoe = get_yoe(emp, grad_year)
+        age, is_estimated = get_age(emp, grad_year, yoe)
         linkedin_url = get_linkedin_url(emp)
         start_str = start_date.strftime("%Y-%m")
         
-        if age:
-            age_str = f"~{age}" if is_estimated else str(age)
+        # Format grad year as '16 style (no tilde for estimates)
+        if grad_year:
+            grad_year_str = f"'{str(grad_year)[2:]}"
         else:
-            age_str = "?"
+            grad_year_str = "?"
         
+        age_str = f"~{age}" if is_estimated else str(age)
         yoe_str = str(yoe) if yoe else "?"
         edu_str = edu_formatted if edu_formatted else "N/A"
         
@@ -384,7 +475,7 @@ def main():
         
         output_lines.append(f"Employee #{i}")
         output_lines.append(f"  Name: {name}")
-        output_lines.append(f"  Age: {age_str} | YoE: {yoe_str}")
+        output_lines.append(f"  Grad: {grad_year_str} | YoE: {yoe_str}")
         output_lines.append(f"  Start Date: {start_str}")
         output_lines.append(f"  Title: {title}")
         output_lines.append(f"  Previous: {prev_title} @ {prev_company}")
@@ -397,7 +488,7 @@ def main():
         json_data["employees"].append({
             "rank": i,
             "name": name,
-            "age": age_str,
+            "grad_year": grad_year_str,
             "yoe": yoe_str,
             "start_date": start_str,
             "title": title,

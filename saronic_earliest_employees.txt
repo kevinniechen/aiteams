@@ -1,0 +1,183 @@
+SARONIC - EARLIEST EMPLOYEES
+(Founded: 2022-01)
+================================================================================
+
+Employee #1
+  Name: Robert Lehman
+  Grad: '00 | YoE: 25
+  Start Date: 2022-09
+  Title: Co-Founder And Chief Commercial Officer
+  Previous: Founder @ 9 Line Solutions, Llc
+  Education: The Staff College '18
+  LinkedIn: https://linkedin.com/in/rob-lehman-8387634
+
+Employee #2
+  Name: Dino Mavrookas
+  Grad: '03 | YoE: 22
+  Start Date: 2022-09
+  Title: Co-Founder And Chief Executive Officer
+  Previous: Entrepreneur In Residence @ 8Vc
+  Education: MBA Finance, The Wharton School '17
+  LinkedIn: https://linkedin.com/in/dino-mavrookas-190244127
+
+Employee #3
+  Name: Rob Lehman
+  Grad: '00 | YoE: 25
+  Start Date: 2022-09
+  Title: Co-Founder And Chief Commercial Officer
+  Previous: Founder @ 9 Line Solutions, Llc
+  Education: The Staff College '18
+  LinkedIn: https://linkedin.com/in/rob-lehman-8387634
+
+Employee #4
+  Name: Rishi Desai
+  Grad: '20 | YoE: 5
+  Start Date: 2023-01
+  Title: Senior Software Engineer
+  Previous: Software Engineer @ Anduril Industries
+  Education: BS CS, UIUC '20
+  LinkedIn: https://linkedin.com/in/rishidesai1
+
+Employee #5
+  Name: Joseph Gargiulo
+  Grad: '17 | YoE: 8
+  Start Date: 2023-02
+  Title: Naval Software Architect
+  Previous: Senior Naval Architect @ Thayermahan, Inc.
+  Education: BS Engineering, Webb Institute '17
+  LinkedIn: https://linkedin.com/in/joseph-gargiulo-a959bb2aa
+
+Employee #6
+  Name: Jav Mohamed
+  Grad: '20 | YoE: 5
+  Start Date: 2023-03
+  Title: Software Engineer
+  Previous: Software Engineer @ Leantaas
+  Education: BS CS, UIUC '20
+  LinkedIn: https://linkedin.com/in/javbit
+
+Employee #7
+  Name: Robert Duran
+  Grad: '03 | YoE: 22
+  Start Date: 2023-04
+  Title: Research & Development Engineer And Test Manager
+  Previous: Research Engineer @ Southwest Research Institute
+  Education: MS Management, The University Of Te '10
+  LinkedIn: https://linkedin.com/in/robertduran
+
+Employee #8
+  Name: William Traylor
+  Grad: '13 | YoE: 12
+  Start Date: 2023-05
+  Title: Senior Manufacturing Engineer
+  Previous: Manufacturing Engineer @ Hyliion
+  Education: BS Electronics, Arizona State Univer '16
+  LinkedIn: https://linkedin.com/in/wtraylor
+
+Employee #9
+  Name: Aydin Gokce
+  Grad: '18 | YoE: 7
+  Start Date: 2023-05
+  Title: Software Engineer
+  Previous: Engineering Fellow @ 8Vc
+  Education: Virginia Tech '23
+  LinkedIn: https://linkedin.com/in/aydin-gokce-0aa1bb184
+
+Employee #10
+  Name: James Stackhouse
+  Grad: '23 | YoE: 2
+  Start Date: 2023-09
+  Title: Forward Deployed Engineer
+  Previous: Combat Systems Test Engineer @ Jsl Technologies, Inc.
+  Education: MS Software Engineering, University Of Maryla '27
+  LinkedIn: https://linkedin.com/in/jamesdstackhouse
+
+Employee #11
+  Name: Corey Doermann
+  Grad: '05 | YoE: 20
+  Start Date: 2023-09
+  Title: Corporate Controller
+  Previous: Assistant Controller @ Palantir Technologies
+  Education: MS Accountancy, Wisconsin School Of  '06
+  LinkedIn: https://linkedin.com/in/corey-doermann-9321549
+
+Employee #12
+  Name: Rodney Harris
+  Grad: '97 | YoE: 28
+  Start Date: 2023-09
+  Title: Depot Repair Manager
+  Previous: Field Service Engineer @ Canon Usa
+  Education: Associates Communications, Devry University '97
+  LinkedIn: https://linkedin.com/in/rodney-harris-2aa9951a8
+
+Employee #13
+  Name: Jacob Freeman
+  Grad: '17 | YoE: 8
+  Start Date: 2023-09
+  Title: Software Engineer
+  Previous: Software Engineer @ Anduril Industries
+  Education: BS EE, Lynn University '17
+  LinkedIn: https://linkedin.com/in/jacob-h-freeman
+
+Employee #14
+  Name: Autumn Szczepanski
+  Grad: '19 | YoE: 6
+  Start Date: 2023-09
+  Title: Naval Architect
+  Previous: Engineer @ Naval Surface Warfare Center Carderock Division (Nswccd)
+  Education: MS Engineering, UMich '20
+  LinkedIn: https://linkedin.com/in/autumn-szczepanski
+
+Employee #15
+  Name: Isaac Steadman
+  Grad: '20 | YoE: 5
+  Start Date: 2023-09
+  Title: Software Engineer
+  Previous: Software Development Engineer @ Amazon
+  Education: BS CE, UT Austin '20
+  LinkedIn: https://linkedin.com/in/isaac-steadman
+
+Employee #16
+  Name: Thomas Dobbs
+  Grad: '82 | YoE: 43
+  Start Date: 2023-10
+  Title: Senior Technical Writer
+  Previous: Senior Technical Writer @ Secureworks
+  Education: MA, UT Austin '93
+  LinkedIn: https://linkedin.com/in/tomdobbsjr
+
+Employee #17
+  Name: Nailah Salaam
+  Grad: '95 | YoE: 30
+  Start Date: 2023-10
+  Title: Senior Electrical Harness Engineer
+  Previous: Senior Spacecraft Harness Engineer @ Saic
+  Education: BS EE, Temple University '95
+  LinkedIn: https://linkedin.com/in/nailah-salaam-6737b9
+
+Employee #18
+  Name: Stephanie Tam
+  Grad: '21 | YoE: 4
+  Start Date: 2023-10
+  Title: Mechanical Engineer
+  Previous: Application Engineer @ Wilder Systems Robots
+  Education: BS, CMU '19
+  LinkedIn: https://linkedin.com/in/stephanievtam
+
+Employee #19
+  Name: Ken Healy
+  Grad: '95 | YoE: 30
+  Start Date: 2023-10
+  Title: Test Site Manager / Mission Operations Specialist
+  Previous: Systems Test Engineer @ L3Harris Technologies
+  Education: Community College Of
+  LinkedIn: https://linkedin.com/in/ken-healy-7ba6a4156
+
+Employee #20
+  Name: Tyler Hatfield
+  Grad: '23 | YoE: 2
+  Start Date: 2023-12
+  Title: Boat Captain
+  Previous: N/A @ N/A
+  Education: N/A
+  LinkedIn: https://linkedin.com/in/tyler-hatfield-1a001b202

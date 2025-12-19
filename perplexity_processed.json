@@ -6,8 +6,8 @@
     {
       "rank": 1,
       "name": "Johnny Ho",
-      "age": "30",
-      "yoe": "10",
+      "grad_year": "'12",
+      "yoe": "13",
       "start_date": "2022-08",
       "title": "Cofounder, Chief Strategy Officer",
       "previous_title": "Quantitative Trader",
@@ -18,7 +18,7 @@
     {
       "rank": 2,
       "name": "Denis Yarats",
-      "age": "~37",
+      "grad_year": "'10",
       "yoe": "15",
       "start_date": "2022-08",
       "title": "Co-Founder & Chief Technology Officer",
@@ -30,7 +30,7 @@
     {
       "rank": 3,
       "name": "Nick Jalbert",
-      "age": "39",
+      "grad_year": "'08",
       "yoe": "17",
       "start_date": "2022-08",
       "title": "Full Stack Engineer",
@@ -42,7 +42,7 @@
     {
       "rank": 4,
       "name": "Aravind Srinivas",
-      "age": "~30",
+      "grad_year": "'17",
       "yoe": "8",
       "start_date": "2022-08",
       "title": "Cofounder, President, Chief Executive Officer",
@@ -54,8 +54,8 @@
     {
       "rank": 5,
       "name": "Alexey Romanov",
-      "age": "~40",
-      "yoe": "18",
+      "grad_year": "'02",
+      "yoe": "23",
       "start_date": "2022-09",
       "title": "Technical Staff",
       "previous_title": "Data Analyst",
@@ -66,7 +66,7 @@
     {
       "rank": 6,
       "name": "Bryce Mcfall",
-      "age": "~32",
+      "grad_year": "'15",
       "yoe": "10",
       "start_date": "2022-10",
       "title": "Senior Software Engineer",
@@ -78,7 +78,7 @@
     {
       "rank": 7,
       "name": "Bryce M",
-      "age": "~32",
+      "grad_year": "'15",
       "yoe": "10",
       "start_date": "2022-10",
       "title": "Ai Software Engineer",
@@ -90,7 +90,7 @@
     {
       "rank": 8,
       "name": "Henry Modisett",
-      "age": "34",
+      "grad_year": "'89",
       "yoe": "36",
       "start_date": "2022-10",
       "title": "Vice President Of Design",
@@ -102,7 +102,7 @@
     {
       "rank": 9,
       "name": "Christopher Chaney",
-      "age": "~34",
+      "grad_year": "'13",
       "yoe": "12",
       "start_date": "2022-11",
       "title": "Generative Ai Engineer",
@@ -114,7 +114,7 @@
     {
       "rank": 10,
       "name": "Adam Chen",
-      "age": "~48",
+      "grad_year": "'99",
       "yoe": "26",
       "start_date": "2022-12",
       "title": "Vice President",
@@ -126,8 +126,8 @@
     {
       "rank": 11,
       "name": "Aravindh L",
-      "age": "~26",
-      "yoe": "4",
+      "grad_year": "'22",
+      "yoe": "3",
       "start_date": "2022-12",
       "title": "Community Manager",
       "previous_title": "Software Engineer",
@@ -138,7 +138,7 @@
     {
       "rank": 12,
       "name": "Nikhil Thota",
-      "age": "29",
+      "grad_year": "'18",
       "yoe": "7",
       "start_date": "2023-01",
       "title": "Member Of Technical Staff",
@@ -150,7 +150,7 @@
     {
       "rank": 13,
       "name": "Kathan Pathak",
-      "age": "~28",
+      "grad_year": "'19",
       "yoe": "6",
       "start_date": "2023-01",
       "title": "Senior Data Scientist",
@@ -162,7 +162,7 @@
     {
       "rank": 14,
       "name": "Kevin Hu",
-      "age": "~25",
+      "grad_year": "'22",
       "yoe": "3",
       "start_date": "2023-01",
       "title": "Technical Staff",
@@ -174,7 +174,7 @@
     {
       "rank": 15,
       "name": "Antony Z",
-      "age": "~39",
+      "grad_year": "'08",
       "yoe": "17",
       "start_date": "2023-01",
       "title": "Product Manager",
@@ -186,7 +186,7 @@
     {
       "rank": 16,
       "name": "Samu Pang",
-      "age": "~31",
+      "grad_year": "'16",
       "yoe": "9",
       "start_date": "2023-01",
       "title": "Product Manager",
@@ -198,8 +198,8 @@
     {
       "rank": 17,
       "name": "Mack W",
-      "age": "~31",
-      "yoe": "9",
+      "grad_year": "'99",
+      "yoe": "26",
       "start_date": "2023-02",
       "title": "Product Manager",
       "previous_title": "Product Marketing Manager",
@@ -210,7 +210,7 @@
     {
       "rank": 18,
       "name": "Syed Ali",
-      "age": "~31",
+      "grad_year": "'16",
       "yoe": "9",
       "start_date": "2023-03",
       "title": "Senior Human Resources Manager",
@@ -222,8 +222,8 @@
     {
       "rank": 19,
       "name": "Zack Morgan",
-      "age": "~27",
-      "yoe": "5",
+      "grad_year": "'15",
+      "yoe": "10",
       "start_date": "2023-03",
       "title": "Research Engineer",
       "previous_title": "Relocation",
@@ -234,7 +234,7 @@
     {
       "rank": 20,
       "name": "Mason Z",
-      "age": "~40",
+      "grad_year": "'07",
       "yoe": "18",
       "start_date": "2023-03",
       "title": "Product Manager",
@@ -246,7 +246,7 @@
     {
       "rank": 21,
       "name": "Uladzimir Kerus",
-      "age": "~40",
+      "grad_year": "'07",
       "yoe": "18",
       "start_date": "2023-04",
       "title": "Engineer",
@@ -258,8 +258,8 @@
     {
       "rank": 22,
       "name": "Scott Summers",
-      "age": "~31",
-      "yoe": "9",
+      "grad_year": "'15",
+      "yoe": "10",
       "start_date": "2023-05",
       "title": "Engineer",
       "previous_title": "Teacher",
@@ -270,7 +270,7 @@
     {
       "rank": 23,
       "name": "Niharika Sunkara",
-      "age": "~29",
+      "grad_year": "'18",
       "yoe": "7",
       "start_date": "2023-05",
       "title": "Business Development Associate",
@@ -282,7 +282,7 @@
     {
       "rank": 24,
       "name": "Arnav Gudibande",
-      "age": "~25",
+      "grad_year": "'22",
       "yoe": "3",
       "start_date": "2023-06",
       "title": "Research Engineer",
@@ -294,7 +294,7 @@
     {
       "rank": 25,
       "name": "Indrajeet Bose",
-      "age": "~30",
+      "grad_year": "'17",
       "yoe": "8",
       "start_date": "2023-06",
       "title": "Artificial Intelligence Developer",
@@ -306,7 +306,7 @@
     {
       "rank": 26,
       "name": "Phi Hoang",
-      "age": "~35",
+      "grad_year": "'12",
       "yoe": "13",
       "start_date": "2023-07",
       "title": "Brand Experience",
@@ -318,8 +318,8 @@
     {
       "rank": 27,
       "name": "Alexandr Yarats",
-      "age": "~31",
-      "yoe": "9",
+      "grad_year": "'17",
+      "yoe": "8",
       "start_date": "2023-07",
       "title": "Head Of Search",
       "previous_title": "Senior Software Engineer",
@@ -330,7 +330,7 @@
     {
       "rank": 28,
       "name": "Gradey Wang",
-      "age": "~29",
+      "grad_year": "'18",
       "yoe": "7",
       "start_date": "2023-08",
       "title": "Research Engineer",
@@ -342,7 +342,7 @@
     {
       "rank": 29,
       "name": "William Z",
-      "age": "~25",
+      "grad_year": "'22",
       "yoe": "3",
       "start_date": "2023-08",
       "title": "Employee",
@@ -354,7 +354,7 @@
     {
       "rank": 30,
       "name": "Maxime Carlier",
-      "age": "~27",
+      "grad_year": "'20",
       "yoe": "5",
       "start_date": "2023-08",
       "title": "Senior Machine Learning Engineer",
@@ -366,8 +366,8 @@
     {
       "rank": 31,
       "name": "Dmitrii Shliugaev",
-      "age": "~35",
-      "yoe": "13",
+      "grad_year": "'08",
+      "yoe": "17",
       "start_date": "2023-08",
       "title": "Member Of Technical Staff",
       "previous_title": "Lead Software Engineer",
@@ -378,7 +378,7 @@
     {
       "rank": 32,
       "name": "Drew Venker",
-      "age": "~42",
+      "grad_year": "'05",
       "yoe": "20",
       "start_date": "2023-08",
       "title": "Vice President Of Finance",
@@ -390,8 +390,8 @@
     {
       "rank": 33,
       "name": "Alexa Deanda",
-      "age": "31",
-      "yoe": "11",
+      "grad_year": "'15",
+      "yoe": "10",
       "start_date": "2023-09",
       "title": "Executive Assistant To Chief Executive Officer & Co Founder Of Perplexity Ai",
       "previous_title": "Executive Assistant To Vice President Of Infrastructure Engineering",
@@ -402,8 +402,8 @@
     {
       "rank": 34,
       "name": "Dmitry Pervukhin",
-      "age": "~39",
-      "yoe": "17",
+      "grad_year": "'09",
+      "yoe": "16",
       "start_date": "2023-09",
       "title": "Member Of Technical Staff",
       "previous_title": "Lead C Developer",
@@ -414,8 +414,8 @@
     {
       "rank": 35,
       "name": "Dmitry Shevelenko",
-      "age": "40",
-      "yoe": "14",
+      "grad_year": "'12",
+      "yoe": "13",
       "start_date": "2023-10",
       "title": "Chief Business Officer",
       "previous_title": "Board Director",
@@ -426,7 +426,7 @@
     {
       "rank": 36,
       "name": "Alexis Weill",
-      "age": "35",
+      "grad_year": "'14",
       "yoe": "11",
       "start_date": "2023-10",
       "title": "Data Science",
@@ -438,8 +438,8 @@
     {
       "rank": 37,
       "name": "Alexis Weill",
-      "age": "~34",
-      "yoe": "12",
+      "grad_year": "'11",
+      "yoe": "14",
       "start_date": "2023-10",
       "title": "Head Of Data Science",
       "previous_title": "Data Science Manager, Value & Pickup",
@@ -450,7 +450,7 @@
     {
       "rank": 38,
       "name": "Peter Hart",
-      "age": "~26",
+      "grad_year": "'21",
       "yoe": "4",
       "start_date": "2023-10",
       "title": "Member Of Technical Staff",
@@ -462,7 +462,7 @@
     {
       "rank": 39,
       "name": "Julius Potrykus",
-      "age": "~20",
+      "grad_year": "'27",
       "yoe": "-2",
       "start_date": "2023-10",
       "title": "Llm Teacher",
@@ -474,7 +474,7 @@
     {
       "rank": 40,
       "name": "Andrew Lebedev",
-      "age": "~31",
+      "grad_year": "'16",
       "yoe": "9",
       "start_date": "2023-11",
       "title": "Technical Staff",
@@ -486,8 +486,8 @@
     {
       "rank": 41,
       "name": "Logan Anderson",
-      "age": "~38",
-      "yoe": "16",
+      "grad_year": "'05",
+      "yoe": "20",
       "start_date": "2023-12",
       "title": "Ios Consultant",
       "previous_title": "Co-Founder",
@@ -498,7 +498,7 @@
     {
       "rank": 42,
       "name": "Nikhil Birmiwal",
-      "age": "~29",
+      "grad_year": "'18",
       "yoe": "7",
       "start_date": "2023-12",
       "title": "Software Engineer",
@@ -510,8 +510,8 @@
     {
       "rank": 43,
       "name": "Mary Kotova",
-      "age": "~35",
-      "yoe": "13",
+      "grad_year": "'13",
+      "yoe": "12",
       "start_date": "2023-12",
       "title": "Qa / Qc",
       "previous_title": "Quality Assurance Manager",
@@ -522,7 +522,7 @@
     {
       "rank": 44,
       "name": "Daniel Kwak",
-      "age": "~34",
+      "grad_year": "'13",
       "yoe": "12",
       "start_date": "2024-01",
       "title": "Head Of Strategic Finance & Corporate Development",
@@ -534,7 +534,7 @@
     {
       "rank": 45,
       "name": "Mikhail Galanin",
-      "age": "~36",
+      "grad_year": "'11",
       "yoe": "14",
       "start_date": "2024-01",
       "title": "Technical Staff",
@@ -546,7 +546,7 @@
     {
       "rank": 46,
       "name": "Ali Panju",
-      "age": "~25",
+      "grad_year": "'22",
       "yoe": "3",
       "start_date": "2024-01",
       "title": "Head Of Special Projects",
@@ -558,7 +558,7 @@
     {
       "rank": 47,
       "name": "Vydehi D",
-      "age": "~43",
+      "grad_year": "'04",
       "yoe": "21",
       "start_date": "2024-01",
       "title": "Product Qa",
@@ -570,7 +570,7 @@
     {
       "rank": 48,
       "name": "Rohanth G",
-      "age": "~24",
+      "grad_year": "'23",
       "yoe": "2",
       "start_date": "2024-01",
       "title": "Ai / Ml Engineer",
@@ -582,8 +582,8 @@
     {
       "rank": 49,
       "name": "Gunnar Gray",
-      "age": "~38",
-      "yoe": "16",
+      "grad_year": "'10",
+      "yoe": "15",
       "start_date": "2024-02",
       "title": "Product Design Lead",
       "previous_title": "Founding Designer",
@@ -594,7 +594,7 @@
     {
       "rank": 50,
       "name": "Maita Paik",
-      "age": "~35",
+      "grad_year": "'12",
       "yoe": "13",
       "start_date": "2024-02",
       "title": "Talent Acquisition",
@@ -606,8 +606,8 @@
     {
       "rank": 51,
       "name": "Jennifer Palk-Cogley",
-      "age": "~36",
-      "yoe": "14",
+      "grad_year": "'10",
+      "yoe": "15",
       "start_date": "2024-02",
       "title": "Cx & User Ops",
       "previous_title": "Assistant General Manager",
@@ -618,7 +618,7 @@
     {
       "rank": 52,
       "name": "Sai Garikapati",
-      "age": "~32",
+      "grad_year": "'15",
       "yoe": "10",
       "start_date": "2024-02",
       "title": "Full Stack Software Engineer",
@@ -630,8 +630,8 @@
     {
       "rank": 53,
       "name": "Mark Tonelle",
-      "age": "~24",
-      "yoe": "2",
+      "grad_year": "'24",
+      "yoe": "1",
       "start_date": "2024-02",
       "title": "Senior Software Engineer",
       "previous_title": "N/A",
@@ -642,7 +642,7 @@
     {
       "rank": 54,
       "name": "Larmon Luo",
-      "age": "33",
+      "grad_year": "'14",
       "yoe": "11",
       "start_date": "2024-03",
       "title": "Member Of Technical Staff",
@@ -654,7 +654,7 @@
     {
       "rank": 55,
       "name": "Nikash Sethi",
-      "age": "~26",
+      "grad_year": "'21",
       "yoe": "4",
       "start_date": "2024-03",
       "title": "Member Of Technical Staff",
@@ -666,7 +666,7 @@
     {
       "rank": 56,
       "name": "Morris Tao",
-      "age": "~47",
+      "grad_year": "'00",
       "yoe": "25",
       "start_date": "2024-04",
       "title": "Engineering Leader",
@@ -678,7 +678,7 @@
     {
       "rank": 57,
       "name": "Liane Phun",
-      "age": "~30",
+      "grad_year": "'17",
       "yoe": "8",
       "start_date": "2024-04",
       "title": "Workplace Experience Manager",
@@ -690,7 +690,7 @@
     {
       "rank": 58,
       "name": "John-Michael Murphy",
-      "age": "~31",
+      "grad_year": "'16",
       "yoe": "9",
       "start_date": "2024-04",
       "title": "Member Of Technical Staff",
@@ -702,8 +702,8 @@
     {
       "rank": 59,
       "name": "Kirsten Thompson",
-      "age": "~43",
-      "yoe": "21",
+      "grad_year": "'03",
+      "yoe": "22",
       "start_date": "2024-04",
       "title": "Executive Assistant",
       "previous_title": "Executive And Personal Assistant",
@@ -714,7 +714,7 @@
     {
       "rank": 60,
       "name": "Thomas Wang",
-      "age": "~31",
+      "grad_year": "'16",
       "yoe": "9",
       "start_date": "2024-04",
       "title": "Member Of Technical Staff",
@@ -726,7 +726,7 @@
     {
       "rank": 61,
       "name": "Yashwanth Thallapalli",
-      "age": "~26",
+      "grad_year": "'21",
       "yoe": "4",
       "start_date": "2024-04",
       "title": "Ai / Ml Engineer",
@@ -738,7 +738,7 @@
     {
       "rank": 62,
       "name": "Patrick Liu",
-      "age": "~23",
+      "grad_year": "'24",
       "yoe": "1",
       "start_date": "2024-04",
       "title": "Ai Research Engineer",
@@ -750,7 +750,7 @@
     {
       "rank": 63,
       "name": "Lequn Chen",
-      "age": "~29",
+      "grad_year": "'18",
       "yoe": "7",
       "start_date": "2024-04",
       "title": "Research Engineer",
@@ -762,7 +762,7 @@
     {
       "rank": 64,
       "name": "Frank Pas",
-      "age": "~41",
+      "grad_year": "'06",
       "yoe": "19",
       "start_date": "2024-05",
       "title": "Head Of Enterprise Product",
@@ -774,8 +774,8 @@
     {
       "rank": 65,
       "name": "Stephen Galeoto",
-      "age": "~36",
-      "yoe": "14",
+      "grad_year": "'10",
+      "yoe": "15",
       "start_date": "2024-05",
       "title": "Member Of Technical Staff",
       "previous_title": "Program Manager, Product Operations - Whatsapp",
@@ -786,7 +786,7 @@
     {
       "rank": 66,
       "name": "Weihua Hu",
-      "age": "~31",
+      "grad_year": "'16",
       "yoe": "9",
       "start_date": "2024-05",
       "title": "Member Of Technical Staff",
@@ -798,7 +798,7 @@
     {
       "rank": 67,
       "name": "Niteesh Singh",
-      "age": "~33",
+      "grad_year": "'14",
       "yoe": "11",
       "start_date": "2024-05",
       "title": "Ai / Ml Engineer",
@@ -810,7 +810,7 @@
     {
       "rank": 68,
       "name": "Ryan Putnam",
-      "age": "43",
+      "grad_year": "'04",
       "yoe": "21",
       "start_date": "2024-06",
       "title": "Brand Designer",
@@ -822,8 +822,8 @@
     {
       "rank": 69,
       "name": "Mihai Popa",
-      "age": "~31",
-      "yoe": "9",
+      "grad_year": "'12",
+      "yoe": "13",
       "start_date": "2024-06",
       "title": "Member Of Technical Staff",
       "previous_title": "Software Engineer",
@@ -834,8 +834,8 @@
     {
       "rank": 70,
       "name": "Tracy Quitasol",
-      "age": "~47",
-      "yoe": "25",
+      "grad_year": "'94",
+      "yoe": "31",
       "start_date": "2024-06",
       "title": "Llm Teacher",
       "previous_title": "Managing Director Innovation And Communications",
@@ -846,7 +846,7 @@
     {
       "rank": 71,
       "name": "Larry Yang",
-      "age": "~28",
+      "grad_year": "'19",
       "yoe": "6",
       "start_date": "2024-06",
       "title": "Software Engineer",
@@ -858,7 +858,7 @@
     {
       "rank": 72,
       "name": "Xin Xia",
-      "age": "~42",
+      "grad_year": "'05",
       "yoe": "20",
       "start_date": "2024-06",
       "title": "Member Of Technical Staff",
@@ -870,8 +870,8 @@
     {
       "rank": 73,
       "name": "Akiko O",
-      "age": "~38",
-      "yoe": "16",
+      "grad_year": "'04",
+      "yoe": "21",
       "start_date": "2024-06",
       "title": "Cx",
       "previous_title": "Technical Writer - Japanese",
@@ -882,7 +882,7 @@
     {
       "rank": 74,
       "name": "Julia Ashton",
-      "age": "~22",
+      "grad_year": "'25",
       "yoe": "?",
       "start_date": "2024-06",
       "title": "Large Language Model Teacher",
@@ -894,7 +894,7 @@
     {
       "rank": 75,
       "name": "Julia Ashton",
-      "age": "~22",
+      "grad_year": "'25",
       "yoe": "?",
       "start_date": "2024-06",
       "title": "Large Language Model Teacher",
@@ -906,8 +906,8 @@
     {
       "rank": 76,
       "name": "Carrie Keenan",
-      "age": "~41",
-      "yoe": "19",
+      "grad_year": "'07",
+      "yoe": "18",
       "start_date": "2024-07",
       "title": "Executive Assistant To Aravind Senior Inivas, Chief Executive Officer & Co-Founder",
       "previous_title": "Program Manager, Portfolio Operations",
@@ -918,8 +918,8 @@
     {
       "rank": 77,
       "name": "Justin Graham",
-      "age": "~40",
-      "yoe": "18",
+      "grad_year": "'08",
+      "yoe": "17",
       "start_date": "2024-07",
       "title": "Product Designer",
       "previous_title": "Freelance Product Designer",
@@ -930,7 +930,7 @@
     {
       "rank": 78,
       "name": "Andrew Beck",
-      "age": "~34",
+      "grad_year": "'13",
       "yoe": "12",
       "start_date": "2024-07",
       "title": "Head Of Strategic Business Development",
@@ -942,7 +942,7 @@
     {
       "rank": 79,
       "name": "Alexandr Bogutskiy",
-      "age": "~35",
+      "grad_year": "'12",
       "yoe": "13",
       "start_date": "2024-07",
       "title": "Senior Software Engineer",
@@ -954,7 +954,7 @@
     {
       "rank": 80,
       "name": "Aleksei Bykov",
-      "age": "~36",
+      "grad_year": "'11",
       "yoe": "14",
       "start_date": "2024-07",
       "title": "Search Engineer",
@@ -966,7 +966,7 @@
     {
       "rank": 81,
       "name": "Nicholas Bien",
-      "age": "~29",
+      "grad_year": "'18",
       "yoe": "7",
       "start_date": "2024-08",
       "title": "Member Of Technical Staff",
@@ -978,7 +978,7 @@
     {
       "rank": 82,
       "name": "Robin Yang",
-      "age": "~35",
+      "grad_year": "'12",
       "yoe": "13",
       "start_date": "2024-08",
       "title": "Member Of Technical Staff",
@@ -990,8 +990,8 @@
     {
       "rank": 83,
       "name": "Mohitha Chelikam",
-      "age": "~28",
-      "yoe": "6",
+      "grad_year": "'22",
+      "yoe": "3",
       "start_date": "2024-08",
       "title": "Ai / Ml Engineer",
       "previous_title": "Ai / Ml Engineer",
@@ -1002,8 +1002,8 @@
     {
       "rank": 84,
       "name": "Ibrahim Mudassar",
-      "age": "~24",
-      "yoe": "2",
+      "grad_year": "'22",
+      "yoe": "3",
       "start_date": "2024-08",
       "title": "Campus Strategist",
       "previous_title": "Project Manager / Data Lead",
@@ -1014,7 +1014,7 @@
     {
       "rank": 85,
       "name": "Vladimir Zaytsev",
-      "age": "34",
+      "grad_year": "'11",
       "yoe": "14",
       "start_date": "2024-09",
       "title": "Ai Inference",
@@ -1026,8 +1026,8 @@
     {
       "rank": 86,
       "name": "Christina Ou",
-      "age": "28",
-      "yoe": "7",
+      "grad_year": "'16",
+      "yoe": "9",
       "start_date": "2024-09",
       "title": "Member Of Technical Staff",
       "previous_title": "Senior Software Engineer",
@@ -1038,7 +1038,7 @@
     {
       "rank": 87,
       "name": "Vernon Man",
-      "age": "42",
+      "grad_year": "'08",
       "yoe": "17",
       "start_date": "2024-09",
       "title": "System Administration And Head Of It",
@@ -1050,7 +1050,7 @@
     {
       "rank": 88,
       "name": "Gustav Lindqvist",
-      "age": "~40",
+      "grad_year": "'07",
       "yoe": "18",
       "start_date": "2024-09",
       "title": "Data Scientist",
@@ -1062,7 +1062,7 @@
     {
       "rank": 89,
       "name": "Matthew Baird",
-      "age": "~34",
+      "grad_year": "'13",
       "yoe": "12",
       "start_date": "2024-09",
       "title": "Enterprise Customer Support Lead",
@@ -1074,7 +1074,7 @@
     {
       "rank": 90,
       "name": "Patrick Summers",
-      "age": "~30",
+      "grad_year": "'17",
       "yoe": "8",
       "start_date": "2024-09",
       "title": "Enterprise Growth",
@@ -1086,7 +1086,7 @@
     {
       "rank": 91,
       "name": "Yen Lee",
-      "age": "~29",
+      "grad_year": "'18",
       "yoe": "7",
       "start_date": "2024-09",
       "title": "Cx & User Ops",
@@ -1098,7 +1098,7 @@
     {
       "rank": 92,
       "name": "Ryan Siu",
-      "age": "~25",
+      "grad_year": "'22",
       "yoe": "3",
       "start_date": "2024-09",
       "title": "Member Of Technical Staff",
@@ -1110,7 +1110,7 @@
     {
       "rank": 93,
       "name": "Uday Kyama",
-      "age": "~21",
+      "grad_year": "'26",
       "yoe": "-1",
       "start_date": "2024-09",
       "title": "Product Growth Intern",
@@ -1122,7 +1122,7 @@
     {
       "rank": 94,
       "name": "Nandor Licker",
-      "age": "~31",
+      "grad_year": "'16",
       "yoe": "9",
       "start_date": "2024-09",
       "title": "Technical Staff",
@@ -1134,7 +1134,7 @@
     {
       "rank": 95,
       "name": "Erin Mcknight",
-      "age": "34",
+      "grad_year": "'13",
       "yoe": "12",
       "start_date": "2024-10",
       "title": "Brand Designer",
@@ -1146,7 +1146,7 @@
     {
       "rank": 96,
       "name": "Nathan Barksdale",
-      "age": "39",
+      "grad_year": "'08",
       "yoe": "17",
       "start_date": "2024-10",
       "title": "Head Of Legal & Operations",
@@ -1158,7 +1158,7 @@
     {
       "rank": 97,
       "name": "Will Brooke",
-      "age": "34",
+      "grad_year": "'14",
       "yoe": "11",
       "start_date": "2024-10",
       "title": "Partnerships",
@@ -1170,7 +1170,7 @@
     {
       "rank": 98,
       "name": "Nasar Massis",
-      "age": "~57",
+      "grad_year": "'90",
       "yoe": "35",
       "start_date": "2024-10",
       "title": "Governance Risk & Compliance Lead",
@@ -1182,7 +1182,7 @@
     {
       "rank": 99,
       "name": "Lauren Kolm",
-      "age": "~34",
+      "grad_year": "'13",
       "yoe": "12",
       "start_date": "2024-10",
       "title": "Brand Designer",
@@ -1194,8 +1194,8 @@
     {
       "rank": 100,
       "name": "Philip Campbell",
-      "age": "~41",
-      "yoe": "19",
+      "grad_year": "'03",
+      "yoe": "22",
       "start_date": "2024-10",
       "title": "Currently In Visa Wait",
       "previous_title": "Leader Node At Dtube",
