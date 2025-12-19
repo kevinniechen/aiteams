@@ -37,12 +37,19 @@ def build_static():
         with open('raises.json', 'r') as f:
             raises_data = json.load(f)
     
+    # Read spam data - keep filtering active, just remove edit buttons
+    spam_data = {}
+    if os.path.exists('spam.json'):
+        with open('spam.json', 'r') as f:
+            spam_data = json.load(f)
+    
     # Create inline data script
     inline_data = f'''
     <script>
         // Inlined data for static site
         const PRELOADED_DATA = {json.dumps(company_data)};
         const PRELOADED_RAISES = {json.dumps(raises_data)};
+        const PRELOADED_SPAM = {json.dumps(spam_data)};
     </script>
     '''
     
@@ -79,7 +86,7 @@ def build_static():
             // Static site: use preloaded data
             companyData = PRELOADED_DATA;
             raisesData = PRELOADED_RAISES;
-            spamData = {}; // No spam filtering in static site
+            spamData = PRELOADED_SPAM; // Spam filtering stays active, just no edit buttons
             
             renderTabs();
             const first = Object.keys(companyData)[0];
@@ -137,7 +144,8 @@ def build_static():
     
     print(f"✓ Built static site to docs/index.html")
     print(f"  - Inlined {len(company_data)} company datasets")
-    print(f"  - Removed spam/delete functionality")
+    print(f"  - Inlined spam list ({sum(len(v) for v in spam_data.values())} entries) - rows stay hidden")
+    print(f"  - Removed X buttons (no editing on static site)")
     print(f"  - Ready for GitHub Pages deployment")
 
 if __name__ == '__main__':
