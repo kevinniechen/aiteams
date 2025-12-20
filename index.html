@@ -619,6 +619,48 @@
             return null;
         }
         
+        function scoreEducation(edu) {
+            if (!edu) return {};
+            const e = edu.toLowerCase();
+            const scores = {
+                Design: 0,
+                Engineering: 0,
+                Product: 0,
+                GTM: 0,
+                Finance: 0,
+                Talent: 0,
+                Ops: 0,
+                Legal: 0,
+                Other: 0,
+            };
+            
+            // Technical degrees → Engineering
+            if (reTest(e, /\b(cs|computer science|computer engineering|ce|software)\b/)) scores.Engineering += 4;
+            if (reTest(e, /\b(ee|electrical engineering|eecs)\b/)) scores.Engineering += 4;
+            if (reTest(e, /\b(math|mathematics|applied math|statistics|stats)\b/)) scores.Engineering += 3;
+            if (reTest(e, /\b(physics|phd)\b/)) scores.Engineering += 3;
+            if (reTest(e, /\b(machine learning|ml|ai|artificial intelligence|data science)\b/)) scores.Engineering += 4;
+            if (reTest(e, /\b(mechanical engineering|me|aerospace)\b/)) scores.Engineering += 2;
+            
+            // Design degrees
+            if (reTest(e, /\b(design|bfa|mfa|graphic|visual|hci|human computer)\b/)) scores.Design += 4;
+            
+            // Business/GTM degrees
+            if (reTest(e, /\b(mba|business administration|marketing)\b/)) scores.GTM += 3;
+            if (reTest(e, /\b(communications|public relations)\b/)) scores.GTM += 3;
+            
+            // Finance degrees
+            if (reTest(e, /\b(finance|accounting|economics|econ)\b/)) scores.Finance += 3;
+            
+            // Legal degrees
+            if (reTest(e, /\b(jd|law|juris|legal)\b/)) scores.Legal += 4;
+            
+            // HR/Psychology
+            if (reTest(e, /\b(psychology|hr|human resources|organizational)\b/)) scores.Talent += 3;
+            
+            return scores;
+        }
+        
         function scoreFunctions(t) {
             // Handle conflict phrases explicitly
             const isProductMarketing = reTest(t, /\bproduct marketing\b/);
@@ -708,16 +750,18 @@
             
             const curScores = scoreFunctions(cur);
             const prevScores = scoreFunctions(prev);
+            const eduScores = scoreEducation(emp.education);
             
-            // Special case: ambiguous current titles like "Founding Team", "Human" - rely more on previous
+            // Special case: ambiguous current titles like "Founding Team", "Human" - rely more on other signals
             const isAmbiguousCurrent = reTest(cur, /^(founding team|human|member|employee|team member)$/);
-            const curWeight = isAmbiguousCurrent ? 0.3 : 1.0;
+            const curWeight = isAmbiguousCurrent ? 0.2 : 1.0;
             const prevWeight = isAmbiguousCurrent ? 1.0 : 0.4;
+            const eduWeight = isAmbiguousCurrent ? 0.8 : 0.3; // Education matters more for ambiguous titles
             
-            // Combine evidence
+            // Combine evidence: current title + previous title + education
             const combinedScores = {};
             for (const k of Object.keys(curScores)) {
-                combinedScores[k] = curScores[k] * curWeight + prevScores[k] * prevWeight;
+                combinedScores[k] = curScores[k] * curWeight + prevScores[k] * prevWeight + (eduScores[k] || 0) * eduWeight;
             }
             
             const { function: fn, confidence } = pickFunction(combinedScores);
