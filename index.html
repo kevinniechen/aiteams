@@ -87,7 +87,7 @@
             font-size: 10px;
             padding: 1px 4px;
             border-radius: 3px;
-            margin-left: 8px;
+            margin-right: 8px;
         }
         .role-tag-eng { background: #dbeafe; color: #1e40af; }
         .role-tag-founder { background: #f3e8ff; color: #7c3aed; }
@@ -98,18 +98,6 @@
         .role-tag-product { background: #e0e7ff; color: #4338ca; }
         .role-tag-finance { background: #f0fdf4; color: #15803d; }
         .role-tag-talent { background: #fce7f3; color: #be185d; }
-        
-        /* Level tags for YoE */
-        .level-tag {
-            font-size: 9px;
-            padding: 1px 3px;
-            border-radius: 2px;
-            margin-left: 4px;
-        }
-        .level-tag-uni { background: #e0f2fe; color: #0369a1; }
-        .level-tag-jr { background: #dcfce7; color: #166534; }
-        .level-tag-sr { background: #fef3c7; color: #b45309; }
-        .level-tag-staff { background: #f3e8ff; color: #7c3aed; }
         
         /* Prevent line breaks in tenure */
         td[title] {
@@ -122,25 +110,9 @@
         
         .col-rank { width: 25px; }
         .col-name { width: 140px; }
-        .col-role { width: 280px; }
-        
-        /* Role cell: tag left, title right */
-        .role-cell {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            width: 100%;
-            gap: 8px;
-        }
-        .role-title {
-            flex: 1;
-            text-align: right;
-            overflow: hidden;
-            text-overflow: ellipsis;
-            white-space: nowrap;
-        }
+        .col-title { width: 280px; }
         .col-yoe { width: 35px; }
-        .col-start { width: 45px; }
+        .col-start { width: 40px; }
         .col-edu { width: 250px; }
         .col-prev { width: auto; }
         .col-action { width: 25px; padding: 4px !important; }
@@ -459,7 +431,7 @@
             /* Compact column widths for mobile */
             .col-rank { width: 20px; }
             .col-name { width: 100px; }
-            .col-role { width: 180px; }
+            .col-title { width: 140px; }
             .col-yoe { width: 30px; }
             .col-start { width: 35px; }
             .col-edu { width: 100px; }
@@ -1028,13 +1000,6 @@
             return 'Staff';
         }
         
-        function renderLevelTag(yoe) {
-            const level = getLevel(yoe);
-            if (level === '?') return '';
-            const classMap = { 'Uni': 'level-tag-uni', 'Jr': 'level-tag-jr', 'Sr': 'level-tag-sr', 'Staff': 'level-tag-staff' };
-            return `<span class="level-tag ${classMap[level]}">${level}</span>`;
-        }
-        
         function buildSnapshot(employees, month) {
             // Get cumulative team up to and including selected month
             const team = employees.filter(e => e.start_date <= month);
@@ -1411,7 +1376,7 @@ document.getElementById('company-info').innerHTML =
                     <th class="col-rank">#</th>
                     <th class="col-start">Joined</th>
                     <th class="col-name">Name</th>
-                    <th class="col-role">Role</th>
+                    <th class="col-title">Title</th>
                     <th class="col-yoe">YoE</th>
                     <th class="col-edu">Education</th>
                     <th class="col-prev">Experience</th>
@@ -1453,13 +1418,14 @@ document.getElementById('company-info').innerHTML =
                 const expText = expParts.join('; ') || 'N/A';
                 const prevDisplay = renderWithLogo(expText, companyLogo);
                 
+                const titleDisplay = `<span class="title-content">${renderRoleTag(role.category, categoryNum)}<span class="title-text">${e.original_title || e.title}</span></span>`;
                 html += `<tr class="employee-row" data-month="${e.start_date}" 
                     onmouseenter="highlightMonth('${e.start_date}', this)" onmouseleave="clearHighlight()"
                     onclick="selectMonth('${e.start_date}', false)" style="cursor: pointer">
                     <td>${idx + 1}</td>
                     <td>${formatTenure(e.start_date, companyInceptionDate)}</td>
                     <td>${name}</td>
-                    <td class="col-role" title="${(e.original_title || e.title).replace(/"/g, '&quot;')}"><span class="role-cell">${renderRoleTag(role.category, categoryNum)}<span class="role-title">${e.original_title || e.title}</span></span></td>
+                    <td title="${(e.original_title || e.title).replace(/"/g, '&quot;')}">${titleDisplay}</td>
                     <td>${yoe}</td>
                     <td title="${(e.education || '').replace(/"/g, '&quot;')}">${eduDisplay}</td>
                     <td title="${expText.replace(/"/g, '&quot;')}">${prevDisplay}</td>
@@ -1596,7 +1562,7 @@ document.getElementById('company-info').innerHTML =
                     <th class="col-start">Joined</th>
                     <th class="col-company">Company</th>
                     <th class="col-name">Name</th>
-                    <th class="col-role">Role</th>
+                    <th class="col-title">Title</th>
                     <th class="col-yoe">YoE</th>
                     <th class="col-edu">Education</th>
                     <th class="col-prev">Experience</th>
@@ -1628,12 +1594,14 @@ document.getElementById('company-info').innerHTML =
                 const expText = expParts.join('; ') || 'N/A';
                 const prevDisplay = companyLogo ? `<span class="with-logo"><img class="logo-icon" src="${companyLogo}" onerror="this.style.display='none'">${expText}</span>` : expText;
                 
+                const titleDisplay = `<span class="title-content">${renderRoleTag(role.category)}<span class="title-text">${title}</span></span>`;
+                
                 html += `<tr class="employee-row">
                     <td>${e.rank}</td>
                     <td>${formatTenure(e.start_date, inceptionDates[e.company_slug])}</td>
                     <td><strong>${companyHighlight}</strong></td>
                     <td>${name}</td>
-                    <td class="col-role" title="${(e.original_title || e.title).replace(/"/g, '&quot;')}"><span class="role-cell">${renderRoleTag(role.category)}<span class="role-title">${title}</span></span></td>
+                    <td title="${(e.original_title || e.title).replace(/"/g, '&quot;')}">${titleDisplay}</td>
                     <td>${yoe}</td>
                     <td title="${(e.education || '').replace(/"/g, '&quot;')}">${eduDisplay}</td>
                     <td title="${expText.replace(/"/g, '&quot;')}">${prevDisplay}</td>
