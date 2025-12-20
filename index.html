@@ -647,6 +647,10 @@
             if (reTest(t, /\b(infra|infrastructure|platform|backend|frontend|fullstack)\b/)) scores.Engineering += 4;
             if (reTest(t, /\b(devops|mlops|secops)\b/)) scores.Engineering += 5;
             if (reTest(t, /\b(machine learning|ml|research|scientist|data scientist|data science)\b/)) scores.Engineering += 5;
+            // Cognition's quirky titles
+            if (reTest(t, /^human$/)) scores.Engineering += 7;
+            if (reTest(t, /\bhuman software\b/)) scores.Engineering += 6;
+            // "Founding Team" with technical background - check via previous title in categorizeRole
             
             // Product
             if (reTest(t, /\b(product manager|pm)\b/)) scores.Product += 7;
@@ -654,10 +658,12 @@
             if (isProductMarketing || isProductDesign || isProductOps) scores.Product -= 6;
             
             // GTM
-            if (reTest(t, /\b(sales|account exec|ae|bdr|sdr)\b/)) scores.GTM += 7;
+            if (reTest(t, /\bgtm\b/)) scores.GTM += 8; // Explicit "GTM" in title
+            if (reTest(t, /\b(sales|account executive|account exec|ae|bdr|sdr)\b/)) scores.GTM += 7;
             if (reTest(t, /\b(marketing|growth|demand gen|communications|comms|pr)\b/)) scores.GTM += 6;
             if (reTest(t, /\b(business development|biz dev|partnerships?)\b/)) scores.GTM += 6;
             if (reTest(t, /\b(customer success|csm)\b/)) scores.GTM += 6;
+            if (reTest(t, /\bpresident\b/) && !reTest(t, /vice president/)) scores.GTM += 7; // Standalone President
             if (isProductMarketing) scores.GTM += 7;
             if (isSalesEngineer) { scores.GTM += 3; scores.Engineering += 3; }
             
@@ -703,10 +709,15 @@
             const curScores = scoreFunctions(cur);
             const prevScores = scoreFunctions(prev);
             
-            // Combine evidence: current dominant, previous supportive
+            // Special case: ambiguous current titles like "Founding Team", "Human" - rely more on previous
+            const isAmbiguousCurrent = reTest(cur, /^(founding team|human|member|employee|team member)$/);
+            const curWeight = isAmbiguousCurrent ? 0.3 : 1.0;
+            const prevWeight = isAmbiguousCurrent ? 1.0 : 0.4;
+            
+            // Combine evidence
             const combinedScores = {};
             for (const k of Object.keys(curScores)) {
-                combinedScores[k] = curScores[k] * 1.0 + prevScores[k] * 0.4;
+                combinedScores[k] = curScores[k] * curWeight + prevScores[k] * prevWeight;
             }
             
             const { function: fn, confidence } = pickFunction(combinedScores);
