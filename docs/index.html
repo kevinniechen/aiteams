@@ -1165,7 +1165,7 @@
                 : null;
             
 document.getElementById('company-info').innerHTML =
-                `<strong>${data.company_display || data.company}</strong> · Founded: ${data.founded || '?'} · <span class="info-tooltip">${currentEmployees.length} employees<span class="tooltip-text">Snapshot from data provider. May not be up to date or entirely accurate.</span></span>''
+                `<strong>${data.company_display || data.company}</strong> · Founded: ${data.founded || '?'} · <span class="info-tooltip">${currentEmployees.length} employees<span class="tooltip-text">Snapshot from data provider. May not be up to date or entirely accurate.</span></span>
                 <div class="mobile-disclaimer" id="mobile-disclaimer">ℹ️ Snapshot from data provider. May not be up to date or entirely accurate. <span class="close-btn" onclick="this.parentElement.classList.add('hidden')">×</span></div>`;
             
             let html = '<div class="main-layout">';

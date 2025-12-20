@@ -136,7 +136,7 @@ def build_static():
     html = re.sub(toggleSpam_pattern, '// toggleSpam removed in static build', html)
     
     # Remove "(X hidden)" text from company info
-    html = re.sub(r"\$\{spamCount > 0 \? ` \(\$\{spamCount\} hidden\)` : ''\}", "''", html)
+    html = re.sub(r"\$\{spamCount > 0 \? ` \(\$\{spamCount\} hidden\)` : ''\}", "", html)
     
     # Create docs folder
     os.makedirs('docs', exist_ok=True)
