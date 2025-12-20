@@ -756,9 +756,11 @@
             return config[category] || { text: category, class: 'role-tag-other' };
         }
         
-        function renderRoleTag(category) {
+        function renderRoleTag(category, number = null) {
             const tag = getRoleTag(category);
-            return `<span class="role-tag ${tag.class}">${tag.text}</span>`;
+            // Founders don't get numbers
+            const text = (category === 'Founder' || number === null) ? tag.text : `${tag.text} #${number}`;
+            return `<span class="role-tag ${tag.class}">${text}</span>`;
         }
         
         // Company domain mappings for logos
@@ -1231,9 +1233,9 @@ document.getElementById('company-info').innerHTML =
                 <thead>
                 <tr>
                     <th class="col-rank">#</th>
+                    <th class="col-start">Start</th>
                     <th class="col-name">Name</th>
                     <th class="col-title">Title</th>
-                    <th class="col-start">Start</th>
                     <th class="col-yoe">YoE</th>
                     <th class="col-edu">Education</th>
                     <th class="col-prev">Experience</th>
@@ -1242,12 +1244,24 @@ document.getElementById('company-info').innerHTML =
                 </thead>
                 <tbody>`;
             
+            // Track counts per category for numbered tags
+            const categoryCounts = {};
+            
             currentEmployees.forEach((e, idx) => {
                 const name = e.linkedin_url 
                     ? `<a href="${e.linkedin_url}" target="_blank">${e.name}</a>` 
                     : e.name;
                 const yoe = inferYoE(e);
                 const role = categorizeRole(e);
+                
+                // Get category number (founders don't get numbers)
+                let categoryNum = null;
+                if (role.category !== 'Founder') {
+                    if (!categoryCounts[role.category]) categoryCounts[role.category] = 0;
+                    categoryCounts[role.category]++;
+                    categoryNum = categoryCounts[role.category];
+                }
+                
                 const schoolLogo = getSchoolLogo(e.education);
                 const companyLogo = getCompanyLogo(e.previous_company);
                 const eduDisplay = renderWithLogo(e.education || 'N/A', schoolLogo);
@@ -1263,14 +1277,14 @@ document.getElementById('company-info').innerHTML =
                 const expText = expParts.join('; ') || 'N/A';
                 const prevDisplay = renderWithLogo(expText, companyLogo);
                 
-                const titleDisplay = `<span class="title-content"><span class="title-text">${e.original_title || e.title}</span>${renderRoleTag(role.category)}</span>`;
+                const titleDisplay = `<span class="title-content"><span class="title-text">${e.original_title || e.title}</span>${renderRoleTag(role.category, categoryNum)}</span>`;
                 html += `<tr class="employee-row" data-month="${e.start_date}" 
                     onmouseenter="highlightMonth('${e.start_date}', this)" onmouseleave="clearHighlight()"
                     onclick="selectMonth('${e.start_date}', false)" style="cursor: pointer">
                     <td>${idx + 1}</td>
+                    <td>${formatTenure(e.start_date, companyInceptionDate)}</td>
                     <td>${name}</td>
                     <td title="${(e.original_title || e.title).replace(/"/g, '&quot;')}">${titleDisplay}</td>
-                    <td>${formatTenure(e.start_date, companyInceptionDate)}</td>
                     <td>${yoe}</td>
                     <td title="${(e.education || '').replace(/"/g, '&quot;')}">${eduDisplay}</td>
                     <td title="${expText.replace(/"/g, '&quot;')}">${prevDisplay}</td>
@@ -1404,10 +1418,10 @@ document.getElementById('company-info').innerHTML =
                 <thead>
                 <tr>
                     <th class="col-rank">#</th>
+                    <th class="col-start">Start</th>
                     <th class="col-company">Company</th>
                     <th class="col-name">Name</th>
                     <th class="col-title">Title</th>
-                    <th class="col-start">Start</th>
                     <th class="col-yoe">YoE</th>
                     <th class="col-edu">Education</th>
                     <th class="col-prev">Experience</th>
@@ -1443,10 +1457,10 @@ document.getElementById('company-info').innerHTML =
                 
                 html += `<tr class="employee-row">
                     <td>${e.rank}</td>
+                    <td>${formatTenure(e.start_date, inceptionDates[e.company_slug])}</td>
                     <td><strong>${companyHighlight}</strong></td>
                     <td>${name}</td>
                     <td title="${(e.original_title || e.title).replace(/"/g, '&quot;')}">${titleDisplay}</td>
-                    <td>${formatTenure(e.start_date, inceptionDates[e.company_slug])}</td>
                     <td>${yoe}</td>
                     <td title="${(e.education || '').replace(/"/g, '&quot;')}">${eduDisplay}</td>
                     <td title="${expText.replace(/"/g, '&quot;')}">${prevDisplay}</td>
