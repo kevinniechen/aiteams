@@ -711,6 +711,7 @@
             
             // Product - lower base, gets overridden by Design/GTM when appropriate
             if (reTest(t, /\b(product manager|pm)\b/) && !isProductMarketing) scores.Product += 7;
+            if (reTest(t, /\b(vp|vice president|head|director)\s+(of\s+)?product\b/) && !isProductDesign && !isProductMarketing) scores.Product += 10;
             if (reTest(t, /\bproduct lead\b/) && !isProductDesign) scores.Product += 5;
             if (reTest(t, /\bproduct\b/) && !isProductDesign && !isProductMarketing && !isProductOps) scores.Product += 2;
             if (isProductMarketing || isProductDesign || isProductOps) scores.Product -= 10; // Strong negative
