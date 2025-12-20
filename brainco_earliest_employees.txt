@@ -1,5 +1,5 @@
 BRAINCO - EARLIEST EMPLOYEES
-(Founded: 2023-01)
+(Founded: 2022-01)
 ================================================================================
 
 Employee #1
@@ -176,7 +176,7 @@ Employee #18
   Name: Mia Rizk
   Grad: '18 | YoE: 7
   Start Date: 2025-03
-  Title: Product (Product Designer)
+  Title: Designer (Product Designer)
   Previous 1: Design Thinking Lecturer @ Saint Joseph University Of Beirut
   Previous 2: Designer @ Sap
   Education: Harvard Business Sch '21
