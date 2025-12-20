@@ -580,120 +580,150 @@
             return 'Staff';
         }
         
+        // Score-based role classification
+        function normalizeTitle(raw) {
+            return (raw || "")
+                .toLowerCase()
+                .replace(/[/|,;()]/g, " ")
+                .replace(/&/g, " and ")
+                .replace(/\bco[\s-]?founder\b/g, "cofounder")
+                .replace(/[.]/g, " ")
+                .replace(/\s+/g, " ")
+                .trim();
+        }
+        
+        function reTest(s, re) { return re.test(s); }
+        
+        function extractFlags(t) {
+            return {
+                founder: reTest(t, /\b(founder|cofounder)\b/),
+                assistant: reTest(t, /\bassistant\b/),
+                advisor: reTest(t, /\b(advisor|adviser)\b/),
+                board: reTest(t, /\b(board|director)\b/) && reTest(t, /\bboard\b/),
+                interim: reTest(t, /\b(interim|acting)\b/),
+                cLevel: reTest(t, /\b(ceo|cto|cfo|coo|cpo|cro|cso|cbo)\b/) || reTest(t, /\bchief\b/),
+            };
+        }
+        
+        function extractSeniority(t) {
+            if (reTest(t, /\b(ceo|cto|cfo|coo|cpo|cro|cso|cbo)\b/) || reTest(t, /\bchief\b/)) return "CLevel";
+            if (reTest(t, /\b(evp|svp)\b/)) return "SVP";
+            if (reTest(t, /\b(vp|vice president)\b/)) return "VP";
+            if (reTest(t, /\b(head of)\b/)) return "Head";
+            if (reTest(t, /\b(director)\b/)) return "Director";
+            if (reTest(t, /\b(manager)\b/)) return "Manager";
+            if (reTest(t, /\b(principal|staff)\b/)) return "Staff+";
+            if (reTest(t, /\b(senior|sr)\b/)) return "Senior";
+            if (reTest(t, /\b(junior|jr)\b/)) return "Junior";
+            if (reTest(t, /\b(intern)\b/)) return "Intern";
+            return null;
+        }
+        
+        function scoreFunctions(t) {
+            // Handle conflict phrases explicitly
+            const isProductMarketing = reTest(t, /\bproduct marketing\b/);
+            const isProductDesign = reTest(t, /\b(product designer|product design)\b/);
+            const isProductOps = reTest(t, /\bproduct ops|product operations\b/);
+            const isSalesEngineer = reTest(t, /\bsales engineer\b/);
+            
+            const scores = {
+                Design: 0,
+                Engineering: 0,
+                Product: 0,
+                GTM: 0,
+                Finance: 0,
+                Talent: 0,
+                Ops: 0,
+                Legal: 0,
+                Other: 0,
+            };
+            
+            // Design
+            if (reTest(t, /\b(design|designer|ux|ui|visual)\b/)) scores.Design += 6;
+            if (isProductDesign) scores.Design += 6;
+            
+            // Engineering
+            if (reTest(t, /\b(engineer|engineering|developer|software|swe|architect)\b/)) scores.Engineering += 6;
+            if (reTest(t, /\b(infra|infrastructure|platform|backend|frontend|fullstack)\b/)) scores.Engineering += 4;
+            if (reTest(t, /\b(devops|mlops|secops)\b/)) scores.Engineering += 5;
+            if (reTest(t, /\b(machine learning|ml|research|scientist|data scientist|data science)\b/)) scores.Engineering += 5;
+            
+            // Product
+            if (reTest(t, /\b(product manager|pm)\b/)) scores.Product += 7;
+            if (reTest(t, /\b(product lead|product)\b/)) scores.Product += 2;
+            if (isProductMarketing || isProductDesign || isProductOps) scores.Product -= 6;
+            
+            // GTM
+            if (reTest(t, /\b(sales|account exec|ae|bdr|sdr)\b/)) scores.GTM += 7;
+            if (reTest(t, /\b(marketing|growth|demand gen|communications|comms|pr)\b/)) scores.GTM += 6;
+            if (reTest(t, /\b(business development|biz dev|partnerships?)\b/)) scores.GTM += 6;
+            if (reTest(t, /\b(customer success|csm)\b/)) scores.GTM += 6;
+            if (isProductMarketing) scores.GTM += 7;
+            if (isSalesEngineer) { scores.GTM += 3; scores.Engineering += 3; }
+            
+            // Finance
+            if (reTest(t, /\b(finance|financial|accounting|controller|treasury)\b/)) scores.Finance += 7;
+            
+            // Talent / People
+            if (reTest(t, /\b(recruit|recruiting|talent|people|hr|human resources)\b/)) scores.Talent += 7;
+            
+            // Ops
+            if (reTest(t, /\b(operations|ops|biz ops|business ops|chief of staff|special projects)\b/)) scores.Ops += 6;
+            if (isProductOps) scores.Ops += 7;
+            
+            // Legal
+            if (reTest(t, /\b(legal|counsel|attorney)\b/)) scores.Legal += 8;
+            
+            return scores;
+        }
+        
+        function pickFunction(scores) {
+            let best = { fn: "Other", score: -Infinity };
+            for (const [fn, sc] of Object.entries(scores)) {
+                if (sc > best.score) best = { fn, score: sc };
+            }
+            // Threshold so random weak hits don't classify
+            if (best.score < 5) return { function: "Other", confidence: 0.3 };
+            return { function: best.fn, confidence: Math.min(0.95, 0.5 + best.score / 20) };
+        }
+        
         function categorizeRole(emp) {
-            // Use original title for better matching, fall back to normalized
-            const t = (emp.original_title || emp.title || '').toLowerCase();
-            const prev = (emp.previous_title || '').toLowerCase();
+            const cur = normalizeTitle(emp.original_title || emp.title || "");
+            const prev = normalizeTitle(emp.previous_title || "");
             const yoe = emp.yoe;
             
-            // Helper function to categorize a title string
-            function categorizeTitle(title, isPrevTitle = false) {
-                // Founders FIRST - any title with "founder" is always Founder (for current title)
-                if (!isPrevTitle && (title.includes('founder') || title.includes('co-founder') || title.includes('cofounder'))) {
-                    return 'Founder';
-                }
-                
-                // C-suite (ONLY for current title) - check early, exclude assistants
-                if (!isPrevTitle && !title.includes('assistant')) {
-                    if (title.includes('ceo') || title.includes('cto') || title.includes('coo') || title.includes('cfo') ||
-                        title.includes('chief executive') || title.includes('chief technology') || 
-                        title.includes('chief operating') || title.includes('chief financial') ||
-                        title.includes('chief product') || title.includes('chief revenue') ||
-                        title.includes('chief business') || title.includes('chief strategy')) {
-                        return 'Founder';
-                    }
-                }
-                
-                // Design - check EARLY (before GTM to avoid "VP of Design" matching "president")
-                if (title.includes('design') || title.includes('ux') || title.includes('ui')) {
-                    return 'Design';
-                }
-                
-                // Engineering - anything with "engineer" is always Engineering
-                if (title.includes('engineer') || title.includes('developer') || 
-                    title.includes('swe') || title.includes('technical staff') || 
-                    title.includes('software') || title.includes('ml ') || title.includes(' ml') ||
-                    title.includes('machine learning') || title.includes('research') ||
-                    title.includes('data scientist') || title.includes('data science') ||
-                    title.includes('scientist') ||
-                    title.includes('head of search') || title.includes('head of infrastructure') ||
-                    title.includes('head of platform') || title.includes('head of ai') ||
-                    title.includes('head of data') || title.includes('head of backend') ||
-                    title.includes('head of frontend') || title.includes('head of engineering') ||
-                    title.includes('director of engineering') || title.includes('vp of engineering') ||
-                    title.includes('vice president of engineering') ||
-                    title.includes('tech lead') || title.includes('technical lead') ||
-                    title.includes('architect')) {
-                    return 'Engineering';
-                }
-                
-                // Product - check for PM roles
-                if (title.includes('product manager') || title.includes('product lead') ||
-                    title.includes('head of product') || title.includes('vp of product') ||
-                    title.includes('vice president of product') || title.includes('director of product') ||
-                    (title.includes('product') && !title.includes('chief product'))) {
-                    return 'Product';
-                }
-                
-                // Finance - check before GTM
-                if (title.includes('finance') || title.includes('financial') || title.includes('accounting') ||
-                    title.includes('controller') || title.includes('treasury') ||
-                    title.includes('vp of finance') || title.includes('vice president of finance')) {
-                    return 'Finance';
-                }
-                
-                // Talent - check before GTM
-                if (title.includes('recruit') || title.includes('talent') || title.includes('people') ||
-                    title.includes('human resources') || title.includes(' hr ') || title.includes(' hr')) {
-                    return 'Talent';
-                }
-                
-                // Ops - check before GTM
-                if (title.includes('operations') || title.includes(' ops') || title.includes('ops ') ||
-                    title.includes('special projects') || title.includes('chief of staff')) {
-                    return 'Ops';
-                }
-                
-                // GTM (sales, marketing, business dev, partnerships)
-                // Note: "president" only matches if not "vice president of [specific function]"
-                if (title.includes('gtm') || title.includes('sales') || title.includes('marketing') ||
-                    title.includes('communications') || title.includes('comms') ||
-                    title.includes('partnership') || title.includes('private equity') || 
-                    title.includes('business development') || title.includes('account') ||
-                    title.includes('enablement') || title.includes('revenue') ||
-                    title.includes('growth') || title.includes('customer success') ||
-                    // President only if standalone or "of sales/marketing/revenue/business"
-                    (title.includes('president') && !title.includes('vice president of'))) {
-                    return 'GTM';
-                }
-                
-                // Other (explicit matches)
-                if (title.includes('community') || title.includes('legal') || title.includes('counsel')) {
-                    return 'Other';
-                }
-                
-                return null;
+            const curFlags = extractFlags(cur);
+            const prevFlags = extractFlags(prev);
+            
+            // Founders and C-level get special treatment (current title only)
+            if (curFlags.founder || (curFlags.cLevel && !curFlags.assistant)) {
+                return { category: 'Founder', level: null, confidence: 0.95, seniority: 'CLevel', flags: curFlags };
             }
             
-            // Try current title first
-            const currentCategory = categorizeTitle(t, false);
-            if (currentCategory) {
-                if (currentCategory === 'Engineering') {
-                    return { category: 'Engineering', level: getEngLevel(yoe) };
-                }
-                return { category: currentCategory, level: null };
+            const curScores = scoreFunctions(cur);
+            const prevScores = scoreFunctions(prev);
+            
+            // Combine evidence: current dominant, previous supportive
+            const combinedScores = {};
+            for (const k of Object.keys(curScores)) {
+                combinedScores[k] = curScores[k] * 1.0 + prevScores[k] * 0.4;
             }
             
-            // Fallback: try previous title (but skip Founder check)
-            const prevCategory = categorizeTitle(prev, true);
-            if (prevCategory) {
-                if (prevCategory === 'Engineering') {
-                    return { category: 'Engineering', level: getEngLevel(yoe) };
-                }
-                return { category: prevCategory, level: null };
-            }
+            const { function: fn, confidence } = pickFunction(combinedScores);
+            const seniority = extractSeniority(cur) || extractSeniority(prev);
             
-            return { category: 'Other', level: null };
+            const flags = {
+                ...curFlags,
+                founder: curFlags.founder,
+                assistant: curFlags.assistant || prevFlags.assistant,
+                advisor: curFlags.advisor || prevFlags.advisor,
+                interim: curFlags.interim || prevFlags.interim,
+            };
+            
+            if (fn === "Engineering") {
+                return { category: "Engineering", level: getEngLevel(yoe), confidence, seniority, flags };
+            }
+            return { category: fn, level: null, confidence, seniority, flags };
         }
         
         function formatPersonName(name, age) {
