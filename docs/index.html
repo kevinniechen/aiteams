@@ -601,16 +601,26 @@
                     return 'Founder';
                 }
                 
-                // Product - check early to avoid false matches (e.g. "Human Product Manager")
-                if (title.includes('product manager') || title.includes('product lead') ||
-                    (title.includes('product') && !title.includes('chief product'))) {
-                    return 'Product';
+                // C-suite (ONLY for current title) - check early, exclude assistants
+                if (!isPrevTitle && !title.includes('assistant')) {
+                    if (title.includes('ceo') || title.includes('cto') || title.includes('coo') || title.includes('cfo') ||
+                        title.includes('chief executive') || title.includes('chief technology') || 
+                        title.includes('chief operating') || title.includes('chief financial') ||
+                        title.includes('chief product') || title.includes('chief revenue') ||
+                        title.includes('chief business') || title.includes('chief strategy')) {
+                        return 'Founder';
+                    }
+                }
+                
+                // Design - check EARLY (before GTM to avoid "VP of Design" matching "president")
+                if (title.includes('design') || title.includes('ux') || title.includes('ui')) {
+                    return 'Design';
                 }
                 
                 // Engineering - anything with "engineer" is always Engineering
                 if (title.includes('engineer') || title.includes('developer') || 
                     title.includes('swe') || title.includes('technical staff') || 
-                    title.includes('software') || title.includes('ml') ||
+                    title.includes('software') || title.includes('ml ') || title.includes(' ml') ||
                     title.includes('machine learning') || title.includes('research') ||
                     title.includes('data scientist') || title.includes('data science') ||
                     title.includes('scientist') ||
@@ -619,55 +629,54 @@
                     title.includes('head of data') || title.includes('head of backend') ||
                     title.includes('head of frontend') || title.includes('head of engineering') ||
                     title.includes('director of engineering') || title.includes('vp of engineering') ||
+                    title.includes('vice president of engineering') ||
                     title.includes('tech lead') || title.includes('technical lead') ||
                     title.includes('architect')) {
                     return 'Engineering';
                 }
                 
-                // Founders - includes C-suite (ONLY for current title, not previous)
-                // Exclude assistants to executives
-                if (!isPrevTitle && !title.includes('assistant')) {
-                    if (title.includes('founder') || title.includes('co-founder') || title.includes('cofounder') ||
-                        title.includes('ceo') || title.includes('cto') || title.includes('coo') || title.includes('cfo') ||
-                        title.includes('chief executive') || title.includes('chief technology') || 
-                        title.includes('chief operating') || title.includes('chief financial') ||
-                        title.includes('chief product') || title.includes('chief revenue')) {
-                        return 'Founder';
-                    }
+                // Product - check for PM roles
+                if (title.includes('product manager') || title.includes('product lead') ||
+                    title.includes('head of product') || title.includes('vp of product') ||
+                    title.includes('vice president of product') || title.includes('director of product') ||
+                    (title.includes('product') && !title.includes('chief product'))) {
+                    return 'Product';
                 }
                 
-                // GTM (includes marketing, communications, sales, president)
+                // Finance - check before GTM
+                if (title.includes('finance') || title.includes('financial') || title.includes('accounting') ||
+                    title.includes('controller') || title.includes('treasury') ||
+                    title.includes('vp of finance') || title.includes('vice president of finance')) {
+                    return 'Finance';
+                }
+                
+                // Talent - check before GTM
+                if (title.includes('recruit') || title.includes('talent') || title.includes('people') ||
+                    title.includes('human resources') || title.includes(' hr ') || title.includes(' hr')) {
+                    return 'Talent';
+                }
+                
+                // Ops - check before GTM
+                if (title.includes('operations') || title.includes(' ops') || title.includes('ops ') ||
+                    title.includes('special projects') || title.includes('chief of staff')) {
+                    return 'Ops';
+                }
+                
+                // GTM (sales, marketing, business dev, partnerships)
+                // Note: "president" only matches if not "vice president of [specific function]"
                 if (title.includes('gtm') || title.includes('sales') || title.includes('marketing') ||
                     title.includes('communications') || title.includes('comms') ||
                     title.includes('partnership') || title.includes('private equity') || 
                     title.includes('business development') || title.includes('account') ||
-                    title.includes('enablement') || title.includes('revenue') || title.includes('president')) {
+                    title.includes('enablement') || title.includes('revenue') ||
+                    title.includes('growth') || title.includes('customer success') ||
+                    // President only if standalone or "of sales/marketing/revenue/business"
+                    (title.includes('president') && !title.includes('vice president of'))) {
                     return 'GTM';
                 }
                 
-                // Finance
-                if (title.includes('finance') || title.includes('financial') || title.includes('accounting') ||
-                    title.includes('controller') || title.includes('treasury')) {
-                    return 'Finance';
-                }
-                
-                // Talent
-                if (title.includes('recruit') || title.includes('talent') || title.includes('people')) {
-                    return 'Talent';
-                }
-                
-                // Design
-                if (title.includes('design') || title.includes('ux') || title.includes('ui')) {
-                    return 'Design';
-                }
-                
-                // Ops
-                if (title.includes('operations') || title.includes('ops') || title.includes('special projects')) {
-                    return 'Ops';
-                }
-                
                 // Other (explicit matches)
-                if (title.includes('community')) {
+                if (title.includes('community') || title.includes('legal') || title.includes('counsel')) {
                     return 'Other';
                 }
                 
