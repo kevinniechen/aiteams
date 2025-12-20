@@ -6,7 +6,7 @@ Employee #1
   Name: Jake Stauch
   Grad: '12 | YoE: 13
   Start Date: 2024-04
-  Title: Founder And Chief Executive Officer
+  Title: Founder & CEO (Founder And Chief Executive Officer)
   Previous: Director Of Product @ Verkada
   Education: Summerville High Sch '09
   LinkedIn: https://linkedin.com/in/jakestauch
@@ -15,7 +15,7 @@ Employee #2
   Name: Alex Mcleod
   Grad: '14 | YoE: 11
   Start Date: 2024-04
-  Title: Founder And Chief Technology Officer
+  Title: Founder & CTO (Founder And Chief Technology Officer)
   Previous: Director Of Engineering, New Product @ Verkada
   Education: BA Communications, University Of Melbou '14
   LinkedIn: https://linkedin.com/in/alexmcleodio
@@ -24,7 +24,7 @@ Employee #3
   Name: Yogesh Mundada
   Grad: '03 | YoE: 22
   Start Date: 2024-08
-  Title: Founding Software Engineer
+  Title: Engineer (Founding Software Engineer)
   Previous: Software Engineer @ Meta
   Education: PhD CS, Georgia Tech '16
   LinkedIn: https://linkedin.com/in/yogesh-mundada-7422521
@@ -33,7 +33,7 @@ Employee #4
   Name: Kaz Hishida
   Grad: '22 | YoE: 3
   Start Date: 2024-09
-  Title: Founding Engineer
+  Title: Founding Engineer (Founding Engineer)
   Previous: Founding Software Engineer @ Console
   Education: BS CS, Uc Irvine '22
   LinkedIn: https://linkedin.com/in/kazhishida
@@ -42,7 +42,7 @@ Employee #5
   Name: Sebastien Lajeunesse-Degroot
   Grad: '23 | YoE: 2
   Start Date: 2024-10
-  Title: Founding Engineer
+  Title: Founding Engineer (Founding Engineer)
   Previous: Software Engineer @ Verkada
   Education: BS CS, Uc Irvine '23
   LinkedIn: https://linkedin.com/in/sebastien-degroot
@@ -51,7 +51,7 @@ Employee #6
   Name: Derrick Liu
   Grad: '16 | YoE: 9
   Start Date: 2024-11
-  Title: Founding Engineer
+  Title: Founding Engineer (Founding Engineer)
   Previous: Managing Member, Engineering And Operations @ Politics Rewired
   Education: BS CS, Stanford '16
   LinkedIn: https://linkedin.com/in/derrickliu
@@ -60,7 +60,7 @@ Employee #7
   Name: Meg Bell
   Grad: '08 | YoE: 17
   Start Date: 2024-12
-  Title: Advisor
+  Title: Advisor (Advisor)
   Previous: Head Of Global Business Talent Acquisition @ Asana
   Education: Bishop Connolly High
   LinkedIn: https://linkedin.com/in/meg-k-bell
@@ -69,7 +69,7 @@ Employee #8
   Name: Teddy Wahle
   Grad: '21 | YoE: 4
   Start Date: 2025-03
-  Title: Founding Engineer
+  Title: Founding Engineer (Founding Engineer)
   Previous: Software Engineer @ Verkada
   Education: BA CS, Dartmouth College '21
   LinkedIn: https://linkedin.com/in/teddy-wahle
@@ -78,7 +78,7 @@ Employee #9
   Name: Jack Gaul
   Grad: '21 | YoE: 4
   Start Date: 2025-04
-  Title: Forward Deployed Engineer
+  Title: Engineer (Forward Deployed Engineer)
   Previous: Software Engineer @ Stealth
   Education: MS, Santa Clara Universi '24
   LinkedIn: https://linkedin.com/in/jack-tone-gaul
@@ -87,7 +87,7 @@ Employee #10
   Name: Sounak Gupta
   Grad: '21 | YoE: 4
   Start Date: 2025-04
-  Title: Founding Product Designer
+  Title: Product (Founding Product Designer)
   Previous: Product Design Lead @ Olympus
   Education: MS Design, Northwestern Univers '24
   LinkedIn: https://linkedin.com/in/sounak-gupta
@@ -96,7 +96,7 @@ Employee #11
   Name: Ahmad Nazlan
   Grad: '97 | YoE: 28
   Start Date: 2025-06
-  Title: Accountant
+  Title: Accountant (Accountant)
   Previous: Human Resources Manager @ Alphacore Technologies
   Education: BA Accounting, Middlesex University '97
   LinkedIn: https://linkedin.com/in/ahmad-nazlan-885116107
@@ -105,7 +105,7 @@ Employee #12
   Name: Tatiana Birgisson
   Grad: '12 | YoE: 13
   Start Date: 2025-08
-  Title: Chief Operations Officer & Head Of Gtm
+  Title: GTM (Chief Operations Officer & Head Of Gtm)
   Previous: Vice President Of Marketing, It @ Rippling
   Education: Business, Duke University '11
   LinkedIn: https://linkedin.com/in/tbirgisson
@@ -114,7 +114,7 @@ Employee #13
   Name: Becky Holmes
   Grad: '15 | YoE: 10
   Start Date: 2025-08
-  Title: Head Of Field Marketing And Customer Experience
+  Title: Marketing (Head Of Field Marketing And Customer Experience)
   Previous: Head Of Field Marketing @ Rippling
   Education: Nutrition, Cornell
   LinkedIn: https://linkedin.com/in/beckyholmesog
@@ -123,7 +123,7 @@ Employee #14
   Name: Adriana G
   Grad: '21 | YoE: 4
   Start Date: 2025-08
-  Title: Software Engineer
+  Title: Engineer (Software Engineer)
   Previous: Senior Software Engineer @ Zipline
   Education: Harvard '18
   LinkedIn: https://linkedin.com/in/adriana-g-395490163
@@ -132,7 +132,7 @@ Employee #15
   Name: Ryan Wong
   Grad: '12 | YoE: 13
   Start Date: 2025-08
-  Title: Software Engineer
+  Title: Engineer (Software Engineer)
   Previous: Founding Engineer @ Athean
   Education: CS, University Of Waterl
   LinkedIn: https://linkedin.com/in/ryan-w-05683420
@@ -141,7 +141,7 @@ Employee #16
   Name: David Keller
   Grad: '12 | YoE: 13
   Start Date: 2025-09
-  Title: Head Of Film & Photography
+  Title: Head Of Film & Photography (Head Of Film & Photography)
   Previous: Cinematographer & Photographer @ Verkada
   Education: BBA Business, Portland State Unive '12
   LinkedIn: https://linkedin.com/in/thedavidkeller
@@ -150,7 +150,7 @@ Employee #17
   Name: Scott Covington
   Grad: '08 | YoE: 17
   Start Date: 2025-09
-  Title: Head Of Business Operations
+  Title: Operations (Head Of Business Operations)
   Previous: Head Of Engineering Strategy & Operations @ Verkada
   Education: MS CS, Georgia Tech '23
   LinkedIn: https://linkedin.com/in/scottccovington
@@ -159,7 +159,7 @@ Employee #18
   Name: Lauren Kroeger
   Grad: '19 | YoE: 6
   Start Date: 2025-09
-  Title: Head Of Growth
+  Title: Head Of Growth (Head Of Growth)
   Previous: Head Of Growth, Paid Social @ Rippling
   Education: BS CS, MIT '19
   LinkedIn: https://linkedin.com/in/lauren-kroeger
@@ -168,7 +168,7 @@ Employee #19
   Name: Michaela Nam
   Grad: '24 | YoE: 1
   Start Date: 2025-09
-  Title: Executive Assistant And Office Manager
+  Title: Executive Assistant And Office (Executive Assistant And Office Manager)
   Previous: Executive Assistant And Office Manager @ G2 Venture Partners
   Education: King'S College Londo '23
   LinkedIn: https://linkedin.com/in/michaela-nam
@@ -177,7 +177,7 @@ Employee #20
   Name: Hannah Wood
   Grad: '20 | YoE: 5
   Start Date: 2025-09
-  Title: Product Marketing
+  Title: Product (Product Marketing)
   Previous: Senior Gtm Manager @ Rippling
   Education: Chinese Language, University Of Intern '17
   LinkedIn: https://linkedin.com/in/hannah-lm-wood
@@ -186,7 +186,7 @@ Employee #21
   Name: Derek Zheng
   Grad: '24 | YoE: 1
   Start Date: 2025-10
-  Title: Forward Deployed Engineer
+  Title: Engineer (Forward Deployed Engineer)
   Previous: Product Manager @ Microsoft
   Education: West Valley College '19
   LinkedIn: https://linkedin.com/in/dereknzheng
@@ -195,7 +195,7 @@ Employee #22
   Name: Spencer Lang
   Grad: '21 | YoE: 4
   Start Date: 2025-10
-  Title: Forward Deployed Engineer
+  Title: Engineer (Forward Deployed Engineer)
   Previous: Co-Founder @ Paperclip
   Education: BA CS, Claremont Mckenna Co '21
   LinkedIn: https://linkedin.com/in/spencer-lang

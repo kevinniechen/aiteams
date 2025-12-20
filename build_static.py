@@ -43,6 +43,44 @@ def build_static():
         with open('spam.json', 'r') as f:
             spam_data = json.load(f)
     
+    # Read manual additions and merge into company data
+    if os.path.exists('manual_additions.json'):
+        with open('manual_additions.json', 'r') as f:
+            manual_data = json.load(f)
+        
+        manual_count = 0
+        for company_slug, employees in manual_data.items():
+            if company_slug.startswith('_'):  # Skip comments
+                continue
+            if company_slug in company_data:
+                existing_names = {e['name'].lower() for e in company_data[company_slug].get('employees', [])}
+                for emp in employees:
+                    if emp['name'].lower() not in existing_names:
+                        # Add required fields with defaults
+                        emp_entry = {
+                            'rank': 0,  # Will be recalculated
+                            'name': emp['name'],
+                            'grad_year': emp.get('grad_year', '?'),
+                            'yoe': emp.get('yoe', '?'),
+                            'start_date': emp['start_date'],
+                            'title': emp.get('title', 'N/A'),
+                            'original_title': emp.get('title', 'N/A'),
+                            'previous_title': emp.get('previous_title', 'N/A'),
+                            'previous_company': emp.get('previous_company', 'N/A'),
+                            'education': emp.get('education', 'N/A'),
+                            'linkedin_url': emp.get('linkedin_url')
+                        }
+                        company_data[company_slug]['employees'].append(emp_entry)
+                        manual_count += 1
+                
+                # Re-sort by start_date and re-rank
+                company_data[company_slug]['employees'].sort(key=lambda x: x['start_date'])
+                for i, emp in enumerate(company_data[company_slug]['employees']):
+                    emp['rank'] = i + 1
+        
+        if manual_count > 0:
+            print(f"  - Added {manual_count} manual entries from manual_additions.json")
+    
     # Create inline data script
     inline_data = f'''
     <script>

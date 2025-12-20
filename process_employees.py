@@ -13,6 +13,7 @@ Examples:
 """
 
 import json
+import re
 import sys
 from datetime import datetime
 
@@ -80,6 +81,98 @@ SCHOOL_MAP = {
     'indian institute of technology': 'IIT',
 }
 
+# Title normalization - maps various titles to standard names
+# Order matters: more specific patterns should come first
+TITLE_NORMALIZATIONS = [
+    # Founders (keep as-is but standardize format)
+    (r'\b(co-?founder|cofounder)\b.*\b(ceo|chief executive)\b', 'Co-Founder & CEO'),
+    (r'\b(co-?founder|cofounder)\b.*\b(cto|chief technology)\b', 'Co-Founder & CTO'),
+    (r'\b(co-?founder|cofounder)\b.*\b(cso|chief strategy)\b', 'Co-Founder & CSO'),
+    (r'\b(co-?founder|cofounder)\b.*\b(president)\b', 'Co-Founder & President'),
+    (r'\bfounder\b.*\b(ceo|chief executive)\b', 'Founder & CEO'),
+    (r'\bfounder\b.*\b(cto|chief technology)\b', 'Founder & CTO'),
+    (r'\b(co-?founder|cofounder)\b', 'Co-Founder'),
+    (r'\bfounder\b', 'Founder'),
+    
+    # C-Suite
+    (r'\bchief executive officer\b|\bceo\b', 'CEO'),
+    (r'\bchief technology officer\b|\bcto\b', 'CTO'),
+    (r'\bchief operating officer\b|\bcoo\b', 'COO'),
+    (r'\bchief financial officer\b|\bcfo\b', 'CFO'),
+    (r'\bchief product officer\b|\bcpo\b', 'CPO'),
+    (r'\bchief revenue officer\b|\bcro\b', 'CRO'),
+    (r'\bvice president\b|\bvp\b', 'VP'),  # VP before President to match "Vice President" first
+    (r'\bpresident\b', 'President'),
+    (r'\bdirector\b', 'Director'),
+    
+    # Product (before engineering to catch "Human Product Manager")
+    (r'\b(human\s*)?product\s*manager\b', 'PM'),
+    (r'\bsenior\s*product\s*manager\b', 'Senior PM'),
+    (r'\bproduct\s*manager\b|\bpm\b', 'PM'),
+    
+    # Engineering titles - normalize variations
+    (r'\b(founding|early)\s*(engineer|swe)\b', 'Founding Engineer'),
+    (r'\bstaff\s*(software\s*)?(engineer|swe)\b', 'Staff Engineer'),
+    (r'\bsenior\s*(software\s*)?(engineer|swe)\b', 'Senior Engineer'),
+    (r'\bprincipal\s*(software\s*)?(engineer|swe)\b', 'Principal Engineer'),
+    (r'\blead\s*(software\s*)?(engineer|swe)\b', 'Lead Engineer'),
+    (r'\b(member of\s*)?technical staff\b|\bmts\b', 'Engineer'),
+    (r'\bhuman\s*(software\s*)?(engineer)\b', 'Engineer'),  # Cognition's quirky titles - requires "engineer"
+    (r'\bhuman\b$', 'Engineer'),  # Just "Human" alone
+    (r'\bfull[- ]?stack\s*(software\s*)?(engineer|developer)\b', 'Fullstack Engineer'),
+    (r'\bfrontend\s*(software\s*)?(engineer|developer)\b', 'Frontend Engineer'),
+    (r'\bbackend\s*(software\s*)?(engineer|developer)\b', 'Backend Engineer'),
+    (r'\binfra(structure)?\s*(software\s*)?(engineer)?\b', 'Infra Engineer'),
+    (r'\bplatform\s*(software\s*)?(engineer)?\b', 'Platform Engineer'),
+    (r'\bml\s*(software\s*)?(engineer)?\b|\bmachine learning engineer\b', 'ML Engineer'),
+    (r'\bai\s*(software\s*)?(engineer)?\b', 'AI Engineer'),
+    (r'\bdata\s*(software\s*)?(engineer)?\b', 'Data Engineer'),
+    (r'\bproduct\s*engineer\b', 'Product Engineer'),
+    (r'\b(software\s*)?engineer\b|\bswe\b|\bdeveloper\b', 'Engineer'),
+    
+    # Research
+    (r'\b(senior\s*)?research\s*scientist\b', 'Research Scientist'),
+    (r'\bresearch\s*engineer\b', 'Research Engineer'),
+    (r'\bresearcher\b', 'Researcher'),
+    
+    # Product (fallback)
+    (r'\bproduct\b', 'Product'),
+    
+    # Design
+    (r'\bsenior\s*(product\s*)?designer\b', 'Senior Designer'),
+    (r'\b(product\s*)?designer\b', 'Designer'),
+    (r'\bdesign\b', 'Design'),
+    
+    # GTM / Sales / Ops
+    (r'\baccount\s*executive\b|\bae\b', 'Account Executive'),
+    (r'\bsales\s*enablement\b', 'Sales Enablement'),
+    (r'\bsales\b', 'Sales'),
+    (r'\bmarketing\b', 'Marketing'),
+    (r'\bgtm\b|go[- ]to[- ]market', 'GTM'),
+    (r'\boperations\b|\bops\b', 'Operations'),
+    (r'\bbusiness\b', 'Business'),
+    
+    # Other
+    (r'\bfounding\s*team\b', 'Founding Team'),
+    (r'\badvisor\b', 'Advisor'),
+    (r'\bboard\s*member\b', 'Board Member'),
+    (r'\bintern\b', 'Intern'),
+]
+
+def normalize_title(title):
+    """Normalize a job title to a standard form"""
+    if not title:
+        return None
+    
+    title_lower = title.lower()
+    
+    for pattern, normalized in TITLE_NORMALIZATIONS:
+        if re.search(pattern, title_lower):
+            return normalized
+    
+    # No match - return cleaned up original (title case, truncated)
+    return title.title()[:30] if len(title) > 30 else title.title()
+
 def parse_date(date_str):
     """Parse date string in various formats to datetime for sorting"""
     if not date_str:
@@ -144,17 +237,21 @@ def get_company_start_date(person, linkedin_id, website, founding_date):
     return earliest if earliest else datetime.max
 
 def get_company_title(person, linkedin_id, website):
-    """Get current title at target company"""
+    """Get current title at target company, returns (normalized, original)"""
     for exp in person.get('experience', []):
         company = exp.get('company', {})
         
         if is_target_company(company, linkedin_id, website):
             title = exp.get('title', {})
             if isinstance(title, dict):
-                return title.get('name', 'N/A')
-            return title or 'N/A'
+                original = title.get('name', 'N/A')
+            else:
+                original = title or 'N/A'
+            normalized = normalize_title(original)
+            return normalized, original
     
-    return person.get('job_title', 'N/A')
+    original = person.get('job_title', 'N/A')
+    return normalize_title(original), original
 
 def get_previous_job(person, linkedin_id, website):
     """Get the title and company immediately before target company"""
@@ -455,7 +552,8 @@ def main():
     
     for i, (emp, start_date) in enumerate(sorted_employees[:100], 1):
         name = emp.get('full_name', 'Unknown').title()
-        title = get_company_title(emp, linkedin_id, website).title()
+        title, original_title = get_company_title(emp, linkedin_id, website)
+        original_title = original_title.title()
         prev_title, prev_company = get_previous_job(emp, linkedin_id, website)
         prev_title = prev_title.title()
         prev_company = prev_company.title()
@@ -480,7 +578,7 @@ def main():
         print(f"  Name: {name}")
         print(f"  Age: {age_str} | YoE: {yoe_str}")
         print(f"  Start Date: {start_str}")
-        print(f"  Title: {title}")
+        print(f"  Title: {title} ({original_title})")
         print(f"  Previous: {prev_title} @ {prev_company}")
         print(f"  Education: {edu_str}")
         if linkedin_url:
@@ -491,7 +589,7 @@ def main():
         output_lines.append(f"  Name: {name}")
         output_lines.append(f"  Grad: {grad_year_str} | YoE: {yoe_str}")
         output_lines.append(f"  Start Date: {start_str}")
-        output_lines.append(f"  Title: {title}")
+        output_lines.append(f"  Title: {title} ({original_title})")
         output_lines.append(f"  Previous: {prev_title} @ {prev_company}")
         output_lines.append(f"  Education: {edu_str}")
         if linkedin_url:
@@ -506,6 +604,7 @@ def main():
             "yoe": yoe_str,
             "start_date": start_str,
             "title": title,
+            "original_title": original_title,
             "previous_title": prev_title,
             "previous_company": prev_company,
             "education": edu_str,

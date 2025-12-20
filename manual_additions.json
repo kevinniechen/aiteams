@@ -1,0 +1,52 @@
+{
+  "_comment": "Manually added employees not found in PDL data. Add new entries here.",
+  "cursor": [
+    {
+      "name": "Aman Sanger",
+      "start_date": "2022-01",
+      "title": "Co-Founder",
+      "previous_title": "Software Engineer Intern",
+      "previous_company": "Scale AI",
+      "education": "BS CS, MIT '23",
+      "linkedin_url": "https://linkedin.com/in/aman-sanger"
+    },
+    {
+      "name": "Arvid Lunnemark",
+      "start_date": "2022-01",
+      "title": "Co-Founder",
+      "previous_title": "Software Engineer Intern",
+      "previous_company": "Stripe",
+      "education": "BS CS, MIT '23",
+      "linkedin_url": "https://linkedin.com/in/arvidlunnemark"
+    },
+    {
+      "name": "Sualeh Asif",
+      "start_date": "2022-01",
+      "title": "Co-Founder",
+      "previous_title": "Software Engineer Intern",
+      "previous_company": "Citadel",
+      "education": "BS CS, MIT '23",
+      "linkedin_url": "https://linkedin.com/in/sualeh-asif"
+    },
+    {
+      "name": "Michael Truell",
+      "start_date": "2022-01",
+      "title": "Co-Founder",
+      "previous_title": "Software Engineer Intern",
+      "previous_company": "Jane Street",
+      "education": "BS CS, MIT '23",
+      "linkedin_url": "https://linkedin.com/in/michaeltruell"
+    }
+  ],
+  "saronic": [
+    {
+      "name": "Vib Altekar",
+      "start_date": "2022-06",
+      "title": "Co-Founder & CTO",
+      "previous_title": "Senior Software Engineer",
+      "previous_company": "Nuro",
+      "education": "BS CS, MIT '14",
+      "linkedin_url": "https://linkedin.com/in/vibaltekar"
+    }
+  ]
+}

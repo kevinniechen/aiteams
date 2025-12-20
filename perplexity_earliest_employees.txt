@@ -6,7 +6,7 @@ Employee #1
   Name: Johnny Ho
   Grad: '12 | YoE: 13
   Start Date: 2022-08
-  Title: Cofounder, Chief Strategy Officer
+  Title: Co-Founder & CSO (Cofounder, Chief Strategy Officer)
   Previous: Quantitative Trader @ Tower Research Capital
   Education: CS, Harvard '17
   LinkedIn: https://linkedin.com/in/hjohnny
@@ -15,7 +15,7 @@ Employee #2
   Name: Denis Yarats
   Grad: '10 | YoE: 15
   Start Date: 2022-08
-  Title: Co-Founder & Chief Technology Officer
+  Title: Co-Founder & CTO (Co-Founder & Chief Technology Officer)
   Previous: Ai Research Scientist @ Facebook
   Education: PhD CS, NYU '22
   LinkedIn: https://linkedin.com/in/denisyarats
@@ -24,7 +24,7 @@ Employee #3
   Name: Nick Jalbert
   Grad: '08 | YoE: 17
   Start Date: 2022-08
-  Title: Full Stack Engineer
+  Title: Fullstack Engineer (Full Stack Engineer)
   Previous: Senior Engineer, Technical Product Manager, And Founding Team Member @ Captricity
   Education: MS CS, UC Berkeley '11
   LinkedIn: https://linkedin.com/in/nickjalbert
@@ -33,7 +33,7 @@ Employee #4
   Name: Aravind Srinivas
   Grad: '17 | YoE: 8
   Start Date: 2022-08
-  Title: Cofounder, President, Chief Executive Officer
+  Title: Co-Founder & CEO (Cofounder, President, Chief Executive Officer)
   Previous: Research Scientist @ Openai
   Education: PhD CS, UC Berkeley '21
   LinkedIn: https://linkedin.com/in/aravind-srinivas-16051987
@@ -42,7 +42,7 @@ Employee #5
   Name: Alexey Romanov
   Grad: '02 | YoE: 23
   Start Date: 2022-09
-  Title: Technical Staff
+  Title: Engineer (Technical Staff)
   Previous: Data Analyst @ Shenzhen Ok Panda
   Education: MS Engineering, Saint Petersburg Sta '08
   LinkedIn: https://linkedin.com/in/alex-r-ff
@@ -51,7 +51,7 @@ Employee #6
   Name: Bryce Mcfall
   Grad: '15 | YoE: 10
   Start Date: 2022-10
-  Title: Senior Software Engineer
+  Title: Senior Engineer (Senior Software Engineer)
   Previous: Full Stack Engineer @ Apple
   Education: BS CS, USC
   LinkedIn: https://linkedin.com/in/bryce-mcfall-0408b2227
@@ -60,7 +60,7 @@ Employee #7
   Name: Bryce M
   Grad: '15 | YoE: 10
   Start Date: 2022-10
-  Title: Ai Software Engineer
+  Title: AI Engineer (Ai Software Engineer)
   Previous: Full Stack Engineer @ Apple
   Education: BS CS, USC '15
 
@@ -68,7 +68,7 @@ Employee #8
   Name: Henry Modisett
   Grad: '13 | YoE: 12
   Start Date: 2022-10
-  Title: Vice President Of Design
+  Title: VP (Vice President Of Design)
   Previous: Founding Designer @ Beam
   Education: BS, Rensselaer Polytechn '13
   LinkedIn: https://linkedin.com/in/henrymodisett
@@ -77,7 +77,7 @@ Employee #9
   Name: Christopher Chaney
   Grad: '13 | YoE: 12
   Start Date: 2022-11
-  Title: Generative Ai Engineer
+  Title: AI Engineer (Generative Ai Engineer)
   Previous: Ml / Data Engineer @ Urbint
   Education: BS CS, University Of North  '13
   LinkedIn: https://linkedin.com/in/christopher-chaney-b78747329
@@ -86,7 +86,7 @@ Employee #10
   Name: Adam Chen
   Grad: '20 | YoE: 5
   Start Date: 2022-12
-  Title: Vice President
+  Title: VP (Vice President)
   Previous: Senior Technical Manager / Technical Director @ C3 Ai
   Education: BS Engineering, Maten University Col '20
   LinkedIn: https://linkedin.com/in/ahmad-al-halabi-866617223
@@ -95,7 +95,7 @@ Employee #11
   Name: Aravindh L
   Grad: '22 | YoE: 3
   Start Date: 2022-12
-  Title: Community Manager
+  Title: Community Manager (Community Manager)
   Previous: Software Engineer @ Fis
   Education: N/A
   LinkedIn: https://linkedin.com/in/aravindh-l-254855378
@@ -104,7 +104,7 @@ Employee #12
   Name: Nikhil Thota
   Grad: '18 | YoE: 7
   Start Date: 2023-01
-  Title: Member Of Technical Staff
+  Title: Engineer (Member Of Technical Staff)
   Previous: Startup Explorations @ Various Startups
   Education: Engineering, Universidad Carlos I '18
   LinkedIn: https://linkedin.com/in/thot
@@ -113,7 +113,7 @@ Employee #13
   Name: Kathan Pathak
   Grad: '19 | YoE: 6
   Start Date: 2023-01
-  Title: Senior Data Scientist
+  Title: Data Engineer (Senior Data Scientist)
   Previous: Senior Data Engineer @ Walmart Global Tech
   Education: MS CS, University Of Cincin '21
 
@@ -121,7 +121,7 @@ Employee #14
   Name: Kevin Hu
   Grad: '22 | YoE: 3
   Start Date: 2023-01
-  Title: Technical Staff
+  Title: Engineer (Technical Staff)
   Previous: Tensorrt Developer @ Nvidia
   Education: BS CS, UC Berkeley '22
   LinkedIn: https://linkedin.com/in/kevin-s-hu
@@ -130,7 +130,7 @@ Employee #15
   Name: Antony Z
   Grad: '08 | YoE: 17
   Start Date: 2023-01
-  Title: Product Manager
+  Title: PM (Product Manager)
   Previous: Product Marketing Manager @ Verily
   Education: MS Business, UMich
   LinkedIn: https://linkedin.com/in/antony-z-24a2ba182
@@ -139,7 +139,7 @@ Employee #16
   Name: Samu Pang
   Grad: '16 | YoE: 9
   Start Date: 2023-01
-  Title: Product Manager
+  Title: PM (Product Manager)
   Previous: Product Marketing Manager @ Verily
   Education: N/A
   LinkedIn: https://linkedin.com/in/samu-pang-5ba291216
@@ -148,7 +148,7 @@ Employee #17
   Name: Mack W
   Grad: '99 | YoE: 26
   Start Date: 2023-02
-  Title: Product Manager
+  Title: PM (Product Manager)
   Previous: Product Marketing Manager @ Verily
   Education: MS Business, UMich '02
 
@@ -156,7 +156,7 @@ Employee #18
   Name: Syed Ali
   Grad: '16 | YoE: 9
   Start Date: 2023-03
-  Title: Senior Human Resources Manager
+  Title: Senior Human Resources Manager (Senior Human Resources Manager)
   Previous: Human Resources Manager @ S&S Infinite Mobile Inc
   Education: MBA Human Resources Mana, University Of North  '22
   LinkedIn: https://linkedin.com/in/syedali992
@@ -165,7 +165,7 @@ Employee #19
   Name: Zack Morgan
   Grad: '15 | YoE: 10
   Start Date: 2023-03
-  Title: Research Engineer
+  Title: Engineer (Research Engineer)
   Previous: Relocation @ Career Break
   Education: MS CS, Brigham Young Univer '20
   LinkedIn: https://linkedin.com/in/zack-morgan-2606222ba
@@ -174,7 +174,7 @@ Employee #20
   Name: Mason Z
   Grad: '07 | YoE: 18
   Start Date: 2023-03
-  Title: Product Manager
+  Title: PM (Product Manager)
   Previous: Product Marketing Manager @ Verily
   Education: MS Business, UMich
 
@@ -182,7 +182,7 @@ Employee #21
   Name: Uladzimir Kerus
   Grad: '07 | YoE: 18
   Start Date: 2023-04
-  Title: Engineer
+  Title: Engineer (Engineer)
   Previous: Android Developer @ Fitbit (Now Part Of Google)
   Education: Belarusian State Uni '10
   LinkedIn: https://linkedin.com/in/uladzimir-kerus-53889220
@@ -191,7 +191,7 @@ Employee #22
   Name: Scott Summers
   Grad: '15 | YoE: 10
   Start Date: 2023-05
-  Title: Engineer
+  Title: Engineer (Engineer)
   Previous: Teacher @ X-Men Productions
   Education: N/A
   LinkedIn: https://linkedin.com/in/scott-summers-126b512b2
@@ -200,7 +200,7 @@ Employee #23
   Name: Niharika Sunkara
   Grad: '18 | YoE: 7
   Start Date: 2023-05
-  Title: Business Development Associate
+  Title: Business (Business Development Associate)
   Previous: Technical Product Manager @ Factwise
   Education: MS Management, CMU '23
   LinkedIn: https://linkedin.com/in/niharika-sunkara
@@ -209,7 +209,7 @@ Employee #24
   Name: Arnav Gudibande
   Grad: '22 | YoE: 3
   Start Date: 2023-06
-  Title: Research Engineer
+  Title: Engineer (Research Engineer)
   Previous: Ml Intern @ Cresta
   Education: MS CS, UC Berkeley '23
   LinkedIn: https://linkedin.com/in/arnavgudibande
@@ -218,7 +218,7 @@ Employee #25
   Name: Indrajeet Bose
   Grad: '17 | YoE: 8
   Start Date: 2023-06
-  Title: Artificial Intelligence Developer
+  Title: Engineer (Artificial Intelligence Developer)
   Previous: Data Scientist @ Optum
   Education: BS Engineering, Jadavpur University '17
   LinkedIn: https://linkedin.com/in/indrajeet-bose-406776361
@@ -227,7 +227,7 @@ Employee #26
   Name: Phi Hoang
   Grad: '12 | YoE: 13
   Start Date: 2023-07
-  Title: Brand Experience
+  Title: Brand Experience (Brand Experience)
   Previous: Director Of Design @ Flexa
   Education: BFA Design, The Art Institute '12
   LinkedIn: https://linkedin.com/in/phi-hoang-a8689741
@@ -236,7 +236,7 @@ Employee #27
   Name: Alexandr Yarats
   Grad: '17 | YoE: 8
   Start Date: 2023-07
-  Title: Head Of Search
+  Title: Head Of Search (Head Of Search)
   Previous: Senior Software Engineer @ Google
   Education: Yandex School Of Dat '19
   LinkedIn: https://linkedin.com/in/alexandr-yarats
@@ -245,7 +245,7 @@ Employee #28
   Name: Gradey Wang
   Grad: '18 | YoE: 7
   Start Date: 2023-08
-  Title: Research Engineer
+  Title: Engineer (Research Engineer)
   Previous: Research Intern @ Bosch
   Education: MS ME, Stanford '20
   LinkedIn: https://linkedin.com/in/gradey-wang
@@ -254,7 +254,7 @@ Employee #29
   Name: William Z
   Grad: '22 | YoE: 3
   Start Date: 2023-08
-  Title: Employee
+  Title: Employee (Employee)
   Previous: Employee @ Robust Intelligence
   Education: MA Stats, Harvard '22
   LinkedIn: https://linkedin.com/in/william-z-268b36126
@@ -263,7 +263,7 @@ Employee #30
   Name: Maxime Carlier
   Grad: '20 | YoE: 5
   Start Date: 2023-08
-  Title: Senior Machine Learning Engineer
+  Title: ML Engineer (Senior Machine Learning Engineer)
   Previous: Sdet @ Luxoft
   Education: BS Software Engineering, Vrije Universiteit B '20
   LinkedIn: https://linkedin.com/in/maxime-carlier-4088772ab
@@ -272,7 +272,7 @@ Employee #31
   Name: Dmitrii Shliugaev
   Grad: '08 | YoE: 17
   Start Date: 2023-08
-  Title: Member Of Technical Staff
+  Title: Engineer (Member Of Technical Staff)
   Previous: Lead Software Engineer @ Epam Systems
   Education: MS Computer Application, State University Of  '15
   LinkedIn: https://linkedin.com/in/dmitry-shliugaev
@@ -281,7 +281,7 @@ Employee #32
   Name: Drew Venker
   Grad: '05 | YoE: 20
   Start Date: 2023-08
-  Title: Vice President Of Finance
+  Title: VP (Vice President Of Finance)
   Previous: Vice President Of Finance @ Kruze Consulting
   Education: BA Econ, University Of Colora '05
   LinkedIn: https://linkedin.com/in/drew-venker
@@ -290,7 +290,7 @@ Employee #33
   Name: Alexa Deanda
   Grad: '15 | YoE: 10
   Start Date: 2023-09
-  Title: Executive Assistant To Chief Executive Officer & Co Founder Of Perplexity Ai
+  Title: Founder (Executive Assistant To Chief Executive Officer & Co Founder Of Perplexity Ai)
   Previous: Executive Assistant To Vice President Of Infrastructure Engineering @ Airbnb
   Education: BS Business, Columbia
 
@@ -298,7 +298,7 @@ Employee #34
   Name: Dmitry Pervukhin
   Grad: '09 | YoE: 16
   Start Date: 2023-09
-  Title: Member Of Technical Staff
+  Title: Engineer (Member Of Technical Staff)
   Previous: Lead C Developer @ Bumble Inc.
   Education: Moscow State Institu '13
   LinkedIn: https://linkedin.com/in/dmitry-pervukhin-90157870
@@ -307,7 +307,7 @@ Employee #35
   Name: Dmitry Shevelenko
   Grad: '12 | YoE: 13
   Start Date: 2023-10
-  Title: Chief Business Officer
+  Title: Business (Chief Business Officer)
   Previous: Board Director @ Payfare Inc.
   Education: BA Anthropology, Columbia
   LinkedIn: https://linkedin.com/in/dmitryshevelenko
@@ -316,7 +316,7 @@ Employee #36
   Name: Alexis Weill
   Grad: '14 | YoE: 11
   Start Date: 2023-10
-  Title: Data Science
+  Title: Data Engineer (Data Science)
   Previous: Data Science Manager, Value & Pickup @ Instacart
   Education: MS Engineering, Stanford '16
   LinkedIn: https://linkedin.com/in/alexisweill
@@ -325,7 +325,7 @@ Employee #37
   Name: Alexis Weill
   Grad: '11 | YoE: 14
   Start Date: 2023-10
-  Title: Head Of Data Science
+  Title: Data Engineer (Head Of Data Science)
   Previous: Data Science Manager, Value & Pickup @ Instacart
   Education: MS Engineering, Stanford
   LinkedIn: https://linkedin.com/in/alexisweill
@@ -334,7 +334,7 @@ Employee #38
   Name: Peter Hart
   Grad: '21 | YoE: 4
   Start Date: 2023-10
-  Title: Member Of Technical Staff
+  Title: Engineer (Member Of Technical Staff)
   Previous: Machine Learning Engineer @ Robust Intelligence
   Education: MEng, MIT '21
   LinkedIn: https://linkedin.com/in/peter-k-hart
@@ -343,7 +343,7 @@ Employee #39
   Name: Julius Potrykus
   Grad: '27 | YoE: -2
   Start Date: 2023-10
-  Title: Llm Teacher
+  Title: Llm Teacher (Llm Teacher)
   Previous: N/A @ N/A
   Education: BS, University Of Gronin '27
   LinkedIn: https://linkedin.com/in/julius-potrykus-ab2587278
@@ -352,7 +352,7 @@ Employee #40
   Name: Andrew Lebedev
   Grad: '16 | YoE: 9
   Start Date: 2023-11
-  Title: Technical Staff
+  Title: Engineer (Technical Staff)
   Previous: Head Of Ios Development At Video Service @ Дзен
   Education: MS Software Engineering, National Research Nu '18
   LinkedIn: https://linkedin.com/in/lebedev-andrew
@@ -361,7 +361,7 @@ Employee #41
   Name: Logan Anderson
   Grad: '05 | YoE: 20
   Start Date: 2023-12
-  Title: Ios Consultant
+  Title: Ios Consultant (Ios Consultant)
   Previous: Co-Founder @ Yard Robotics
   Education: BS CS, University Of Miami
   LinkedIn: https://linkedin.com/in/andersonlogan
@@ -370,7 +370,7 @@ Employee #42
   Name: Nikhil Birmiwal
   Grad: '18 | YoE: 7
   Start Date: 2023-12
-  Title: Software Engineer
+  Title: Engineer (Software Engineer)
   Previous: Software Engineer @ Trunk
   Education: BS CE, CMU '18
   LinkedIn: https://linkedin.com/in/nikhil-birmiwal-422184ab
@@ -379,7 +379,7 @@ Employee #43
   Name: Mary Kotova
   Grad: '13 | YoE: 12
   Start Date: 2023-12
-  Title: Qa / Qc
+  Title: Qa / Qc (Qa / Qc)
   Previous: Quality Assurance Manager @ Intervale
   Education: Gomel State Universi '13
   LinkedIn: https://linkedin.com/in/mary-kotova-6b7504231
@@ -388,7 +388,7 @@ Employee #44
   Name: Daniel Kwak
   Grad: '13 | YoE: 12
   Start Date: 2024-01
-  Title: Head Of Strategic Finance & Corporate Development
+  Title: Head Of Strategic Finance & Co (Head Of Strategic Finance & Corporate Development)
   Previous: Co-Founder @ Paperplane
   Education: MIT
   LinkedIn: https://linkedin.com/in/dnlkwak
@@ -397,7 +397,7 @@ Employee #45
   Name: Mikhail Galanin
   Grad: '11 | YoE: 14
   Start Date: 2024-01
-  Title: Technical Staff
+  Title: Engineer (Technical Staff)
   Previous: Lead Software Engineer, Platform Team @ Bumble Inc.
   Education: BS CS, National Research Nu '11
   LinkedIn: https://linkedin.com/in/mikhail-galanin
@@ -406,7 +406,7 @@ Employee #46
   Name: Ali Panju
   Grad: '22 | YoE: 3
   Start Date: 2024-01
-  Title: Head Of Special Projects
+  Title: Head Of Special Projects (Head Of Special Projects)
   Previous: Associate @ Social Capital
   Education: BA Econ, University Of Nottin '22
   LinkedIn: https://linkedin.com/in/aliabbaspanju
@@ -415,7 +415,7 @@ Employee #47
   Name: Vydehi D
   Grad: '04 | YoE: 21
   Start Date: 2024-01
-  Title: Product Qa
+  Title: Product (Product Qa)
   Previous: Senior Qa Engineer @ Navan
   Education: Portnov Computer Sch '16
   LinkedIn: https://linkedin.com/in/vydehi-dhulipala
@@ -424,7 +424,7 @@ Employee #48
   Name: Rohanth G
   Grad: '23 | YoE: 2
   Start Date: 2024-01
-  Title: Ai / Ml Engineer
+  Title: ML Engineer (Ai / Ml Engineer)
   Previous: Ai / Ml Engineer @ Meta
   Education: MS CS, Saint Louis Universi '25
   LinkedIn: https://linkedin.com/in/rohanthgundu
@@ -433,7 +433,7 @@ Employee #49
   Name: Gunnar Gray
   Grad: '10 | YoE: 15
   Start Date: 2024-02
-  Title: Product Design Lead
+  Title: Product (Product Design Lead)
   Previous: Founding Designer @ Artifact
   Education: Minnetonka High Scho '08
   LinkedIn: https://linkedin.com/in/gunnargray
@@ -442,7 +442,7 @@ Employee #50
   Name: Maita Paik
   Grad: '12 | YoE: 13
   Start Date: 2024-02
-  Title: Talent Acquisition
+  Title: Talent Acquisition (Talent Acquisition)
   Previous: Recruiting @ Benchling
   Education: Early Childhood Educ, Montessori Teacher E '17
   LinkedIn: https://linkedin.com/in/maitapaik
@@ -451,7 +451,7 @@ Employee #51
   Name: Jennifer Palk-Cogley
   Grad: '10 | YoE: 15
   Start Date: 2024-02
-  Title: Cx & User Ops
+  Title: Operations (Cx & User Ops)
   Previous: Assistant General Manager @ Back Of The House, Inc.
   Education: BA Political Science, San Francisco State 
   LinkedIn: https://linkedin.com/in/jennifer-palk-cogley
@@ -460,7 +460,7 @@ Employee #52
   Name: Sai Garikapati
   Grad: '23 | YoE: 2
   Start Date: 2024-02
-  Title: Full Stack Software Engineer
+  Title: Fullstack Engineer (Full Stack Software Engineer)
   Previous: Full Stack Engineer @ Accenture
   Education: MS CS, Texas Tech Universit '25
   LinkedIn: https://linkedin.com/in/sai-dharani-garikapati-aa4081216
@@ -469,7 +469,7 @@ Employee #53
   Name: Mark Tonelle
   Grad: '24 | YoE: 1
   Start Date: 2024-02
-  Title: Senior Software Engineer
+  Title: Senior Engineer (Senior Software Engineer)
   Previous: N/A @ N/A
   Education: BS CS, Stanford
   LinkedIn: https://linkedin.com/in/mark-tonelle-23a76637a
@@ -478,7 +478,7 @@ Employee #54
   Name: Larmon Luo
   Grad: '14 | YoE: 11
   Start Date: 2024-03
-  Title: Member Of Technical Staff
+  Title: Engineer (Member Of Technical Staff)
   Previous: Head Of Data Science, Growth @ Instacart
   Education: MS Demography, University Of Oxford '15
   LinkedIn: https://linkedin.com/in/larmon-luo
@@ -487,7 +487,7 @@ Employee #55
   Name: Nikash Sethi
   Grad: '21 | YoE: 4
   Start Date: 2024-03
-  Title: Member Of Technical Staff
+  Title: Engineer (Member Of Technical Staff)
   Previous: Software Engineer @ Scale Ai
   Education: BA Cognitive Science, University Of Virgin '21
   LinkedIn: https://linkedin.com/in/nikashsethi
@@ -496,7 +496,7 @@ Employee #56
   Name: Morris Tao
   Grad: '00 | YoE: 25
   Start Date: 2024-04
-  Title: Engineering Leader
+  Title: Engineering Leader (Engineering Leader)
   Previous: Director Of Software Engineering @ Yext
   Education: MS CS, MIT '01
   LinkedIn: https://linkedin.com/in/morris-tao
@@ -505,7 +505,7 @@ Employee #57
   Name: Liane Phun
   Grad: '17 | YoE: 8
   Start Date: 2024-04
-  Title: Workplace Experience Manager
+  Title: Workplace Experience Manager (Workplace Experience Manager)
   Previous: Workplace Experience @ Skillz
   Education: BS Advertising, California State Uni '17
   LinkedIn: https://linkedin.com/in/lianepham
@@ -514,7 +514,7 @@ Employee #58
   Name: John-Michael Murphy
   Grad: '16 | YoE: 9
   Start Date: 2024-04
-  Title: Member Of Technical Staff
+  Title: Engineer (Member Of Technical Staff)
   Previous: Graphics Developer / Editor @ The New York Times
   Education: Columbia
   LinkedIn: https://linkedin.com/in/johnmichaelmur
@@ -523,7 +523,7 @@ Employee #59
   Name: Kirsten Thompson
   Grad: '03 | YoE: 22
   Start Date: 2024-04
-  Title: Executive Assistant
+  Title: Executive Assistant (Executive Assistant)
   Previous: Executive And Personal Assistant @ Uhnw Family Office
   Education: The Culinary Institu '98
   LinkedIn: https://linkedin.com/in/kirsten-thompson-a9355a24
@@ -532,7 +532,7 @@ Employee #60
   Name: Thomas Wang
   Grad: '16 | YoE: 9
   Start Date: 2024-04
-  Title: Member Of Technical Staff
+  Title: Engineer (Member Of Technical Staff)
   Previous: Software Engineer @ Airtable
   Education: MS CS, Ucla '18
   LinkedIn: https://linkedin.com/in/xinganwang
@@ -541,7 +541,7 @@ Employee #61
   Name: Yashwanth Thallapalli
   Grad: '21 | YoE: 4
   Start Date: 2024-04
-  Title: Ai / Ml Engineer
+  Title: ML Engineer (Ai / Ml Engineer)
   Previous: Full-Stack Developer @ Ibm
   Education: MS Management, University Of Memphi
   LinkedIn: https://linkedin.com/in/yashwanth-thallapalli-b03a86204
@@ -550,7 +550,7 @@ Employee #62
   Name: Patrick Liu
   Grad: '24 | YoE: 1
   Start Date: 2024-04
-  Title: Ai Research Engineer
+  Title: AI Engineer (Ai Research Engineer)
   Previous: Software Engineer Intern @ Hippocratic Ai
   Education: BS CS, Stanford '24
   LinkedIn: https://linkedin.com/in/patrickliu2011
@@ -559,7 +559,7 @@ Employee #63
   Name: Lequn Chen
   Grad: '18 | YoE: 7
   Start Date: 2024-04
-  Title: Research Engineer
+  Title: Engineer (Research Engineer)
   Previous: Software Engineer Intern @ Google
   Education: PhD CS, UW '24
   LinkedIn: https://linkedin.com/in/lequn-chen
@@ -568,7 +568,7 @@ Employee #64
   Name: Frank Pas
   Grad: '06 | YoE: 19
   Start Date: 2024-05
-  Title: Head Of Enterprise Product
+  Title: Product (Head Of Enterprise Product)
   Previous: Director Of Product Management - Head Of Customer Platform @ Flexport
   Education: Industrial Engineeri, The Hong Kong Univer '07
   LinkedIn: https://linkedin.com/in/franktepas
@@ -577,7 +577,7 @@ Employee #65
   Name: Stephen Galeoto
   Grad: '10 | YoE: 15
   Start Date: 2024-05
-  Title: Member Of Technical Staff
+  Title: Engineer (Member Of Technical Staff)
   Previous: Program Manager, Product Operations - Whatsapp @ Meta
   Education: Cybersecurity, Codepath '19
   LinkedIn: https://linkedin.com/in/sgaleoto
@@ -586,7 +586,7 @@ Employee #66
   Name: Weihua Hu
   Grad: '16 | YoE: 9
   Start Date: 2024-05
-  Title: Member Of Technical Staff
+  Title: Engineer (Member Of Technical Staff)
   Previous: Software Engineer @ Kumo.Ai
   Education: PhD CS, Stanford '23
   LinkedIn: https://linkedin.com/in/weihua-hu-a8284228
@@ -595,7 +595,7 @@ Employee #67
   Name: Niteesh Singh
   Grad: '14 | YoE: 11
   Start Date: 2024-05
-  Title: Ai / Ml Engineer
+  Title: ML Engineer (Ai / Ml Engineer)
   Previous: Ai / Ml Engineer @ Meta
   Education: MS CS, Cleveland State Univ '25
   LinkedIn: https://linkedin.com/in/niteesh-nitin-singh-27049293
@@ -604,7 +604,7 @@ Employee #68
   Name: Ryan Putnam
   Grad: '04 | YoE: 21
   Start Date: 2024-06
-  Title: Brand Designer
+  Title: Designer (Brand Designer)
   Previous: Creative Director @ Carbon Health
   Education: BFA Graphic Design, Colorado State Unive '04
   LinkedIn: https://linkedin.com/in/ryanputnam
@@ -613,7 +613,7 @@ Employee #69
   Name: Mihai Popa
   Grad: '12 | YoE: 13
   Start Date: 2024-06
-  Title: Member Of Technical Staff
+  Title: Engineer (Member Of Technical Staff)
   Previous: Software Engineer @ Google
   Education: MEng CS, Imperial College Lon '17
   LinkedIn: https://linkedin.com/in/mihai-popa-01502ba6
@@ -622,7 +622,7 @@ Employee #70
   Name: Tracy Quitasol
   Grad: '94 | YoE: 31
   Start Date: 2024-06
-  Title: Llm Teacher
+  Title: Llm Teacher (Llm Teacher)
   Previous: Managing Director Innovation And Communications @ Omd Worldwide
   Education: Andrean High School
   LinkedIn: https://linkedin.com/in/tracy-quitasol
@@ -631,7 +631,7 @@ Employee #71
   Name: Larry Yang
   Grad: '19 | YoE: 6
   Start Date: 2024-06
-  Title: Software Engineer
+  Title: Engineer (Software Engineer)
   Previous: Software Engineer @ Covariant
   Education: BS CS, UC Berkeley '19
   LinkedIn: https://linkedin.com/in/larry-yang
@@ -640,7 +640,7 @@ Employee #72
   Name: Xin Xia
   Grad: '05 | YoE: 20
   Start Date: 2024-06
-  Title: Member Of Technical Staff
+  Title: Engineer (Member Of Technical Staff)
   Previous: Engineering Leader - Home & Categories @ Whatnot
   Education: MS CS, University Of Electr '08
   LinkedIn: https://linkedin.com/in/xin-xia-a97aa514
@@ -649,7 +649,7 @@ Employee #73
   Name: Akiko O
   Grad: '04 | YoE: 21
   Start Date: 2024-06
-  Title: Cx
+  Title: Cx (Cx)
   Previous: Technical Writer - Japanese @ Keeper Security, Inc.
   Education: Graphic Design, San Diego City Colle
   LinkedIn: https://linkedin.com/in/akiko-o-03b528207
@@ -658,7 +658,7 @@ Employee #74
   Name: Julia Ashton
   Grad: '25 | YoE: ?
   Start Date: 2024-06
-  Title: Large Language Model Teacher
+  Title: Large Language Model Teacher (Large Language Model Teacher)
   Previous: Computational Structures Teaching Assistant @ Georgetown University
   Education: BS CS, Georgetown Universit '25
   LinkedIn: https://linkedin.com/in/ashton-julia
@@ -667,7 +667,7 @@ Employee #75
   Name: Julia Ashton
   Grad: '25 | YoE: ?
   Start Date: 2024-06
-  Title: Large Language Model Teacher
+  Title: Large Language Model Teacher (Large Language Model Teacher)
   Previous: Computational Structures Teaching Assistant @ Georgetown University
   Education: BS CS, Georgetown Universit '25
   LinkedIn: https://linkedin.com/in/ashtonjulia
@@ -676,7 +676,7 @@ Employee #76
   Name: Carrie Keenan
   Grad: '07 | YoE: 18
   Start Date: 2024-07
-  Title: Executive Assistant To Aravind Senior Inivas, Chief Executive Officer & Co-Founder
+  Title: Co-Founder (Executive Assistant To Aravind Senior Inivas, Chief Executive Officer & Co-Founder)
   Previous: Program Manager, Portfolio Operations @ Turn/River Capital
   Education: California College O
   LinkedIn: https://linkedin.com/in/carrieskeenan
@@ -685,7 +685,7 @@ Employee #77
   Name: Justin Graham
   Grad: '08 | YoE: 17
   Start Date: 2024-07
-  Title: Product Designer
+  Title: Product (Product Designer)
   Previous: Freelance Product Designer @ Grammarly
   Education: Architecture, University Of Colora '10
   LinkedIn: https://linkedin.com/in/justingrahamdesigner
@@ -694,7 +694,7 @@ Employee #78
   Name: Andrew Beck
   Grad: '13 | YoE: 12
   Start Date: 2024-07
-  Title: Head Of Strategic Business Development
+  Title: Business (Head Of Strategic Business Development)
   Previous: Director Of Business Development @ Gopuff
   Education: BA Econ, Stanford
   LinkedIn: https://linkedin.com/in/andrew-beck-7a885b11
@@ -703,7 +703,7 @@ Employee #79
   Name: Alexandr Bogutskiy
   Grad: '12 | YoE: 13
   Start Date: 2024-07
-  Title: Senior Software Engineer
+  Title: Senior Engineer (Senior Software Engineer)
   Previous: Team Leaad @ Nebius
   Education: BS CS, Itmo University '12
   LinkedIn: https://linkedin.com/in/abogutskiy
@@ -712,7 +712,7 @@ Employee #80
   Name: Aleksei Bykov
   Grad: '11 | YoE: 14
   Start Date: 2024-07
-  Title: Search Engineer
+  Title: Engineer (Search Engineer)
   Previous: Software Engineer @ Bloomberg
   Education: N/A
   LinkedIn: https://linkedin.com/in/aleksei-bykov-a37a5b82
@@ -721,7 +721,7 @@ Employee #81
   Name: Nicholas Bien
   Grad: '18 | YoE: 7
   Start Date: 2024-08
-  Title: Member Of Technical Staff
+  Title: Engineer (Member Of Technical Staff)
   Previous: Senior Machine Learning Engineer Ii @ Cruise
   Education: MS CS, Stanford '19
   LinkedIn: https://linkedin.com/in/nicholasbien
@@ -730,7 +730,7 @@ Employee #82
   Name: Robin Yang
   Grad: '12 | YoE: 13
   Start Date: 2024-08
-  Title: Member Of Technical Staff
+  Title: Engineer (Member Of Technical Staff)
   Previous: Staff Software Engineer @ Aquarium
   Education: BS English Language, Princeton '12
   LinkedIn: https://linkedin.com/in/robinyang2
@@ -739,7 +739,7 @@ Employee #83
   Name: Mohitha Chelikam
   Grad: '22 | YoE: 3
   Start Date: 2024-08
-  Title: Ai / Ml Engineer
+  Title: ML Engineer (Ai / Ml Engineer)
   Previous: Ai / Ml Engineer @ Meta
   Education: MS Management, Webster University '25
   LinkedIn: https://linkedin.com/in/mohitha-chelikam57
@@ -748,7 +748,7 @@ Employee #84
   Name: Ibrahim Mudassar
   Grad: '22 | YoE: 3
   Start Date: 2024-08
-  Title: Campus Strategist
+  Title: Campus Strategist (Campus Strategist)
   Previous: Project Manager / Data Lead @ Bluebonnet Data
   Education: BS, Rutgers University–N
   LinkedIn: https://linkedin.com/in/ibrahim-mudassar
@@ -757,7 +757,7 @@ Employee #85
   Name: Vladimir Zaytsev
   Grad: '11 | YoE: 14
   Start Date: 2024-09
-  Title: Ai Inference
+  Title: AI Engineer (Ai Inference)
   Previous: Staff Software Engineer @ Trunk
   Education: MS CS, USC '14
   LinkedIn: https://linkedin.com/in/vladimir-zaytsev-10632a2b
@@ -766,7 +766,7 @@ Employee #86
   Name: Christina Ou
   Grad: '16 | YoE: 9
   Start Date: 2024-09
-  Title: Member Of Technical Staff
+  Title: Engineer (Member Of Technical Staff)
   Previous: Senior Software Engineer @ Airbnb
   Education: CE, CMU '19
   LinkedIn: https://linkedin.com/in/christina-ou
@@ -775,7 +775,7 @@ Employee #87
   Name: Vernon Man
   Grad: '08 | YoE: 17
   Start Date: 2024-09
-  Title: System Administration And Head Of It
+  Title: System Administration And Head (System Administration And Head Of It)
   Previous: System Administrator @ Redis
   Education: Bachelor Of Applied  Biology, San José State Unive '08
   LinkedIn: https://linkedin.com/in/vernon-man-4287bb58
@@ -784,7 +784,7 @@ Employee #88
   Name: Gustav Lindqvist
   Grad: '07 | YoE: 18
   Start Date: 2024-09
-  Title: Data Scientist
+  Title: Data Engineer (Data Scientist)
   Previous: Data Scientist In Residence @ Creandum
   Education: Terra.Do '22
   LinkedIn: https://linkedin.com/in/gustavlindqvist
@@ -793,7 +793,7 @@ Employee #89
   Name: Matthew Baird
   Grad: '13 | YoE: 12
   Start Date: 2024-09
-  Title: Enterprise Customer Support Lead
+  Title: Enterprise Customer Support Le (Enterprise Customer Support Lead)
   Previous: Zendesk Administrator @ Tractive
   Education: BA Global Studies, Portland State Unive '13
   LinkedIn: https://linkedin.com/in/matthewgbaird
@@ -802,7 +802,7 @@ Employee #90
   Name: Patrick Summers
   Grad: '17 | YoE: 8
   Start Date: 2024-09
-  Title: Enterprise Growth
+  Title: Enterprise Growth (Enterprise Growth)
   Previous: Strategic Account Director @ Juniper Square
   Education: Finance, Smu Cox School Of Bu '17
   LinkedIn: https://linkedin.com/in/pcsummers
@@ -811,7 +811,7 @@ Employee #91
   Name: Yen Lee
   Grad: '18 | YoE: 7
   Start Date: 2024-09
-  Title: Cx & User Ops
+  Title: Operations (Cx & User Ops)
   Previous: Legal Policy Operations @ Twitter
   Education: BA Legal Studies, UC Berkeley '18
   LinkedIn: https://linkedin.com/in/yenlee205
@@ -820,7 +820,7 @@ Employee #92
   Name: Ryan Siu
   Grad: '22 | YoE: 3
   Start Date: 2024-09
-  Title: Member Of Technical Staff
+  Title: Engineer (Member Of Technical Staff)
   Previous: Software Engineer @ Rockset
   Education: BS CS, UMich '22
   LinkedIn: https://linkedin.com/in/ryansiu5
@@ -829,7 +829,7 @@ Employee #93
   Name: Uday Kyama
   Grad: '26 | YoE: -1
   Start Date: 2024-09
-  Title: Product Growth Intern
+  Title: Product (Product Growth Intern)
   Previous: Parc Instructional Student Assistant @ Center For Counseling And Diagnostic Services
   Education: BS CS, California State Uni '26
   LinkedIn: https://linkedin.com/in/udaykyama
@@ -838,7 +838,7 @@ Employee #94
   Name: Nandor Licker
   Grad: '16 | YoE: 9
   Start Date: 2024-09
-  Title: Technical Staff
+  Title: Engineer (Technical Staff)
   Previous: Senior Staff Compiler Engineer @ Sifive
   Education: PhD CS, University Of Cambri '22
   LinkedIn: https://linkedin.com/in/nandor-licker
@@ -847,7 +847,7 @@ Employee #95
   Name: Erin Mcknight
   Grad: '13 | YoE: 12
   Start Date: 2024-10
-  Title: Brand Designer
+  Title: Designer (Brand Designer)
   Previous: Creative @ Comcast
   Education: BFA Fine Arts, Maryland Institute C '13
   LinkedIn: https://linkedin.com/in/erin-mcknight-91a62045
@@ -856,7 +856,7 @@ Employee #96
   Name: Nathan Barksdale
   Grad: '08 | YoE: 17
   Start Date: 2024-10
-  Title: Head Of Legal & Operations
+  Title: Operations (Head Of Legal & Operations)
   Previous: Senior Director, Head Of Commercial Legal And Intellectual Property @ Opensea
   Education: Doctor Of Jurisprude, UCLA '11
   LinkedIn: https://linkedin.com/in/nathan-barksdale
@@ -865,7 +865,7 @@ Employee #97
   Name: Will Brooke
   Grad: '14 | YoE: 11
   Start Date: 2024-10
-  Title: Partnerships
+  Title: Partnerships (Partnerships)
   Previous: Business Development @ Opensea
   Education: MBA, Stanford '20
   LinkedIn: https://linkedin.com/in/willbrooke
@@ -874,7 +874,7 @@ Employee #98
   Name: Nasar Massis
   Grad: '90 | YoE: 35
   Start Date: 2024-10
-  Title: Governance Risk & Compliance Lead
+  Title: Governance Risk & Compliance L (Governance Risk & Compliance Lead)
   Previous: Staff Cybersecurity Engineer @ General Motors
   Education: BS Business, San Francisco State  '90
   LinkedIn: https://linkedin.com/in/nasar-massis
@@ -883,7 +883,7 @@ Employee #99
   Name: Lauren Kolm
   Grad: '13 | YoE: 12
   Start Date: 2024-10
-  Title: Brand Designer
+  Title: Designer (Brand Designer)
   Previous: Senior Art Director @ Attentive
   Education: Education, School Of Visual Art '15
   LinkedIn: https://linkedin.com/in/laurenkolm
@@ -892,7 +892,7 @@ Employee #100
   Name: Philip Campbell
   Grad: '03 | YoE: 22
   Start Date: 2024-10
-  Title: Currently In Visa Wait
+  Title: Currently In Visa Wait (Currently In Visa Wait)
   Previous: Leader Node At Dtube @ Dtube
   Education: Commerce, De Ferrers High Scho '86
   LinkedIn: https://linkedin.com/in/philcampbell

@@ -6,7 +6,7 @@ Employee #1
   Name: Anna Walling
   Grad: '15 | YoE: 10
   Start Date: 2024-01
-  Title: Operations
+  Title: Operations (Operations)
   Previous: Chief Of Staff @ Compound
   Education: The American Univers '15
   LinkedIn: https://linkedin.com/in/annawalling
@@ -15,7 +15,7 @@ Employee #2
   Name: Lachy Groom
   Grad: '12 | YoE: 13
   Start Date: 2024-01
-  Title: Co-Founder
+  Title: Co-Founder (Co-Founder)
   Previous: Head Of Stripe Issuing @ Stripe
   Education: Wesley College '11
   LinkedIn: https://linkedin.com/in/lachy-groom-b218895
@@ -24,7 +24,7 @@ Employee #3
   Name: Ury Zhilinsky
   Grad: '07 | YoE: 18
   Start Date: 2024-01
-  Title: Building Embodied Ai
+  Title: AI Engineer (Building Embodied Ai)
   Previous: Senior Director, Head Of Behavior And Simulation @ Nuro
   Education: BA Math, Israel Jobs '07
   LinkedIn: https://linkedin.com/in/uryzhilinsky
@@ -33,7 +33,7 @@ Employee #4
   Name: Mohith Mothukuri
   Grad: '23 | YoE: 2
   Start Date: 2024-01
-  Title: Member Of Technical Staff
+  Title: Engineer (Member Of Technical Staff)
   Previous: Angel Investor | Advisor @ Mohith Mothukuri
   Education: BS CS, Columbia '23
   LinkedIn: https://linkedin.com/in/mohith-mothukuri
@@ -42,7 +42,7 @@ Employee #5
   Name: Niccolo Fusai
   Grad: '22 | YoE: 3
   Start Date: 2024-01
-  Title: Member Of Technical Staff
+  Title: Engineer (Member Of Technical Staff)
   Previous: Ml Research Engineer @ Tesla
   Education: BS CS, Columbia '22
   LinkedIn: https://linkedin.com/in/niccolo-fusai-472525188
@@ -51,7 +51,7 @@ Employee #6
   Name: Chelsea Finn
   Grad: '14 | YoE: 11
   Start Date: 2024-03
-  Title: Co-Founder
+  Title: Co-Founder (Co-Founder)
   Previous: Assistant Professor @ Stanford University
   Education: PhD, UC Berkeley '18
   LinkedIn: https://linkedin.com/in/cbfinn
@@ -60,7 +60,7 @@ Employee #7
   Name: Brian Ichter
   Grad: '12 | YoE: 13
   Start Date: 2024-03
-  Title: Co-Founder
+  Title: Co-Founder (Co-Founder)
   Previous: Research Scientist @ Google
   Education: PhD Engineering, Stanford '18
   LinkedIn: https://linkedin.com/in/brian-ichter-26875978
@@ -69,7 +69,7 @@ Employee #8
   Name: Karol Hausman
   Grad: '11 | YoE: 14
   Start Date: 2024-03
-  Title: Chief Executive Officer
+  Title: CEO (Chief Executive Officer)
   Previous: Adjunct Professor @ Stanford University
   Education: PhD CS, USC '18
   LinkedIn: https://linkedin.com/in/karolhausman
@@ -78,7 +78,7 @@ Employee #9
   Name: Suraj Nair
   Grad: '18 | YoE: 7
   Start Date: 2024-03
-  Title: Member Of Technical Staff
+  Title: Engineer (Member Of Technical Staff)
   Previous: Research Scientist @ Toyota Research Institute
   Education: PhD CS, Stanford '23
   LinkedIn: https://linkedin.com/in/surajnaircaltech
@@ -87,7 +87,7 @@ Employee #10
   Name: Quan Vuong
   Grad: '17 | YoE: 8
   Start Date: 2024-03
-  Title: Co-Founder
+  Title: Co-Founder (Co-Founder)
   Previous: Software Engineer @ Google Deepmind
   Education: PhD CS, Uc San Diego '22
   LinkedIn: https://linkedin.com/in/quan-vuong-0a4a6460
@@ -96,7 +96,7 @@ Employee #11
   Name: Michael Equi
   Grad: '24 | YoE: 1
   Start Date: 2024-03
-  Title: Member Of Technical Staff
+  Title: Engineer (Member Of Technical Staff)
   Previous: Machine Learning Engineer @ Tesla
   Education: BS Architecture, UC Berkeley '24
   LinkedIn: https://linkedin.com/in/michael-equi
@@ -105,7 +105,7 @@ Employee #12
   Name: Noah Brown
   Grad: '17 | YoE: 8
   Start Date: 2024-03
-  Title: Engineer
+  Title: Engineer (Engineer)
   Previous: Mechatronics Engineer @ Fs Studio
   Education: BS CE, University Of Califo '17
   LinkedIn: https://linkedin.com/in/noah-brown-40157b124
@@ -114,7 +114,7 @@ Employee #13
   Name: Zhonglin Liang
   Grad: '19 | YoE: 6
   Start Date: 2024-03
-  Title: Operator Operations
+  Title: Operations (Operator Operations)
   Previous: Software Engineer Intern @ Guangdong Bright Dream Robotics
   Education: MS Software Engineering, San José State Unive '22
   LinkedIn: https://linkedin.com/in/zhonglin-liang-542982183
@@ -123,7 +123,7 @@ Employee #14
   Name: Manuel Alire
   Grad: '06 | YoE: 19
   Start Date: 2024-03
-  Title: Operator Operations
+  Title: Operations (Operator Operations)
   Previous: Events Associate @ Mindsdb
   Education: BS CS, San José State Unive '06
   LinkedIn: https://linkedin.com/in/manuel-alire-5226747
@@ -132,7 +132,7 @@ Employee #15
   Name: Henry Lin
   Grad: '21 | YoE: 4
   Start Date: 2024-03
-  Title: Fleet Technician
+  Title: Fleet Technician (Fleet Technician)
   Previous: Asset Technician @ Eos It Solutions
   Education: CS, University Of Califo '23
   LinkedIn: https://linkedin.com/in/henry-lin-1641a620a
@@ -141,7 +141,7 @@ Employee #16
   Name: Jimmy Tanner
   Grad: '12 | YoE: 13
   Start Date: 2024-04
-  Title: Employee
+  Title: Employee (Employee)
   Previous: Senior Software Engineer @ Google
   Education: PhD Neuroscience, USC '17
   LinkedIn: https://linkedin.com/in/jimmy-tanner-70198732
@@ -150,7 +150,7 @@ Employee #17
   Name: Adrian Li-Bell
   Grad: '14 | YoE: 11
   Start Date: 2024-04
-  Title: Member Of Technical Staff
+  Title: Engineer (Member Of Technical Staff)
   Previous: Machine Learning Engineer @ Wayve
   Education: CS, MIT '13
   LinkedIn: https://linkedin.com/in/adrian-li
@@ -159,7 +159,7 @@ Employee #18
   Name: Kevin Black
   Grad: '22 | YoE: 3
   Start Date: 2024-04
-  Title: Member Of Technical Staff
+  Title: Engineer (Member Of Technical Staff)
   Previous: Software Systems Engineering Intern @ Nasa Jet Propulsion Laboratory
   Education: PhD, UC Berkeley '27
   LinkedIn: https://linkedin.com/in/kvablack
@@ -168,7 +168,7 @@ Employee #19
   Name: Lance Thoma
   Grad: '10 | YoE: 15
   Start Date: 2024-04
-  Title: Project Manager
+  Title: Project Manager (Project Manager)
   Previous: Founder @ Rugpull.Com
   Education: Associates Engineering, Skyline College
 
@@ -176,7 +176,7 @@ Employee #20
   Name: Lance Thoma
   Grad: '24 | YoE: 1
   Start Date: 2024-04
-  Title: Project Manager
+  Title: Project Manager (Project Manager)
   Previous: N/A @ N/A
   Education: N/A
   LinkedIn: https://linkedin.com/in/lance-thoma-3154b2360
@@ -185,7 +185,7 @@ Employee #21
   Name: Steven Tang
   Grad: '23 | YoE: 2
   Start Date: 2024-05
-  Title: Shift Lead
+  Title: Shift Lead (Shift Lead)
   Previous: Intern @ Friends Of Children With Special Needs (Fcsn)
   Education: English Language, Woodland Community C '20
   LinkedIn: https://linkedin.com/in/steven-tang-0051a1146
@@ -194,7 +194,7 @@ Employee #22
   Name: Allen Sien
   Grad: '23 | YoE: 2
   Start Date: 2024-05
-  Title: Mobile Deployment Lead
+  Title: Mobile Deployment Lead (Mobile Deployment Lead)
   Previous: N/A @ N/A
   Education: BS CE, Uci Samueli School O '23
   LinkedIn: https://linkedin.com/in/sienallen
@@ -203,7 +203,7 @@ Employee #23
   Name: Karl Pertsch
   Grad: '17 | YoE: 8
   Start Date: 2024-06
-  Title: Member Of Technical Staff
+  Title: Engineer (Member Of Technical Staff)
   Previous: Postdoctoral Researcher @ Stanford University
   Education: PhD CS, USC
   LinkedIn: https://linkedin.com/in/karlpertsch
@@ -212,7 +212,7 @@ Employee #24
   Name: Charvi Sharma
   Grad: '24 | YoE: 1
   Start Date: 2024-06
-  Title: Business Operations
+  Title: Operations (Business Operations)
   Previous: Product Management / Marketing Intern @ Portrait Displays (Calman)
   Education: BS CS, San Francisco State  '24
   LinkedIn: https://linkedin.com/in/csharmasfsu
@@ -221,7 +221,7 @@ Employee #25
   Name: Aikys Mongush
   Grad: '18 | YoE: 7
   Start Date: 2024-06
-  Title: Operator Operations
+  Title: Operations (Operator Operations)
   Previous: Project Manager @ Dilsys Electronics
   Education: BS Electronics Engineer, Saint Petersburg Sta '18
   LinkedIn: https://linkedin.com/in/aikysmongush
@@ -230,7 +230,7 @@ Employee #26
   Name: David Gladstein
   Grad: '25 | YoE: ?
   Start Date: 2024-06
-  Title: Robot Operator
+  Title: Robot Operator (Robot Operator)
   Previous: Store Protection Specialist @ Ross Dress For Less 245
   Education: BA Business, San Francisco State  '25
   LinkedIn: https://linkedin.com/in/david-gladstein2002
@@ -239,7 +239,7 @@ Employee #27
   Name: Szymon Jakubczak
   Grad: '06 | YoE: 19
   Start Date: 2024-07
-  Title: Software
+  Title: Software (Software)
   Previous: Senior Staff Software Engineer @ Nuro
   Education: PhD CS, MIT '11
   LinkedIn: https://linkedin.com/in/szymonjakubczak
@@ -248,7 +248,7 @@ Employee #28
   Name: Liyiming Ke
   Grad: '17 | YoE: 8
   Start Date: 2024-07
-  Title: Member Of Technical Staff
+  Title: Engineer (Member Of Technical Staff)
   Previous: Research Intern @ Facebook
   Education: PhD CS, UW '24
   LinkedIn: https://linkedin.com/in/kelym
@@ -257,7 +257,7 @@ Employee #29
   Name: Cecilia Casquino
   Grad: '20 | YoE: 5
   Start Date: 2024-07
-  Title: Robot Operator
+  Title: Robot Operator (Robot Operator)
   Previous: Bilingual Residential Program Aide @ Hamilton Families
   Education: BS, University Of Califo '20
   LinkedIn: https://linkedin.com/in/cecilia-casquino-6aaa28215
@@ -266,7 +266,7 @@ Employee #30
   Name: Anh Lu
   Grad: '18 | YoE: 7
   Start Date: 2024-07
-  Title: Robot Operator
+  Title: Robot Operator (Robot Operator)
   Previous: User Experience Designer | Edtech @ Tech Fleet
   Education: Associate Of Arts Graphic Design, City College Of San  '24
   LinkedIn: https://linkedin.com/in/amerielu
@@ -275,7 +275,7 @@ Employee #31
   Name: Shalom Tekeste
   Grad: '26 | YoE: -1
   Start Date: 2024-07
-  Title: Robot Operations
+  Title: Operations (Robot Operations)
   Previous: Visual Merchandiser @ H&M
   Education: BS CS, San Francisco State  '26
   LinkedIn: https://linkedin.com/in/shalom-tekeste
@@ -284,7 +284,7 @@ Employee #32
   Name: Klint Zamora
   Grad: '24 | YoE: 1
   Start Date: 2024-07
-  Title: Robot Operator
+  Title: Robot Operator (Robot Operator)
   Previous: Event Staff @ Dark Staffing Solutions
   Education: University Of Santo  '24
   LinkedIn: https://linkedin.com/in/klint-zamora-29452028a
@@ -293,7 +293,7 @@ Employee #33
   Name: Kat Benito
   Grad: '25 | YoE: ?
   Start Date: 2024-09
-  Title: Robot Operator
+  Title: Robot Operator (Robot Operator)
   Previous: Its Client Support Services Assistant @ University Of California, Santa Cruz
   Education: BS CS, University Of Califo '25
   LinkedIn: https://linkedin.com/in/darlingkat
@@ -302,7 +302,7 @@ Employee #34
   Name: Sobia Zahid
   Grad: '24 | YoE: 1
   Start Date: 2024-09
-  Title: Robot Operations
+  Title: Operations (Robot Operations)
   Previous: Residence Life Counselor @ Summer Discovery
   Education: BS Data Science, University Of San Fr '24
   LinkedIn: https://linkedin.com/in/sobia-zahid
@@ -311,7 +311,7 @@ Employee #35
   Name: Shawn Lorenzo
   Grad: '19 | YoE: 6
   Start Date: 2024-09
-  Title: Mobile Deployment Lead
+  Title: Mobile Deployment Lead (Mobile Deployment Lead)
   Previous: Night Stocker / Forklift Driver @ Costco Wholesale
   Education: Associates, City College Of San  '26
   LinkedIn: https://linkedin.com/in/shawntlorenzo
@@ -320,7 +320,7 @@ Employee #36
   Name: Joshua Del Rosario
   Grad: '23 | YoE: 2
   Start Date: 2024-09
-  Title: Mobile Deployment Lead
+  Title: Mobile Deployment Lead (Mobile Deployment Lead)
   Previous: Unity Program Development @ California Academy Of Sciences
   Education: BS CS, San Francisco State  '23
   LinkedIn: https://linkedin.com/in/jdelrosario26
@@ -329,7 +329,7 @@ Employee #37
   Name: Marinda Lamb
   Grad: '23 | YoE: 2
   Start Date: 2024-09
-  Title: Operations
+  Title: Operations (Operations)
   Previous: Intern @ Nevada Bank And Trust
   Education: MS Creative Writing, University Of San Fr '26
   LinkedIn: https://linkedin.com/in/marinda-lamb-08a00b179
@@ -338,7 +338,7 @@ Employee #38
   Name: Dibya Ghosh
   Grad: '19 | YoE: 6
   Start Date: 2024-10
-  Title: Student Researcher
+  Title: Researcher (Student Researcher)
   Previous: Student Researcher @ Google Deepmind
   Education: BS CS, UC Berkeley '19
   LinkedIn: https://linkedin.com/in/dibyaghosh
@@ -347,7 +347,7 @@ Employee #39
   Name: Haohuan Wang
   Grad: '15 | YoE: 10
   Start Date: 2024-10
-  Title: Member Of Technical Staff
+  Title: Engineer (Member Of Technical Staff)
   Previous: Software Engineer @ Nuro
   Education: MS CE, UMich '17
   LinkedIn: https://linkedin.com/in/haohuanw
@@ -356,7 +356,7 @@ Employee #40
   Name: Laura Smith
   Grad: '19 | YoE: 6
   Start Date: 2024-10
-  Title: Member Of Technical Staff
+  Title: Engineer (Member Of Technical Staff)
   Previous: Student Researcher @ Google Deepmind
   Education: PhD CS, UC Berkeley '25
   LinkedIn: https://linkedin.com/in/smithlaura1028
@@ -365,7 +365,7 @@ Employee #41
   Name: Jia Zhen
   Grad: '24 | YoE: 1
   Start Date: 2024-11
-  Title: Robot Operator
+  Title: Robot Operator (Robot Operator)
   Previous: Academic Tutor (Calculus Ii) @ Laney College
   Education: BA Econ, Uc Irvine '24
   LinkedIn: https://linkedin.com/in/jia-bao-zhen-69b8b4184
@@ -374,7 +374,7 @@ Employee #42
   Name: Kobe Lee
   Grad: '23 | YoE: 2
   Start Date: 2024-12
-  Title: Robot Operator
+  Title: Robot Operator (Robot Operator)
   Previous: Store Associate @ The Walt Disney Family Museum
   Education: BS ME, San José State Unive '23
   LinkedIn: https://linkedin.com/in/kobeclee
@@ -383,7 +383,7 @@ Employee #43
   Name: Jeffrey Yu
   Grad: '17 | YoE: 8
   Start Date: 2024-12
-  Title: Robot Operator
+  Title: Robot Operator (Robot Operator)
   Previous: Student Intern @ All Stars Project, Inc.
   Education: CE, Uc Irvine '24
   LinkedIn: https://linkedin.com/in/jeffrey-yu-b5473215a
@@ -392,7 +392,7 @@ Employee #44
   Name: Yushen Zheng
   Grad: '22 | YoE: 3
   Start Date: 2024-12
-  Title: Robot Operator
+  Title: Robot Operator (Robot Operator)
   Previous: Software Quality Assurance Intern @ Thermo Fisher Scientific
   Education: University Of Califo '24
   LinkedIn: https://linkedin.com/in/yushen-zheng-503299250
@@ -401,7 +401,7 @@ Employee #45
   Name: Imran S
   Grad: '23 | YoE: 2
   Start Date: 2025-01
-  Title: Robot Operator
+  Title: Robot Operator (Robot Operator)
   Previous: Document Control Specialist @ Samtrans-San Mateo County Transit District
   Education: Year Up United '24
   LinkedIn: https://linkedin.com/in/imran-s-655770273
@@ -410,7 +410,7 @@ Employee #46
   Name: Kirby Yu
   Grad: '23 | YoE: 2
   Start Date: 2025-01
-  Title: Shift Lead
+  Title: Shift Lead (Shift Lead)
   Previous: Asset Technician @ Eos It Solutions
   Education: BS CS, University Of Califo '23
   LinkedIn: https://linkedin.com/in/kirby-yu-b77654182
@@ -419,7 +419,7 @@ Employee #47
   Name: Raya North
   Grad: '25 | YoE: ?
   Start Date: 2025-01
-  Title: Operator
+  Title: Operator (Operator)
   Previous: N/A @ N/A
   Education: N/A
   LinkedIn: https://linkedin.com/in/raya-north-515369322
@@ -428,7 +428,7 @@ Employee #48
   Name: James Darpinian
   Grad: '04 | YoE: 21
   Start Date: 2025-02
-  Title: Member Of Technical Staff
+  Title: Engineer (Member Of Technical Staff)
   Previous: Software Engineer @ Meta
   Education: BS CS, Harvey Mudd College '04
   LinkedIn: https://linkedin.com/in/jdarpinian
@@ -437,7 +437,7 @@ Employee #49
   Name: Allen Ren
   Grad: '19 | YoE: 6
   Start Date: 2025-02
-  Title: Member Of Technical Staff
+  Title: Engineer (Member Of Technical Staff)
   Previous: Research Intern @ Nvidia
   Education: PhD Aerospace Engineerin, Princeton '25
   LinkedIn: https://linkedin.com/in/allenzren
@@ -446,7 +446,7 @@ Employee #50
   Name: Simar Kareer
   Grad: '22 | YoE: 3
   Start Date: 2025-02
-  Title: Research Intern
+  Title: Intern (Research Intern)
   Previous: Associate @ Georgia Tech Angel Network
   Education: PhD, Georgia Tech '27
   LinkedIn: https://linkedin.com/in/skareer
@@ -455,7 +455,7 @@ Employee #51
   Name: Kyle Stachowicz
   Grad: '21 | YoE: 4
   Start Date: 2025-02
-  Title: Student Researcher
+  Title: Researcher (Student Researcher)
   Previous: Graduate Student Researcher @ Berkeley Artificial Intelligence Research
   Education: PhD CS, UC Berkeley '27
   LinkedIn: https://linkedin.com/in/kylestach
@@ -464,7 +464,7 @@ Employee #52
   Name: Von-Royce Villanueva
   Grad: '04 | YoE: 21
   Start Date: 2025-03
-  Title: Fleet Maintenance Technician
+  Title: Fleet Maintenance Technician (Fleet Maintenance Technician)
   Previous: Assembly Technician @ The Bot Company
   Education: Laney College
   LinkedIn: https://linkedin.com/in/von-royce-villanueva-12752720
@@ -473,7 +473,7 @@ Employee #53
   Name: Karan Dhabalia
   Grad: '18 | YoE: 7
   Start Date: 2025-03
-  Title: Robot Stuff
+  Title: Robot Stuff (Robot Stuff)
   Previous: Engineering @ Stripe
   Education: MS CE, CMU '19
   LinkedIn: https://linkedin.com/in/karan-dhabalia
@@ -482,7 +482,7 @@ Employee #54
   Name: Oamar Ochavillo
   Grad: '18 | YoE: 7
   Start Date: 2025-03
-  Title: Robotics Operator
+  Title: Robotics Operator (Robotics Operator)
   Previous: Customer Support @ Walker Advertising
   Education: Associates CS, College Of San Mateo '24
   LinkedIn: https://linkedin.com/in/oamarvochavillo
@@ -491,7 +491,7 @@ Employee #55
   Name: Nathaniel Macasaet
   Grad: '24 | YoE: 1
   Start Date: 2025-03
-  Title: Robot Operator
+  Title: Robot Operator (Robot Operator)
   Previous: Network Engineering Intern @ Healthequity
   Education: Math, UC Berkeley '24
   LinkedIn: https://linkedin.com/in/nathaniel-macasaet
@@ -500,7 +500,7 @@ Employee #56
   Name: Joseph Garrido
   Grad: '23 | YoE: 2
   Start Date: 2025-03
-  Title: Robot Operator
+  Title: Robot Operator (Robot Operator)
   Previous: Fitness Professional @ Ilovekickboxing
   Education: Skyline College '24
   LinkedIn: https://linkedin.com/in/joseph-garrido-0877562b3
@@ -509,7 +509,7 @@ Employee #57
   Name: Ernest Chan
   Grad: '24 | YoE: 1
   Start Date: 2025-04
-  Title: Robot Operator
+  Title: Robot Operator (Robot Operator)
   Previous: Patient Service Representative @ Sutter Health
   Education: BS CS, University Of Califo '24
   LinkedIn: https://linkedin.com/in/ernest-chan-9850771a4
@@ -518,7 +518,7 @@ Employee #58
   Name: Gashon Hussein
   Grad: '25 | YoE: ?
   Start Date: 2025-05
-  Title: Researcher
+  Title: Researcher (Researcher)
   Previous: Software Engineer @ Google
   Education: BS CS, Stanford '25
   LinkedIn: https://linkedin.com/in/gashon-hussein
@@ -527,7 +527,7 @@ Employee #59
   Name: Rowan Jen
   Grad: '23 | YoE: 2
   Start Date: 2025-05
-  Title: Operations
+  Title: Operations (Operations)
   Previous: Product @ Recruitu
   Education: Math, Yale '27
   LinkedIn: https://linkedin.com/in/rowan-jen-3ab64a189
@@ -536,7 +536,7 @@ Employee #60
   Name: Oliver Draffen
   Grad: '22 | YoE: 3
   Start Date: 2025-05
-  Title: Graveyard Shift Lead
+  Title: Graveyard Shift Lead (Graveyard Shift Lead)
   Previous: Crew Member @ Trader Joe'S
   Education: ME, College Of San Mateo '25
   LinkedIn: https://linkedin.com/in/odraffen
@@ -545,7 +545,7 @@ Employee #61
   Name: Ali Amin
   Grad: '15 | YoE: 10
   Start Date: 2025-06
-  Title: Member Of Technical Staff
+  Title: Engineer (Member Of Technical Staff)
   Previous: Founding Engineer @ Stealth Startup
   Education: MBA Engineering, Harvard Business Sch '25
   LinkedIn: https://linkedin.com/in/amamin
@@ -554,7 +554,7 @@ Employee #62
   Name: Steven Shepard
   Grad: '15 | YoE: 10
   Start Date: 2025-06
-  Title: Robot Operator
+  Title: Robot Operator (Robot Operator)
   Previous: Co-Founder / Chief Technology Officer @ Terroirai
   Education: PhD, UC Berkeley '21
   LinkedIn: https://linkedin.com/in/link-with-steven-shepard
@@ -563,7 +563,7 @@ Employee #63
   Name: Dan Ton
   Grad: '14 | YoE: 11
   Start Date: 2025-06
-  Title: Robot Operator
+  Title: Robot Operator (Robot Operator)
   Previous: Software Developer Internship @ Tyler Technologies
   Education: Bay Valley Tech - St '22
   LinkedIn: https://linkedin.com/in/dton
@@ -572,7 +572,7 @@ Employee #64
   Name: Thomas Godden
   Grad: '18 | YoE: 7
   Start Date: 2025-06
-  Title: Hardware Engineer
+  Title: Engineer (Hardware Engineer)
   Previous: Robotics Engineer @ Pipedream
   Education: MEng Design, Imperial College Lon '23
   LinkedIn: https://linkedin.com/in/thomas-godden
@@ -581,7 +581,7 @@ Employee #65
   Name: Vedant Choudhary
   Grad: '21 | YoE: 4
   Start Date: 2025-06
-  Title: Robot Operator
+  Title: Robot Operator (Robot Operator)
   Previous: Graduate Research Assistant @ Asu Neuromuscular Control And Human Robotics Laboratory
   Education: MS Aerospace Engineerin, Arizona State Univer
   LinkedIn: https://linkedin.com/in/vedant2307
@@ -590,7 +590,7 @@ Employee #66
   Name: Marcel Villasevil
   Grad: '21 | YoE: 4
   Start Date: 2025-06
-  Title: Research Intern
+  Title: Intern (Research Intern)
   Previous: Graduate Researcher @ Stanford University
   Education: PhD, Stanford
   LinkedIn: https://linkedin.com/in/marceltorne
@@ -599,7 +599,7 @@ Employee #67
   Name: Will Stoeckle
   Grad: '12 | YoE: 13
   Start Date: 2025-07
-  Title: Operations
+  Title: Operations (Operations)
   Previous: Senior Vice President Of Operations @ Home Partners Of America®
   Education: MS, The London School Of '14
   LinkedIn: https://linkedin.com/in/willstoeckle
@@ -608,7 +608,7 @@ Employee #68
   Name: Ashwin Balakrishna
   Grad: '18 | YoE: 7
   Start Date: 2025-07
-  Title: Member Of The Technical Staff
+  Title: Engineer (Member Of The Technical Staff)
   Previous: Senior Research Scientist @ Google Deepmind
   Education: PhD CS, UC Berkeley '22
   LinkedIn: https://linkedin.com/in/ashwin-balakrishna-9b71a357
@@ -617,7 +617,7 @@ Employee #69
   Name: Charwin Idolyantes
   Grad: '25 | YoE: ?
   Start Date: 2025-07
-  Title: Ai Robotics Data Collection
+  Title: AI Engineer (Ai Robotics Data Collection)
   Previous: N/A @ N/A
   Education: CS, California State Uni '25
   LinkedIn: https://linkedin.com/in/charwin-idolyantes-62b43b196
@@ -626,7 +626,7 @@ Employee #70
   Name: Hunter Hancock
   Grad: '21 | YoE: 4
   Start Date: 2025-08
-  Title: Member Of Technical Staff
+  Title: Engineer (Member Of Technical Staff)
   Previous: Tech Lead Manager @ Recurrency
   Education: BS CS, Georgia Tech '21
   LinkedIn: https://linkedin.com/in/hunterhancock
@@ -635,7 +635,7 @@ Employee #71
   Name: Tommy Tran-Nguyen
   Grad: '25 | YoE: ?
   Start Date: 2025-08
-  Title: Robot Operator
+  Title: Robot Operator (Robot Operator)
   Previous: Robotics Team Member @ Sjsu Robotics
   Education: BE Engineering, San José State Unive '25
   LinkedIn: https://linkedin.com/in/tommy-tran-nguyen
@@ -644,7 +644,7 @@ Employee #72
   Name: Kayla M
   Grad: '19 | YoE: 6
   Start Date: 2025-08
-  Title: Robot Operator
+  Title: Robot Operator (Robot Operator)
   Previous: Vehicle Operator, Alphaops @ Zoox
   Education: MS CS, San José State Unive '24
   LinkedIn: https://linkedin.com/in/kayla-m-91a39999
@@ -653,7 +653,7 @@ Employee #73
   Name: Damian Gonzalez
   Grad: '26 | YoE: -1
   Start Date: 2025-08
-  Title: Robotics Operator
+  Title: Robotics Operator (Robotics Operator)
   Previous: Asset Protection @ Best Buy
   Education: BS Management, San Francisco State  '26
   LinkedIn: https://linkedin.com/in/damian-gonzalez-322733246
@@ -662,7 +662,7 @@ Employee #74
   Name: Jared Dicarlo
   Grad: '15 | YoE: 10
   Start Date: 2025-09
-  Title: Member Of Technical Staff
+  Title: Engineer (Member Of Technical Staff)
   Previous: Robotics Engineer @ Boston Dynamics
   Education: CS, MIT '19
   LinkedIn: https://linkedin.com/in/jared-dicarlo-333970122
@@ -671,7 +671,7 @@ Employee #75
   Name: Ariana Levy
   Grad: '19 | YoE: 6
   Start Date: 2025-09
-  Title: Robot Operator
+  Title: Robot Operator (Robot Operator)
   Previous: Qa Tester @ Arcade
   Education: Master Of Fine Arts Product Design, California College O '24
   LinkedIn: https://linkedin.com/in/ariana-dorothea-levy-4a3a20149
@@ -680,7 +680,7 @@ Employee #76
   Name: Vincent Lam
   Grad: '17 | YoE: 8
   Start Date: 2025-09
-  Title: Robot Operator
+  Title: Robot Operator (Robot Operator)
   Previous: Intern @ Test21
   Education: San José State Unive '25
   LinkedIn: https://linkedin.com/in/vincent-lam-84444a251
@@ -689,7 +689,7 @@ Employee #77
   Name: Kayla Young
   Grad: '24 | YoE: 1
   Start Date: 2025-09
-  Title: Robot Operator
+  Title: Robot Operator (Robot Operator)
   Previous: Instructional Student Assistant @ San Francisco State University
   Education: BS CS, San Francisco State  '24
   LinkedIn: https://linkedin.com/in/kayla-young-0153aa240
@@ -698,7 +698,7 @@ Employee #78
   Name: Zoraiz Syed
   Grad: '25 | YoE: ?
   Start Date: 2025-10
-  Title: Robot Operator (Testing And Data Specialist)
+  Title: Data Engineer (Robot Operator (Testing And Data Specialist))
   Previous: Sales Associate At Google Visitor Experience @ Mosaic North America
   Education: BS CS, San José State Unive '25
   LinkedIn: https://linkedin.com/in/zoraizsabeel
@@ -707,7 +707,7 @@ Employee #79
   Name: Bo Ai
   Grad: '23 | YoE: 2
   Start Date: 2025-10
-  Title: Research Intern
+  Title: Intern (Research Intern)
   Previous: Research Intern @ Rai Institute
   Education: PhD CS, Uc San Diego '29
   LinkedIn: https://linkedin.com/in/bo-ai
@@ -716,7 +716,7 @@ Employee #80
   Name: Davis Bray
   Grad: '25 | YoE: ?
   Start Date: 2025-10
-  Title: Operations
+  Title: Operations (Operations)
   Previous: Consultant @ Stealth Mode Biotech
   Education: BS Philosophy, North Carolina State '25
   LinkedIn: https://linkedin.com/in/davis-bray-b19930338
@@ -725,7 +725,7 @@ Employee #81
   Name: Blake Williams
   Grad: '06 | YoE: 19
   Start Date: 2025-11
-  Title: Talent
+  Title: Talent (Talent)
   Previous: Head Of Recruiting @ Nuro
   Education: BA English, Middlebury College '06
   LinkedIn: https://linkedin.com/in/bwillia
@@ -734,7 +734,7 @@ Employee #82
   Name: Sukwon Yoo
   Grad: '12 | YoE: 13
   Start Date: 2025-11
-  Title: Member Of Technical Staff
+  Title: Engineer (Member Of Technical Staff)
   Previous: Principal Electrical Engineer, Lead @ Familiar Machines & Magic
   Education: MS EE, Tufts University '13
   LinkedIn: https://linkedin.com/in/sukwon-yoo-0b117367
@@ -743,7 +743,7 @@ Employee #83
   Name: Greg Balke
   Grad: '19 | YoE: 6
   Start Date: 2025-11
-  Title: Member Of Technical Staff
+  Title: Engineer (Member Of Technical Staff)
   Previous: Embedded Software Engineer @ Skydio
   Education: BS CS, Uc Berkeley College  '19
   LinkedIn: https://linkedin.com/in/~balke

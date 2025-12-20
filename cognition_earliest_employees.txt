@@ -6,7 +6,7 @@ Employee #1
   Name: Tony Jiang
   Grad: '13 | YoE: 12
   Start Date: 2023-11
-  Title: Founding Engineer
+  Title: Founding Engineer (Founding Engineer)
   Previous: Tech Lead Manager @ Nuro
   Education: CS, Yale '18
   LinkedIn: https://linkedin.com/in/jiangtony
@@ -15,7 +15,7 @@ Employee #2
   Name: Sara Xiang
   Grad: '18 | YoE: 7
   Start Date: 2023-11
-  Title: Human Product Manager
+  Title: PM (Human Product Manager)
   Previous: Product @ Arena
   Education: BS CS, CMU '18
   LinkedIn: https://linkedin.com/in/saraxiang
@@ -24,7 +24,7 @@ Employee #3
   Name: Adhyyan Sekhsaria
   Grad: '22 | YoE: 3
   Start Date: 2023-11
-  Title: Founding Engineer
+  Title: Founding Engineer (Founding Engineer)
   Previous: Software Engineer @ Quadric
   Education: BS Math, USC '22
   LinkedIn: https://linkedin.com/in/adhyyansekhsaria
@@ -33,7 +33,7 @@ Employee #4
   Name: Scott Wu
   Grad: '14 | YoE: 11
   Start Date: 2023-11
-  Title: Co-Founder And Chief Executive Officer
+  Title: Co-Founder & CEO (Co-Founder And Chief Executive Officer)
   Previous: Co-Founder And Chief Technology Officer @ Lunchclub
   Education: Econ, Harvard '19
   LinkedIn: https://linkedin.com/in/scott-wu-8b94ab96
@@ -42,7 +42,7 @@ Employee #5
   Name: Steven Hao
   Grad: '18 | YoE: 7
   Start Date: 2023-11
-  Title: Co-Founder
+  Title: Co-Founder (Co-Founder)
   Previous: Software Engineer @ Scale Ai
   Education: BS CS, MIT '18
   LinkedIn: https://linkedin.com/in/steven-hao-160b9638
@@ -51,7 +51,7 @@ Employee #6
   Name: Walden Yan
   Grad: '24 | YoE: 1
   Start Date: 2023-11
-  Title: Co-Founder
+  Title: Co-Founder (Co-Founder)
   Previous: Early Engineer @ Anysphere
   Education: BS CS, Harvard '24
   LinkedIn: https://linkedin.com/in/waldenyan
@@ -60,7 +60,7 @@ Employee #7
   Name: Andrew H
   Grad: '19 | YoE: 6
   Start Date: 2023-11
-  Title: Human Software Engineer
+  Title: Engineer (Human Software Engineer)
   Previous: Software Engineer @ Modal
   Education: BS CS, MIT '19
   LinkedIn: https://linkedin.com/in/andrew-he
@@ -69,7 +69,7 @@ Employee #8
   Name: Russell Kaplan
   Grad: '17 | YoE: 8
   Start Date: 2024-01
-  Title: President
+  Title: President (President)
   Previous: Director Of Engineering & Ml @ Scale Ai
   Education: MS CS, Stanford '18
   LinkedIn: https://linkedin.com/in/russelljkaplan
@@ -78,7 +78,7 @@ Employee #9
   Name: Jeffrey Ling
   Grad: '17 | YoE: 8
   Start Date: 2024-01
-  Title: Human Software Engineer
+  Title: Engineer (Human Software Engineer)
   Previous: Co-Founder @ Stealth Startup
   Education: BA CS, Harvard '17
   LinkedIn: https://linkedin.com/in/jeffrey-ling-92163879
@@ -87,7 +87,7 @@ Employee #10
   Name: Calvin Giroud
   Grad: '18 | YoE: 7
   Start Date: 2024-01
-  Title: Gtm
+  Title: GTM (Gtm)
   Previous: Founder & Chief Executive Officer @ Refractive
   Education: BS CE, CMU '18
   LinkedIn: https://linkedin.com/in/calvin-giroud-9667a8100
@@ -96,7 +96,7 @@ Employee #11
   Name: Ziwei D
   Grad: '08 | YoE: 17
   Start Date: 2024-01
-  Title: Board Member
+  Title: Board Member (Board Member)
   Previous: Technical Manager @ Splunk
   Education: MS CS, UC Berkeley
 
@@ -104,7 +104,7 @@ Employee #12
   Name: Ramiro D'Avila
   Grad: '14 | YoE: 11
   Start Date: 2024-02
-  Title: Software Engineer
+  Title: Engineer (Software Engineer)
   Previous: Software Engineer @ Scale Ai
   Education: Engineering, Universidad Nacional '20
   LinkedIn: https://linkedin.com/in/ramasilveyra
@@ -113,7 +113,7 @@ Employee #13
   Name: Martin Cabral
   Grad: '09 | YoE: 16
   Start Date: 2024-02
-  Title: Software Engineer
+  Title: Engineer (Software Engineer)
   Previous: Software Engineer @ Scale Ai
   Education: Instituto Tecnolã³Gi '10
   LinkedIn: https://linkedin.com/in/martin-cabral-b0897615
@@ -122,7 +122,7 @@ Employee #14
   Name: Salima Ghadimi
   Grad: '16 | YoE: 9
   Start Date: 2024-03
-  Title: Operations
+  Title: Operations (Operations)
   Previous: Platform Operations @ Capchase
   Education: MBA, Columbia Business Sc '21
   LinkedIn: https://linkedin.com/in/salima-ghadimi-17064789
@@ -131,7 +131,7 @@ Employee #15
   Name: Federico Marcos
   Grad: '16 | YoE: 9
   Start Date: 2024-03
-  Title: Senior Software Engineer
+  Title: Senior Engineer (Senior Software Engineer)
   Previous: Senior Data Scientist @ Scale Ai
   Education: Software Engineering, Free Code Camp '16
   LinkedIn: https://linkedin.com/in/federicomarcos
@@ -140,7 +140,7 @@ Employee #16
   Name: Bryce Hunt
   Grad: '21 | YoE: 4
   Start Date: 2024-03
-  Title: Human
+  Title: Engineer (Human)
   Previous: Co-Founder @ Stealth
   Education: CS, Stanford '22
   LinkedIn: https://linkedin.com/in/-bryce
@@ -149,7 +149,7 @@ Employee #17
   Name: Silas Alberti
   Grad: '22 | YoE: 3
   Start Date: 2024-03
-  Title: Founding Team
+  Title: Founding Team (Founding Team)
   Previous: Student Researcher @ Google Deepmind
   Education: PhD EE, Stanford '27
   LinkedIn: https://linkedin.com/in/silasalberti
@@ -158,7 +158,7 @@ Employee #18
   Name: Moritz Stephan
   Grad: '24 | YoE: 1
   Start Date: 2024-04
-  Title: Human Software Engineer
+  Title: Engineer (Human Software Engineer)
   Previous: Research Engineer @ Trunk Tools
   Education: MS CS, Stanford '24
   LinkedIn: https://linkedin.com/in/moritz-stephan
@@ -167,7 +167,7 @@ Employee #19
   Name: Dev Chheda
   Grad: '25 | YoE: ?
   Start Date: 2024-04
-  Title: Software Engineer
+  Title: Engineer (Software Engineer)
   Previous: Researcher At Low-Energy Autonomy And Navigation (Lean) Group @ Research Laboratory Of Electronics At Mit
   Education: BS Architecture, MIT '25
   LinkedIn: https://linkedin.com/in/dev-chheda-6497bb1a7
@@ -176,7 +176,7 @@ Employee #20
   Name: Mokshit Jain
   Grad: '22 | YoE: 3
   Start Date: 2024-06
-  Title: Product Engineer
+  Title: Product Engineer (Product Engineer)
   Previous: Frontend Engineer Intern @ Replay.Io
   Education: Montfort Secondary S '24
   LinkedIn: https://linkedin.com/in/mokshit-jain-34318018a
@@ -185,7 +185,7 @@ Employee #21
   Name: Calvin Huang
   Grad: '18 | YoE: 7
   Start Date: 2024-08
-  Title: Software Engineer
+  Title: Engineer (Software Engineer)
   Previous: Staff Software Engineer @ Scale Ai
   Education: BS CS, MIT '18
   LinkedIn: https://linkedin.com/in/clhuang
@@ -194,7 +194,7 @@ Employee #22
   Name: Sean Sullivan
   Grad: '20 | YoE: 5
   Start Date: 2024-08
-  Title: Human Engineer
+  Title: Engineer (Human Engineer)
   Previous: Software Engineering Contractor @ Windsurf
   Education: MS Math, Harvard '20
   LinkedIn: https://linkedin.com/in/sullivan-sean
@@ -203,7 +203,7 @@ Employee #23
   Name: Shannon Kahn
   Grad: '16 | YoE: 9
   Start Date: 2024-09
-  Title: Account Executive, Strategic / Majors (Windsurf And Devin)
+  Title: Account Executive (Account Executive, Strategic / Majors (Windsurf And Devin))
   Previous: Enterprise Account Executive @ Chronosphere
   Education: French Language, Université Paris - S
   LinkedIn: https://linkedin.com/in/shannonscheel
@@ -212,7 +212,7 @@ Employee #24
   Name: Dani Mccabe
   Grad: '17 | YoE: 8
   Start Date: 2024-10
-  Title: Director, Sales Enablement
+  Title: Director (Director, Sales Enablement)
   Previous: Director, Sales Enablement @ Navan
   Education: Econ, Semester At Sea / Is '17
   LinkedIn: https://linkedin.com/in/danielle-mccabe
@@ -221,7 +221,7 @@ Employee #25
   Name: Sam Rudy
   Grad: '14 | YoE: 11
   Start Date: 2024-10
-  Title: Gtm
+  Title: GTM (Gtm)
   Previous: Strategic Account Executive, Emea @ Airtable
   Education: BS International Relati, University Of Colora '14
   LinkedIn: https://linkedin.com/in/sam-rudy-44a2287b
@@ -230,7 +230,7 @@ Employee #26
   Name: Kira Busman
   Grad: '13 | YoE: 12
   Start Date: 2024-10
-  Title: Advisor
+  Title: Advisor (Advisor)
   Previous: Advisor @ Stealth Mode
   Education: BS History, Binghamton Universit
   LinkedIn: https://linkedin.com/in/kirabusman
@@ -239,7 +239,7 @@ Employee #27
   Name: Gennady Korotkevich
   Grad: '18 | YoE: 7
   Start Date: 2024-12
-  Title: Software Engineer
+  Title: Engineer (Software Engineer)
   Previous: Research Engineer @ Ramp
   Education: BS CS, Itmo University '18
   LinkedIn: https://linkedin.com/in/gennady-korotkevich

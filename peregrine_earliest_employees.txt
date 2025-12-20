@@ -6,7 +6,7 @@ Employee #1
   Name: Ben Rudolph
   Grad: '13 | YoE: 12
   Start Date: 2018-01
-  Title: Co-Founder
+  Title: Co-Founder (Co-Founder)
   Previous: Software Engineer @ Dimagi
   Education: BS CS, Stanford '13
   LinkedIn: https://linkedin.com/in/brudolph
@@ -15,7 +15,7 @@ Employee #2
   Name: Eric Hergenrader
   Grad: '10 | YoE: 15
   Start Date: 2018-12
-  Title: Software Engineer
+  Title: Engineer (Software Engineer)
   Previous: Software Engineer 3 @ Surveymonkey
   Education: BA Econ, Stanford '10
   LinkedIn: https://linkedin.com/in/erichergenrader
@@ -24,7 +24,7 @@ Employee #3
   Name: Gilad Gray
   Grad: '11 | YoE: 14
   Start Date: 2019-09
-  Title: Lead User Experience Engineer
+  Title: Engineer (Lead User Experience Engineer)
   Previous: Senior Software Engineer @ Palantir Technologies
   Education: BS CS, Tufts University '11
   LinkedIn: https://linkedin.com/in/giladgray
@@ -33,7 +33,7 @@ Employee #4
   Name: Antoine Llorca
   Grad: '11 | YoE: 14
   Start Date: 2020-03
-  Title: Head Of Design
+  Title: Design (Head Of Design)
   Previous: Product Designer @ Slack
   Education: CS, University Of Delhi  '12
   LinkedIn: https://linkedin.com/in/antoinellorca
@@ -42,7 +42,7 @@ Employee #5
   Name: Sunali Devi
   Grad: '21 | YoE: 4
   Start Date: 2021-02
-  Title: Security Supervisor
+  Title: Security Supervisor (Security Supervisor)
   Previous: N/A @ N/A
   Education: N/A
   LinkedIn: https://linkedin.com/in/sunali-devi-75b85a2b5
@@ -51,7 +51,7 @@ Employee #6
   Name: Jonathan Emord
   Grad: '13 | YoE: 12
   Start Date: 2021-03
-  Title: Software Engineer
+  Title: Engineer (Software Engineer)
   Previous: Senior Software Engineer @ Hopper
   Education: BS CE, Tennessee Technologi '13
   LinkedIn: https://linkedin.com/in/jonathan-emord-4ba52875
@@ -60,7 +60,7 @@ Employee #7
   Name: Calvin Fernandez
   Grad: '13 | YoE: 12
   Start Date: 2021-03
-  Title: Software Engineer
+  Title: Engineer (Software Engineer)
   Previous: Senior Software Engineer @ Meta
   Education: BS CS, Stanford '13
   LinkedIn: https://linkedin.com/in/calvin-fernandez-85b92760
@@ -69,7 +69,7 @@ Employee #8
   Name: Aakash Pattabi
   Grad: '19 | YoE: 6
   Start Date: 2021-03
-  Title: Deployment Team Lead
+  Title: Deployment Team Lead (Deployment Team Lead)
   Previous: Venture Architect @ Bcg Digital Ventures
   Education: MS CS, Stanford '19
   LinkedIn: https://linkedin.com/in/aakashpattabi
@@ -78,7 +78,7 @@ Employee #9
   Name: Chandra Varona
   Grad: '07 | YoE: 18
   Start Date: 2021-05
-  Title: Peregrine Technologies
+  Title: Peregrine Technologies (Peregrine Technologies)
   Previous: Right Hand To The Executive Vice President @ Palantir Technologies
   Education: MS Management, Codarts Rotterdam |  '11
 
@@ -86,7 +86,7 @@ Employee #10
   Name: Jersey Leonard Nerbetski Captain
   Grad: '04 | YoE: 21
   Start Date: 2021-09
-  Title: Senior Law Enforcement Advisor, Peregrine Technologies
+  Title: Advisor (Senior Law Enforcement Advisor, Peregrine Technologies)
   Previous: Commander, Albuquerque Police Department @ Albuquerque Police Department
   Education: Leadership, Naval Postgraduate S '15
   LinkedIn: https://linkedin.com/in/leonard-nerbetski-captain-new-jersey-state-police-ret-66360a133
@@ -95,7 +95,7 @@ Employee #11
   Name: David Zhao
   Grad: '19 | YoE: 6
   Start Date: 2021-10
-  Title: Software Engineer
+  Title: Engineer (Software Engineer)
   Previous: Forward Deployed Engineer @ Palantir Technologies
   Education: BS CS, University Of Virgin '19
   LinkedIn: https://linkedin.com/in/davidbzhao
@@ -104,7 +104,7 @@ Employee #12
   Name: Holland Matheson
   Grad: '12 | YoE: 13
   Start Date: 2021-11
-  Title: Head Of Recruiting
+  Title: Head Of Recruiting (Head Of Recruiting)
   Previous: Recruiter @ Keystone Strategy
   Education: BA Communication, Brigham Young Univer '12
   LinkedIn: https://linkedin.com/in/holland-matheson-b2ab3888

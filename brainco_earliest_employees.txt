@@ -6,7 +6,7 @@ Employee #1
   Name: Eric Han
   Grad: '16 | YoE: 9
   Start Date: 2024-01
-  Title: Private Equity
+  Title: Private Equity (Private Equity)
   Previous: Director Of Operations @ Rithum
   Education: BS Math, Brown University '16
   LinkedIn: https://linkedin.com/in/eric-han16
@@ -15,7 +15,7 @@ Employee #2
   Name: Dan Ashton
   Grad: '12 | YoE: 13
   Start Date: 2024-01
-  Title: Co-Founder & President
+  Title: Co-Founder & President (Co-Founder & President)
   Previous: Co-Founder & Chief Executive Officer (Acquired) @ Serene Ai
   Education: Stanford '14
   LinkedIn: https://linkedin.com/in/dashton-
@@ -24,7 +24,7 @@ Employee #3
   Name: Shawn Sprockett
   Grad: '08 | YoE: 17
   Start Date: 2024-01
-  Title: Head Of Design
+  Title: Design (Head Of Design)
   Previous: Senior Adjunct Professor @ California College Of The Arts
   Education: Master Of Fine Arts Design, School Of Visual Art '13
   LinkedIn: https://linkedin.com/in/ssprockett
@@ -33,7 +33,7 @@ Employee #4
   Name: Vilmos Nebehaj
   Grad: '02 | YoE: 23
   Start Date: 2024-09
-  Title: Founding Engineer
+  Title: Founding Engineer (Founding Engineer)
   Previous: Staff Software Engineer @ Sprig
   Education: MS, Corvinus University  '10
   LinkedIn: https://linkedin.com/in/vilmos-nebehaj-7a379410
@@ -42,7 +42,7 @@ Employee #5
   Name: Mircea Pașoi
   Grad: '09 | YoE: 16
   Start Date: 2024-10
-  Title: Co-Founder & Head Of Engineering
+  Title: Co-Founder (Co-Founder & Head Of Engineering)
   Previous: Co-Founder & Chief Technology Officer (Acquired) @ Serene Ai
   Education: MS CS, University Of Buchar '11
   LinkedIn: https://linkedin.com/in/mirceapasoi
@@ -51,7 +51,7 @@ Employee #6
   Name: Revant Kapoor
   Grad: '10 | YoE: 15
   Start Date: 2024-10
-  Title: Co-Founder & Ai / Ml
+  Title: Co-Founder (Co-Founder & Ai / Ml)
   Previous: Co-Founder & Chief Technology Officer (Acquired) @ Serene Ai
   Education: BE CS, Cornell '10
   LinkedIn: https://linkedin.com/in/revantk
@@ -60,7 +60,7 @@ Employee #7
   Name: Mohammad Almalkawi
   Grad: '06 | YoE: 19
   Start Date: 2024-10
-  Title: Head Of Engineering Initiatives
+  Title: Head Of Engineering Initiative (Head Of Engineering Initiatives)
   Previous: Chief Technology Officer @ Clubhouse
   Education: United World College
   LinkedIn: https://linkedin.com/in/almalkawi
@@ -69,7 +69,7 @@ Employee #8
   Name: Zachary Benamram
   Grad: '13 | YoE: 12
   Start Date: 2024-10
-  Title: Founding Engineer
+  Title: Founding Engineer (Founding Engineer)
   Previous: Founding Engineer @ Supergood
   Education: PhD, Texas A&M University '17
   LinkedIn: https://linkedin.com/in/zachary-benamram-413788226
@@ -78,7 +78,7 @@ Employee #9
   Name: Alex Buicescu
   Grad: '16 | YoE: 9
   Start Date: 2024-10
-  Title: Ai Engineer
+  Title: AI Engineer (Ai Engineer)
   Previous: Technical Architect @ Warden Global
   Education: MS, University Of Buchar '18
   LinkedIn: https://linkedin.com/in/alexbuicescu
@@ -87,7 +87,7 @@ Employee #10
   Name: Sibon Li
   Grad: '05 | YoE: 20
   Start Date: 2024-11
-  Title: Research Scientist
+  Title: Research Scientist (Research Scientist)
   Previous: Staff Research Engineer @ Google Deepmind
   Education: Entrepreneurship, Ucla Anderson School
   LinkedIn: https://linkedin.com/in/sibon-li-9a9bba34
@@ -96,7 +96,7 @@ Employee #11
   Name: Cece Zhang
   Grad: '10 | YoE: 15
   Start Date: 2024-11
-  Title: Founding Engineer
+  Title: Founding Engineer (Founding Engineer)
   Previous: Member Of Technical Staff @ Harvey
   Education: MS CE, Uc Irvine '13
   LinkedIn: https://linkedin.com/in/cecez
@@ -105,7 +105,7 @@ Employee #12
   Name: Vishnu Doppalapudi
   Grad: '20 | YoE: 5
   Start Date: 2024-12
-  Title: Founding Engineer
+  Title: Founding Engineer (Founding Engineer)
   Previous: Senior Machine Learning Engineer @ Anduril Industries
   Education: MS CS, UC Berkeley '21
   LinkedIn: https://linkedin.com/in/vishnu-d-9450a796
@@ -114,7 +114,7 @@ Employee #13
   Name: David Lundgren
   Grad: '10 | YoE: 15
   Start Date: 2025-01
-  Title: Machine Learning Engineer
+  Title: ML Engineer (Machine Learning Engineer)
   Previous: Founder (Acquired) @ Storytime
   Education: MS CS, UIUC '13
   LinkedIn: https://linkedin.com/in/davidmlundgren
@@ -123,7 +123,7 @@ Employee #14
   Name: Kanav Petkar
   Grad: '22 | YoE: 3
   Start Date: 2025-01
-  Title: Founding Deployed Engineer
+  Title: Engineer (Founding Deployed Engineer)
   Previous: Co-Founder @ Leaping
   Education: Bachelor Of Applied  Engineering, University Of Waterl '22
   LinkedIn: https://linkedin.com/in/kvptkr
@@ -132,7 +132,7 @@ Employee #15
   Name: James Huang
   Grad: '13 | YoE: 12
   Start Date: 2025-01
-  Title: Ai / Ml
+  Title: ML Engineer (Ai / Ml)
   Previous: Chief Technology Officer @ Sapling.Ai
   Education: BS CS, UC Berkeley '13
   LinkedIn: https://linkedin.com/in/hngjms
@@ -141,7 +141,7 @@ Employee #16
   Name: Justin Kunz
   Grad: '15 | YoE: 10
   Start Date: 2025-02
-  Title: Engineer
+  Title: Engineer (Engineer)
   Previous: Swe @ Macroscope
   Education: Southern Methodist U '19
   LinkedIn: https://linkedin.com/in/justinkunz-1
@@ -150,7 +150,7 @@ Employee #17
   Name: Irene Joo
   Grad: '13 | YoE: 12
   Start Date: 2025-03
-  Title: Founding Recruiter
+  Title: Founding Recruiter (Founding Recruiter)
   Previous: Recruiting Lead @ Shepherd
   Education: MS Occupational Therapy, Boston University '15
   LinkedIn: https://linkedin.com/in/ijoo22
@@ -159,7 +159,7 @@ Employee #18
   Name: Mia Rizk
   Grad: '18 | YoE: 7
   Start Date: 2025-03
-  Title: Product Designer
+  Title: Product (Product Designer)
   Previous: Design Thinking Lecturer @ Saint Joseph University Of Beirut
   Education: Harvard Business Sch '21
   LinkedIn: https://linkedin.com/in/mia-rizk
@@ -168,7 +168,7 @@ Employee #19
   Name: Rushad Heerjee
   Grad: '14 | YoE: 11
   Start Date: 2025-04
-  Title: Head Of Commercial Partnerships
+  Title: Head Of Commercial Partnership (Head Of Commercial Partnerships)
   Previous: Mena Commercial Lead @ Palantir Technologies
   Education: MS Finance, Georgia Tech '17
   LinkedIn: https://linkedin.com/in/rushad-kaizad-heerjee
@@ -177,7 +177,7 @@ Employee #20
   Name: Clemens Mewald
   Grad: '12 | YoE: 13
   Start Date: 2025-05
-  Title: Chief Executive Officer
+  Title: CEO (Chief Executive Officer)
   Previous: Head Of Product @ Instabase
   Education: MBA, Mit Sloan School Of  '15
   LinkedIn: https://linkedin.com/in/clemensmewald
@@ -186,7 +186,7 @@ Employee #21
   Name: Matt Shu
   Grad: '25 | YoE: ?
   Start Date: 2025-06
-  Title: Machine Learning Engineer
+  Title: ML Engineer (Machine Learning Engineer)
   Previous: Machine Learning Intern @ Uber
   Education: MS Data Science, Yale '25
   LinkedIn: https://linkedin.com/in/mattshu
@@ -195,7 +195,7 @@ Employee #22
   Name: Walter Aldana
   Grad: '00 | YoE: 25
   Start Date: 2025-08
-  Title: Gtm & Partnerships Executive
+  Title: GTM (Gtm & Partnerships Executive)
   Previous: Early Stage Investor @ Activeloop
   Education: MBA Management, Stanford '07
   LinkedIn: https://linkedin.com/in/walteraldana
@@ -204,7 +204,7 @@ Employee #23
   Name: Jeffrey Tang
   Grad: '22 | YoE: 3
   Start Date: 2025-08
-  Title: Ai Product Engineer
+  Title: AI Engineer (Ai Product Engineer)
   Previous: Founding Engineer @ Lassie
   Education: BS CS, UIUC '22
   LinkedIn: https://linkedin.com/in/jeffrey-tang
@@ -213,7 +213,7 @@ Employee #24
   Name: Ashley Wang
   Grad: '21 | YoE: 4
   Start Date: 2025-08
-  Title: Ai Product Engineer
+  Title: AI Engineer (Ai Product Engineer)
   Previous: Software Engineer @ Tesla
   Education: BS CS, MIT '21
   LinkedIn: https://linkedin.com/in/ashleyqwang
@@ -222,7 +222,7 @@ Employee #25
   Name: Kaustubh Deshpande
   Grad: '16 | YoE: 9
   Start Date: 2025-08
-  Title: Product Lead
+  Title: Product (Product Lead)
   Previous: Product Team Lead @ Instabase
   Education: MS Design, Stanford '18
   LinkedIn: https://linkedin.com/in/kaustubh-desh
@@ -231,7 +231,7 @@ Employee #26
   Name: Joel Jensen
   Grad: '17 | YoE: 8
   Start Date: 2025-08
-  Title: Operations
+  Title: Operations (Operations)
   Previous: Vice President @ Citadel Securities
   Education: BS Econ, Qut (Queensland Univ
   LinkedIn: https://linkedin.com/in/jensenjoel
@@ -240,7 +240,7 @@ Employee #27
   Name: Derek Dahmer
   Grad: '09 | YoE: 16
   Start Date: 2025-09
-  Title: Ai Product Engineer
+  Title: AI Engineer (Ai Product Engineer)
   Previous: Senior Software Engineer @ Alchemy
   Education: Y Combinator '16
   LinkedIn: https://linkedin.com/in/derekdahmer
@@ -249,7 +249,7 @@ Employee #28
   Name: Veronica Tong
   Grad: '17 | YoE: 8
   Start Date: 2025-09
-  Title: Recruitment Coordinator
+  Title: Recruitment Coordinator (Recruitment Coordinator)
   Previous: Technical Recruiter @ Cardless
   Education: BS Communication, Ucla '17
   LinkedIn: https://linkedin.com/in/veronica-tong-004629183
@@ -258,7 +258,7 @@ Employee #29
   Name: Ammar Alqatari
   Grad: '19 | YoE: 6
   Start Date: 2025-09
-  Title: Ai / Ml
+  Title: ML Engineer (Ai / Ml)
   Previous: Machine Learning Engineer @ Pinterest
   Education: MS CS, Stanford '21
   LinkedIn: https://linkedin.com/in/ammar-alqatari
@@ -267,7 +267,7 @@ Employee #30
   Name: Matthew Wolfe
   Grad: '24 | YoE: 1
   Start Date: 2025-09
-  Title: Ai Product Engineer
+  Title: AI Engineer (Ai Product Engineer)
   Previous: Software Engineer Intern @ Uber
   Education: Y Combinator '24
   LinkedIn: https://linkedin.com/in/mathyou-wolfe
@@ -276,7 +276,7 @@ Employee #31
   Name: Naman Jain
   Grad: '12 | YoE: 13
   Start Date: 2025-10
-  Title: Ai Product Engineer
+  Title: AI Engineer (Ai Product Engineer)
   Previous: Founding Member @ Theo Ai
   Education: MS CS, Columbia '15
   LinkedIn: https://linkedin.com/in/namanjn
@@ -285,7 +285,7 @@ Employee #32
   Name: Fady Soliman
   Grad: '16 | YoE: 9
   Start Date: 2025-10
-  Title: Ai Partnerships & Deployments
+  Title: AI Engineer (Ai Partnerships & Deployments)
   Previous: Head Of Engagements, Gen Ai @ Scale Ai
   Education: Udacity '18
   LinkedIn: https://linkedin.com/in/solimanfady
@@ -294,7 +294,7 @@ Employee #33
   Name: Michael Andemeskel
   Grad: '14 | YoE: 11
   Start Date: 2025-10
-  Title: Ai Product Engineer
+  Title: AI Engineer (Ai Product Engineer)
   Previous: Senior Software Engineer @ Medallion
   Education: CS, University Of Califo '18
   LinkedIn: https://linkedin.com/in/m-t-andemeskel
@@ -303,7 +303,7 @@ Employee #34
   Name: Paarth Tandon
   Grad: '22 | YoE: 3
   Start Date: 2025-10
-  Title: Ai / Ml Engineer
+  Title: ML Engineer (Ai / Ml Engineer)
   Previous: Ai Engineer 2 @ Meltwater
   Education: MS CS, Manning College Of I '23
   LinkedIn: https://linkedin.com/in/paarthtandon
@@ -312,7 +312,7 @@ Employee #35
   Name: Vikram Rao
   Grad: '11 | YoE: 14
   Start Date: 2025-10
-  Title: Ai / Ml Engineering
+  Title: ML Engineer (Ai / Ml Engineering)
   Previous: Machine Learning Engineer @ Stripe
   Education: MA Econ, Ucla '15
   LinkedIn: https://linkedin.com/in/vikramacharyarao
@@ -321,7 +321,7 @@ Employee #36
   Name: Sam Jefferies
   Grad: '16 | YoE: 9
   Start Date: 2025-10
-  Title: Ai Due Diligence Principal
+  Title: AI Engineer (Ai Due Diligence Principal)
   Previous: Consultant @ Bain & Company
   Education: MEng ME, The University Of We '19
   LinkedIn: https://linkedin.com/in/sam-jefferies-309035135
@@ -330,7 +330,7 @@ Employee #37
   Name: Larissa Corry
   Grad: '25 | YoE: ?
   Start Date: 2025-10
-  Title: Recruiting Coordinator
+  Title: Recruiting Coordinator (Recruiting Coordinator)
   Previous: Intern @ Valiance Capital
   Education: BA Public Policy, UC Berkeley '25
   LinkedIn: https://linkedin.com/in/larissacorry
@@ -339,7 +339,7 @@ Employee #38
   Name: Steven Yang
   Grad: '16 | YoE: 9
   Start Date: 2025-11
-  Title: Ai Platform Engineer
+  Title: Platform Engineer (Ai Platform Engineer)
   Previous: Staff Software Engineer @ Alchemy
   Education: BA CS, UC Berkeley '16
   LinkedIn: https://linkedin.com/in/steven-yang-98123b66
@@ -348,7 +348,7 @@ Employee #39
   Name: Adam Zhao
   Grad: '25 | YoE: ?
   Start Date: 2025-11
-  Title: Ai / Ml Engineer
+  Title: ML Engineer (Ai / Ml Engineer)
   Previous: Ai / Ml Engineer @ Adobe
   Education: MS CS, Stanford '25
   LinkedIn: https://linkedin.com/in/adam1zhao

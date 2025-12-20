@@ -6,7 +6,7 @@ Employee #1
   Name: Mati Staniszewski
   Grad: '17 | YoE: 8
   Start Date: 2022-01
-  Title: Co-Founder
+  Title: Co-Founder (Co-Founder)
   Previous: Deployment Strategist @ Palantir Technologies
   Education: MS CS, Imperial College Lon '17
   LinkedIn: https://linkedin.com/in/matiii
@@ -15,7 +15,7 @@ Employee #2
   Name: Piotr Dabkowski
   Grad: '16 | YoE: 9
   Start Date: 2022-01
-  Title: Co-Founder
+  Title: Co-Founder (Co-Founder)
   Previous: Software Engineer @ Google
   Education: MS CS, University Of Cambri '17
   LinkedIn: https://linkedin.com/in/piotr-dabkowski-50222bba
@@ -24,7 +24,7 @@ Employee #3
   Name: Ignaz Kowalczuk
   Grad: '16 | YoE: 9
   Start Date: 2022-06
-  Title: Communications
+  Title: Communications (Communications)
   Previous: Production @ Papaya Films
   Education: MA Philosophy, King'S College Londo '19
   LinkedIn: https://linkedin.com/in/ignaz-kowalczuk-eleven
@@ -33,7 +33,7 @@ Employee #4
   Name: Carles Reina
   Grad: '12 | YoE: 13
   Start Date: 2022-07
-  Title: Gtm
+  Title: GTM (Gtm)
   Previous: Venture Partner @ Concept Ventures
   Education: BA International Relati, London Metropolitan  '12
   LinkedIn: https://linkedin.com/in/carlesreina
@@ -42,7 +42,7 @@ Employee #5
   Name: Michael Cox
   Grad: '16 | YoE: 9
   Start Date: 2022-09
-  Title: Ai & Full Stack Software Engineer
+  Title: Fullstack Engineer (Ai & Full Stack Software Engineer)
   Previous: Full Stack Ai Developer @ Plego Packaging
   Education: BS CS, The University Of Te '16
   LinkedIn: https://linkedin.com/in/michael-cox-3756a2371
@@ -51,7 +51,7 @@ Employee #6
   Name: Flavio Schneider
   Grad: '20 | YoE: 5
   Start Date: 2023-03
-  Title: Research
+  Title: Research (Research)
   Previous: Military Service @ Swiss Armed Forces
   Education: MS, Eth Zürich '23
   LinkedIn: https://linkedin.com/in/flavio-schneider-a0032b145
@@ -60,7 +60,7 @@ Employee #7
   Name: Steven Glover
   Grad: '15 | YoE: 10
   Start Date: 2023-03
-  Title: Artificial Intelligence Researcher
+  Title: Researcher (Artificial Intelligence Researcher)
   Previous: Artificial Intelligence Engineer @ Fpt.Ai
   Education: MS CS, Texas State Universi '17
   LinkedIn: https://linkedin.com/in/steven-glover-377aa8354
@@ -69,7 +69,7 @@ Employee #8
   Name: Kevin Chu
   Grad: '14 | YoE: 11
   Start Date: 2023-05
-  Title: Operations Engineering
+  Title: Operations (Operations Engineering)
   Previous: Deployment Strategist @ Palantir Technologies
   Education: MS Engineering, The University Of No '15
   LinkedIn: https://linkedin.com/in/kchu62
@@ -78,7 +78,7 @@ Employee #9
   Name: Fermín Castañeiras
   Grad: '20 | YoE: 5
   Start Date: 2023-06
-  Title: Especialista En Pruebas De Accesibilidad
+  Title: Especialista En Pruebas De Acc (Especialista En Pruebas De Accesibilidad)
   Previous: Probador De Videojuegos @ Lo-Fi People
   Education: Iset Mar Del Plata '19
   LinkedIn: https://linkedin.com/in/fermín-castañeiras-03b4161b0
@@ -87,7 +87,7 @@ Employee #10
   Name: Stefan Lang
   Grad: '16 | YoE: 9
   Start Date: 2023-07
-  Title: Ai Full Stack Engineer
+  Title: Fullstack Engineer (Ai Full Stack Engineer)
   Previous: Ai Full Stack Software Developer @ Brocoders | On-Demand Technical Team
   Education: BS, Faculty Of Engineeri '16
   LinkedIn: https://linkedin.com/in/stefan-lang-a66734387
@@ -96,7 +96,7 @@ Employee #11
   Name: Jerimah Helig
   Grad: '16 | YoE: 9
   Start Date: 2023-08
-  Title: Support Specialist
+  Title: Support Specialist (Support Specialist)
   Previous: Senior Technical Support Specialist @ Kajabi
   Education: Engineering, Rizal Technological  '16
   LinkedIn: https://linkedin.com/in/jerimah-helig-77a718295
@@ -105,7 +105,7 @@ Employee #12
   Name: Lucas Desiderio
   Grad: '12 | YoE: 13
   Start Date: 2023-09
-  Title: Founding Gtm
+  Title: GTM (Founding Gtm)
   Previous: Sales Emea @ Notion
   Education: Management, Insper Instituto De  '14
   LinkedIn: https://linkedin.com/in/lucasdesi
@@ -114,7 +114,7 @@ Employee #13
   Name: Alexander Holt
   Grad: '16 | YoE: 9
   Start Date: 2023-09
-  Title: Engineering
+  Title: Engineering (Engineering)
   Previous: Uk Health Lead @ Palantir Technologies
   Education: CS, University Of Oxford '18
   LinkedIn: https://linkedin.com/in/alexander-holt-ab5382119
@@ -123,7 +123,7 @@ Employee #14
   Name: Dustin Blank
   Grad: '09 | YoE: 16
   Start Date: 2023-10
-  Title: Partnerships
+  Title: Partnerships (Partnerships)
   Previous: Head Of Creator Partnerships And Investments @ Creative Juice
   Education: MBA Entrepreneurship, Columbia '16
   LinkedIn: https://linkedin.com/in/dustin-blank
@@ -132,7 +132,7 @@ Employee #15
   Name: Dalton Pakkala
   Grad: '19 | YoE: 6
   Start Date: 2023-10
-  Title: Gtm
+  Title: GTM (Gtm)
   Previous: Gtm - Data Engine & Generative Ai @ Scale Ai
   Education: Econ, Hamline University '18
   LinkedIn: https://linkedin.com/in/dalton-pakkala-968416127
@@ -141,7 +141,7 @@ Employee #16
   Name: Maciej Mylik
   Grad: '16 | YoE: 9
   Start Date: 2023-10
-  Title: Finance & Revops
+  Title: Finance & Revops (Finance & Revops)
   Previous: Business Transformation Senior Manager @ Ciech Group
   Education: MS, Imperial College Lon '17
   LinkedIn: https://linkedin.com/in/maciej-m
@@ -150,7 +150,7 @@ Employee #17
   Name: Luke Harries
   Grad: '17 | YoE: 8
   Start Date: 2023-11
-  Title: Growth
+  Title: Growth (Growth)
   Previous: Special Projects (Interim) @ Stealth Startup
   Education: Y Combinator '20
   LinkedIn: https://linkedin.com/in/luke-harries
@@ -159,7 +159,7 @@ Employee #18
   Name: Emilie Drishinski
   Grad: '16 | YoE: 9
   Start Date: 2023-12
-  Title: Gtm
+  Title: GTM (Gtm)
   Previous: Senior Enterprise Account Executive @ Attain
   Education: MBA Finance, Louisiana State Univ '21
   LinkedIn: https://linkedin.com/in/emiliedrishinski
@@ -168,7 +168,7 @@ Employee #19
   Name: Mark Seidl
   Grad: '10 | YoE: 15
   Start Date: 2023-12
-  Title: Voices And Data
+  Title: Data Engineer (Voices And Data)
   Previous: Administration @ Bodyworks Physiotherapy & Sports Medicine Clinic
   Education: Master Of Music Vocal Performance, UW '11
   LinkedIn: https://linkedin.com/in/markseidlca

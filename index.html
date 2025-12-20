@@ -6,12 +6,133 @@
     <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌱</text></svg>">
     <title>AI Teams</title>
     <style>
-        body { font-family: monospace; font-size: 13px; padding: 20px; margin: 0; }
+        body { font-family: monospace; font-size: 13px; padding: 20px; margin: 0; overflow-x: hidden; }
+        html { overflow-x: hidden; }
         h1 { margin: 0 0 10px 0; }
         h2 { margin: 10px 0; }
         h3 { margin: 10px 0 5px 0; font-size: 13px; }
         h4 { margin: 8px 0 4px 0; font-size: 12px; font-weight: normal; color: #666; }
         .header { margin-bottom: 15px; }
+        .search-bar {
+            margin-bottom: 10px;
+            position: relative;
+            display: inline-block;
+        }
+        
+        #search-input {
+            font-family: monospace;
+            font-size: 13px;
+            padding: 4px 24px 4px 0;
+            border: none;
+            border-bottom: 1px solid #ccc;
+            border-radius: 0;
+            width: 250px;
+            background: transparent;
+        }
+        
+        #search-input:focus {
+            outline: none;
+            border-bottom-color: #333;
+        }
+        
+        #search-input::placeholder {
+            color: #999;
+        }
+        
+        .search-clear {
+            position: absolute;
+            right: 0;
+            top: 50%;
+            transform: translateY(-50%);
+            cursor: pointer;
+            color: #999;
+            font-size: 14px;
+            background: none;
+            border: none;
+            padding: 4px;
+        }
+        
+        .search-clear:hover {
+            color: #333;
+        }
+        
+        .search-results-info {
+            margin-bottom: 10px;
+            color: #666;
+        }
+        
+        .search-match {
+            background: #fff3cd;
+        }
+        
+        /* Title cell layout */
+        .title-content {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            width: 100%;
+        }
+        .title-text {
+            flex: 1;
+            min-width: 0;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+        .role-tag {
+            flex-shrink: 0;
+            font-size: 10px;
+            padding: 1px 4px;
+            border-radius: 3px;
+            margin-left: 8px;
+        }
+        .role-tag-eng { background: #dbeafe; color: #1e40af; }
+        .role-tag-founder { background: #f3e8ff; color: #7c3aed; }
+        .role-tag-design { background: #dcfce7; color: #166534; }
+        .role-tag-gtm { background: #fee2e2; color: #dc2626; }
+        .role-tag-ops { background: #ffedd5; color: #c2410c; }
+        .role-tag-other { background: #fef9c3; color: #a16207; }
+        .role-tag-product { background: #e0e7ff; color: #4338ca; }
+        .role-tag-finance { background: #f0fdf4; color: #15803d; }
+        .role-tag-talent { background: #fce7f3; color: #be185d; }
+        
+        /* Prevent line breaks in tenure */
+        td[title] {
+            white-space: nowrap;
+        }
+        
+        /* Column styling - consistent widths */
+        table { width: 100%; table-layout: fixed; }
+        th, td { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+        
+        .col-rank { width: 25px; }
+        .col-name { width: 140px; }
+        .col-grad { width: 35px; }
+        .col-yoe { width: 30px; }
+        .col-tenure { width: 50px; }
+        .col-title { width: 280px; }
+        .col-edu { width: 250px; }
+        .col-prev { width: auto; }
+        .col-action { width: 25px; padding: 4px !important; }
+        
+        /* Search results has company column */
+        .col-company { width: 80px; }
+        
+        /* Logo styling */
+        .logo-icon {
+            width: 14px;
+            height: 14px;
+            vertical-align: middle;
+            margin-right: 4px;
+            border-radius: 2px;
+        }
+        
+        .with-logo {
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+        
         .tabs { margin-bottom: 15px; }
         .tabs span { color: #999; cursor: pointer; }
         .tabs span:hover { color: #333; }
@@ -22,6 +143,7 @@
             display: flex;
             gap: 20px;
             align-items: flex-start;
+            max-width: 100%;
         }
         
         .chart-panel {
@@ -114,7 +236,7 @@
         .snapshot-sublevel {
             font-size: 10px;
             color: #666;
-            padding-left: 10px;
+            padding-left: 24px;
         }
         
         .snapshot-names-section {
@@ -142,6 +264,11 @@
         .table-panel {
             flex: 1;
             overflow-x: auto;
+            -webkit-overflow-scrolling: touch;
+        }
+        
+        .table-panel table {
+            min-width: 900px;
         }
         
         table { border-collapse: collapse; width: 100%; }
@@ -155,7 +282,59 @@
         tr.employee-row.soft-highlight { background: #e8e8e8; }
         tr.employee-row.primary-highlight { background: #c0c0c0; }
         
-        @media (max-width: 800px) {
+        .title-cell { cursor: help; }
+        .title-cell:hover { text-decoration: underline dotted #999; }
+        
+        /* Mobile */
+        @media (max-width: 480px) {
+            body {
+                padding: 12px;
+                font-size: 13px;
+            }
+            
+            h1 { font-size: 20px; }
+            h2 { font-size: 15px; }
+            
+            .header {
+                margin-bottom: 12px;
+            }
+            
+            .search-bar {
+                display: block;
+                margin-bottom: 12px;
+            }
+            
+            #search-input {
+                width: 100%;
+                box-sizing: border-box;
+                font-size: 16px;
+                padding: 8px 28px 8px 0;
+            }
+            
+            .search-clear {
+                font-size: 18px;
+            }
+            
+            .tabs {
+                overflow-x: auto;
+                white-space: nowrap;
+                -webkit-overflow-scrolling: touch;
+                padding-bottom: 10px;
+                margin-bottom: 12px;
+            }
+            
+            .tabs span {
+                font-size: 14px;
+                padding: 8px 4px;
+                display: inline-block;
+            }
+            
+            .tabs .sep {
+                margin: 0 2px;
+                padding: 8px 0;
+            }
+            
+            /* Chart on top, table below on mobile */
             .main-layout {
                 flex-direction: column;
             }
@@ -163,23 +342,118 @@
             .chart-panel {
                 position: static;
                 width: 100%;
-                max-height: 400px;
-                overflow-y: auto;
+                max-height: none;
+                overflow-y: visible;
                 border-bottom: 1px solid #ccc;
-                padding-bottom: 15px;
-                margin-bottom: 15px;
+                border-top: none;
+                padding-top: 0;
+                padding-bottom: 10px;
+                margin-bottom: 10px;
+                margin-top: 0;
+            }
+            
+            .chart-panel h3 {
+                display: none;
             }
             
             .table-panel {
                 width: 100%;
             }
             
-            table {
+            /* Horizontal bar chart on mobile */
+            .chart-container {
+                display: flex !important;
+                flex-direction: row !important;
+                align-items: flex-end !important;
+                gap: 0 !important;
+                height: 40px !important;
+                width: 100% !important;
+                margin-bottom: 0 !important;
+            }
+            
+            .chart-row {
+                flex: 1 1 0 !important;
+                display: flex !important;
+                flex-direction: column !important;
+                justify-content: flex-end !important;
+                align-items: stretch !important;
+                height: 100% !important;
+                min-width: 0 !important;
+                padding: 0 !important;
+            }
+            
+            /* Hide labels, counts, raises on mobile */
+            .chart-label,
+            .chart-count,
+            .chart-raise {
+                display: none !important;
+            }
+            
+            .chart-bar-container {
+                display: flex !important;
+                flex-direction: column !important;
+                justify-content: flex-end !important;
+                flex: 1 !important;
+                height: 100% !important;
+            }
+            
+            .chart-bar {
+                width: 100% !important;
+                height: var(--h, 0%) !important;
+                min-width: 0 !important;
+                background: #d0d0d0 !important;
+            }
+            
+            /* Hide team preview on mobile */
+            .snapshot {
+                display: none;
+            }
+            
+            /* Scrollable table on mobile */
+            .table-panel {
+                overflow-x: auto;
+                -webkit-overflow-scrolling: touch;
+            }
+            
+            .table-panel table {
+                min-width: 650px;
                 font-size: 11px;
             }
             
             th, td {
-                padding: 4px 6px;
+                padding: 3px 4px;
+            }
+            
+            /* Compact column widths for mobile */
+            .col-rank { width: 20px; }
+            .col-name { width: 110px; }
+            .col-grad { display: none; }
+            .col-yoe { width: 26px; }
+            .col-tenure { width: 40px; }
+            .col-title { width: 160px; }
+            .col-edu { width: 110px; }
+            .col-prev { width: auto; }
+            .col-company { width: 55px; }
+            
+            /* Hide grad column cells */
+            td:nth-child(3), th:nth-child(3) {
+                display: none;
+            }
+            
+            /* Hide logos on mobile */
+            .logo-icon {
+                display: none;
+            }
+            
+            .role-tag {
+                font-size: 8px;
+                padding: 1px 4px;
+            }
+            
+            /* Easier tap targets */
+            a {
+                padding: 4px 0;
+                display: inline-block;
             }
         }
     </style>
@@ -187,6 +461,10 @@
 <body>
     <div class="header">
         <h1>AI Teams</h1>
+        <div class="search-bar">
+            <input type="text" id="search-input" placeholder="Search across all companies..." autocomplete="off">
+            <span id="search-clear" class="search-clear" style="display: none;">×</span>
+        </div>
         <div class="tabs" id="tabs"></div>
         <div id="company-info"></div>
     </div>
@@ -218,6 +496,9 @@
         let currentEmployees = [];
         let allMonths = [];
         let selectedMonth = null;
+        let searchMode = false;
+        let searchQuery = '';
+        let companyInceptionDate = null;
         
         // Role categorization
         function getEngLevel(yoe) {
@@ -229,41 +510,100 @@
         }
         
         function categorizeRole(emp) {
-            const t = emp.title.toLowerCase();
+            // Use original title for better matching, fall back to normalized
+            const t = (emp.original_title || emp.title || '').toLowerCase();
+            const prev = (emp.previous_title || '').toLowerCase();
             const yoe = emp.yoe;
             
-            // Founders
-            if (t.includes('founder') || t.includes('co-founder') || t.includes('cofounder')) {
-                return { category: 'Founders', level: null };
+            // Helper function to categorize a title string
+            function categorizeTitle(title, isPrevTitle = false) {
+                // Engineering FIRST - anything with "engineer" is always Engineering
+                if (title.includes('engineer') || title.includes('developer') || 
+                    title.includes('swe') || title.includes('technical staff') || 
+                    title.includes('software') || title.includes('ml') ||
+                    title.includes('machine learning') || title.includes('research') ||
+                    title.includes('data scientist') || title.includes('data science') ||
+                    title.includes('scientist') ||
+                    title.includes('head of search') || title.includes('head of infrastructure') ||
+                    title.includes('head of platform') || title.includes('head of ai') ||
+                    title.includes('head of data') || title.includes('head of backend') ||
+                    title.includes('head of frontend') || title.includes('head of engineering') ||
+                    title.includes('director of engineering') || title.includes('vp of engineering') ||
+                    title.includes('tech lead') || title.includes('technical lead') ||
+                    title.includes('architect') ||
+                    (title.includes('human') && !title.includes('human resources'))) {
+                    return 'Engineering';
+                }
+                
+                // Founders - includes C-suite (ONLY for current title, not previous)
+                if (!isPrevTitle) {
+                    if (title.includes('founder') || title.includes('co-founder') || title.includes('cofounder') ||
+                        title.includes('ceo') || title.includes('cto') || title.includes('coo') || title.includes('cfo') ||
+                        title.includes('chief executive') || title.includes('chief technology') || 
+                        title.includes('chief operating') || title.includes('chief financial') ||
+                        title.includes('chief product') || title.includes('chief revenue')) {
+                        return 'Founder';
+                    }
+                }
+                
+                // GTM
+                if (title.includes('gtm') || title.includes('sales') || title.includes('marketing') || 
+                    title.includes('partnership') || title.includes('private equity') || 
+                    title.includes('business development') || title.includes('account') ||
+                    title.includes('enablement') || title.includes('revenue')) {
+                    return 'GTM';
+                }
+                
+                // Finance
+                if (title.includes('finance') || title.includes('financial') || title.includes('accounting') ||
+                    title.includes('controller') || title.includes('treasury')) {
+                    return 'Finance';
+                }
+                
+                // Talent
+                if (title.includes('recruit') || title.includes('talent') || title.includes('people')) {
+                    return 'Talent';
+                }
+                
+                // Design
+                if (title.includes('design') || title.includes('ux') || title.includes('ui')) {
+                    return 'Design';
+                }
+                
+                // Product
+                if (title.includes('product')) {
+                    return 'Product';
+                }
+                
+                // Ops
+                if (title.includes('operations') || title.includes('ops') || title.includes('special projects')) {
+                    return 'Ops';
+                }
+                
+                // Other (explicit matches)
+                if (title.includes('community')) {
+                    return 'Other';
+                }
+                
+                return null;
             }
             
-            // Engineering
-            if (t.includes('engineer') || t.includes('developer') || t.includes('swe') || 
-                t.includes('technical staff') || t.includes('software')) {
-                return { category: 'Engineering', level: getEngLevel(yoe) };
+            // Try current title first
+            const currentCategory = categorizeTitle(t, false);
+            if (currentCategory) {
+                if (currentCategory === 'Engineering') {
+                    return { category: 'Engineering', level: getEngLevel(yoe) };
+                }
+                return { category: currentCategory, level: null };
             }
             
-            // Research
-            if (t.includes('research')) {
-                return { category: 'Research', level: null };
-            }
-            
-            // Product
-            if (t.includes('product manager') || t.includes('pm') || t.includes('product')) {
-                return { category: 'Product', level: null };
-            }
-            
-            // Design
-            if (t.includes('design') || t.includes('ux') || t.includes('ui')) {
-                return { category: 'Design', level: null };
-            }
-            
-            // Ops / Business
-            if (t.includes('operations') || t.includes('ops') || t.includes('business') || 
-                t.includes('strategy') || t.includes('gtm') || t.includes('sales') || 
-                t.includes('marketing') || t.includes('hr') || t.includes('human resources') ||
-                t.includes('account') || t.includes('enablement')) {
-                return { category: 'Operations', level: null };
+            // Fallback: try previous title (but skip Founder check)
+            const prevCategory = categorizeTitle(prev, true);
+            if (prevCategory) {
+                if (prevCategory === 'Engineering') {
+                    return { category: 'Engineering', level: getEngLevel(yoe) };
+                }
+                return { category: prevCategory, level: null };
             }
             
             return { category: 'Other', level: null };
@@ -281,6 +621,137 @@
             if (!education || education === 'N/A') return '?';
             const match = education.match(/'(\d{2})/);
             return match ? `'${match[1]}` : '?';
+        }
+        
+        function formatDate(dateStr) {
+            // Convert "2022-08" to "08-2022"
+            if (!dateStr) return '?';
+            const parts = dateStr.split('-');
+            if (parts.length === 2) {
+                return `${parts[1]}-${parts[0]}`;
+            }
+            return dateStr;
+        }
+        
+        function formatTenure(startDate, inceptionDate) {
+            // Convert start date to months since company inception (first hire = 0mo)
+            if (!startDate) return '?';
+            const inception = inceptionDate || companyInceptionDate;
+            if (!inception) return '?';
+            
+            const [startYear, startMonth] = startDate.split('-').map(Number);
+            const [incYear, incMonth] = inception.split('-').map(Number);
+            
+            const totalMonths = (startYear - incYear) * 12 + (startMonth - incMonth);
+            
+            return `${Math.max(0, totalMonths)}mo`;
+        }
+        
+        function getRoleTag(category) {
+            const config = {
+                'Founder': { text: 'Founder', class: 'role-tag-founder' },
+                'Engineering': { text: 'Eng', class: 'role-tag-eng' },
+                'Product': { text: 'Product', class: 'role-tag-product' },
+                'Design': { text: 'Design', class: 'role-tag-design' },
+                'GTM': { text: 'GTM', class: 'role-tag-gtm' },
+                'Finance': { text: 'Finance', class: 'role-tag-finance' },
+                'Talent': { text: 'Talent', class: 'role-tag-talent' },
+                'Ops': { text: 'Ops', class: 'role-tag-ops' },
+                'Other': { text: 'Other', class: 'role-tag-other' }
+            };
+            return config[category] || { text: category, class: 'role-tag-other' };
+        }
+        
+        function renderRoleTag(category) {
+            const tag = getRoleTag(category);
+            return `<span class="role-tag ${tag.class}">${tag.text}</span>`;
+        }
+        
+        // Company domain mappings for logos
+        const COMPANY_DOMAINS = {
+            'google': 'google.com', 'meta': 'meta.com', 'facebook': 'meta.com',
+            'apple': 'apple.com', 'amazon': 'amazon.com', 'microsoft': 'microsoft.com',
+            'openai': 'openai.com', 'anthropic': 'anthropic.com', 'scale': 'scale.com',
+            'scale ai': 'scale.com', 'stripe': 'stripe.com', 'uber': 'uber.com',
+            'airbnb': 'airbnb.com', 'linkedin': 'linkedin.com', 'twitter': 'x.com',
+            'x': 'x.com', 'netflix': 'netflix.com', 'palantir': 'palantir.com',
+            'snowflake': 'snowflake.com', 'databricks': 'databricks.com',
+            'nvidia': 'nvidia.com', 'tesla': 'tesla.com', 'spacex': 'spacex.com',
+            'coinbase': 'coinbase.com', 'robinhood': 'robinhood.com',
+            'figma': 'figma.com', 'notion': 'notion.so', 'slack': 'slack.com',
+            'dropbox': 'dropbox.com', 'salesforce': 'salesforce.com',
+            'deepmind': 'deepmind.com', 'google deepmind': 'deepmind.com',
+            'waymo': 'waymo.com', 'cruise': 'getcruise.com', 'aurora': 'aurora.tech',
+            'anysphere': 'cursor.com', 'cursor': 'cursor.com',
+            'ramp': 'ramp.com', 'brex': 'brex.com', 'plaid': 'plaid.com',
+            'doordash': 'doordash.com', 'instacart': 'instacart.com',
+            'quora': 'quora.com', 'pinterest': 'pinterest.com', 'snap': 'snap.com',
+            'lyft': 'lyft.com', 'square': 'squareup.com', 'block': 'block.xyz',
+            'two sigma': 'twosigma.com', 'citadel': 'citadel.com', 'jane street': 'janestreet.com',
+            'hudson river trading': 'hudsonrivertrading.com', 'tower research': 'tower-research.com',
+            'jump trading': 'jumptrading.com', 'de shaw': 'deshaw.com',
+            'mckinsey': 'mckinsey.com', 'bain': 'bain.com', 'bcg': 'bcg.com',
+            'goldman sachs': 'goldmansachs.com', 'morgan stanley': 'morganstanley.com',
+            'jpmorgan': 'jpmorgan.com', 'blackstone': 'blackstone.com',
+            'a16z': 'a16z.com', 'sequoia': 'sequoiacap.com', 'ycombinator': 'ycombinator.com',
+            'y combinator': 'ycombinator.com', 'yc': 'ycombinator.com',
+            'nuro': 'nuro.ai', 'zoox': 'zoox.com', 'argo': 'argo.ai',
+            'modal': 'modal.com', 'vercel': 'vercel.com', 'supabase': 'supabase.com',
+            'replicate': 'replicate.com', 'hugging face': 'huggingface.co',
+            'huggingface': 'huggingface.co', 'cohere': 'cohere.com',
+            'inflection': 'inflection.ai', 'character': 'character.ai',
+            'adept': 'adept.ai', 'mistral': 'mistral.ai',
+        };
+        
+        // School domain mappings
+        const SCHOOL_DOMAINS = {
+            'mit': 'mit.edu', 'stanford': 'stanford.edu', 'harvard': 'harvard.edu',
+            'berkeley': 'berkeley.edu', 'uc berkeley': 'berkeley.edu',
+            'caltech': 'caltech.edu', 'cmu': 'cmu.edu', 'carnegie mellon': 'cmu.edu',
+            'princeton': 'princeton.edu', 'yale': 'yale.edu', 'columbia': 'columbia.edu',
+            'cornell': 'cornell.edu', 'upenn': 'upenn.edu', 'penn': 'upenn.edu',
+            'nyu': 'nyu.edu', 'ucla': 'ucla.edu', 'usc': 'usc.edu',
+            'umich': 'umich.edu', 'michigan': 'umich.edu',
+            'uiuc': 'illinois.edu', 'illinois': 'illinois.edu',
+            'georgia tech': 'gatech.edu', 'gatech': 'gatech.edu',
+            'uw': 'washington.edu', 'washington': 'washington.edu',
+            'ut austin': 'utexas.edu', 'texas': 'utexas.edu',
+            'duke': 'duke.edu', 'northwestern': 'northwestern.edu',
+            'brown': 'brown.edu', 'dartmouth': 'dartmouth.edu',
+            'oxford': 'ox.ac.uk', 'cambridge': 'cam.ac.uk',
+            'iit': 'iitb.ac.in', 'iit bombay': 'iitb.ac.in', 'iit delhi': 'iitd.ac.in',
+            'iit madras': 'iitm.ac.in', 'iit kanpur': 'iitk.ac.in',
+            'waterloo': 'uwaterloo.ca', 'toronto': 'utoronto.ca',
+            'tsinghua': 'tsinghua.edu.cn', 'peking': 'pku.edu.cn',
+        };
+        
+        function getCompanyLogo(company) {
+            if (!company) return null;
+            const c = company.toLowerCase();
+            for (const [key, domain] of Object.entries(COMPANY_DOMAINS)) {
+                if (c.includes(key)) {
+                    return `https://logo.clearbit.com/${domain}`;
+                }
+            }
+            return null;
+        }
+        
+        function getSchoolLogo(education) {
+            if (!education) return null;
+            const e = education.toLowerCase();
+            for (const [key, domain] of Object.entries(SCHOOL_DOMAINS)) {
+                if (e.includes(key)) {
+                    return `https://logo.clearbit.com/${domain}`;
+                }
+            }
+            return null;
+        }
+        
+        function renderWithLogo(text, logoUrl) {
+            if (logoUrl) {
+                return `<span class="with-logo"><img class="logo-icon" src="${logoUrl}" onerror="this.style.display='none'">${text}</span>`;
+            }
+            return text;
         }
         
         function getLevel(yoe) {
@@ -338,13 +809,13 @@
             let html = '<div class="snapshot">';
             html += `<div class="snapshot-header">Team @ ${displayMonth}: ${team.length}</div>`;
             
-            const order = ['Founders', 'Engineering', 'Research', 'Product', 'Design', 'Operations', 'Other'];
+            const order = ['Founder', 'Engineering', 'Product', 'Design', 'GTM', 'Finance', 'Talent', 'Ops', 'Other'];
             
             // Counts section
             order.forEach(cat => {
                 if (categories[cat] && categories[cat] > 0) {
                     html += `<div class="snapshot-row">
-                        <span class="snapshot-label">${cat}</span>
+                        <span class="snapshot-label">${renderRoleTag(cat)}</span>
                         <span class="snapshot-count">${categories[cat]}</span>
                     </div>`;
                     
@@ -591,7 +1062,7 @@
                     onclick="selectMonth('${m}', true)" style="cursor: pointer">
                     <span class="chart-label">${shortMonth}</span>
                     <div class="chart-bar-container">
-                        <div class="chart-bar" style="width: ${barWidth}%"></div>
+                        <div class="chart-bar" style="width: ${barWidth}%; --h: ${barWidth * 0.4}px"></div>
                         <span class="chart-count">${count}</span>
                         ${raiseHtml}
                     </div>
@@ -611,6 +1082,11 @@
             
             currentEmployees = allEmployees.filter(e => !isSpam(slug, e.name));
             const spamCount = allEmployees.length - currentEmployees.length;
+            
+            // Set inception date as the earliest hire
+            companyInceptionDate = currentEmployees.length > 0 
+                ? currentEmployees.map(e => e.start_date).filter(Boolean).sort()[0] 
+                : null;
             
             document.getElementById('company-info').innerHTML = 
                 `<strong>${data.company_display || data.company}</strong> · Founded: ${data.founded || '?'} · ${currentEmployees.length} employees${spamCount > 0 ? ` (${spamCount} hidden)` : ''}`;
@@ -632,37 +1108,43 @@
             html += `<table>
                 <thead>
                 <tr>
-                    <th>#</th>
-                    <th>Name</th>
-                    <th>Grad</th>
-                    <th>YoE</th>
-                    <th>Started</th>
-                    <th>Title</th>
-                    <th>Education</th>
-                    <th>Previous</th>
-                    <th></th>
+                    <th class="col-rank">#</th>
+                    <th class="col-name">Name</th>
+                    <th class="col-grad">Grad</th>
+                    <th class="col-yoe">YoE</th>
+                    <th class="col-tenure">Hired</th>
+                    <th class="col-title">Title</th>
+                    <th class="col-edu">Education</th>
+                    <th class="col-prev">Previous</th>
+                    <th class="col-action"></th>
                 </tr>
                 </thead>
                 <tbody>`;
             
-            currentEmployees.forEach(e => {
+            currentEmployees.forEach((e, idx) => {
                 const name = e.linkedin_url 
                     ? `<a href="${e.linkedin_url}" target="_blank">${e.name}</a>` 
                     : e.name;
                 const grad = e.grad_year || getGradYear(e.education);
-                const yoe = e.yoe || '?';
+                const yoe = e.yoe != null ? Math.max(0, e.yoe) : '?';
+                const role = categorizeRole(e);
+                const schoolLogo = getSchoolLogo(e.education);
+                const companyLogo = getCompanyLogo(e.previous_company);
+                const eduDisplay = renderWithLogo(e.education || 'N/A', schoolLogo);
+                const prevDisplay = renderWithLogo(`${e.previous_title} @ ${e.previous_company}`, companyLogo);
+                const titleDisplay = `<span class="title-content"><span class="title-text">${e.original_title || e.title}</span>${renderRoleTag(role.category)}</span>`;
                 html += `<tr class="employee-row" data-month="${e.start_date}" 
                     onmouseenter="highlightMonth('${e.start_date}', this)" onmouseleave="clearHighlight()"
                     onclick="selectMonth('${e.start_date}', false)" style="cursor: pointer">
-                    <td>${e.rank}</td>
+                    <td>${idx + 1}</td>
                     <td>${name}</td>
                     <td>${grad}</td>
                     <td>${yoe}</td>
-                    <td>${e.start_date}</td>
-                    <td>${e.title}</td>
-                    <td>${e.education}</td>
-                    <td>${e.previous_title} @ ${e.previous_company}</td>
-                    <td><button class="spam-btn" onclick="toggleSpam('${slug}', '${e.name.replace(/'/g, "\\'")}')">×</button></td>
+                    <td title="${formatDate(e.start_date)}">${formatTenure(e.start_date)}</td>
+                    <td title="${(e.original_title || e.title).replace(/"/g, '&quot;')}">${titleDisplay}</td>
+                    <td title="${(e.education || '').replace(/"/g, '&quot;')}">${eduDisplay}</td>
+                    <td title="${e.previous_title} @ ${e.previous_company}">${prevDisplay}</td>
+                    <td class="col-action"><button class="spam-btn" onclick="toggleSpam('${slug}', '${e.name.replace(/'/g, "\\'")}')">×</button></td>
                 </tr>`;
             });
             
@@ -672,7 +1154,176 @@
             document.getElementById('content').innerHTML = html;
         }
         
+        // Search functionality
+        function initSearch() {
+            const input = document.getElementById('search-input');
+            const clearBtn = document.getElementById('search-clear');
+            
+            input.addEventListener('input', (e) => {
+                const query = e.target.value.trim();
+                searchQuery = query;
+                clearBtn.style.display = query ? 'block' : 'none';
+                
+                if (query.length >= 2) {
+                    searchMode = true;
+                    showSearchResults(query);
+                } else if (query.length === 0) {
+                    searchMode = false;
+                    if (currentCompany) {
+                        showCompany(currentCompany);
+                    }
+                }
+            });
+            
+            clearBtn.addEventListener('click', () => {
+                input.value = '';
+                searchQuery = '';
+                clearBtn.style.display = 'none';
+                searchMode = false;
+                if (currentCompany) {
+                    showCompany(currentCompany);
+                }
+            });
+            
+            // ESC to clear
+            input.addEventListener('keydown', (e) => {
+                if (e.key === 'Escape') {
+                    clearBtn.click();
+                    input.blur();
+                }
+            });
+        }
+        
+        function searchAllCompanies(query) {
+            const results = [];
+            const q = query.toLowerCase();
+            
+            Object.entries(companyData).forEach(([slug, data]) => {
+                const companyName = data.company_display || slug;
+                const employees = data.employees || [];
+                
+                employees.forEach(emp => {
+                    if (isSpam(slug, emp.name)) return;
+                    
+                    // Get role for searching
+                    const role = categorizeRole(emp);
+                    
+                    // Search across all columns
+                    const searchFields = [
+                        emp.name,
+                        emp.title,
+                        emp.original_title,
+                        emp.education,
+                        emp.previous_title,
+                        emp.previous_company,
+                        role.category,
+                        companyName,
+                        emp.grad_year,
+                        emp.start_date
+                    ].filter(Boolean).map(s => s.toLowerCase());
+                    
+                    const matches = searchFields.some(field => field.includes(q));
+                    
+                    if (matches) {
+                        results.push({
+                            ...emp,
+                            company_slug: slug,
+                            company_name: companyName
+                        });
+                    }
+                });
+            });
+            
+            // Sort by company then by rank
+            results.sort((a, b) => {
+                if (a.company_slug !== b.company_slug) {
+                    return a.company_slug.localeCompare(b.company_slug);
+                }
+                return a.rank - b.rank;
+            });
+            
+            return results;
+        }
+        
+        function highlightMatch(text, query) {
+            if (!text || !query) return text || '';
+            const regex = new RegExp(`(${query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+            return text.replace(regex, '<span class="search-match">$1</span>');
+        }
+        
+        function showSearchResults(query) {
+            const results = searchAllCompanies(query);
+            
+            // Pre-compute inception dates per company
+            const inceptionDates = {};
+            Object.entries(companyData).forEach(([slug, data]) => {
+                const employees = (data.employees || []).filter(e => !isSpam(slug, e.name));
+                const dates = employees.map(e => e.start_date).filter(Boolean).sort();
+                inceptionDates[slug] = dates[0] || null;
+            });
+            
+            // Update tabs to show none selected
+            document.querySelectorAll('.tabs span[data-slug]').forEach(s => 
+                s.classList.remove('active'));
+            
+            document.getElementById('company-info').innerHTML = 
+                `<span class="search-results-info">Found <strong>${results.length}</strong> results for "<strong>${query}</strong>" across all companies</span>`;
+            
+            let html = '<div class="table-panel" style="width: 100%">';
+            html += `<table>
+                <thead>
+                <tr>
+                    <th class="col-rank">#</th>
+                    <th class="col-company">Company</th>
+                    <th class="col-name">Name</th>
+                    <th class="col-grad">Grad</th>
+                    <th class="col-yoe">YoE</th>
+                    <th class="col-tenure">Hired</th>
+                    <th class="col-title">Title</th>
+                    <th class="col-edu">Education</th>
+                    <th class="col-prev">Previous</th>
+                </tr>
+                </thead>
+                <tbody>`;
+            
+            results.forEach(e => {
+                const name = e.linkedin_url 
+                    ? `<a href="${e.linkedin_url}" target="_blank">${highlightMatch(e.name, query)}</a>` 
+                    : highlightMatch(e.name, query);
+                const grad = highlightMatch(e.grad_year || getGradYear(e.education), query);
+                const yoe = e.yoe != null ? Math.max(0, e.yoe) : '?';
+                const role = categorizeRole(e);
+                const title = highlightMatch(e.original_title || e.title, query);
+                const education = highlightMatch(e.education, query);
+                const prevTitle = highlightMatch(e.previous_title, query);
+                const prevCompany = highlightMatch(e.previous_company, query);
+                const companyHighlight = highlightMatch(e.company_name, query);
+                const schoolLogo = getSchoolLogo(e.education);
+                const companyLogo = getCompanyLogo(e.previous_company);
+                const eduDisplay = schoolLogo ? `<span class="with-logo"><img class="logo-icon" src="${schoolLogo}" onerror="this.style.display='none'">${education}</span>` : education;
+                const prevDisplay = companyLogo ? `<span class="with-logo"><img class="logo-icon" src="${companyLogo}" onerror="this.style.display='none'">${prevTitle} @ ${prevCompany}</span>` : `${prevTitle} @ ${prevCompany}`;
+                const titleDisplay = `<span class="title-content"><span class="title-text">${title}</span>${renderRoleTag(role.category)}</span>`;
+                
+                html += `<tr class="employee-row">
+                    <td>${e.rank}</td>
+                    <td><strong>${companyHighlight}</strong></td>
+                    <td>${name}</td>
+                    <td>${grad}</td>
+                    <td>${yoe}</td>
+                    <td title="${formatDate(e.start_date)}">${formatTenure(e.start_date, inceptionDates[e.company_slug])}</td>
+                    <td title="${(e.original_title || e.title).replace(/"/g, '&quot;')}">${titleDisplay}</td>
+                    <td title="${(e.education || '').replace(/"/g, '&quot;')}">${eduDisplay}</td>
+                    <td title="${e.previous_title} @ ${e.previous_company}">${prevDisplay}</td>
+                </tr>`;
+            });
+            
+            html += '</tbody></table></div>';
+            
+            document.getElementById('content').innerHTML = html;
+        }
+        
         loadData();
+        initSearch();
     </script>
 </body>
 </html>
