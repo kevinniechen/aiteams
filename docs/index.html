@@ -99,6 +99,18 @@
         .role-tag-finance { background: #f0fdf4; color: #15803d; }
         .role-tag-talent { background: #fce7f3; color: #be185d; }
         
+        /* Level tags for YoE */
+        .level-tag {
+            font-size: 9px;
+            padding: 1px 3px;
+            border-radius: 2px;
+            margin-left: 4px;
+        }
+        .level-tag-uni { background: #e0f2fe; color: #0369a1; }
+        .level-tag-jr { background: #dcfce7; color: #166534; }
+        .level-tag-sr { background: #fef3c7; color: #b45309; }
+        .level-tag-staff { background: #f3e8ff; color: #7c3aed; }
+        
         /* Prevent line breaks in tenure */
         td[title] {
             white-space: nowrap;
@@ -1008,6 +1020,13 @@
             return 'Staff';
         }
         
+        function renderLevelTag(yoe) {
+            const level = getLevel(yoe);
+            if (level === '?') return '';
+            const classMap = { 'Uni': 'level-tag-uni', 'Jr': 'level-tag-jr', 'Sr': 'level-tag-sr', 'Staff': 'level-tag-staff' };
+            return `<span class="level-tag ${classMap[level]}">${level}</span>`;
+        }
+        
         function buildSnapshot(employees, month) {
             // Get cumulative team up to and including selected month
             const team = employees.filter(e => e.start_date <= month);
@@ -1373,7 +1392,7 @@ document.getElementById('company-info').innerHTML =
                     <td>${formatTenure(e.start_date, companyInceptionDate)}</td>
                     <td>${name}</td>
                     <td title="${(e.original_title || e.title).replace(/"/g, '&quot;')}">${titleDisplay}</td>
-                    <td>${yoe}</td>
+                    <td>${yoe}${renderLevelTag(yoe)}</td>
                     <td title="${(e.education || '').replace(/"/g, '&quot;')}">${eduDisplay}</td>
                     <td title="${expText.replace(/"/g, '&quot;')}">${prevDisplay}</td>
                     
@@ -1549,7 +1568,7 @@ document.getElementById('company-info').innerHTML =
                     <td><strong>${companyHighlight}</strong></td>
                     <td>${name}</td>
                     <td title="${(e.original_title || e.title).replace(/"/g, '&quot;')}">${titleDisplay}</td>
-                    <td>${yoe}</td>
+                    <td>${yoe}${renderLevelTag(yoe)}</td>
                     <td title="${(e.education || '').replace(/"/g, '&quot;')}">${eduDisplay}</td>
                     <td title="${expText.replace(/"/g, '&quot;')}">${prevDisplay}</td>
                 </tr>`;
