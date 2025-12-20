@@ -135,13 +135,13 @@ TITLE_NORMALIZATIONS = [
     (r'\bresearch\s*engineer\b', 'Research Engineer'),
     (r'\bresearcher\b', 'Researcher'),
     
-    # Product (fallback)
-    (r'\bproduct\b', 'Product'),
-    
-    # Design
+    # Design (before Product fallback so "Product Designer" -> Designer not Product)
     (r'\bsenior\s*(product\s*)?designer\b', 'Senior Designer'),
-    (r'\b(product\s*)?designer\b', 'Designer'),
+    (r'\b(founding\s*)?(product\s*)?designer\b', 'Designer'),
     (r'\bdesign\b', 'Design'),
+    
+    # Product (fallback - after Design patterns)
+    (r'\bproduct\b', 'Product'),
     
     # GTM / Sales / Ops
     (r'\baccount\s*executive\b|\bae\b', 'Account Executive'),

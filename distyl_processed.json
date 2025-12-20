@@ -1,7 +1,7 @@
 {
   "company": "distyl",
   "company_display": "Distyl",
-  "founded": "2023-09",
+  "founded": "2022-01",
   "employees": [
     {
       "rank": 1,
@@ -35,6 +35,81 @@
     },
     {
       "rank": 3,
+      "name": "Jenn Gamble",
+      "grad_year": "'06",
+      "yoe": "19",
+      "start_date": "2023-01",
+      "title": "Data Engineer",
+      "original_title": "Founding Head Of Data Science",
+      "previous_title": "Head Of Data Science",
+      "previous_company": "Stealth Startup",
+      "previous_title_2": "Director, Data Science",
+      "previous_company_2": "Very",
+      "education": "PhD EE, North Carolina State '15",
+      "linkedin_url": "https://linkedin.com/in/jenn-gamble"
+    },
+    {
+      "rank": 4,
+      "name": "Karime Maamari",
+      "grad_year": "'18",
+      "yoe": "7",
+      "start_date": "2023-01",
+      "title": "Head Of Research",
+      "original_title": "Head Of Research",
+      "previous_title": "Simulation Engineer",
+      "previous_company": "Nasa Langley Research Center",
+      "previous_title_2": "Research Assistant",
+      "previous_company_2": "Argonne National Laboratory",
+      "education": "Physics, USC",
+      "linkedin_url": "https://linkedin.com/in/karime-maamari"
+    },
+    {
+      "rank": 5,
+      "name": "Gillian Jarvis",
+      "grad_year": "'12",
+      "yoe": "13",
+      "start_date": "2023-01",
+      "title": "Head Of Brand",
+      "original_title": "Head Of Brand",
+      "previous_title": "Design Advisor",
+      "previous_company": "Zero Prime Ventures",
+      "previous_title_2": "Design Director",
+      "previous_company_2": "Twist Bioscience",
+      "education": "Advertising, Humber College",
+      "linkedin_url": "https://linkedin.com/in/gillianjarvis"
+    },
+    {
+      "rank": 6,
+      "name": "David Lisuk",
+      "grad_year": "'10",
+      "yoe": "15",
+      "start_date": "2023-05",
+      "title": "Director",
+      "original_title": "Director Of Engineering",
+      "previous_title": "Head Of Ai / Ml Engineering",
+      "previous_company": "Palantir Technologies",
+      "previous_title_2": "Lead Ml Product Engineer",
+      "previous_company_2": "Palantir Technologies",
+      "education": "MS CS, Uc San Diego '14",
+      "linkedin_url": "https://linkedin.com/in/dlisuk"
+    },
+    {
+      "rank": 7,
+      "name": "Jessica Hamel",
+      "grad_year": "'05",
+      "yoe": "20",
+      "start_date": "2023-07",
+      "title": "Engineer",
+      "original_title": "Software Engineer",
+      "previous_title": "Consulting Software Engineer",
+      "previous_company": "Various Companies",
+      "previous_title_2": "Senior Software Engineer",
+      "previous_company_2": "10X Genomics",
+      "education": "MS Journalism, UC Berkeley '14",
+      "linkedin_url": "https://linkedin.com/in/jessihamel"
+    },
+    {
+      "rank": 8,
       "name": "Yonas Tesfaye",
       "grad_year": "'07",
       "yoe": "18",
@@ -49,7 +124,7 @@
       "linkedin_url": "https://linkedin.com/in/yonas-tesfaye"
     },
     {
-      "rank": 4,
+      "rank": 9,
       "name": "Alex Tran",
       "grad_year": "'18",
       "yoe": "7",
@@ -64,7 +139,7 @@
       "linkedin_url": "https://linkedin.com/in/alex1n"
     },
     {
-      "rank": 5,
+      "rank": 10,
       "name": "Patrick Kolencherry",
       "grad_year": "'12",
       "yoe": "13",
@@ -79,7 +154,7 @@
       "linkedin_url": "https://linkedin.com/in/kolencherryp"
     },
     {
-      "rank": 6,
+      "rank": 11,
       "name": "Connor Landy",
       "grad_year": "'13",
       "yoe": "12",
@@ -94,7 +169,7 @@
       "linkedin_url": "https://linkedin.com/in/connorlandy"
     },
     {
-      "rank": 7,
+      "rank": 12,
       "name": "Will Morley",
       "grad_year": "'23",
       "yoe": "2",
@@ -109,7 +184,7 @@
       "linkedin_url": "https://linkedin.com/in/will-morley"
     },
     {
-      "rank": 8,
+      "rank": 13,
       "name": "Daniel Jaroslawicz",
       "grad_year": "'19",
       "yoe": "6",
@@ -124,7 +199,7 @@
       "linkedin_url": "https://linkedin.com/in/djaroslawicz"
     },
     {
-      "rank": 9,
+      "rank": 14,
       "name": "David Roth",
       "grad_year": "'18",
       "yoe": "7",
@@ -139,7 +214,7 @@
       "linkedin_url": "https://linkedin.com/in/david-s-roth"
     },
     {
-      "rank": 10,
+      "rank": 15,
       "name": "Edward Chew",
       "grad_year": "'23",
       "yoe": "2",
@@ -154,7 +229,7 @@
       "linkedin_url": "https://linkedin.com/in/edwardchew8"
     },
     {
-      "rank": 11,
+      "rank": 16,
       "name": "Eng Marie-Philippe Gill",
       "grad_year": "'18",
       "yoe": "7",
@@ -169,7 +244,7 @@
       "linkedin_url": "https://linkedin.com/in/mariephilippegill"
     },
     {
-      "rank": 12,
+      "rank": 17,
       "name": "Jake Wallin",
       "grad_year": "'21",
       "yoe": "4",
@@ -184,7 +259,7 @@
       "linkedin_url": "https://linkedin.com/in/jake-wallin-716255179"
     },
     {
-      "rank": 13,
+      "rank": 18,
       "name": "Deep Patel",
       "grad_year": "'15",
       "yoe": "10",
@@ -199,12 +274,12 @@
       "linkedin_url": "https://linkedin.com/in/patel-deep"
     },
     {
-      "rank": 14,
+      "rank": 19,
       "name": "Tony Yates",
       "grad_year": "'96",
       "yoe": "29",
       "start_date": "2024-10",
-      "title": "Product",
+      "title": "Designer",
       "original_title": "Founding Product Designer",
       "previous_title": "Solopreneur",
       "previous_company": "Studio Y",
@@ -214,7 +289,7 @@
       "linkedin_url": "https://linkedin.com/in/tonyatmononymous"
     },
     {
-      "rank": 15,
+      "rank": 20,
       "name": "Emily Broadhurst",
       "grad_year": "'23",
       "yoe": "2",
@@ -229,7 +304,7 @@
       "linkedin_url": "https://linkedin.com/in/emily-broadhurst-85b425157"
     },
     {
-      "rank": 16,
+      "rank": 21,
       "name": "Joseph Edell",
       "grad_year": "'21",
       "yoe": "4",
@@ -244,7 +319,7 @@
       "linkedin_url": "https://linkedin.com/in/joseph-edell-63b267139"
     },
     {
-      "rank": 17,
+      "rank": 22,
       "name": "Tessa Jones",
       "grad_year": "'17",
       "yoe": "8",
@@ -259,7 +334,7 @@
       "linkedin_url": "https://linkedin.com/in/tessakjones"
     },
     {
-      "rank": 18,
+      "rank": 23,
       "name": "Brian Coyle",
       "grad_year": "'99",
       "yoe": "26",
@@ -274,7 +349,7 @@
       "linkedin_url": "https://linkedin.com/in/bccoyle"
     },
     {
-      "rank": 19,
+      "rank": 24,
       "name": "Omar Bekdash",
       "grad_year": "'22",
       "yoe": "3",
@@ -289,7 +364,7 @@
       "linkedin_url": "https://linkedin.com/in/omar-ryan-bekdash"
     },
     {
-      "rank": 20,
+      "rank": 25,
       "name": "Michelle Wetzler",
       "grad_year": "'05",
       "yoe": "20",
@@ -304,7 +379,7 @@
       "linkedin_url": "https://linkedin.com/in/michellewetzler"
     },
     {
-      "rank": 21,
+      "rank": 26,
       "name": "Aryeh Klein",
       "grad_year": "'20",
       "yoe": "5",
@@ -319,7 +394,7 @@
       "linkedin_url": "https://linkedin.com/in/aryeh-klein-670527150"
     },
     {
-      "rank": 22,
+      "rank": 27,
       "name": "Jerrell Taylor",
       "grad_year": "'12",
       "yoe": "13",
@@ -334,7 +409,7 @@
       "linkedin_url": "https://linkedin.com/in/jerrell-taylor-5b070841"
     },
     {
-      "rank": 23,
+      "rank": 28,
       "name": "Aisha Quaintance",
       "grad_year": "'05",
       "yoe": "20",
@@ -349,7 +424,7 @@
       "linkedin_url": "https://linkedin.com/in/aishaquaintance"
     },
     {
-      "rank": 24,
+      "rank": 29,
       "name": "Kwadwo Nyarko",
       "grad_year": "'12",
       "yoe": "13",
@@ -364,7 +439,7 @@
       "linkedin_url": "https://linkedin.com/in/kwadwo-nyarko"
     },
     {
-      "rank": 25,
+      "rank": 30,
       "name": "Ravi Bhandia",
       "grad_year": "'18",
       "yoe": "7",
@@ -379,7 +454,7 @@
       "linkedin_url": "https://linkedin.com/in/ravibhandia"
     },
     {
-      "rank": 26,
+      "rank": 31,
       "name": "Brendan Whiting",
       "grad_year": "'14",
       "yoe": "11",
@@ -394,7 +469,7 @@
       "linkedin_url": "https://linkedin.com/in/brendan-whiting"
     },
     {
-      "rank": 27,
+      "rank": 32,
       "name": "Eric Yu",
       "grad_year": "'15",
       "yoe": "10",
@@ -409,7 +484,7 @@
       "linkedin_url": "https://linkedin.com/in/eric-yu-63606831"
     },
     {
-      "rank": 28,
+      "rank": 33,
       "name": "Ozden Onder",
       "grad_year": "'04",
       "yoe": "21",
@@ -424,7 +499,7 @@
       "linkedin_url": "https://linkedin.com/in/oonder"
     },
     {
-      "rank": 29,
+      "rank": 34,
       "name": "Yosser D'Avanzo",
       "grad_year": "'18",
       "yoe": "7",
@@ -439,7 +514,7 @@
       "linkedin_url": "https://linkedin.com/in/yosser-d-avanzo-895768115"
     },
     {
-      "rank": 30,
+      "rank": 35,
       "name": "Pranav Menon",
       "grad_year": "'16",
       "yoe": "9",
@@ -454,7 +529,7 @@
       "linkedin_url": "https://linkedin.com/in/psmenon"
     },
     {
-      "rank": 31,
+      "rank": 36,
       "name": "Rob Schwartz",
       "grad_year": "'21",
       "yoe": "4",
@@ -469,7 +544,7 @@
       "linkedin_url": "https://linkedin.com/in/r-schwartz"
     },
     {
-      "rank": 32,
+      "rank": 37,
       "name": "Vijay Candade",
       "grad_year": "'08",
       "yoe": "17",
@@ -484,7 +559,7 @@
       "linkedin_url": "https://linkedin.com/in/vijay-candade"
     },
     {
-      "rank": 33,
+      "rank": 38,
       "name": "Alba Rodriguez",
       "grad_year": "'12",
       "yoe": "13",
@@ -499,7 +574,7 @@
       "linkedin_url": "https://linkedin.com/in/alba-rubio-rodriguez-4a791365"
     },
     {
-      "rank": 34,
+      "rank": 39,
       "name": "Vitoria Lima",
       "grad_year": "'20",
       "yoe": "5",
@@ -514,7 +589,7 @@
       "linkedin_url": "https://linkedin.com/in/thevitorialima"
     },
     {
-      "rank": 35,
+      "rank": 40,
       "name": "Jiahao Dong",
       "grad_year": "'21",
       "yoe": "4",
@@ -529,7 +604,7 @@
       "linkedin_url": "https://linkedin.com/in/jiahaodong"
     },
     {
-      "rank": 36,
+      "rank": 41,
       "name": "Gautham R",
       "grad_year": "'25",
       "yoe": "?",
@@ -544,7 +619,7 @@
       "linkedin_url": "https://linkedin.com/in/gurugautham"
     },
     {
-      "rank": 37,
+      "rank": 42,
       "name": "Wilbur W",
       "grad_year": "'22",
       "yoe": "3",
@@ -559,7 +634,7 @@
       "linkedin_url": "https://linkedin.com/in/wilbur-w-6a5b33144"
     },
     {
-      "rank": 38,
+      "rank": 43,
       "name": "Erica Lee",
       "grad_year": "'15",
       "yoe": "10",
@@ -574,7 +649,7 @@
       "linkedin_url": "https://linkedin.com/in/ericaglee"
     },
     {
-      "rank": 39,
+      "rank": 44,
       "name": "Jessie Ko",
       "grad_year": "'21",
       "yoe": "4",
@@ -589,7 +664,7 @@
       "linkedin_url": "https://linkedin.com/in/jessie-ko"
     },
     {
-      "rank": 40,
+      "rank": 45,
       "name": "William Minnis",
       "grad_year": "'23",
       "yoe": "2",
@@ -604,7 +679,7 @@
       "linkedin_url": "https://linkedin.com/in/willminnis"
     },
     {
-      "rank": 41,
+      "rank": 46,
       "name": "Vashisht Anand",
       "grad_year": "'14",
       "yoe": "11",
@@ -619,7 +694,7 @@
       "linkedin_url": "https://linkedin.com/in/vga5"
     },
     {
-      "rank": 42,
+      "rank": 47,
       "name": "Yenchia Feng",
       "grad_year": "'18",
       "yoe": "7",
@@ -634,7 +709,7 @@
       "linkedin_url": "https://linkedin.com/in/yenchia-feng"
     },
     {
-      "rank": 43,
+      "rank": 48,
       "name": "Rahul Singhal",
       "grad_year": "'24",
       "yoe": "1",
@@ -649,22 +724,7 @@
       "linkedin_url": "https://linkedin.com/in/rahul3402"
     },
     {
-      "rank": 44,
-      "name": "Gillian Jarvis",
-      "grad_year": "'12",
-      "yoe": "13",
-      "start_date": "2025-04",
-      "title": "Head Of Brand",
-      "original_title": "Head Of Brand",
-      "previous_title": "Design Advisor",
-      "previous_company": "Zero Prime Ventures",
-      "previous_title_2": "Design Director",
-      "previous_company_2": "Twist Bioscience",
-      "education": "Advertising, Humber College",
-      "linkedin_url": "https://linkedin.com/in/gillianjarvis"
-    },
-    {
-      "rank": 45,
+      "rank": 49,
       "name": "David Mcnerney",
       "grad_year": "'98",
       "yoe": "27",
@@ -679,7 +739,7 @@
       "linkedin_url": "https://linkedin.com/in/david-mcnerney-08178168"
     },
     {
-      "rank": 46,
+      "rank": 50,
       "name": "Bryan Rivera",
       "grad_year": "'19",
       "yoe": "6",
@@ -694,7 +754,7 @@
       "linkedin_url": "https://linkedin.com/in/riverab"
     },
     {
-      "rank": 47,
+      "rank": 51,
       "name": "Nitesh Nagpal",
       "grad_year": "'20",
       "yoe": "5",
@@ -709,7 +769,7 @@
       "linkedin_url": "https://linkedin.com/in/nitesh-nagpal"
     },
     {
-      "rank": 48,
+      "rank": 52,
       "name": "Smarth Gupta",
       "grad_year": "'20",
       "yoe": "5",
@@ -724,7 +784,7 @@
       "linkedin_url": "https://linkedin.com/in/smarth-gupta"
     },
     {
-      "rank": 49,
+      "rank": 53,
       "name": "Aria Eghbali",
       "grad_year": "'24",
       "yoe": "1",
@@ -739,7 +799,7 @@
       "linkedin_url": "https://linkedin.com/in/aria-eghbali"
     },
     {
-      "rank": 50,
+      "rank": 54,
       "name": "Vedant Sahai",
       "grad_year": "'21",
       "yoe": "4",
@@ -754,7 +814,7 @@
       "linkedin_url": "https://linkedin.com/in/vedantsahai18"
     },
     {
-      "rank": 51,
+      "rank": 55,
       "name": "Rachel O",
       "grad_year": "'22",
       "yoe": "3",
@@ -769,7 +829,7 @@
       "linkedin_url": "https://linkedin.com/in/rachelombok"
     },
     {
-      "rank": 52,
+      "rank": 56,
       "name": "Kulbir Singh",
       "grad_year": "'25",
       "yoe": "?",
@@ -784,7 +844,7 @@
       "linkedin_url": "https://linkedin.com/in/kulbir123"
     },
     {
-      "rank": 53,
+      "rank": 57,
       "name": "Andre Chen",
       "grad_year": "'18",
       "yoe": "7",
@@ -799,7 +859,7 @@
       "linkedin_url": "https://linkedin.com/in/andre-chen1"
     },
     {
-      "rank": 54,
+      "rank": 58,
       "name": "Heather Katz",
       "grad_year": "'06",
       "yoe": "19",
@@ -814,7 +874,7 @@
       "linkedin_url": "https://linkedin.com/in/heatherkatz"
     },
     {
-      "rank": 55,
+      "rank": 59,
       "name": "Louis Penafiel",
       "grad_year": "'18",
       "yoe": "7",
@@ -829,7 +889,7 @@
       "linkedin_url": "https://linkedin.com/in/jorelpenafiel"
     },
     {
-      "rank": 56,
+      "rank": 60,
       "name": "Mustafa Mirza",
       "grad_year": "'25",
       "yoe": "?",
@@ -844,7 +904,7 @@
       "linkedin_url": "https://linkedin.com/in/mustafa-mirza-460551234"
     },
     {
-      "rank": 57,
+      "rank": 61,
       "name": "Akshat Vaidya",
       "grad_year": "'18",
       "yoe": "7",
@@ -859,7 +919,7 @@
       "linkedin_url": "https://linkedin.com/in/akshat-vaidya"
     },
     {
-      "rank": 58,
+      "rank": 62,
       "name": "Anish Dulla",
       "grad_year": "'24",
       "yoe": "1",
@@ -874,7 +934,7 @@
       "linkedin_url": "https://linkedin.com/in/anish-dulla"
     },
     {
-      "rank": 59,
+      "rank": 63,
       "name": "Mihir Sawhney",
       "grad_year": "'25",
       "yoe": "?",
@@ -889,7 +949,7 @@
       "linkedin_url": "https://linkedin.com/in/mihir-sawhney-8b466924a"
     },
     {
-      "rank": 60,
+      "rank": 64,
       "name": "Joshua Shou",
       "grad_year": "'23",
       "yoe": "2",
@@ -904,7 +964,7 @@
       "linkedin_url": "https://linkedin.com/in/joshua-shou-43a107199"
     },
     {
-      "rank": 61,
+      "rank": 65,
       "name": "Tianxiao Li",
       "grad_year": "'23",
       "yoe": "2",
@@ -919,7 +979,7 @@
       "linkedin_url": "https://linkedin.com/in/tonyltx"
     },
     {
-      "rank": 62,
+      "rank": 66,
       "name": "Nicholas Gannon",
       "grad_year": "'20",
       "yoe": "5",
@@ -934,7 +994,7 @@
       "linkedin_url": "https://linkedin.com/in/nicholas-gannon-ba922a157"
     },
     {
-      "rank": 63,
+      "rank": 67,
       "name": "Hemantha Bharadwaj",
       "grad_year": "'22",
       "yoe": "3",
@@ -949,7 +1009,7 @@
       "linkedin_url": "https://linkedin.com/in/hemantha-krishna-bharadwaj-2504a21ab"
     },
     {
-      "rank": 64,
+      "rank": 68,
       "name": "Ankit Kumar",
       "grad_year": "'12",
       "yoe": "13",
@@ -964,7 +1024,7 @@
       "linkedin_url": "https://linkedin.com/in/ankit10k"
     },
     {
-      "rank": 65,
+      "rank": 69,
       "name": "Brad Freitag",
       "grad_year": "'94",
       "yoe": "31",
@@ -979,7 +1039,7 @@
       "linkedin_url": "https://linkedin.com/in/bradfreitag"
     },
     {
-      "rank": 66,
+      "rank": 70,
       "name": "Natasha Prats",
       "grad_year": "'09",
       "yoe": "16",
@@ -994,7 +1054,7 @@
       "linkedin_url": "https://linkedin.com/in/natasha-prats"
     },
     {
-      "rank": 67,
+      "rank": 71,
       "name": "Levi Gordon",
       "grad_year": "'13",
       "yoe": "12",
@@ -1009,7 +1069,7 @@
       "linkedin_url": "https://linkedin.com/in/levi-gordon-58a78036"
     },
     {
-      "rank": 68,
+      "rank": 72,
       "name": "Austin Fischer",
       "grad_year": "'17",
       "yoe": "8",
@@ -1024,7 +1084,7 @@
       "linkedin_url": "https://linkedin.com/in/alfischer33"
     },
     {
-      "rank": 69,
+      "rank": 73,
       "name": "Durga Saluru",
       "grad_year": "'21",
       "yoe": "4",
@@ -1039,7 +1099,7 @@
       "linkedin_url": "https://linkedin.com/in/durga-sandeep-saluru-391301144"
     },
     {
-      "rank": 70,
+      "rank": 74,
       "name": "Michael Liu",
       "grad_year": "'15",
       "yoe": "10",
@@ -1054,7 +1114,7 @@
       "linkedin_url": "https://linkedin.com/in/mairuo"
     },
     {
-      "rank": 71,
+      "rank": 75,
       "name": "Michael Amoako",
       "grad_year": "'19",
       "yoe": "6",
@@ -1069,7 +1129,7 @@
       "linkedin_url": "https://linkedin.com/in/mkamoako"
     },
     {
-      "rank": 72,
+      "rank": 76,
       "name": "Juan Castillo",
       "grad_year": "'18",
       "yoe": "7",
@@ -1084,7 +1144,7 @@
       "linkedin_url": "https://linkedin.com/in/juancastillo-jr"
     },
     {
-      "rank": 73,
+      "rank": 77,
       "name": "Abhishek Goyal",
       "grad_year": "'21",
       "yoe": "4",
@@ -1099,7 +1159,7 @@
       "linkedin_url": "https://linkedin.com/in/abhishekgoyal2358"
     },
     {
-      "rank": 74,
+      "rank": 78,
       "name": "Heeyoung Kwon",
       "grad_year": "'13",
       "yoe": "12",
@@ -1114,12 +1174,12 @@
       "linkedin_url": "https://linkedin.com/in/heeyoung-kwon-9b1b6b2a"
     },
     {
-      "rank": 75,
+      "rank": 79,
       "name": "Saumyaa Mehra",
       "grad_year": "'21",
       "yoe": "4",
       "start_date": "2025-07",
-      "title": "Product",
+      "title": "Designer",
       "original_title": "Product Designer",
       "previous_title": "Product Designer",
       "previous_company": "Kwikly Dental Staffing",
@@ -1129,7 +1189,7 @@
       "linkedin_url": "https://linkedin.com/in/saumyaamehra"
     },
     {
-      "rank": 76,
+      "rank": 80,
       "name": "Pranav Burugula",
       "grad_year": "'23",
       "yoe": "2",
@@ -1144,7 +1204,7 @@
       "linkedin_url": "https://linkedin.com/in/pranavburugula"
     },
     {
-      "rank": 77,
+      "rank": 81,
       "name": "Yonida Mulita",
       "grad_year": "'07",
       "yoe": "18",
@@ -1159,7 +1219,7 @@
       "linkedin_url": "https://linkedin.com/in/yonida-mulita-she-her-9a08361a"
     },
     {
-      "rank": 78,
+      "rank": 82,
       "name": "Cameron Alizadeh",
       "grad_year": "'16",
       "yoe": "9",
@@ -1174,7 +1234,7 @@
       "linkedin_url": "https://linkedin.com/in/cdalizadeh"
     },
     {
-      "rank": 79,
+      "rank": 83,
       "name": "Noah G",
       "grad_year": "'19",
       "yoe": "6",
@@ -1189,7 +1249,7 @@
       "linkedin_url": "https://linkedin.com/in/noah-g-22a68b58"
     },
     {
-      "rank": 80,
+      "rank": 84,
       "name": "Emma Brown",
       "grad_year": "'22",
       "yoe": "3",
@@ -1204,7 +1264,7 @@
       "linkedin_url": "https://linkedin.com/in/emma-nworb"
     },
     {
-      "rank": 81,
+      "rank": 85,
       "name": "Rohan Harpalani",
       "grad_year": "'24",
       "yoe": "1",
@@ -1219,7 +1279,7 @@
       "linkedin_url": "https://linkedin.com/in/rohanharpalani"
     },
     {
-      "rank": 82,
+      "rank": 86,
       "name": "Boudhayan Sen",
       "grad_year": "'00",
       "yoe": "25",
@@ -1234,7 +1294,7 @@
       "linkedin_url": "https://linkedin.com/in/boudhayan-sen"
     },
     {
-      "rank": 83,
+      "rank": 87,
       "name": "Chirag Sharma",
       "grad_year": "'22",
       "yoe": "3",
@@ -1249,7 +1309,7 @@
       "linkedin_url": "https://linkedin.com/in/chirag-sharma-00"
     },
     {
-      "rank": 84,
+      "rank": 88,
       "name": "Ridhi Jhamb",
       "grad_year": "'21",
       "yoe": "4",
@@ -1264,7 +1324,7 @@
       "linkedin_url": "https://linkedin.com/in/ridhi-jhamb"
     },
     {
-      "rank": 85,
+      "rank": 89,
       "name": "Nikhil Gangaram",
       "grad_year": "'25",
       "yoe": "?",
@@ -1279,7 +1339,7 @@
       "linkedin_url": "https://linkedin.com/in/nikhil-gangaram"
     },
     {
-      "rank": 86,
+      "rank": 90,
       "name": "Jevon Wild",
       "grad_year": "'08",
       "yoe": "17",
@@ -1294,7 +1354,7 @@
       "linkedin_url": "https://linkedin.com/in/jevonwild"
     },
     {
-      "rank": 87,
+      "rank": 91,
       "name": "Kate Panawek",
       "grad_year": "'07",
       "yoe": "18",
@@ -1309,7 +1369,7 @@
       "linkedin_url": "https://linkedin.com/in/katelovepanawek"
     },
     {
-      "rank": 88,
+      "rank": 92,
       "name": "Sahana Sudhakar",
       "grad_year": "'20",
       "yoe": "5",
@@ -1324,7 +1384,7 @@
       "linkedin_url": "https://linkedin.com/in/sahana-sudhakar"
     },
     {
-      "rank": 89,
+      "rank": 93,
       "name": "Yeji Song",
       "grad_year": "'18",
       "yoe": "7",
@@ -1339,7 +1399,7 @@
       "linkedin_url": "https://linkedin.com/in/songyeji"
     },
     {
-      "rank": 90,
+      "rank": 94,
       "name": "Angel Carradine",
       "grad_year": "'11",
       "yoe": "14",
@@ -1354,7 +1414,7 @@
       "linkedin_url": "https://linkedin.com/in/angel-carradine"
     },
     {
-      "rank": 91,
+      "rank": 95,
       "name": "Jeremy Berkowitz",
       "grad_year": "'21",
       "yoe": "4",
