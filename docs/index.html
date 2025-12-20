@@ -582,10 +582,9 @@
         // Role categorization
         function getEngLevel(yoe) {
             const y = parseInt(yoe) || 0;
-            if (y <= 1) return 'Uni';
             if (y <= 3) return 'Jr';
-            if (y <= 8) return 'Sr';
-            return 'Staff';
+            if (y <= 8) return 'Mid';
+            return 'Sr';
         }
         
         // Score-based role classification
@@ -1009,10 +1008,9 @@
         function getLevel(yoe) {
             const y = parseInt(yoe) || 0;
             if (yoe === '?' || isNaN(y)) return '?';
-            if (y <= 1) return 'Uni';
             if (y <= 3) return 'Jr';
-            if (y <= 8) return 'Sr';
-            return 'Staff';
+            if (y <= 8) return 'Mid';
+            return 'Sr';
         }
         
         function buildSnapshot(employees, month) {
@@ -1026,7 +1024,7 @@
             // Categorize everyone
             const categories = {};
             const categoryPeople = {};
-            const engLevels = { Uni: [], Jr: [], Sr: [], Staff: [] };
+            const engLevels = { Jr: [], Mid: [], Sr: [] };
             
             team.forEach(e => {
                 const { category, level } = categorizeRole(e);
@@ -1072,16 +1070,14 @@
                     </div>`;
                     
                     if (cat === 'Engineering') {
-                        const uniCount = engLevels.Uni.length;
                         const jrCount = engLevels.Jr.length;
+                        const midCount = engLevels.Mid.length;
                         const srCount = engLevels.Sr.length;
-                        const staffCount = engLevels.Staff.length;
                         
                         const breakdown = [];
-                        if (uniCount) breakdown.push(`${uniCount} Uni`);
                         if (jrCount) breakdown.push(`${jrCount} Jr`);
+                        if (midCount) breakdown.push(`${midCount} Mid`);
                         if (srCount) breakdown.push(`${srCount} Sr`);
-                        if (staffCount) breakdown.push(`${staffCount} Staff`);
                         
                         if (breakdown.length) {
                             html += `<div class="snapshot-sublevel">${breakdown.join(' · ')}</div>`;
