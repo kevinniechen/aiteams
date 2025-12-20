@@ -499,20 +499,24 @@
             .mobile-disclaimer.visible { display: block; }
         }
         
-        .site-footer {
-            text-align: center;
-            padding: 20px;
-            font-size: 12px;
-            color: #888;
+        .site-credit {
+            position: absolute;
+            top: 38px;
+            right: 20px;
+            font-size: 11px;
+            color: #aaa;
         }
-        .site-footer a {
-            color: #888;
+        .site-credit a {
+            color: #aaa;
             text-decoration: underline;
             text-decoration-thickness: 0.5px;
             text-underline-offset: 2px;
         }
-        .site-footer a:hover {
+        .site-credit a:hover {
             color: #333;
+        }
+        @media (max-width: 480px) {
+            .site-credit { position: static; margin-bottom: 10px; }
         }
     </style>
 </head>
@@ -520,6 +524,7 @@
     <div class="header">
         <h1>Early Teams</h1>
         <p class="subtitle">How top startups built their early teams</p>
+        <p class="site-credit">By <a href="https://kevinniechen.com" target="_blank">Kevin Niechen ↗</a></p>
         <div class="search-bar">
             <input type="text" id="search-input" placeholder="Search across all companies..." autocomplete="off">
             <span id="search-clear" class="search-clear" style="display: none;">×</span>
@@ -1415,8 +1420,5 @@ document.getElementById('company-info').innerHTML =
         loadData();
         initSearch();
     </script>
-    <footer class="site-footer">
-        By <a href="https://kevinniechen.com" target="_blank">Kevin Niechen ↗</a>
-    </footer>
 </body>
 </html>
