@@ -12,7 +12,16 @@
         .subtitle { position: absolute; top: 20px; right: 20px; margin: 0; font-size: 12px; color: #888; font-weight: normal; }
         .subtitle a { color: #888; text-decoration: underline; text-decoration-thickness: 0.5px; text-underline-offset: 2px; }
         .subtitle a:hover { color: #333; }
-        .text-arrow { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+        .subtitle a::after {
+            content: "";
+            display: inline-block;
+            width: 6px;
+            height: 6px;
+            border-top: 1px solid currentColor;
+            border-right: 1px solid currentColor;
+            transform: rotate(45deg) translateY(1px);
+            margin-left: 4px;
+        }
         h2 { margin: 10px 0; }
         h3 { margin: 10px 0 5px 0; font-size: 13px; }
         h4 { margin: 8px 0 4px 0; font-size: 12px; font-weight: normal; color: #666; }
@@ -509,7 +518,7 @@
 <body>
     <div class="header">
         <h1>Early Teams</h1>
-        <p class="subtitle">By <a href="https://kevinniechen.com" target="_blank">Kevin Niechen <span class="text-arrow">↗︎</span></a></p>
+        <p class="subtitle">By <a href="https://kevinniechen.com" target="_blank">Kevin Niechen</a></p>
         <div class="search-bar">
             <input type="text" id="search-input" placeholder="Search across all companies..." autocomplete="off">
             <span id="search-clear" class="search-clear" style="display: none;">×</span>
