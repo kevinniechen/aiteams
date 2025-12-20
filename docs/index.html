@@ -111,7 +111,7 @@
         .col-rank { width: 25px; }
         .col-name { width: 140px; }
         .col-title { width: 280px; }
-        .col-yoe { width: 35px; }
+        .col-yoe { width: 70px; }
         .col-start { width: 40px; }
         .col-edu { width: 250px; }
         .col-prev { width: auto; }
@@ -432,7 +432,7 @@
             .col-rank { width: 20px; }
             .col-name { width: 100px; }
             .col-title { width: 140px; }
-            .col-yoe { width: 30px; }
+            .col-yoe { width: 55px; }
             .col-start { width: 35px; }
             .col-edu { width: 100px; }
             .col-prev { width: auto; }
@@ -1008,6 +1008,13 @@
             return 'Staff';
         }
         
+        function formatYoE(yoe) {
+            const y = parseInt(yoe) || 0;
+            if (yoe === '?' || isNaN(parseInt(yoe))) return '?';
+            const level = getLevel(yoe);
+            return `${level} (${y})`;
+        }
+        
         function buildSnapshot(employees, month) {
             // Get cumulative team up to and including selected month
             const team = employees.filter(e => e.start_date <= month);
@@ -1324,7 +1331,7 @@ document.getElementById('company-info').innerHTML =
                     <th class="col-start">Joined</th>
                     <th class="col-name">Name</th>
                     <th class="col-title">Role</th>
-                    <th class="col-yoe">YoE</th>
+                    <th class="col-yoe">Exp</th>
                     <th class="col-edu">Education</th>
                     <th class="col-prev">Experience</th>
                     
@@ -1373,7 +1380,7 @@ document.getElementById('company-info').innerHTML =
                     <td>${formatTenure(e.start_date, companyInceptionDate)}</td>
                     <td>${name}</td>
                     <td title="${(e.original_title || e.title).replace(/"/g, '&quot;')}">${titleDisplay}</td>
-                    <td>${yoe}</td>
+                    <td>${formatYoE(yoe)}</td>
                     <td title="${(e.education || '').replace(/"/g, '&quot;')}">${eduDisplay}</td>
                     <td title="${expText.replace(/"/g, '&quot;')}">${prevDisplay}</td>
                     
@@ -1510,7 +1517,7 @@ document.getElementById('company-info').innerHTML =
                     <th class="col-company">Company</th>
                     <th class="col-name">Name</th>
                     <th class="col-title">Role</th>
-                    <th class="col-yoe">YoE</th>
+                    <th class="col-yoe">Exp</th>
                     <th class="col-edu">Education</th>
                     <th class="col-prev">Experience</th>
                 </tr>
@@ -1549,7 +1556,7 @@ document.getElementById('company-info').innerHTML =
                     <td><strong>${companyHighlight}</strong></td>
                     <td>${name}</td>
                     <td title="${(e.original_title || e.title).replace(/"/g, '&quot;')}">${titleDisplay}</td>
-                    <td>${yoe}</td>
+                    <td>${formatYoE(yoe)}</td>
                     <td title="${(e.education || '').replace(/"/g, '&quot;')}">${eduDisplay}</td>
                     <td title="${expText.replace(/"/g, '&quot;')}">${prevDisplay}</td>
                 </tr>`;
