@@ -4,7 +4,7 @@ GLEAN - EARLIEST EMPLOYEES
 
 Employee #1
   Name: Arvind Jain
-  Grad: '96 | YoE: 29
+  Grad: '96 | YoE: 23
   Start Date: 2019-03
   Title: Founder & CEO (Founder And Chief Executive Officer)
   Previous 1: Co-Founder @ Rubrik
@@ -14,7 +14,7 @@ Employee #1
 
 Employee #2
   Name: T.R Vishwanath
-  Grad: '97 | YoE: 28
+  Grad: '97 | YoE: 22
   Start Date: 2019-03
   Title: Co-Founder (Co-Founder)
   Previous 1: Principal Software Engineer @ Meta
@@ -24,7 +24,7 @@ Employee #2
 
 Employee #3
   Name: Tony Gentilcore
-  Grad: '04 | YoE: 21
+  Grad: '04 | YoE: 15
   Start Date: 2019-04
   Title: Co-Founder (Co-Founder / Head Of Product Engineer)
   Previous 1: Founding Member @ Post Social
@@ -34,7 +34,7 @@ Employee #3
 
 Employee #4
   Name: Eddie Zhou
-  Grad: '16 | YoE: 9
+  Grad: '16 | YoE: 3
   Start Date: 2019-06
   Title: Founding Engineer (Founding Engineer)
   Previous 1: Software Engineer, Research @ Google
@@ -44,7 +44,7 @@ Employee #4
 
 Employee #5
   Name: Mahsin Hossain
-  Grad: '19 | YoE: 6
+  Grad: '19 | YoE: ?
   Start Date: 2019-07
   Title: Marketing (Digital Marketing Manager)
   Previous 1: N/A @ N/A
@@ -54,7 +54,7 @@ Employee #5
 
 Employee #6
   Name: Peter Gi
-  Grad: '14 | YoE: 11
+  Grad: '14 | YoE: 5
   Start Date: 2019-07
   Title: Staff Engineer (Staff Software Engineer)
   Previous 1: Senior Software Engineer @ Chiron Health - A Medici Company
@@ -64,7 +64,7 @@ Employee #6
 
 Employee #7
   Name: Chaitanya Asawa
-  Grad: '18 | YoE: 7
+  Grad: '18 | YoE: 1
   Start Date: 2019-08
   Title: Founding Engineer (Founding Engineer, Engineering Manager)
   Previous 1: Research Engineer @ Vicarious
@@ -74,7 +74,7 @@ Employee #7
 
 Employee #8
   Name: James Simonsen
-  Grad: '02 | YoE: 23
+  Grad: '02 | YoE: 17
   Start Date: 2019-08
   Title: Engineer (Software Engineer)
   Previous 1: Software Engineer @ Google
@@ -84,7 +84,7 @@ Employee #8
 
 Employee #9
   Name: Yiming Jen
-  Grad: '17 | YoE: 8
+  Grad: '17 | YoE: 2
   Start Date: 2019-09
   Title: Engineering Manager (Engineering Manager)
   Previous 1: Software Engineer @ Pinterest
@@ -94,7 +94,7 @@ Employee #9
 
 Employee #10
   Name: Phil Ophus
-  Grad: '07 | YoE: 18
+  Grad: '07 | YoE: 12
   Start Date: 2019-12
   Title: Engineer (Software Engineer)
   Previous 1: Software Engineer @ Meta
@@ -104,7 +104,7 @@ Employee #10
 
 Employee #11
   Name: Mustafa Tikir
-  Grad: '96 | YoE: 29
+  Grad: '96 | YoE: 23
   Start Date: 2019-12
   Title: Engineer (Software Engineer)
   Previous 1: Software Engineer @ Dropbox
@@ -114,7 +114,7 @@ Employee #11
 
 Employee #12
   Name: Joshua Chang
-  Grad: '11 | YoE: 14
+  Grad: '11 | YoE: 9
   Start Date: 2020-05
   Title: Sales (Head Of Sales)
   Previous 1: Manager, Inside Enterprise West & U.S. Higher Education Sales @ Box
@@ -124,7 +124,7 @@ Employee #12
 
 Employee #13
   Name: Abhijith Shankar
-  Grad: '15 | YoE: 10
+  Grad: '15 | YoE: 5
   Start Date: 2020-12
   Title: Engineer (Engineer)
   Previous 1: Member Of Technical Staff @ Qubole
@@ -134,7 +134,7 @@ Employee #13
 
 Employee #14
   Name: Stephen Chu
-  Grad: '10 | YoE: 15
+  Grad: '10 | YoE: 11
   Start Date: 2021-01
   Title: Engineering Manager (Engineering Manager)
   Previous 1: Senior Engineering Manager @ Rubrik
@@ -144,7 +144,7 @@ Employee #14
 
 Employee #15
   Name: Rachel Li
-  Grad: '16 | YoE: 9
+  Grad: '16 | YoE: 5
   Start Date: 2021-01
   Title: PM (Product Manager)
   Previous 1: Product Manager @ Loom
@@ -153,7 +153,7 @@ Employee #15
 
 Employee #16
   Name: Daniel Shen
-  Grad: '97 | YoE: 28
+  Grad: '97 | YoE: 24
   Start Date: 2021-01
   Title: Director (Director)
   Previous 1: Software Engineering Manager @ Facebook
@@ -163,7 +163,7 @@ Employee #16
 
 Employee #17
   Name: Garvit Juniwal
-  Grad: '12 | YoE: 13
+  Grad: '12 | YoE: 9
   Start Date: 2021-03
   Title: Site Lead, India Research & De (Site Lead, India Research & Development)
   Previous 1: Advisor @ Relicx
@@ -173,7 +173,7 @@ Employee #17
 
 Employee #18
   Name: Vincent Jiang
-  Grad: '14 | YoE: 11
+  Grad: '14 | YoE: 7
   Start Date: 2021-05
   Title: Investor (Investor)
   Previous 1: Investor @ Affirm
@@ -183,7 +183,7 @@ Employee #18
 
 Employee #19
   Name: Purvi Jain
-  Grad: '21 | YoE: 4
+  Grad: '21 | YoE: ?
   Start Date: 2021-05
   Title: Engineer (Software Engineer)
   Previous 1: Sde Intern @ Globalfair
@@ -193,7 +193,7 @@ Employee #19
 
 Employee #20
   Name: Purvi Jain
-  Grad: '21 | YoE: 4
+  Grad: '21 | YoE: ?
   Start Date: 2021-05
   Title: Engineer (Software Engineer)
   Previous 1: Sde Intern @ Globalfair
@@ -203,7 +203,7 @@ Employee #20
 
 Employee #21
   Name: Nathan Arritt
-  Grad: '99 | YoE: 26
+  Grad: '99 | YoE: 22
   Start Date: 2021-07
   Title: Engineer (Software Engineer (Ui))
   Previous 1: Member Of Technical Staff (Ui) @ Clumio
@@ -213,7 +213,7 @@ Employee #21
 
 Employee #22
   Name: Arjun Landes
-  Grad: '11 | YoE: 14
+  Grad: '11 | YoE: 10
   Start Date: 2021-07
   Title: Engineering Manager (Engineering Manager)
   Previous 1: Angel Investor @ Angel Investor
@@ -223,7 +223,7 @@ Employee #22
 
 Employee #23
   Name: Gary Luo
-  Grad: '96 | YoE: 29
+  Grad: '96 | YoE: 25
   Start Date: 2021-07
   Title: Engineer (Site Reliability Engineer)
   Previous 1: Senior Site Reliability Engineer @ Google
@@ -233,7 +233,7 @@ Employee #23
 
 Employee #24
   Name: Rui Wu
-  Grad: '08 | YoE: 17
+  Grad: '08 | YoE: 13
   Start Date: 2021-07
   Title: Search Ranking Tech Lead (Search Ranking Tech Lead)
   Previous 1: Senior Software Engineer @ Google
@@ -243,7 +243,7 @@ Employee #24
 
 Employee #25
   Name: Gary Luo
-  Grad: '96 | YoE: 29
+  Grad: '96 | YoE: 25
   Start Date: 2021-07
   Title: Engineer (Site Reliability Engineer)
   Previous 1: Senior Site Reliability Engineer @ Google
@@ -253,7 +253,7 @@ Employee #25
 
 Employee #26
   Name: Omar Khan
-  Grad: '21 | YoE: 4
+  Grad: '21 | YoE: ?
   Start Date: 2021-08
   Title: Engineer (Software Engineer)
   Previous 1: Cs 61B Head Ta @ University Of California, Berkeley
@@ -263,7 +263,7 @@ Employee #26
 
 Employee #27
   Name: Gayan Edirisinghe
-  Grad: '05 | YoE: 20
+  Grad: '05 | YoE: 16
   Start Date: 2021-08
   Title: Engineer (Software Engineer)
   Previous 1: Software Engineer @ Facebook
@@ -273,7 +273,7 @@ Employee #27
 
 Employee #28
   Name: Connor Lafferty
-  Grad: '20 | YoE: 5
+  Grad: '20 | YoE: 1
   Start Date: 2021-08
   Title: Engineer (Software Engineer)
   Previous 1: Software Engineer @ Stealth Startup
@@ -283,7 +283,7 @@ Employee #28
 
 Employee #29
   Name: Haydn Ahmed
-  Grad: '16 | YoE: 9
+  Grad: '16 | YoE: 5
   Start Date: 2021-08
   Title: Management Accountant (Management Accountant)
   Previous 1: Management Accountant @ John Hornby Skewes And Company Limited
@@ -293,7 +293,7 @@ Employee #29
 
 Employee #30
   Name: Kyle Dos Remedios
-  Grad: '14 | YoE: 11
+  Grad: '14 | YoE: 7
   Start Date: 2021-10
   Title: Account Executive (Account Executive, Strategic Accounts)
   Previous 1: Enterprise Account Executive @ Box
@@ -303,7 +303,7 @@ Employee #30
 
 Employee #31
   Name: Aditya Kumar
-  Grad: '19 | YoE: 6
+  Grad: '19 | YoE: 2
   Start Date: 2021-10
   Title: Engineer (Software Engineer)
   Previous 1: Software Engineer @ Rippling
@@ -313,9 +313,9 @@ Employee #31
 
 Employee #32
   Name: Dorothy Kang
-  Grad: '20 | YoE: 5
+  Grad: '20 | YoE: 1
   Start Date: 2021-12
-  Title: Product (Product Designer)
+  Title: Designer (Product Designer)
   Previous 1: Product Designer @ Intuit
   Previous 2: N/A @ N/A
   Education: BS Architecture, Stanford '20
@@ -323,7 +323,7 @@ Employee #32
 
 Employee #33
   Name: Shaan Vaidya
-  Grad: '19 | YoE: 6
+  Grad: '19 | YoE: 2
   Start Date: 2021-12
   Title: Engineer (Software Engineer)
   Previous 1: Research Intern @ Uppsala University

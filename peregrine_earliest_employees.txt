@@ -1,3 +1,13 @@
 PEREGRINE - EARLIEST EMPLOYEES
 (Founded: 2022-01)
 ================================================================================
+
+Employee #1
+  Name: Ben Rudolph
+  Grad: '13 | YoE: 5
+  Start Date: 2018-01
+  Title: Co-Founder (Co-Founder)
+  Previous 1: Software Engineer @ Dimagi
+  Previous 2: Photographer @ Ben Rudolph Photography
+  Education: BS CS, Stanford '13
+  LinkedIn: https://linkedin.com/in/brudolph

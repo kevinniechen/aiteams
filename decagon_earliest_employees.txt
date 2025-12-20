@@ -4,7 +4,7 @@ DECAGON - EARLIEST EMPLOYEES
 
 Employee #1
   Name: Ashwin Sreenivas
-  Grad: '17 | YoE: 8
+  Grad: '17 | YoE: 6
   Start Date: 2023-01
   Title: Co-Founder (Co-Founder)
   Previous 1: Co-Founder @ Helia (Acquired By Scale Ai)
@@ -14,7 +14,7 @@ Employee #1
 
 Employee #2
   Name: Jesse Zhang
-  Grad: '16 | YoE: 9
+  Grad: '16 | YoE: 7
   Start Date: 2023-08
   Title: Co-Founder (Chief Executive Officer / Co-Founder)
   Previous 1: Chief Executive Officer / Founder @ Lowkey (Acquired By Niantic!)
@@ -24,7 +24,7 @@ Employee #2
 
 Employee #3
   Name: Sangwoo Bae
-  Grad: '19 | YoE: 6
+  Grad: '19 | YoE: 5
   Start Date: 2024-01
   Title: Engineering (Engineering)
   Previous 1: Engineering Manager @ Scale Ai
@@ -34,7 +34,7 @@ Employee #3
 
 Employee #4
   Name: Sambhav Jain
-  Grad: '20 | YoE: 5
+  Grad: '20 | YoE: 4
   Start Date: 2024-01
   Title: Agents (Agents)
   Previous 1: General Manager, Product @ Truework
@@ -44,7 +44,7 @@ Employee #4
 
 Employee #5
   Name: Katherine Xiao
-  Grad: '18 | YoE: 7
+  Grad: '18 | YoE: 6
   Start Date: 2024-01
   Title: PM (Agent Product Manager)
   Previous 1: Software Investor @ Spectrum Equity
@@ -54,7 +54,7 @@ Employee #5
 
 Employee #6
   Name: Grant Proctor
-  Grad: '17 | YoE: 8
+  Grad: '17 | YoE: 7
   Start Date: 2024-01
   Title: Sales (Sales)
   Previous 1: Worldwide Sales | Data Observability @ Ibm
@@ -64,7 +64,7 @@ Employee #6
 
 Employee #7
   Name: Cynthia Chen
-  Grad: '24 | YoE: 1
+  Grad: '24 | YoE: ?
   Start Date: 2024-01
   Title: Engineer (Engineer)
   Previous 1: Intern @ Scale Ai
@@ -74,7 +74,7 @@ Employee #7
 
 Employee #8
   Name: Amy Jin
-  Grad: '16 | YoE: 9
+  Grad: '16 | YoE: 8
   Start Date: 2024-01
   Title: Engineering (Engineering)
   Previous 1: Chief Of Staff @ Dorsal Health
@@ -84,7 +84,7 @@ Employee #8
 
 Employee #9
   Name: Sambhav Jain
-  Grad: '17 | YoE: 8
+  Grad: '17 | YoE: 7
   Start Date: 2024-01
   Title: Product (Product + Gtm)
   Previous 1: General Manager, Product @ Truework
@@ -94,7 +94,7 @@ Employee #9
 
 Employee #10
   Name: Perry Ha
-  Grad: '17 | YoE: 8
+  Grad: '17 | YoE: 7
   Start Date: 2024-05
   Title: VP (Vice President, Agent Product)
   Previous 1: Co-Founder, Chief Executive Officer @ Homeflow
@@ -104,7 +104,7 @@ Employee #10
 
 Employee #11
   Name: Rohan D'Souza
-  Grad: '22 | YoE: 3
+  Grad: '22 | YoE: 2
   Start Date: 2024-06
   Title: Engineer (Engineer)
   Previous 1: Software Engineer @ Lyft
@@ -114,7 +114,7 @@ Employee #11
 
 Employee #12
   Name: Matt Tosi
-  Grad: '08 | YoE: 17
+  Grad: '08 | YoE: 16
   Start Date: 2024-07
   Title: Sales (Sales)
   Previous 1: Strategic Accounts @ Mux
@@ -124,7 +124,7 @@ Employee #12
 
 Employee #13
   Name: Max Lowenthal
-  Grad: '18 | YoE: 7
+  Grad: '18 | YoE: 6
   Start Date: 2024-09
   Title: Director (Director, Agent Product)
   Previous 1: Business Operations Manager @ Rodeo
@@ -134,7 +134,7 @@ Employee #13
 
 Employee #14
   Name: Andrew Chen
-  Grad: '17 | YoE: 8
+  Grad: '17 | YoE: 7
   Start Date: 2024-09
   Title: Engineer (Member Of The Technical Staff)
   Previous 1: Software Engineer, Product @ Plaid
@@ -144,7 +144,7 @@ Employee #14
 
 Employee #15
   Name: Noah Springwater
-  Grad: '15 | YoE: 10
+  Grad: '15 | YoE: 9
   Start Date: 2024-10
   Title: Sales (Sales)
   Previous 1: Enterprise Account Executive @ Retool
@@ -154,7 +154,7 @@ Employee #15
 
 Employee #16
   Name: Jacob Arnall
-  Grad: '15 | YoE: 10
+  Grad: '15 | YoE: 9
   Start Date: 2024-10
   Title: Head Of Talent (Head Of Talent)
   Previous 1: Talent @ Adept
@@ -164,7 +164,7 @@ Employee #16
 
 Employee #17
   Name: Gram Liu
-  Grad: '23 | YoE: 2
+  Grad: '23 | YoE: 1
   Start Date: 2024-10
   Title: Engineer (Member Of Technical Staff)
   Previous 1: Software Engineer Ii @ Stripe
@@ -174,7 +174,7 @@ Employee #17
 
 Employee #18
   Name: Viraj Maddur
-  Grad: '22 | YoE: 3
+  Grad: '22 | YoE: 2
   Start Date: 2024-10
   Title: Engineer (Member Of Technical Staff)
   Previous 1: Gardening Leave @ Headlands Technologies Llc
@@ -184,7 +184,7 @@ Employee #18
 
 Employee #19
   Name: Alexia Esquivel
-  Grad: '21 | YoE: 4
+  Grad: '21 | YoE: 3
   Start Date: 2024-10
   Title: Executive Assistant (Executive Assistant)
   Previous 1: Rupa University Program Manager @ Rupa Health
@@ -194,7 +194,7 @@ Employee #19
 
 Employee #20
   Name: Ryan Buick
-  Grad: '13 | YoE: 12
+  Grad: '13 | YoE: 11
   Start Date: 2024-12
   Title: Sales (Sales)
   Previous 1: Co-Founder And Head Of Gtm @ Canvas
@@ -204,7 +204,7 @@ Employee #20
 
 Employee #21
   Name: Joseph Grinstain
-  Grad: '16 | YoE: 9
+  Grad: '16 | YoE: 8
   Start Date: 2024-12
   Title: Sales (Sales Development Representative)
   Previous 1: Sales Development Representative @ Tropic
@@ -214,7 +214,7 @@ Employee #21
 
 Employee #22
   Name: Cyrus Miremadi
-  Grad: '20 | YoE: 5
+  Grad: '20 | YoE: 4
   Start Date: 2024-12
   Title: GTM (Enterprise Gtm Lead)
   Previous 1: Sales Lead @ Userclouds
@@ -224,7 +224,7 @@ Employee #22
 
 Employee #23
   Name: Christopher Chen
-  Grad: '17 | YoE: 8
+  Grad: '17 | YoE: 7
   Start Date: 2024-12
   Title: Engineer (Member Of Technical Staff)
   Previous 1: Software Engineer - Conversation Product @ Moveworks
@@ -234,7 +234,7 @@ Employee #23
 
 Employee #24
   Name: Allen Gu
-  Grad: '24 | YoE: 1
+  Grad: '24 | YoE: ?
   Start Date: 2024-12
   Title: Engineer (Member Of Technical Staff)
   Previous 1: Software Engineer Intern @ Scale Ai

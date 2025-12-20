@@ -462,20 +462,26 @@ def get_age(person, bachelors_year, yoe=None):
     # Priority 4: Fallback - assume 30 years old
     return 30, True
 
-def get_yoe(person, bachelors_year):
-    """Get years of experience from bachelor's graduation year, first job, or PDL estimate"""
+def get_yoe(person, bachelors_year, hire_year=None):
+    """Get years of experience at time of hiring from bachelor's graduation year, first job, or PDL estimate"""
+    # Use hire year if provided, otherwise fall back to current year
+    reference_year = hire_year if hire_year else CURRENT_YEAR
+    
     # Priority 1: Bachelor's graduation year
     if bachelors_year and isinstance(bachelors_year, int) and 1980 < bachelors_year < 2030:
-        return CURRENT_YEAR - bachelors_year
+        return max(0, reference_year - bachelors_year)
     
     # Priority 2: First job year (assume started working right after college)
     first_job_year = get_first_job_year(person)
     if first_job_year:
-        return CURRENT_YEAR - first_job_year
+        return max(0, reference_year - first_job_year)
     
-    # Priority 3: PDL's estimate
+    # Priority 3: PDL's estimate (this is already at current time, so adjust if we have hire year)
     yoe = person.get('inferred_years_experience')
     if yoe and isinstance(yoe, (int, float)):
+        if hire_year and hire_year < CURRENT_YEAR:
+            # Adjust PDL's estimate back to hire time
+            return max(0, int(yoe) - (CURRENT_YEAR - hire_year))
         return int(yoe)
     
     return None
@@ -572,7 +578,7 @@ def main():
         prev_company2 = prev_company2.title()
         edu_formatted, _ = get_education_formatted(emp)
         grad_year, grad_estimated = get_bachelors_grad_year(emp)
-        yoe = get_yoe(emp, grad_year)
+        yoe = get_yoe(emp, grad_year, start_date.year)  # Calculate YoE at time of hiring
         age, is_estimated = get_age(emp, grad_year, yoe)
         linkedin_url = get_linkedin_url(emp)
         start_str = start_date.strftime("%Y-%m")

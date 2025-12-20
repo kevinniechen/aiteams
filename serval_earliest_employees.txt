@@ -4,7 +4,7 @@ SERVAL - EARLIEST EMPLOYEES
 
 Employee #1
   Name: Jake Stauch
-  Grad: '12 | YoE: 13
+  Grad: '12 | YoE: 12
   Start Date: 2024-04
   Title: Founder & CEO (Founder And Chief Executive Officer)
   Previous 1: Director Of Product @ Verkada
@@ -14,7 +14,7 @@ Employee #1
 
 Employee #2
   Name: Alex Mcleod
-  Grad: '14 | YoE: 11
+  Grad: '14 | YoE: 10
   Start Date: 2024-04
   Title: Founder & CTO (Founder And Chief Technology Officer)
   Previous 1: Director Of Engineering, New Product @ Verkada
@@ -24,7 +24,7 @@ Employee #2
 
 Employee #3
   Name: Yogesh Mundada
-  Grad: '03 | YoE: 22
+  Grad: '03 | YoE: 21
   Start Date: 2024-08
   Title: Engineer (Founding Software Engineer)
   Previous 1: Software Engineer @ Meta
@@ -34,7 +34,7 @@ Employee #3
 
 Employee #4
   Name: Kaz Hishida
-  Grad: '22 | YoE: 3
+  Grad: '22 | YoE: 2
   Start Date: 2024-09
   Title: Founding Engineer (Founding Engineer)
   Previous 1: Founding Software Engineer @ Console
@@ -44,7 +44,7 @@ Employee #4
 
 Employee #5
   Name: Sebastien Lajeunesse-Degroot
-  Grad: '23 | YoE: 2
+  Grad: '23 | YoE: 1
   Start Date: 2024-10
   Title: Founding Engineer (Founding Engineer)
   Previous 1: Software Engineer @ Verkada
@@ -54,7 +54,7 @@ Employee #5
 
 Employee #6
   Name: Derrick Liu
-  Grad: '16 | YoE: 9
+  Grad: '16 | YoE: 8
   Start Date: 2024-11
   Title: Founding Engineer (Founding Engineer)
   Previous 1: Managing Member, Engineering And Operations @ Politics Rewired
@@ -64,7 +64,7 @@ Employee #6
 
 Employee #7
   Name: Meg Bell
-  Grad: '08 | YoE: 17
+  Grad: '08 | YoE: 16
   Start Date: 2024-12
   Title: Advisor (Advisor)
   Previous 1: Head Of Global Business Talent Acquisition @ Asana
@@ -96,7 +96,7 @@ Employee #10
   Name: Sounak Gupta
   Grad: '21 | YoE: 4
   Start Date: 2025-04
-  Title: Product (Founding Product Designer)
+  Title: Designer (Founding Product Designer)
   Previous 1: Product Design Lead @ Olympus
   Previous 2: Product Designer @ Vendra (Yc S24)
   Education: MS Design, Northwestern Univers '24

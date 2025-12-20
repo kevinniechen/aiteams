@@ -4,7 +4,7 @@ SIERRA - EARLIEST EMPLOYEES
 
 Employee #1
   Name: Bret Taylor
-  Grad: '02 | YoE: 23
+  Grad: '02 | YoE: 21
   Start Date: 2023-03
   Title: Co-Founder (Co-Founder)
   Previous 1: Co-Chief Executive Officer @ Salesforce
@@ -14,7 +14,7 @@ Employee #1
 
 Employee #2
   Name: Clay Bavor
-  Grad: '05 | YoE: 20
+  Grad: '05 | YoE: 18
   Start Date: 2023-03
   Title: Co-Founder (Co-Founder)
   Previous 1: Vice President, Labs @ Google
@@ -24,7 +24,7 @@ Employee #2
 
 Employee #3
   Name: Anna Rosenman
-  Grad: '06 | YoE: 19
+  Grad: '06 | YoE: 17
   Start Date: 2023-10
   Title: Marketing (Head Of Marketing)
   Previous 1: Chief Marketing Officer @ Automation Anywhere
@@ -34,7 +34,7 @@ Employee #3
 
 Employee #4
   Name: Patrick Linehan
-  Grad: '01 | YoE: 24
+  Grad: '01 | YoE: 22
   Start Date: 2023-10
   Title: Engineer (Engineer)
   Previous 1: Principal @ Z Fromulator
@@ -44,7 +44,7 @@ Employee #4
 
 Employee #5
   Name: Kevin Crain
-  Grad: '14 | YoE: 11
+  Grad: '14 | YoE: 9
   Start Date: 2023-11
   Title: Engineer (Agent Engineer)
   Previous 1: Software Engineer @ Salesforce Quip
@@ -54,7 +54,7 @@ Employee #5
 
 Employee #6
   Name: Kimberly Patron
-  Grad: '16 | YoE: 9
+  Grad: '16 | YoE: 7
   Start Date: 2023-11
   Title: Infra Engineer (Core Infrastructure Engineer)
   Previous 1: Staff Infrastructure Engineer @ Slack
@@ -64,7 +64,7 @@ Employee #6
 
 Employee #7
   Name: Elliot Greenwald
-  Grad: '07 | YoE: 18
+  Grad: '07 | YoE: 17
   Start Date: 2024-01
   Title: GTM (Head Of Gtm Operations)
   Previous 1: Senior Vice President, Self-Service And Growth @ Salesforce
@@ -74,7 +74,7 @@ Employee #7
 
 Employee #8
   Name: Natalie Meurer
-  Grad: '16 | YoE: 9
+  Grad: '16 | YoE: 8
   Start Date: 2024-01
   Title: Agent Engineering Lead (Agent Engineering Lead)
   Previous 1: Co-Founder And Chief Executive Officer @ Probably Something
@@ -84,7 +84,7 @@ Employee #8
 
 Employee #9
   Name: Yidong Hu
-  Grad: '20 | YoE: 5
+  Grad: '20 | YoE: 4
   Start Date: 2024-01
   Title: PM (Product Manager)
   Previous 1: Product Manager @ Google
@@ -94,7 +94,7 @@ Employee #9
 
 Employee #10
   Name: Reggie Marable
-  Grad: '95 | YoE: 30
+  Grad: '95 | YoE: 29
   Start Date: 2024-01
   Title: Sales (Head Of Sales)
   Previous 1: Head Of Sales - North America @ Slack
@@ -104,7 +104,7 @@ Employee #10
 
 Employee #11
   Name: April Chang
-  Grad: '15 | YoE: 10
+  Grad: '15 | YoE: 9
   Start Date: 2024-01
   Title: Talent Acquisition (Talent Acquisition)
   Previous 1: Technical Sourcing Recruiter @ Airtable
@@ -114,7 +114,7 @@ Employee #11
 
 Employee #12
   Name: Danny Lee
-  Grad: '21 | YoE: 4
+  Grad: '21 | YoE: 3
   Start Date: 2024-01
   Title: Engineer (Agent Engineer)
   Previous 1: Software Engineer @ Meta
@@ -124,7 +124,7 @@ Employee #12
 
 Employee #13
   Name: Greg Snyder
-  Grad: '15 | YoE: 10
+  Grad: '15 | YoE: 9
   Start Date: 2024-02
   Title: Founding Recruiter (Founding Recruiter)
   Previous 1: Talent @ First Round Capital
@@ -134,7 +134,7 @@ Employee #13
 
 Employee #14
   Name: Beth Nakamura
-  Grad: '15 | YoE: 10
+  Grad: '15 | YoE: 9
   Start Date: 2024-02
   Title: Agent Engineering Lead (Agent Engineering Lead)
   Previous 1: Co-Founder @ Probably Something
@@ -144,7 +144,7 @@ Employee #14
 
 Employee #15
   Name: Andrew Timmons
-  Grad: '08 | YoE: 17
+  Grad: '08 | YoE: 16
   Start Date: 2024-03
   Title: Engineer (Software Engineer)
   Previous 1: Staff Software Engineer @ Slack
@@ -154,7 +154,7 @@ Employee #15
 
 Employee #16
   Name: Bhavish Gummadi
-  Grad: '17 | YoE: 8
+  Grad: '17 | YoE: 7
   Start Date: 2024-03
   Title: PM (Product Manager)
   Previous 1: Product Manager @ Google
@@ -164,7 +164,7 @@ Employee #16
 
 Employee #17
   Name: Jesse Gortarez
-  Grad: '06 | YoE: 19
+  Grad: '06 | YoE: 18
   Start Date: 2024-04
   Title: Engineer (Web Developer)
   Previous 1: Lead User Interface Engineer @ Okta
@@ -174,7 +174,7 @@ Employee #17
 
 Employee #18
   Name: Gary Tsang
-  Grad: '06 | YoE: 19
+  Grad: '06 | YoE: 18
   Start Date: 2024-04
   Title: Engineer (Engineer)
   Previous 1: Technical Lead @ Color
@@ -184,7 +184,7 @@ Employee #18
 
 Employee #19
   Name: Pol Peiffer
-  Grad: '17 | YoE: 8
+  Grad: '17 | YoE: 7
   Start Date: 2024-04
   Title: Head Of Agent Development (Head Of Agent Development)
   Previous 1: Product Manager @ Google
@@ -194,7 +194,7 @@ Employee #19
 
 Employee #20
   Name: Ally Johnston
-  Grad: '10 | YoE: 15
+  Grad: '10 | YoE: 14
   Start Date: 2024-05
   Title: Product (Product Marketing Lead)
   Previous 1: Senior Vice President Marketing, Tableau @ Salesforce
@@ -204,7 +204,7 @@ Employee #20
 
 Employee #21
   Name: Alex Cebrian
-  Grad: '06 | YoE: 19
+  Grad: '06 | YoE: 18
   Start Date: 2024-06
   Title: Engineer (Software Engineer)
   Previous 1: Engineering Manager @ Slack
@@ -214,7 +214,7 @@ Employee #21
 
 Employee #22
   Name: Leigh Wafer
-  Grad: '13 | YoE: 12
+  Grad: '13 | YoE: 11
   Start Date: 2024-06
   Title: Director (Sales Director)
   Previous 1: Senior Account Executive, Large Enterprise @ Slack
@@ -224,7 +224,7 @@ Employee #22
 
 Employee #23
   Name: Nittai Malchin
-  Grad: '15 | YoE: 10
+  Grad: '15 | YoE: 9
   Start Date: 2024-07
   Title: Operations (Business Operations)
   Previous 1: Head Of Strategy & Operations @ Rewatch
@@ -234,7 +234,7 @@ Employee #23
 
 Employee #24
   Name: Michan Hardy
-  Grad: '11 | YoE: 14
+  Grad: '11 | YoE: 13
   Start Date: 2024-07
   Title: Recruiting Programs Manager (Recruiting Programs Manager)
   Previous 1: People Operations Lead, Diversity Programs & Experiences @ Meta
@@ -244,7 +244,7 @@ Employee #24
 
 Employee #25
   Name: Wayne Fan
-  Grad: '06 | YoE: 19
+  Grad: '06 | YoE: 18
   Start Date: 2024-07
   Title: Designer (Designer)
   Previous 1: Designer, Founder @ Balsa
@@ -254,7 +254,7 @@ Employee #25
 
 Employee #26
   Name: Stephan Zuercher
-  Grad: '95 | YoE: 30
+  Grad: '95 | YoE: 29
   Start Date: 2024-07
   Title: Engineer (Engineer)
   Previous 1: Software Engineer @ Turbine Labs, Inc
@@ -263,7 +263,7 @@ Employee #26
 
 Employee #27
   Name: Manan Nayak
-  Grad: '11 | YoE: 14
+  Grad: '11 | YoE: 13
   Start Date: 2024-07
   Title: Engineer (Software Engineer)
   Previous 1: Software Engineer @ Airtable
@@ -273,7 +273,7 @@ Employee #27
 
 Employee #28
   Name: Nishita J
-  Grad: '20 | YoE: 5
+  Grad: '20 | YoE: 4
   Start Date: 2024-07
   Title: PM (Product Manager)
   Previous 1: Product Manager @ Cointracker
@@ -283,7 +283,7 @@ Employee #28
 
 Employee #29
   Name: Stephan Zuercher
-  Grad: '11 | YoE: 14
+  Grad: '11 | YoE: 13
   Start Date: 2024-07
   Title: Engineer (Engineer)
   Previous 1: Senior Staff Software Engineer @ Salesforce
@@ -293,7 +293,7 @@ Employee #29
 
 Employee #30
   Name: Vijay Edupuganti
-  Grad: '18 | YoE: 7
+  Grad: '18 | YoE: 6
   Start Date: 2024-08
   Title: Agent Engineering (Agent Engineering)
   Previous 1: Summer Associate @ Bain Capital Ventures
@@ -303,7 +303,7 @@ Employee #30
 
 Employee #31
   Name: Shaun Livingston
-  Grad: '16 | YoE: 9
+  Grad: '16 | YoE: 8
   Start Date: 2024-08
   Title: Engineer (Agent Engineer)
   Previous 1: Software Engineer - Ai / Ml @ Lemos
@@ -313,7 +313,7 @@ Employee #31
 
 Employee #32
   Name: Karthik Thiyagarajan
-  Grad: '08 | YoE: 17
+  Grad: '08 | YoE: 16
   Start Date: 2024-08
   Title: Engineering (Engineering)
   Previous 1: Co-Founder & Chief Technology Officer @ Lasso Labs
@@ -323,7 +323,7 @@ Employee #32
 
 Employee #33
   Name: William Schwarzenbach
-  Grad: '09 | YoE: 16
+  Grad: '09 | YoE: 15
   Start Date: 2024-09
   Title: Engineer (Engineer)
   Previous 1: Staff Software Engineer @ Cash App
@@ -333,7 +333,7 @@ Employee #33
 
 Employee #34
   Name: Kevin Ingelman
-  Grad: '04 | YoE: 21
+  Grad: '04 | YoE: 20
   Start Date: 2024-09
   Title: Engineer (Engineer)
   Previous 1: Software Engineer @ Buoyant
@@ -343,7 +343,7 @@ Employee #34
 
 Employee #35
   Name: Alex Avery
-  Grad: '12 | YoE: 13
+  Grad: '12 | YoE: 12
   Start Date: 2024-09
   Title: PM (Product Manager)
   Previous 1: Founder @ Mainstreet Ai
@@ -353,7 +353,7 @@ Employee #35
 
 Employee #36
   Name: Tess Rosania
-  Grad: '05 | YoE: 20
+  Grad: '05 | YoE: 19
   Start Date: 2024-09
   Title: Engineer (Software Engineer)
   Previous 1: Director Of Product Management @ Airtable
@@ -363,7 +363,7 @@ Employee #36
 
 Employee #37
   Name: Jenna Satterfield
-  Grad: '10 | YoE: 15
+  Grad: '10 | YoE: 14
   Start Date: 2024-09
   Title: Recruiting Programs (Recruiting Programs)
   Previous 1: Career Coach @ Formation
@@ -373,7 +373,7 @@ Employee #37
 
 Employee #38
   Name: Vijay Iyengar
-  Grad: '14 | YoE: 11
+  Grad: '14 | YoE: 10
   Start Date: 2024-10
   Title: Engineering Lead (Engineering Lead)
   Previous 1: Senior Director Of Product @ Mixpanel
@@ -383,7 +383,7 @@ Employee #38
 
 Employee #39
   Name: Stacy Kim
-  Grad: '12 | YoE: 13
+  Grad: '12 | YoE: 12
   Start Date: 2024-10
   Title: Operations (Recruiting Operations Manager)
   Previous 1: Program Manager, Recruiting Operations & Leadership Recruiting @ Stripe
@@ -393,7 +393,7 @@ Employee #39
 
 Employee #40
   Name: Chetan Sastry
-  Grad: '01 | YoE: 24
+  Grad: '01 | YoE: 23
   Start Date: 2024-10
   Title: Engineer (Software Engineer)
   Previous 1: Staff Software Engineer @ Uber
@@ -403,7 +403,7 @@ Employee #40
 
 Employee #41
   Name: Rohith Ravi
-  Grad: '07 | YoE: 18
+  Grad: '07 | YoE: 17
   Start Date: 2024-10
   Title: Engineer (Software Engineer)
   Previous 1: Engineering Manager @ Clipboard
@@ -413,7 +413,7 @@ Employee #41
 
 Employee #42
   Name: Arup Malakar
-  Grad: '06 | YoE: 19
+  Grad: '06 | YoE: 18
   Start Date: 2024-10
   Title: Engineer (Software Engineer)
   Previous 1: Principal Engineer @ Lyft
@@ -423,7 +423,7 @@ Employee #42
 
 Employee #43
   Name: Ajeet Grewal
-  Grad: '03 | YoE: 22
+  Grad: '03 | YoE: 21
   Start Date: 2024-10
   Title: Engineer (Engineer)
   Previous 1: Chief Executive Officer And Co-Founder @ Receptive Ai
@@ -433,7 +433,7 @@ Employee #43
 
 Employee #44
   Name: Venu Satuluri
-  Grad: '05 | YoE: 20
+  Grad: '05 | YoE: 19
   Start Date: 2024-10
   Title: Engineer (Engineer)
   Previous 1: Co-Founder @ Receptive Ai
@@ -443,7 +443,7 @@ Employee #44
 
 Employee #45
   Name: Catherine Ma
-  Grad: '18 | YoE: 7
+  Grad: '18 | YoE: 6
   Start Date: 2024-10
   Title: Engineer (Agent Engineer)
   Previous 1: Engineering Manager @ Scale Ai
@@ -453,7 +453,7 @@ Employee #45
 
 Employee #46
   Name: Michelle Carr
-  Grad: '14 | YoE: 11
+  Grad: '14 | YoE: 10
   Start Date: 2024-10
   Title: Talent (Talent)
   Previous 1: Head Of Business And Product Recruiting @ Cash App
@@ -463,7 +463,7 @@ Employee #46
 
 Employee #47
   Name: Jake Donham
-  Grad: '94 | YoE: 31
+  Grad: '94 | YoE: 30
   Start Date: 2024-10
   Title: Engineer (Engineer)
   Previous 1: Principal Research Engineer @ Github
@@ -473,7 +473,7 @@ Employee #47
 
 Employee #48
   Name: Dongxu Zhou
-  Grad: '07 | YoE: 18
+  Grad: '07 | YoE: 17
   Start Date: 2024-10
   Title: Engineer (Research Engineer)
   Previous 1: Chief Technology Officer @ Glint
@@ -483,7 +483,7 @@ Employee #48
 
 Employee #49
   Name: Victor Barres
-  Grad: '03 | YoE: 22
+  Grad: '03 | YoE: 21
   Start Date: 2024-10
   Title: Researcher (Researcher)
   Previous 1: Senior Researcher (Nlp) @ Elemental Cognition
@@ -493,7 +493,7 @@ Employee #49
 
 Employee #50
   Name: Jonathan Xu
-  Grad: '18 | YoE: 7
+  Grad: '18 | YoE: 6
   Start Date: 2024-10
   Title: GTM (Gtm Operations)
   Previous 1: Vice President @ Coatue Management
@@ -503,7 +503,7 @@ Employee #50
 
 Employee #51
   Name: Melanie Picardo
-  Grad: '17 | YoE: 8
+  Grad: '17 | YoE: 7
   Start Date: 2024-11
   Title: Designer (Brand Designer)
   Previous 1: Senior Designer @ Square
@@ -513,7 +513,7 @@ Employee #51
 
 Employee #52
   Name: Emily Gebru
-  Grad: '11 | YoE: 14
+  Grad: '11 | YoE: 13
   Start Date: 2024-11
   Title: Marketing (Integrated Marketing + Campaigns Lead)
   Previous 1: Group Manager, Campaign Marketing @ Zendesk
@@ -523,7 +523,7 @@ Employee #52
 
 Employee #53
   Name: Jordeen Chang
-  Grad: '14 | YoE: 11
+  Grad: '14 | YoE: 10
   Start Date: 2024-11
   Title: Engineer (Agent Engineer)
   Previous 1: Staff Software Engineer @ Speccheck (Yc W23)
@@ -533,7 +533,7 @@ Employee #53
 
 Employee #54
   Name: Krishna Bharathala
-  Grad: '18 | YoE: 7
+  Grad: '18 | YoE: 6
   Start Date: 2024-11
   Title: PM (Product Manager)
   Previous 1: Member @ South Park Commons
@@ -543,7 +543,7 @@ Employee #54
 
 Employee #55
   Name: Neil Rahilly
-  Grad: '04 | YoE: 21
+  Grad: '04 | YoE: 20
   Start Date: 2024-11
   Title: Engineering Lead (Engineering Lead)
   Previous 1: Vice President Product, Design, Support, And Customer Success @ Mixpanel
@@ -553,7 +553,7 @@ Employee #55
 
 Employee #56
   Name: Junko Maegawa
-  Grad: '04 | YoE: 21
+  Grad: '04 | YoE: 20
   Start Date: 2024-11
   Title: Designer (Designer)
   Previous 1: Creative Director @ Google
@@ -563,7 +563,7 @@ Employee #56
 
 Employee #57
   Name: Akhila Chitiprolu
-  Grad: '10 | YoE: 15
+  Grad: '10 | YoE: 14
   Start Date: 2024-11
   Title: Head Of Security Grc (Head Of Security Grc)
   Previous 1: Head Of Technology Governance, Risk And Compliance @ Stripe
@@ -573,7 +573,7 @@ Employee #57
 
 Employee #58
   Name: David Wang
-  Grad: '12 | YoE: 13
+  Grad: '12 | YoE: 12
   Start Date: 2024-11
   Title: Engineer (Agent Engineer)
   Previous 1: Generative Ai, Strategic Projects Lead @ Scale Ai
@@ -583,7 +583,7 @@ Employee #58
 
 Employee #59
   Name: Jackie Cai
-  Grad: '15 | YoE: 10
+  Grad: '15 | YoE: 9
   Start Date: 2024-11
   Title: Executive Assistant (Executive Assistant)
   Previous 1: Executive Assistant To Chief Executive Officer & Managing Director, Hemant Taneja @ General Catalyst
@@ -593,7 +593,7 @@ Employee #59
 
 Employee #60
   Name: Kumar Pandya
-  Grad: '12 | YoE: 13
+  Grad: '12 | YoE: 12
   Start Date: 2024-11
   Title: Engineer (Software Engineer)
   Previous 1: Engineering Manager @ Apple
@@ -603,7 +603,7 @@ Employee #60
 
 Employee #61
   Name: Saagar Godithi
-  Grad: '21 | YoE: 4
+  Grad: '21 | YoE: 3
   Start Date: 2024-11
   Title: Engineer (Engineer)
   Previous 1: Ai Product Engineer @ Tome
@@ -613,7 +613,7 @@ Employee #61
 
 Employee #62
   Name: Rishabh Nair
-  Grad: '20 | YoE: 5
+  Grad: '20 | YoE: 4
   Start Date: 2024-11
   Title: Engineer (Enterprise Sales Engineer)
   Previous 1: Senior Solutions Engineer @ Segment
@@ -623,7 +623,7 @@ Employee #62
 
 Employee #63
   Name: Cristen Ho
-  Grad: '18 | YoE: 7
+  Grad: '18 | YoE: 6
   Start Date: 2024-11
   Title: Engineer (Agent Engineer)
   Previous 1: Software Engineer @ Thriveai
@@ -633,7 +633,7 @@ Employee #63
 
 Employee #64
   Name: Caitlyn C
-  Grad: '21 | YoE: 4
+  Grad: '21 | YoE: 3
   Start Date: 2024-11
   Title: Engineer (Engineer)
   Previous 1: Software Engineer @ Retool
@@ -643,7 +643,7 @@ Employee #64
 
 Employee #65
   Name: Luis C
-  Grad: '21 | YoE: 4
+  Grad: '21 | YoE: 3
   Start Date: 2024-11
   Title: Engineer (Agent Engineer)
   Previous 1: Software Engineer @ Tome
@@ -653,7 +653,7 @@ Employee #65
 
 Employee #66
   Name: Ben Dong
-  Grad: '13 | YoE: 12
+  Grad: '13 | YoE: 11
   Start Date: 2024-12
   Title: Engineer (Software Engineer)
   Previous 1: Senior Software Engineer @ Stripe
@@ -663,7 +663,7 @@ Employee #66
 
 Employee #67
   Name: Cody Krainock
-  Grad: '12 | YoE: 13
+  Grad: '12 | YoE: 12
   Start Date: 2024-12
   Title: Engineer (Engineer)
   Previous 1: Engineer @ Loop
@@ -673,7 +673,7 @@ Employee #67
 
 Employee #68
   Name: Julia Buchholz
-  Grad: '21 | YoE: 4
+  Grad: '21 | YoE: 3
   Start Date: 2024-12
   Title: Operations (Business Operations)
   Previous 1: Engagement Manager @ Mckinsey & Company
@@ -683,7 +683,7 @@ Employee #68
 
 Employee #69
   Name: Raluca Musaloiu-E
-  Grad: '03 | YoE: 22
+  Grad: '03 | YoE: 21
   Start Date: 2024-12
   Title: Engineer (Engineer)
   Previous 1: Software Engineer, Cruise Ai @ Cruise
@@ -693,7 +693,7 @@ Employee #69
 
 Employee #70
   Name: Laura Ludwig
-  Grad: '17 | YoE: 8
+  Grad: '17 | YoE: 7
   Start Date: 2024-12
   Title: Office Manager (Office Manager)
   Previous 1: Congressional Aide @ U.S. House Of Representatives

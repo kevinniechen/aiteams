@@ -835,17 +835,18 @@
         }
         
         function inferYoE(employee) {
-            // If YoE is provided and valid, use it
+            // If YoE is provided and valid, use it (already calculated at hire time by process_employees.py)
             if (employee.yoe != null && employee.yoe !== '?' && !isNaN(parseInt(employee.yoe))) {
                 return Math.max(0, parseInt(employee.yoe));
             }
-            // Otherwise infer from graduation year (assume graduate at 22)
+            // Otherwise infer from graduation year at time of hiring (not current date)
             const gradYear = employee.grad_year || getGradYear(employee.education);
             if (gradYear && gradYear !== '?') {
                 const yearNum = parseInt(gradYear.replace("'", ""));
                 const fullYear = yearNum > 50 ? 1900 + yearNum : 2000 + yearNum;
-                const currentYear = new Date().getFullYear();
-                return Math.max(0, currentYear - fullYear);
+                // Use hire date year, not current year
+                const hireYear = employee.start_date ? parseInt(employee.start_date.split('-')[0]) : new Date().getFullYear();
+                return Math.max(0, hireYear - fullYear);
             }
             return '?';
         }

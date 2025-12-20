@@ -4,7 +4,7 @@ ELEVENLABS - EARLIEST EMPLOYEES
 
 Employee #1
   Name: Mati Staniszewski
-  Grad: '17 | YoE: 8
+  Grad: '17 | YoE: 5
   Start Date: 2022-01
   Title: Co-Founder (Co-Founder)
   Previous 1: Deployment Strategist @ Palantir Technologies
@@ -14,7 +14,7 @@ Employee #1
 
 Employee #2
   Name: Piotr Dabkowski
-  Grad: '16 | YoE: 9
+  Grad: '16 | YoE: 6
   Start Date: 2022-01
   Title: Co-Founder (Co-Founder)
   Previous 1: Software Engineer @ Google
@@ -24,7 +24,7 @@ Employee #2
 
 Employee #3
   Name: Ignaz Kowalczuk
-  Grad: '16 | YoE: 9
+  Grad: '16 | YoE: 6
   Start Date: 2022-06
   Title: Communications (Communications)
   Previous 1: Production @ Papaya Films
@@ -34,7 +34,7 @@ Employee #3
 
 Employee #4
   Name: Carles Reina
-  Grad: '12 | YoE: 13
+  Grad: '12 | YoE: 10
   Start Date: 2022-07
   Title: GTM (Gtm)
   Previous 1: Venture Partner @ Concept Ventures
@@ -44,7 +44,7 @@ Employee #4
 
 Employee #5
   Name: Michael Cox
-  Grad: '16 | YoE: 9
+  Grad: '16 | YoE: 6
   Start Date: 2022-09
   Title: Fullstack Engineer (Ai & Full Stack Software Engineer)
   Previous 1: Full Stack Ai Developer @ Plego Packaging
@@ -54,7 +54,7 @@ Employee #5
 
 Employee #6
   Name: Flavio Schneider
-  Grad: '20 | YoE: 5
+  Grad: '20 | YoE: 3
   Start Date: 2023-03
   Title: Research (Research)
   Previous 1: Military Service @ Swiss Armed Forces
@@ -64,7 +64,7 @@ Employee #6
 
 Employee #7
   Name: Steven Glover
-  Grad: '15 | YoE: 10
+  Grad: '15 | YoE: 8
   Start Date: 2023-03
   Title: Researcher (Artificial Intelligence Researcher)
   Previous 1: Artificial Intelligence Engineer @ Fpt.Ai
@@ -74,7 +74,7 @@ Employee #7
 
 Employee #8
   Name: Kevin Chu
-  Grad: '14 | YoE: 11
+  Grad: '14 | YoE: 9
   Start Date: 2023-05
   Title: Operations (Operations Engineering)
   Previous 1: Deployment Strategist @ Palantir Technologies
@@ -84,7 +84,7 @@ Employee #8
 
 Employee #9
   Name: Fermín Castañeiras
-  Grad: '20 | YoE: 5
+  Grad: '20 | YoE: 3
   Start Date: 2023-06
   Title: Especialista En Pruebas De Acc (Especialista En Pruebas De Accesibilidad)
   Previous 1: Probador De Videojuegos @ Lo-Fi People
@@ -94,7 +94,7 @@ Employee #9
 
 Employee #10
   Name: Stefan Lang
-  Grad: '16 | YoE: 9
+  Grad: '16 | YoE: 7
   Start Date: 2023-07
   Title: Fullstack Engineer (Ai Full Stack Engineer)
   Previous 1: Ai Full Stack Software Developer @ Brocoders | On-Demand Technical Team
@@ -104,7 +104,7 @@ Employee #10
 
 Employee #11
   Name: Jerimah Helig
-  Grad: '16 | YoE: 9
+  Grad: '16 | YoE: 7
   Start Date: 2023-08
   Title: Support Specialist (Support Specialist)
   Previous 1: Senior Technical Support Specialist @ Kajabi
@@ -114,7 +114,7 @@ Employee #11
 
 Employee #12
   Name: Lucas Desiderio
-  Grad: '12 | YoE: 13
+  Grad: '12 | YoE: 11
   Start Date: 2023-09
   Title: GTM (Founding Gtm)
   Previous 1: Sales Emea @ Notion
@@ -124,7 +124,7 @@ Employee #12
 
 Employee #13
   Name: Alexander Holt
-  Grad: '16 | YoE: 9
+  Grad: '16 | YoE: 7
   Start Date: 2023-09
   Title: Engineering (Engineering)
   Previous 1: Uk Health Lead @ Palantir Technologies
@@ -134,7 +134,7 @@ Employee #13
 
 Employee #14
   Name: Dustin Blank
-  Grad: '09 | YoE: 16
+  Grad: '09 | YoE: 14
   Start Date: 2023-10
   Title: Partnerships (Partnerships)
   Previous 1: Head Of Creator Partnerships And Investments @ Creative Juice
@@ -144,7 +144,7 @@ Employee #14
 
 Employee #15
   Name: Dalton Pakkala
-  Grad: '19 | YoE: 6
+  Grad: '19 | YoE: 4
   Start Date: 2023-10
   Title: GTM (Gtm)
   Previous 1: Gtm - Data Engine & Generative Ai @ Scale Ai
@@ -154,7 +154,7 @@ Employee #15
 
 Employee #16
   Name: Maciej Mylik
-  Grad: '16 | YoE: 9
+  Grad: '16 | YoE: 7
   Start Date: 2023-10
   Title: Finance & Revops (Finance & Revops)
   Previous 1: Business Transformation Senior Manager @ Ciech Group
@@ -164,7 +164,7 @@ Employee #16
 
 Employee #17
   Name: Luke Harries
-  Grad: '17 | YoE: 8
+  Grad: '17 | YoE: 6
   Start Date: 2023-11
   Title: Growth (Growth)
   Previous 1: Special Projects (Interim) @ Stealth Startup
@@ -174,7 +174,7 @@ Employee #17
 
 Employee #18
   Name: Emilie Drishinski
-  Grad: '16 | YoE: 9
+  Grad: '16 | YoE: 7
   Start Date: 2023-12
   Title: GTM (Gtm)
   Previous 1: Senior Enterprise Account Executive @ Attain
@@ -184,7 +184,7 @@ Employee #18
 
 Employee #19
   Name: Mark Seidl
-  Grad: '10 | YoE: 15
+  Grad: '10 | YoE: 13
   Start Date: 2023-12
   Title: Data Engineer (Voices And Data)
   Previous 1: Administration @ Bodyworks Physiotherapy & Sports Medicine Clinic

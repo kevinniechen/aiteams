@@ -4,7 +4,7 @@ BRAINCO - EARLIEST EMPLOYEES
 
 Employee #1
   Name: Eric Han
-  Grad: '16 | YoE: 9
+  Grad: '16 | YoE: 8
   Start Date: 2024-01
   Title: Private Equity (Private Equity)
   Previous 1: Director Of Operations @ Rithum
@@ -14,7 +14,7 @@ Employee #1
 
 Employee #2
   Name: Dan Ashton
-  Grad: '12 | YoE: 13
+  Grad: '12 | YoE: 12
   Start Date: 2024-01
   Title: Co-Founder & President (Co-Founder & President)
   Previous 1: Co-Founder & Chief Executive Officer (Acquired) @ Serene Ai
@@ -24,7 +24,7 @@ Employee #2
 
 Employee #3
   Name: Shawn Sprockett
-  Grad: '08 | YoE: 17
+  Grad: '08 | YoE: 16
   Start Date: 2024-01
   Title: Design (Head Of Design)
   Previous 1: Senior Adjunct Professor @ California College Of The Arts
@@ -34,7 +34,7 @@ Employee #3
 
 Employee #4
   Name: Vilmos Nebehaj
-  Grad: '02 | YoE: 23
+  Grad: '02 | YoE: 22
   Start Date: 2024-09
   Title: Founding Engineer (Founding Engineer)
   Previous 1: Staff Software Engineer @ Sprig
@@ -44,7 +44,7 @@ Employee #4
 
 Employee #5
   Name: Mircea Pașoi
-  Grad: '09 | YoE: 16
+  Grad: '09 | YoE: 15
   Start Date: 2024-10
   Title: Co-Founder (Co-Founder & Head Of Engineering)
   Previous 1: Co-Founder & Chief Technology Officer (Acquired) @ Serene Ai
@@ -54,7 +54,7 @@ Employee #5
 
 Employee #6
   Name: Revant Kapoor
-  Grad: '10 | YoE: 15
+  Grad: '10 | YoE: 14
   Start Date: 2024-10
   Title: Co-Founder (Co-Founder & Ai / Ml)
   Previous 1: Co-Founder & Chief Technology Officer (Acquired) @ Serene Ai
@@ -64,7 +64,7 @@ Employee #6
 
 Employee #7
   Name: Mohammad Almalkawi
-  Grad: '06 | YoE: 19
+  Grad: '06 | YoE: 18
   Start Date: 2024-10
   Title: Head Of Engineering Initiative (Head Of Engineering Initiatives)
   Previous 1: Chief Technology Officer @ Clubhouse
@@ -74,7 +74,7 @@ Employee #7
 
 Employee #8
   Name: Zachary Benamram
-  Grad: '13 | YoE: 12
+  Grad: '13 | YoE: 11
   Start Date: 2024-10
   Title: Founding Engineer (Founding Engineer)
   Previous 1: Founding Engineer @ Supergood
@@ -84,7 +84,7 @@ Employee #8
 
 Employee #9
   Name: Alex Buicescu
-  Grad: '16 | YoE: 9
+  Grad: '16 | YoE: 8
   Start Date: 2024-10
   Title: AI Engineer (Ai Engineer)
   Previous 1: Technical Architect @ Warden Global
@@ -94,7 +94,7 @@ Employee #9
 
 Employee #10
   Name: Sibon Li
-  Grad: '05 | YoE: 20
+  Grad: '05 | YoE: 19
   Start Date: 2024-11
   Title: Research Scientist (Research Scientist)
   Previous 1: Staff Research Engineer @ Google Deepmind
@@ -104,7 +104,7 @@ Employee #10
 
 Employee #11
   Name: Cece Zhang
-  Grad: '10 | YoE: 15
+  Grad: '10 | YoE: 14
   Start Date: 2024-11
   Title: Founding Engineer (Founding Engineer)
   Previous 1: Member Of Technical Staff @ Harvey
@@ -114,7 +114,7 @@ Employee #11
 
 Employee #12
   Name: Vishnu Doppalapudi
-  Grad: '20 | YoE: 5
+  Grad: '20 | YoE: 4
   Start Date: 2024-12
   Title: Founding Engineer (Founding Engineer)
   Previous 1: Senior Machine Learning Engineer @ Anduril Industries

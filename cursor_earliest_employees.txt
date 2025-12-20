@@ -4,7 +4,7 @@ CURSOR - EARLIEST EMPLOYEES
 
 Employee #1
   Name: Michael T
-  Grad: '21 | YoE: 4
+  Grad: '21 | YoE: 1
   Start Date: 2022-01
   Title: Co-Founder & CEO (Co-Founder & Chief Executive Officer)
   Previous 1: Intern @ Octant
@@ -14,7 +14,7 @@ Employee #1
 
 Employee #2
   Name: Rishabh Y
-  Grad: '19 | YoE: 6
+  Grad: '19 | YoE: 4
   Start Date: 2023-10
   Title: Founding Engineer (Founding Engineer)
   Previous 1: Founding Engineer @ Bounti.Ai
@@ -23,16 +23,6 @@ Employee #2
   LinkedIn: https://linkedin.com/in/rishabh-y-6abb40ab
 
 Employee #3
-  Name: Federico Cassano
-  Grad: '24 | YoE: 1
-  Start Date: 2023-12
-  Title: Research Scientist (Research Scientist)
-  Previous 1: Machine Learning Research Engineer Intern @ Scale Ai
-  Previous 2: Research Intern @ Roblox
-  Education: BS Cybersecurity, Northeastern Univers '24
-  LinkedIn: https://linkedin.com/in/federicocassano
-
-Employee #4
   Name: Shaoru Huang
   Grad: '25 | YoE: ?
   Start Date: 2024-01
@@ -42,9 +32,9 @@ Employee #4
   Education: BS CE, UIUC '25
   LinkedIn: https://linkedin.com/in/shaoruu
 
-Employee #5
+Employee #4
   Name: Jordan Topoleski
-  Grad: '17 | YoE: 8
+  Grad: '17 | YoE: 7
   Start Date: 2024-01
   Title: COO (Chief Operating Officer)
   Previous 1: Co-Founder @ Startup
@@ -52,9 +42,9 @@ Employee #5
   Education: BA History, Harvard '17
   LinkedIn: https://linkedin.com/in/jtopoleski
 
-Employee #6
+Employee #5
   Name: Phillip Kravtsov
-  Grad: '20 | YoE: 5
+  Grad: '20 | YoE: 4
   Start Date: 2024-02
   Title: Founding Engineer (Founding Engineer And Researcher)
   Previous 1: Software Engineer @ Trucksmarter
@@ -62,9 +52,9 @@ Employee #6
   Education: BS CS, UC Berkeley '20
   LinkedIn: https://linkedin.com/in/phillip-kravtsov-abab69148
 
-Employee #7
+Employee #6
   Name: Adam Hofmann
-  Grad: '20 | YoE: 5
+  Grad: '20 | YoE: 4
   Start Date: 2024-04
   Title: Engineer (Software Engineer)
   Previous 1: Senior Software Consultant & Project Lead @ Hypotenuse Labs
@@ -72,15 +62,25 @@ Employee #7
   Education: BS CS, University Of Waterl '20
   LinkedIn: https://linkedin.com/in/adam-hofmann-507b20113
 
-Employee #8
+Employee #7
   Name: Luke Melas-Kyriazi
-  Grad: '20 | YoE: 5
+  Grad: '20 | YoE: 4
   Start Date: 2024-07
   Title: ML Engineer (Ml)
   Previous 1: Visiting Research Scientist @ Meta
   Previous 2: Machine Learning Engineer Intern @ Forethought
   Education: PhD CS, University Of Oxford '24
   LinkedIn: https://linkedin.com/in/lukemelas
+
+Employee #8
+  Name: Federico Cassano
+  Grad: '24 | YoE: ?
+  Start Date: 2024-07
+  Title: Research Scientist (Research Scientist)
+  Previous 1: Machine Learning Research Engineer Intern @ Scale Ai
+  Previous 2: Contractor - Researcher @ Anysphere
+  Education: BS Cybersecurity, Northeastern Univers '24
+  LinkedIn: https://linkedin.com/in/federicocassano
 
 Employee #9
   Name: Baltazar Ruiz
@@ -94,7 +94,7 @@ Employee #9
 
 Employee #10
   Name: Zack Holbrook
-  Grad: '20 | YoE: 5
+  Grad: '20 | YoE: 4
   Start Date: 2024-08
   Title: Engineer (Software Engineer)
   Previous 1: Software Engineer @ Plaid
@@ -104,7 +104,7 @@ Employee #10
 
 Employee #11
   Name: Jacob Jackson
-  Grad: '19 | YoE: 6
+  Grad: '19 | YoE: 5
   Start Date: 2024-10
   Title: Research (Research)
   Previous 1: Founder @ Supermaven
@@ -114,7 +114,7 @@ Employee #11
 
 Employee #12
   Name: Roman Ugarte
-  Grad: '24 | YoE: 1
+  Grad: '24 | YoE: ?
   Start Date: 2024-11
   Title: GTM (Head Of Gtm Engineering)
   Previous 1: Product Lead @ Point72 Private Investments
@@ -124,7 +124,7 @@ Employee #12
 
 Employee #13
   Name: Michael Feldstein
-  Grad: '07 | YoE: 18
+  Grad: '07 | YoE: 17
   Start Date: 2024-12
   Title: Staff Engineer (Senior Staff Engineer)
   Previous 1: Staff Engineer @ Figma
@@ -134,7 +134,7 @@ Employee #13
 
 Employee #14
   Name: Ravi Rahman
-  Grad: '21 | YoE: 4
+  Grad: '21 | YoE: 3
   Start Date: 2024-12
   Title: Engineer (Software Engineer)
   Previous 1: Software Engineer @ Chalk
@@ -144,7 +144,7 @@ Employee #14
 
 Employee #15
   Name: Jonathan Braude
-  Grad: '18 | YoE: 7
+  Grad: '18 | YoE: 6
   Start Date: 2024-12
   Title: GTM (Enterprise Gtm)
   Previous 1: Enterprise Account Executive @ Notion
@@ -267,8 +267,8 @@ Employee #27
   Grad: '07 | YoE: 18
   Start Date: 2025-03
   Title: Engineer (Software Engineer)
-  Previous 1: Principal Software Engineer @ Material Security
-  Previous 2: Staff Software Engineer @ Material Security
+  Previous 1: Software Engineer @ Anysphere
+  Previous 2: Principal Software Engineer @ Material Security
   Education: MS CS, Stanford '10
   LinkedIn: https://linkedin.com/in/natasha-gude-08b59b24
 
@@ -967,8 +967,8 @@ Employee #97
   Grad: '12 | YoE: 13
   Start Date: 2025-09
   Title: Designer (Designer)
-  Previous 1: Staff Product Designer @ Github
-  Previous 2: Staff Product Designer @ Replit
+  Previous 1: Designer @ Anysphere
+  Previous 2: Staff Product Designer @ Github
   Education: MA Journalism, Syracuse University '13
   LinkedIn: https://linkedin.com/in/mayaqgao
 

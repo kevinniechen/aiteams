@@ -4,7 +4,7 @@ CONTEXTUAL - EARLIEST EMPLOYEES
 
 Employee #1
   Name: Douwe Kiela
-  Grad: '09 | YoE: 16
+  Grad: '09 | YoE: 14
   Start Date: 2023-01
   Title: Co-Founder (Chief Executive Officer / Co-Founder)
   Previous 1: Adjunct Professor @ Stanford University
@@ -14,7 +14,7 @@ Employee #1
 
 Employee #2
   Name: Uday Kanwar
-  Grad: '09 | YoE: 16
+  Grad: '09 | YoE: 15
   Start Date: 2024-01
   Title: Engineer (Member Of Technical Staff, Applied Ai Research)
   Previous 1: Engineering Manager @ Anyscale
@@ -24,7 +24,7 @@ Employee #2
 
 Employee #3
   Name: Long Phan
-  Grad: '10 | YoE: 15
+  Grad: '10 | YoE: 14
   Start Date: 2024-01
   Title: PM (Ai Product Manager)
   Previous 1: Mba Intern @ Monte Carlo
@@ -34,7 +34,7 @@ Employee #3
 
 Employee #4
   Name: Sophia Chiu
-  Grad: '18 | YoE: 7
+  Grad: '18 | YoE: 6
   Start Date: 2024-01
   Title: CEO (Executive Assistant To Chief Executive Officer And Chief Technology Officer)
   Previous 1: Talent Operations Specialist / Talent Coordinator @ Classdojo
@@ -44,7 +44,7 @@ Employee #4
 
 Employee #5
   Name: Miriam Db
-  Grad: '06 | YoE: 19
+  Grad: '06 | YoE: 18
   Start Date: 2024-01
   Title: Co-Founder (Co-Founder)
   Previous 1: Data Analyst @ Apple
@@ -54,7 +54,7 @@ Employee #5
 
 Employee #6
   Name: Eugeniu Mindrescu
-  Grad: '08 | YoE: 17
+  Grad: '08 | YoE: 16
   Start Date: 2024-01
   Title: Engineer (Artificial Intelligence Engineer)
   Previous 1: Software Engineer @ Imprivata
@@ -64,7 +64,7 @@ Employee #6
 
 Employee #7
   Name: Shikib Mehri
-  Grad: '18 | YoE: 7
+  Grad: '18 | YoE: 6
   Start Date: 2024-02
   Title: Tech Lead Manager (Research) (Tech Lead Manager (Research))
   Previous 1: Applied Scientist @ Amazon
@@ -74,7 +74,7 @@ Employee #7
 
 Employee #8
   Name: Pranjali Basmatkar
-  Grad: '19 | YoE: 6
+  Grad: '19 | YoE: 5
   Start Date: 2024-03
   Title: Engineer (Member Of Technical Staff)
   Previous 1: Research Engineering Intern @ Ai2
@@ -84,7 +84,7 @@ Employee #8
 
 Employee #9
   Name: Nikita Vassilyev
-  Grad: '23 | YoE: 2
+  Grad: '23 | YoE: 1
   Start Date: 2024-04
   Title: Engineer (Member Of Technical Staff)
   Previous 1: Research Assistant @ Department Of Computer Science, University Of Toronto
@@ -94,7 +94,7 @@ Employee #9
 
 Employee #10
   Name: Juan Torres
-  Grad: '17 | YoE: 8
+  Grad: '17 | YoE: 7
   Start Date: 2024-05
   Title: Engineer (Member Of Technical Staff)
   Previous 1: Senior Software-Machine Learning Engineer @ Mlcommons
@@ -104,7 +104,7 @@ Employee #10
 
 Employee #11
   Name: Austin Wiseman
-  Grad: '15 | YoE: 10
+  Grad: '15 | YoE: 9
   Start Date: 2024-06
   Title: Head Of Finance & Accounting (Head Of Finance & Accounting)
   Previous 1: Director, Finance & Accounting @ Openai
@@ -114,7 +114,7 @@ Employee #11
 
 Employee #12
   Name: Nikita Bhargava
-  Grad: '15 | YoE: 10
+  Grad: '15 | YoE: 9
   Start Date: 2024-06
   Title: Engineer (Member Of Technical Staff)
   Previous 1: Machine Learning Engineer Ii @ Pure Storage
@@ -124,7 +124,7 @@ Employee #12
 
 Employee #13
   Name: Nandita Naik
-  Grad: '23 | YoE: 2
+  Grad: '23 | YoE: 1
   Start Date: 2024-06
   Title: Engineer (Member Of Technical Staff - Research)
   Previous 1: Research Assistant At Stanford Nlp Group @ Stanford University
@@ -134,7 +134,7 @@ Employee #13
 
 Employee #14
   Name: Lingxi Li
-  Grad: '23 | YoE: 2
+  Grad: '23 | YoE: 1
   Start Date: 2024-06
   Title: Engineer (Member Of Technical Staff)
   Previous 1: Software Developer @ Eca Solar
@@ -144,7 +144,7 @@ Employee #14
 
 Employee #15
   Name: Hwijeen Ahn
-  Grad: '18 | YoE: 7
+  Grad: '18 | YoE: 6
   Start Date: 2024-06
   Title: Engineer (Member Of Technical Staff)
   Previous 1: Machine Learning Engineer Intern @ Apple
@@ -154,7 +154,7 @@ Employee #15
 
 Employee #16
   Name: Sheshansh Agrawal
-  Grad: '19 | YoE: 6
+  Grad: '19 | YoE: 5
   Start Date: 2024-06
   Title: Engineer (Member Of Technical Staff)
   Previous 1: Senior Applied Scientist @ Microsoft
@@ -164,7 +164,7 @@ Employee #16
 
 Employee #17
   Name: Richard Willats
-  Grad: '14 | YoE: 11
+  Grad: '14 | YoE: 10
   Start Date: 2024-06
   Title: AI Engineer (Ai Evaluation & Data Quality Specialist)
   Previous 1: Ai Data, Qa And Content Editor @ Dataannotation
@@ -174,7 +174,7 @@ Employee #17
 
 Employee #18
   Name: Lewis Guo
-  Grad: '19 | YoE: 6
+  Grad: '19 | YoE: 5
   Start Date: 2024-07
   Title: Head Of Talent (Head Of Talent)
   Previous 1: Principal Technical Recruiter @ Anyscale
@@ -184,7 +184,7 @@ Employee #18
 
 Employee #19
   Name: George Halal
-  Grad: '19 | YoE: 6
+  Grad: '19 | YoE: 5
   Start Date: 2024-07
   Title: Engineer (Member Of Technical Staff)
   Previous 1: Transformer-Based Super-Resolution For Dust Polarization Images @ Stanford University
@@ -194,7 +194,7 @@ Employee #19
 
 Employee #20
   Name: Diana Mann
-  Grad: '18 | YoE: 7
+  Grad: '18 | YoE: 6
   Start Date: 2024-07
   Title: ML Engineer (Senior Machine Learning Engineer)
   Previous 1: Machine Learning Engineer @ Ford Motor Company
@@ -204,7 +204,7 @@ Employee #20
 
 Employee #21
   Name: Adam Grindley
-  Grad: '10 | YoE: 15
+  Grad: '10 | YoE: 14
   Start Date: 2024-07
   Title: Qc Specialist (Qc Specialist)
   Previous 1: Freelance Writer @ Various Companies
@@ -214,7 +214,7 @@ Employee #21
 
 Employee #22
   Name: Rajan V
-  Grad: '22 | YoE: 3
+  Grad: '22 | YoE: 2
   Start Date: 2024-07
   Title: Engineer (Member Of Technical Staff (Research))
   Previous 1: Machine Learning Research Engineering Intern @ Scale Ai
@@ -224,7 +224,7 @@ Employee #22
 
 Employee #23
   Name: Omar Mohamad
-  Grad: '20 | YoE: 5
+  Grad: '20 | YoE: 4
   Start Date: 2024-07
   Title: Engineer (Member Of Technical Staff)
   Previous 1: Devops Engineer @ Ibm
@@ -234,7 +234,7 @@ Employee #23
 
 Employee #24
   Name: Mike Klaczynski
-  Grad: '08 | YoE: 17
+  Grad: '08 | YoE: 16
   Start Date: 2024-08
   Title: Head Of Partnerships (Head Of Partnerships)
   Previous 1: Limited Partner @ Gtmfund
@@ -244,7 +244,7 @@ Employee #24
 
 Employee #25
   Name: Jay Chen
-  Grad: '06 | YoE: 19
+  Grad: '06 | YoE: 18
   Start Date: 2024-08
   Title: VP (Vice President Of Marketing)
   Previous 1: Vice President Product Marketing @ Starburst
@@ -254,7 +254,7 @@ Employee #25
 
 Employee #26
   Name: Randall White
-  Grad: '18 | YoE: 7
+  Grad: '18 | YoE: 6
   Start Date: 2024-08
   Title: System Administrator (System Administrator)
   Previous 1: Staff Hpc Engineer @ Chan Zuckerberg Biohub Network
@@ -264,7 +264,7 @@ Employee #26
 
 Employee #27
   Name: Thomas Corcoran
-  Grad: '19 | YoE: 6
+  Grad: '19 | YoE: 5
   Start Date: 2024-08
   Title: Data Engineer (Data Annotation, Team Lead (Finance))
   Previous 1: Senior Analyst @ Compass Lexecon
@@ -274,7 +274,7 @@ Employee #27
 
 Employee #28
   Name: Ross Creaven
-  Grad: '21 | YoE: 4
+  Grad: '21 | YoE: 3
   Start Date: 2024-08
   Title: Annotator (Annotator)
   Previous 1: Research Staff @ National University Of Ireland, Galway
@@ -284,7 +284,7 @@ Employee #28
 
 Employee #29
   Name: Elizabeth Lingg
-  Grad: '07 | YoE: 18
+  Grad: '07 | YoE: 17
   Start Date: 2024-09
   Title: Director (Director Of Applied Research)
   Previous 1: Principal Software Engineering Manager @ Microsoft
@@ -294,7 +294,7 @@ Employee #29
 
 Employee #30
   Name: Greg Davies
-  Grad: '00 | YoE: 25
+  Grad: '00 | YoE: 24
   Start Date: 2024-09
   Title: Financial Editor / Annotator (Financial Editor / Annotator)
   Previous 1: Vice President @ Moody'S Corporation
@@ -304,7 +304,7 @@ Employee #30
 
 Employee #31
   Name: Jay Sinha
-  Grad: '19 | YoE: 6
+  Grad: '19 | YoE: 5
   Start Date: 2024-09
   Title: Engineer (Member Of Technical Staff)
   Previous 1: Machine Learning Intern @ Balbix
@@ -314,7 +314,7 @@ Employee #31
 
 Employee #32
   Name: Chaoqun Chen
-  Grad: '15 | YoE: 10
+  Grad: '15 | YoE: 9
   Start Date: 2024-10
   Title: Engineer (Member Of Technical Staff)
   Previous 1: Senior Software Engineer Ii @ Confluent
@@ -324,7 +324,7 @@ Employee #32
 
 Employee #33
   Name: Albert Garcia
-  Grad: '17 | YoE: 8
+  Grad: '17 | YoE: 7
   Start Date: 2024-10
   Title: Member Of Recruiting Staff (Member Of Recruiting Staff)
   Previous 1: Senior Recruiting Coordinator @ Cellares
@@ -334,7 +334,7 @@ Employee #33
 
 Employee #34
   Name: Zehuan Li
-  Grad: '16 | YoE: 9
+  Grad: '16 | YoE: 8
   Start Date: 2024-10
   Title: Engineer (Security Engineer)
   Previous 1: Graduate Research And Teaching Assistant @ Duke University
@@ -344,7 +344,7 @@ Employee #34
 
 Employee #35
   Name: Abdallah Bashir
-  Grad: '18 | YoE: 7
+  Grad: '18 | YoE: 6
   Start Date: 2024-10
   Title: Engineer (Member Of Technical Staff)
   Previous 1: Applied Scientist @ Goldman Sachs
@@ -354,7 +354,7 @@ Employee #35
 
 Employee #36
   Name: Ahmad Khan
-  Grad: '04 | YoE: 21
+  Grad: '04 | YoE: 20
   Start Date: 2024-11
   Title: Sales (Head Of Sales Engineering)
   Previous 1: Head Of Ai / Ml Strategy @ Snowflake
@@ -364,7 +364,7 @@ Employee #36
 
 Employee #37
   Name: Narek Beghian
-  Grad: '05 | YoE: 20
+  Grad: '05 | YoE: 19
   Start Date: 2024-11
   Title: PM (Product Manager)
   Previous 1: Product Lead @ Anchorage Digital
@@ -374,7 +374,7 @@ Employee #37
 
 Employee #38
   Name: Nicholas Lui
-  Grad: '20 | YoE: 5
+  Grad: '20 | YoE: 4
   Start Date: 2024-11
   Title: PM (Product Manager)
   Previous 1: Product Manager @ Databricks
@@ -384,7 +384,7 @@ Employee #38
 
 Employee #39
   Name: Aravind Mohan
-  Grad: '12 | YoE: 13
+  Grad: '12 | YoE: 12
   Start Date: 2024-12
   Title: Data Engineer (Head Of Data Science)
   Previous 1: Trust And Safety @ Roblox
@@ -394,7 +394,7 @@ Employee #39
 
 Employee #40
   Name: Peter Mebane
-  Grad: '17 | YoE: 8
+  Grad: '17 | YoE: 7
   Start Date: 2024-12
   Title: GTM (Gtm)
   Previous 1: Senior Startup Program Lead @ Snowflake
@@ -404,7 +404,7 @@ Employee #40
 
 Employee #41
   Name: Fanhai Lu
-  Grad: '08 | YoE: 17
+  Grad: '08 | YoE: 16
   Start Date: 2024-12
   Title: Director (Technical Director)
   Previous 1: Tl, Tlm @ Google
@@ -414,7 +414,7 @@ Employee #41
 
 Employee #42
   Name: Ritvik Iyer
-  Grad: '22 | YoE: 3
+  Grad: '22 | YoE: 2
   Start Date: 2024-12
   Title: Engineer (Member Of Technical Staff)
   Previous 1: Machine Learning Engineer Ii @ Ford Motor Company

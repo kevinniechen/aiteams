@@ -4,7 +4,7 @@ COGNITION - EARLIEST EMPLOYEES
 
 Employee #1
   Name: Tony Jiang
-  Grad: '13 | YoE: 12
+  Grad: '13 | YoE: 10
   Start Date: 2023-11
   Title: Founding Engineer (Founding Engineer)
   Previous 1: Tech Lead Manager @ Nuro
@@ -14,7 +14,7 @@ Employee #1
 
 Employee #2
   Name: Sara Xiang
-  Grad: '18 | YoE: 7
+  Grad: '18 | YoE: 5
   Start Date: 2023-11
   Title: PM (Human Product Manager)
   Previous 1: Product @ Arena
@@ -24,7 +24,7 @@ Employee #2
 
 Employee #3
   Name: Adhyyan Sekhsaria
-  Grad: '22 | YoE: 3
+  Grad: '22 | YoE: 1
   Start Date: 2023-11
   Title: Founding Engineer (Founding Engineer)
   Previous 1: Software Engineer @ Quadric
@@ -34,7 +34,7 @@ Employee #3
 
 Employee #4
   Name: Scott Wu
-  Grad: '14 | YoE: 11
+  Grad: '14 | YoE: 9
   Start Date: 2023-11
   Title: Co-Founder & CEO (Co-Founder And Chief Executive Officer)
   Previous 1: Co-Founder And Chief Technology Officer @ Lunchclub
@@ -44,7 +44,7 @@ Employee #4
 
 Employee #5
   Name: Steven Hao
-  Grad: '18 | YoE: 7
+  Grad: '18 | YoE: 5
   Start Date: 2023-11
   Title: Co-Founder (Co-Founder)
   Previous 1: Software Engineer @ Scale Ai
@@ -54,7 +54,7 @@ Employee #5
 
 Employee #6
   Name: Walden Yan
-  Grad: '24 | YoE: 1
+  Grad: '24 | YoE: ?
   Start Date: 2023-11
   Title: Co-Founder (Co-Founder)
   Previous 1: Early Engineer @ Anysphere
@@ -64,7 +64,7 @@ Employee #6
 
 Employee #7
   Name: Andrew H
-  Grad: '19 | YoE: 6
+  Grad: '19 | YoE: 4
   Start Date: 2023-11
   Title: Engineer (Human Software Engineer)
   Previous 1: Software Engineer @ Modal
@@ -74,7 +74,7 @@ Employee #7
 
 Employee #8
   Name: Russell Kaplan
-  Grad: '17 | YoE: 8
+  Grad: '17 | YoE: 7
   Start Date: 2024-01
   Title: President (President)
   Previous 1: Director Of Engineering & Ml @ Scale Ai
@@ -84,7 +84,7 @@ Employee #8
 
 Employee #9
   Name: Jeffrey Ling
-  Grad: '17 | YoE: 8
+  Grad: '17 | YoE: 7
   Start Date: 2024-01
   Title: Engineer (Human Software Engineer)
   Previous 1: Co-Founder @ Stealth Startup
@@ -94,7 +94,7 @@ Employee #9
 
 Employee #10
   Name: Calvin Giroud
-  Grad: '18 | YoE: 7
+  Grad: '18 | YoE: 6
   Start Date: 2024-01
   Title: GTM (Gtm)
   Previous 1: Founder & Chief Executive Officer @ Refractive
@@ -104,7 +104,7 @@ Employee #10
 
 Employee #11
   Name: Ziwei D
-  Grad: '08 | YoE: 17
+  Grad: '08 | YoE: 16
   Start Date: 2024-01
   Title: Board Member (Board Member)
   Previous 1: Technical Manager @ Splunk
@@ -113,7 +113,7 @@ Employee #11
 
 Employee #12
   Name: Ramiro D'Avila
-  Grad: '14 | YoE: 11
+  Grad: '14 | YoE: 10
   Start Date: 2024-02
   Title: Engineer (Software Engineer)
   Previous 1: Software Engineer @ Scale Ai
@@ -123,7 +123,7 @@ Employee #12
 
 Employee #13
   Name: Martin Cabral
-  Grad: '09 | YoE: 16
+  Grad: '09 | YoE: 15
   Start Date: 2024-02
   Title: Engineer (Software Engineer)
   Previous 1: Software Engineer @ Scale Ai
@@ -133,7 +133,7 @@ Employee #13
 
 Employee #14
   Name: Salima Ghadimi
-  Grad: '16 | YoE: 9
+  Grad: '16 | YoE: 8
   Start Date: 2024-03
   Title: Operations (Operations)
   Previous 1: Platform Operations @ Capchase
@@ -143,7 +143,7 @@ Employee #14
 
 Employee #15
   Name: Federico Marcos
-  Grad: '16 | YoE: 9
+  Grad: '16 | YoE: 8
   Start Date: 2024-03
   Title: Senior Engineer (Senior Software Engineer)
   Previous 1: Senior Data Scientist @ Scale Ai
@@ -153,7 +153,7 @@ Employee #15
 
 Employee #16
   Name: Bryce Hunt
-  Grad: '21 | YoE: 4
+  Grad: '21 | YoE: 3
   Start Date: 2024-03
   Title: Engineer (Human)
   Previous 1: Co-Founder @ Stealth
@@ -163,7 +163,7 @@ Employee #16
 
 Employee #17
   Name: Silas Alberti
-  Grad: '22 | YoE: 3
+  Grad: '22 | YoE: 2
   Start Date: 2024-03
   Title: Founding Team (Founding Team)
   Previous 1: Student Researcher @ Google Deepmind
@@ -173,7 +173,7 @@ Employee #17
 
 Employee #18
   Name: Moritz Stephan
-  Grad: '24 | YoE: 1
+  Grad: '24 | YoE: ?
   Start Date: 2024-04
   Title: Engineer (Human Software Engineer)
   Previous 1: Research Engineer @ Trunk Tools
@@ -193,7 +193,7 @@ Employee #19
 
 Employee #20
   Name: Mokshit Jain
-  Grad: '22 | YoE: 3
+  Grad: '22 | YoE: 2
   Start Date: 2024-06
   Title: Product Engineer (Product Engineer)
   Previous 1: Frontend Engineer Intern @ Replay.Io
@@ -203,7 +203,7 @@ Employee #20
 
 Employee #21
   Name: Calvin Huang
-  Grad: '18 | YoE: 7
+  Grad: '18 | YoE: 6
   Start Date: 2024-08
   Title: Engineer (Software Engineer)
   Previous 1: Staff Software Engineer @ Scale Ai
@@ -213,7 +213,7 @@ Employee #21
 
 Employee #22
   Name: Sean Sullivan
-  Grad: '20 | YoE: 5
+  Grad: '20 | YoE: 4
   Start Date: 2024-08
   Title: Engineer (Human Engineer)
   Previous 1: Software Engineering Contractor @ Windsurf
@@ -223,7 +223,7 @@ Employee #22
 
 Employee #23
   Name: Shannon Kahn
-  Grad: '16 | YoE: 9
+  Grad: '16 | YoE: 8
   Start Date: 2024-09
   Title: Account Executive (Account Executive, Strategic / Majors (Windsurf And Devin))
   Previous 1: Enterprise Account Executive @ Chronosphere
@@ -233,7 +233,7 @@ Employee #23
 
 Employee #24
   Name: Dani Mccabe
-  Grad: '17 | YoE: 8
+  Grad: '17 | YoE: 7
   Start Date: 2024-10
   Title: Director (Director, Sales Enablement)
   Previous 1: Director, Sales Enablement @ Navan
@@ -243,7 +243,7 @@ Employee #24
 
 Employee #25
   Name: Sam Rudy
-  Grad: '14 | YoE: 11
+  Grad: '14 | YoE: 10
   Start Date: 2024-10
   Title: GTM (Gtm)
   Previous 1: Strategic Account Executive, Emea @ Airtable
@@ -253,7 +253,7 @@ Employee #25
 
 Employee #26
   Name: Kira Busman
-  Grad: '13 | YoE: 12
+  Grad: '13 | YoE: 11
   Start Date: 2024-10
   Title: Advisor (Advisor)
   Previous 1: Advisor @ Stealth Mode
@@ -263,7 +263,7 @@ Employee #26
 
 Employee #27
   Name: Gennady Korotkevich
-  Grad: '18 | YoE: 7
+  Grad: '18 | YoE: 6
   Start Date: 2024-12
   Title: Engineer (Software Engineer)
   Previous 1: Research Engineer @ Ramp

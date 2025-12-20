@@ -4,7 +4,7 @@ SARONIC - EARLIEST EMPLOYEES
 
 Employee #1
   Name: Robert Lehman
-  Grad: '00 | YoE: 25
+  Grad: '00 | YoE: 22
   Start Date: 2022-09
   Title: Co-Founder (Co-Founder And Chief Commercial Officer)
   Previous 1: Founder @ 9 Line Solutions, Llc
@@ -14,7 +14,7 @@ Employee #1
 
 Employee #2
   Name: Dino Mavrookas
-  Grad: '03 | YoE: 22
+  Grad: '03 | YoE: 19
   Start Date: 2022-09
   Title: Co-Founder & CEO (Co-Founder And Chief Executive Officer)
   Previous 1: Entrepreneur In Residence @ 8Vc
@@ -24,7 +24,7 @@ Employee #2
 
 Employee #3
   Name: Rob Lehman
-  Grad: '00 | YoE: 25
+  Grad: '00 | YoE: 22
   Start Date: 2022-09
   Title: Co-Founder (Co-Founder And Chief Commercial Officer)
   Previous 1: Founder @ 9 Line Solutions, Llc
@@ -34,7 +34,7 @@ Employee #3
 
 Employee #4
   Name: Rishi Desai
-  Grad: '20 | YoE: 5
+  Grad: '20 | YoE: 3
   Start Date: 2023-01
   Title: Senior Engineer (Senior Software Engineer)
   Previous 1: Software Engineer @ Anduril Industries
@@ -44,7 +44,7 @@ Employee #4
 
 Employee #5
   Name: Joseph Gargiulo
-  Grad: '17 | YoE: 8
+  Grad: '17 | YoE: 6
   Start Date: 2023-02
   Title: Naval Software Architect (Naval Software Architect)
   Previous 1: Senior Naval Architect @ Thayermahan, Inc.
@@ -54,7 +54,7 @@ Employee #5
 
 Employee #6
   Name: Jav Mohamed
-  Grad: '20 | YoE: 5
+  Grad: '20 | YoE: 3
   Start Date: 2023-03
   Title: Engineer (Software Engineer)
   Previous 1: Software Engineer @ Leantaas
@@ -64,7 +64,7 @@ Employee #6
 
 Employee #7
   Name: Robert Duran
-  Grad: '07 | YoE: 18
+  Grad: '07 | YoE: 16
   Start Date: 2023-04
   Title: Engineer (Research & Development Engineer And Test Manager)
   Previous 1: Research Engineer @ Southwest Research Institute
@@ -74,7 +74,7 @@ Employee #7
 
 Employee #8
   Name: William Traylor
-  Grad: '16 | YoE: 9
+  Grad: '16 | YoE: 7
   Start Date: 2023-05
   Title: Engineer (Senior Manufacturing Engineer)
   Previous 1: Manufacturing Engineer @ Hyliion
@@ -84,7 +84,7 @@ Employee #8
 
 Employee #9
   Name: Aydin Gokce
-  Grad: '18 | YoE: 7
+  Grad: '18 | YoE: 5
   Start Date: 2023-05
   Title: Engineer (Software Engineer)
   Previous 1: Engineering Fellow @ 8Vc
@@ -94,7 +94,7 @@ Employee #9
 
 Employee #10
   Name: James Stackhouse
-  Grad: '24 | YoE: 1
+  Grad: '24 | YoE: ?
   Start Date: 2023-09
   Title: Engineer (Forward Deployed Engineer)
   Previous 1: Combat Systems Test Engineer @ Jsl Technologies, Inc.
@@ -104,7 +104,7 @@ Employee #10
 
 Employee #11
   Name: Corey Doermann
-  Grad: '05 | YoE: 20
+  Grad: '05 | YoE: 18
   Start Date: 2023-09
   Title: Corporate Controller (Corporate Controller)
   Previous 1: Assistant Controller @ Palantir Technologies
@@ -114,7 +114,7 @@ Employee #11
 
 Employee #12
   Name: Rodney Harris
-  Grad: '97 | YoE: 28
+  Grad: '97 | YoE: 26
   Start Date: 2023-09
   Title: Depot Repair Manager (Depot Repair Manager)
   Previous 1: Field Service Engineer @ Canon Usa
@@ -124,7 +124,7 @@ Employee #12
 
 Employee #13
   Name: Jacob Freeman
-  Grad: '17 | YoE: 8
+  Grad: '17 | YoE: 6
   Start Date: 2023-09
   Title: Engineer (Software Engineer)
   Previous 1: Software Engineer @ Anduril Industries
@@ -134,7 +134,7 @@ Employee #13
 
 Employee #14
   Name: Autumn Szczepanski
-  Grad: '19 | YoE: 6
+  Grad: '19 | YoE: 4
   Start Date: 2023-09
   Title: Naval Architect (Naval Architect)
   Previous 1: Engineer @ Naval Surface Warfare Center Carderock Division (Nswccd)
@@ -144,7 +144,7 @@ Employee #14
 
 Employee #15
   Name: Isaac Steadman
-  Grad: '20 | YoE: 5
+  Grad: '20 | YoE: 3
   Start Date: 2023-09
   Title: Engineer (Software Engineer)
   Previous 1: Software Development Engineer @ Amazon
@@ -154,7 +154,7 @@ Employee #15
 
 Employee #16
   Name: Thomas Dobbs
-  Grad: '82 | YoE: 43
+  Grad: '82 | YoE: 41
   Start Date: 2023-10
   Title: Senior Technical Writer (Senior Technical Writer)
   Previous 1: Senior Technical Writer @ Secureworks
@@ -164,7 +164,7 @@ Employee #16
 
 Employee #17
   Name: Nailah Salaam
-  Grad: '95 | YoE: 30
+  Grad: '95 | YoE: 28
   Start Date: 2023-10
   Title: Engineer (Senior Electrical Harness Engineer)
   Previous 1: Senior Spacecraft Harness Engineer @ Saic
@@ -174,7 +174,7 @@ Employee #17
 
 Employee #18
   Name: Stephanie Tam
-  Grad: '21 | YoE: 4
+  Grad: '21 | YoE: 2
   Start Date: 2023-10
   Title: Engineer (Mechanical Engineer)
   Previous 1: Application Engineer @ Wilder Systems Robots
@@ -184,7 +184,7 @@ Employee #18
 
 Employee #19
   Name: Ken Healy
-  Grad: '95 | YoE: 30
+  Grad: '95 | YoE: 28
   Start Date: 2023-10
   Title: Operations (Test Site Manager / Mission Operations Specialist)
   Previous 1: Systems Test Engineer @ L3Harris Technologies
@@ -194,7 +194,7 @@ Employee #19
 
 Employee #20
   Name: Tyler Hatfield
-  Grad: '23 | YoE: 2
+  Grad: '23 | YoE: ?
   Start Date: 2023-12
   Title: Boat Captain (Boat Captain)
   Previous 1: N/A @ N/A

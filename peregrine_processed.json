@@ -2,5 +2,21 @@
   "company": "peregrine",
   "company_display": "Peregrine",
   "founded": "2022-01",
-  "employees": []
+  "employees": [
+    {
+      "rank": 1,
+      "name": "Ben Rudolph",
+      "grad_year": "'13",
+      "yoe": "5",
+      "start_date": "2018-01",
+      "title": "Co-Founder",
+      "original_title": "Co-Founder",
+      "previous_title": "Software Engineer",
+      "previous_company": "Dimagi",
+      "previous_title_2": "Photographer",
+      "previous_company_2": "Ben Rudolph Photography",
+      "education": "BS CS, Stanford '13",
+      "linkedin_url": "https://linkedin.com/in/brudolph"
+    }
+  ]
 }

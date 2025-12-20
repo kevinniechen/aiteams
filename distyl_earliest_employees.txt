@@ -4,7 +4,7 @@ DISTYL - EARLIEST EMPLOYEES
 
 Employee #1
   Name: Arjun Prakash
-  Grad: '10 | YoE: 15
+  Grad: '10 | YoE: 12
   Start Date: 2022-01
   Title: Co-Founder & CEO (Co-Founder, Chief Executive Officer)
   Previous 1: Head Of Solutions @ Snorkel Ai
@@ -14,7 +14,7 @@ Employee #1
 
 Employee #2
   Name: Derek Ho
-  Grad: '09 | YoE: 16
+  Grad: '09 | YoE: 13
   Start Date: 2022-01
   Title: Co-Founder (Co-Founder, Chief Operations Officer)
   Previous 1: Business Development @ Palantir Technologies
@@ -24,7 +24,7 @@ Employee #2
 
 Employee #3
   Name: Jenn Gamble
-  Grad: '06 | YoE: 19
+  Grad: '06 | YoE: 17
   Start Date: 2023-01
   Title: Data Engineer (Founding Head Of Data Science)
   Previous 1: Head Of Data Science @ Stealth Startup
@@ -34,7 +34,7 @@ Employee #3
 
 Employee #4
   Name: Karime Maamari
-  Grad: '18 | YoE: 7
+  Grad: '18 | YoE: 5
   Start Date: 2023-01
   Title: Head Of Research (Head Of Research)
   Previous 1: Simulation Engineer @ Nasa Langley Research Center
@@ -44,7 +44,7 @@ Employee #4
 
 Employee #5
   Name: Gillian Jarvis
-  Grad: '12 | YoE: 13
+  Grad: '12 | YoE: 11
   Start Date: 2023-01
   Title: Head Of Brand (Head Of Brand)
   Previous 1: Design Advisor @ Zero Prime Ventures
@@ -54,7 +54,7 @@ Employee #5
 
 Employee #6
   Name: David Lisuk
-  Grad: '10 | YoE: 15
+  Grad: '10 | YoE: 13
   Start Date: 2023-05
   Title: Director (Director Of Engineering)
   Previous 1: Head Of Ai / Ml Engineering @ Palantir Technologies
@@ -64,7 +64,7 @@ Employee #6
 
 Employee #7
   Name: Jessica Hamel
-  Grad: '05 | YoE: 20
+  Grad: '05 | YoE: 18
   Start Date: 2023-07
   Title: Engineer (Software Engineer)
   Previous 1: Consulting Software Engineer @ Various Companies
@@ -74,7 +74,7 @@ Employee #7
 
 Employee #8
   Name: Yonas Tesfaye
-  Grad: '07 | YoE: 18
+  Grad: '07 | YoE: 16
   Start Date: 2023-09
   Title: Engineering (Engineering)
   Previous 1: Partner, Data Science Lead @ Point72 Hyperscale
@@ -84,7 +84,7 @@ Employee #8
 
 Employee #9
   Name: Alex Tran
-  Grad: '18 | YoE: 7
+  Grad: '18 | YoE: 5
   Start Date: 2023-10
   Title: Senior Engineer (Senior Software Engineer)
   Previous 1: Founding Engineer @ Swsh
@@ -94,7 +94,7 @@ Employee #9
 
 Employee #10
   Name: Patrick Kolencherry
-  Grad: '12 | YoE: 13
+  Grad: '12 | YoE: 12
   Start Date: 2024-01
   Title: GTM (Ai Strategist)
   Previous 1: Product (Latitud Finance, Camu) @ Latitud
@@ -104,7 +104,7 @@ Employee #10
 
 Employee #11
   Name: Connor Landy
-  Grad: '13 | YoE: 12
+  Grad: '13 | YoE: 11
   Start Date: 2024-01
   Title: Product (Product)
   Previous 1: Product Data Science @ Airtable
@@ -114,7 +114,7 @@ Employee #11
 
 Employee #12
   Name: Will Morley
-  Grad: '23 | YoE: 2
+  Grad: '23 | YoE: 1
   Start Date: 2024-01
   Title: Engineering (Engineering)
   Previous 1: Software Engineer, Machine Learning @ Arcus
@@ -124,7 +124,7 @@ Employee #12
 
 Employee #13
   Name: Daniel Jaroslawicz
-  Grad: '19 | YoE: 6
+  Grad: '19 | YoE: 5
   Start Date: 2024-03
   Title: AI Engineer (Ai Research Engineer)
   Previous 1: Advanced Ai Scientist @ Benevolentai
@@ -134,7 +134,7 @@ Employee #13
 
 Employee #14
   Name: David Roth
-  Grad: '18 | YoE: 7
+  Grad: '18 | YoE: 6
   Start Date: 2024-04
   Title: AI Engineer (Ai Engineer)
   Previous 1: Research Fellow @ Zillow
@@ -144,7 +144,7 @@ Employee #14
 
 Employee #15
   Name: Edward Chew
-  Grad: '23 | YoE: 2
+  Grad: '23 | YoE: 1
   Start Date: 2024-06
   Title: Frontend Engineer (Frontend Engineer)
   Previous 1: Co-Founder, President @ Codelab
@@ -154,7 +154,7 @@ Employee #15
 
 Employee #16
   Name: Eng Marie-Philippe Gill
-  Grad: '18 | YoE: 7
+  Grad: '18 | YoE: 6
   Start Date: 2024-07
   Title: AI Engineer (Ai Engineer)
   Previous 1: Nlp Research Developer @ Croesus
@@ -164,7 +164,7 @@ Employee #16
 
 Employee #17
   Name: Jake Wallin
-  Grad: '21 | YoE: 4
+  Grad: '21 | YoE: 3
   Start Date: 2024-09
   Title: AI Engineer (Ai Engineer)
   Previous 1: Software Engineer @ Arista Networks
@@ -174,7 +174,7 @@ Employee #17
 
 Employee #18
   Name: Deep Patel
-  Grad: '15 | YoE: 10
+  Grad: '15 | YoE: 9
   Start Date: 2024-09
   Title: AI Engineer (Applied Ai Researcher)
   Previous 1: Senior Software Engineer @ Gitstart
@@ -184,7 +184,7 @@ Employee #18
 
 Employee #19
   Name: Tony Yates
-  Grad: '96 | YoE: 29
+  Grad: '96 | YoE: 28
   Start Date: 2024-10
   Title: Designer (Founding Product Designer)
   Previous 1: Solopreneur @ Studio Y
@@ -194,7 +194,7 @@ Employee #19
 
 Employee #20
   Name: Emily Broadhurst
-  Grad: '23 | YoE: 2
+  Grad: '23 | YoE: 1
   Start Date: 2024-10
   Title: AI Engineer (Ai Engineer)
   Previous 1: Research Science Instructor @ Inspirit Ai
@@ -204,7 +204,7 @@ Employee #20
 
 Employee #21
   Name: Joseph Edell
-  Grad: '21 | YoE: 4
+  Grad: '21 | YoE: 3
   Start Date: 2024-10
   Title: Tech Lead (Tech Lead)
   Previous 1: Analyst @ Goldman Sachs
@@ -214,7 +214,7 @@ Employee #21
 
 Employee #22
   Name: Tessa Jones
-  Grad: '17 | YoE: 8
+  Grad: '17 | YoE: 7
   Start Date: 2024-10
   Title: Platform Engineer (Platform Engineer)
   Previous 1: Senior Software Engineer @ Maza
@@ -224,7 +224,7 @@ Employee #22
 
 Employee #23
   Name: Brian Coyle
-  Grad: '99 | YoE: 26
+  Grad: '99 | YoE: 25
   Start Date: 2024-11
   Title: GTM (Ai Strategist)
   Previous 1: Head Of Post Sales Services Strategy And Programs @ Twilio
@@ -234,7 +234,7 @@ Employee #23
 
 Employee #24
   Name: Omar Bekdash
-  Grad: '22 | YoE: 3
+  Grad: '22 | YoE: 2
   Start Date: 2024-11
   Title: GTM (Ai Strategist (Technical Project / Product Manager))
   Previous 1: Data Science Consulting Analyst In Marketing And Sales @ Mckinsey & Company
@@ -244,7 +244,7 @@ Employee #24
 
 Employee #25
   Name: Michelle Wetzler
-  Grad: '05 | YoE: 20
+  Grad: '05 | YoE: 19
   Start Date: 2024-11
   Title: Head Of Program Management (Head Of Program Management)
   Previous 1: Senior Director, Head Of Global Professional Services (Flex) @ Twilio
@@ -254,7 +254,7 @@ Employee #25
 
 Employee #26
   Name: Aryeh Klein
-  Grad: '20 | YoE: 5
+  Grad: '20 | YoE: 4
   Start Date: 2024-12
   Title: AI Engineer (Ai Engineer)
   Previous 1: Software Development Engineer Iii @ Amazon Web Services (Aws)
