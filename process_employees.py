@@ -105,6 +105,9 @@ TITLE_NORMALIZATIONS = [
     (r'\bpresident\b', 'President'),
     (r'\bdirector\b', 'Director'),
     
+    # Strategist (before PM to catch "AI Strategist" even if title has "Product Manager")
+    (r'\b(ai\s*)?strategist\b', 'GTM'),
+    
     # Product (before engineering to catch "Human Product Manager")
     (r'\b(human\s*)?product\s*manager\b', 'PM'),
     (r'\bsenior\s*product\s*manager\b', 'Senior PM'),

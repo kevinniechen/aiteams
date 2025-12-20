@@ -96,7 +96,7 @@ Employee #10
   Name: Patrick Kolencherry
   Grad: '12 | YoE: 13
   Start Date: 2024-01
-  Title: AI Engineer (Ai Strategist)
+  Title: GTM (Ai Strategist)
   Previous 1: Product (Latitud Finance, Camu) @ Latitud
   Previous 2: Platform Marketing @ Snorkel Ai
   Education: Math, University Of Warwic
@@ -226,7 +226,7 @@ Employee #23
   Name: Brian Coyle
   Grad: '99 | YoE: 26
   Start Date: 2024-11
-  Title: AI Engineer (Ai Strategist)
+  Title: GTM (Ai Strategist)
   Previous 1: Head Of Post Sales Services Strategy And Programs @ Twilio
   Previous 2: Product Manager At United States Digital Service @ U.S. Doge Service
   Education: BS Computer Information, Manhattan University '99
@@ -236,7 +236,7 @@ Employee #24
   Name: Omar Bekdash
   Grad: '22 | YoE: 3
   Start Date: 2024-11
-  Title: PM (Ai Strategist (Technical Project / Product Manager))
+  Title: GTM (Ai Strategist (Technical Project / Product Manager))
   Previous 1: Data Science Consulting Analyst In Marketing And Sales @ Mckinsey & Company
   Previous 2: Data Science Intern @ Paypal
   Education: BS CS, Cornell '22
@@ -266,7 +266,7 @@ Employee #27
   Name: Jerrell Taylor
   Grad: '12 | YoE: 13
   Start Date: 2025-01
-  Title: AI Engineer (Ai Strategist)
+  Title: GTM (Ai Strategist)
   Previous 1: Co-Founder - Product & Ai Lead @ Centauru Ai
   Previous 2: Senior Product Manager @ Toptal
   Education: BA Creative Writing, University Of North  '12
@@ -296,7 +296,7 @@ Employee #30
   Name: Ravi Bhandia
   Grad: '18 | YoE: 7
   Start Date: 2025-01
-  Title: AI Engineer (Ai Strategist)
+  Title: GTM (Ai Strategist)
   Previous 1: Product Manager - Generative Ai (Acquired Through Armorblox) @ Cisco
   Previous 2: Mentee @ First Round Fast Track
   Education: MS Data Science, UC Berkeley '20
@@ -356,7 +356,7 @@ Employee #36
   Name: Rob Schwartz
   Grad: '21 | YoE: 4
   Start Date: 2025-01
-  Title: AI Engineer (Ai Strategist)
+  Title: GTM (Ai Strategist)
   Previous 1: Product Manager @ Nfx
   Previous 2: Analyst @ Nfx
   Education: BA Math, UC Berkeley '21
@@ -386,7 +386,7 @@ Employee #39
   Name: Vitoria Lima
   Grad: '20 | YoE: 5
   Start Date: 2025-01
-  Title: AI Engineer (Ai Deployment Strategist)
+  Title: GTM (Ai Deployment Strategist)
   Previous 1: Machine Learning Engineer @ Weights & Biases
   Previous 2: Data Science Teaching Fellow @ Harvard University
   Education: MIT '22
@@ -406,7 +406,7 @@ Employee #41
   Name: Gautham R
   Grad: '25 | YoE: ?
   Start Date: 2025-01
-  Title: AI Engineer (Ai Strategist)
+  Title: GTM (Ai Strategist)
   Previous 1: N/A @ N/A
   Previous 2: N/A @ N/A
   Education: Monta Vista High Sch
@@ -416,7 +416,7 @@ Employee #42
   Name: Wilbur W
   Grad: '22 | YoE: 3
   Start Date: 2025-01
-  Title: AI Engineer (Ai Strategist)
+  Title: GTM (Ai Strategist)
   Previous 1: Senior Business Analyst @ Mckinsey & Company
   Previous 2: N/A @ N/A
   Education: MEng Financial Engineerin, Princeton
@@ -456,7 +456,7 @@ Employee #46
   Name: Vashisht Anand
   Grad: '14 | YoE: 11
   Start Date: 2025-02
-  Title: AI Engineer (Ai Strategist)
+  Title: GTM (Ai Strategist)
   Previous 1: Product And Strategy (Founding Team) @ Sequio.Ai
   Previous 2: Product Manager @ Anthill Ventures
   Education: MS Engineering, San José State Unive '24
@@ -506,7 +506,7 @@ Employee #51
   Name: Nitesh Nagpal
   Grad: '20 | YoE: 5
   Start Date: 2025-04
-  Title: AI Engineer (Ai Strategist)
+  Title: GTM (Ai Strategist)
   Previous 1: Data & Ai Consultant @ Guidehouse
   Previous 2: Advanced Solutions Intern - Business And It Strategy @ Guidehouse
   Education: UC Berkeley '23
@@ -526,7 +526,7 @@ Employee #53
   Name: Aria Eghbali
   Grad: '24 | YoE: 1
   Start Date: 2025-04
-  Title: AI Engineer (Ai Strategist)
+  Title: GTM (Ai Strategist)
   Previous 1: Analyst @ Morgan Stanley
   Previous 2: Graduate Teaching Assistant @ University Of Pennsylvania Engineering
   Education: MS CS, UPenn '24
@@ -556,7 +556,7 @@ Employee #56
   Name: Kulbir Singh
   Grad: '25 | YoE: ?
   Start Date: 2025-04
-  Title: AI Engineer (Ai Strategist (Fwd Deployed Engineer))
+  Title: GTM (Ai Strategist (Fwd Deployed Engineer))
   Previous 1: Seattle Chapter Lead @ The Ai Collective
   Previous 2: Research @ University Of Washington
   Education: BS Design, UW '25
@@ -606,7 +606,7 @@ Employee #61
   Name: Akshat Vaidya
   Grad: '18 | YoE: 7
   Start Date: 2025-05
-  Title: AI Engineer (Ai Strategist)
+  Title: GTM (Ai Strategist)
   Previous 1: Product Manager @ Prodigal
   Previous 2: Associate Product Manager @ Prodigal
   Education: MS Information Systems, University Of Maryla '19
@@ -616,7 +616,7 @@ Employee #62
   Name: Anish Dulla
   Grad: '24 | YoE: 1
   Start Date: 2025-05
-  Title: AI Engineer (Ai Strategist (Fde))
+  Title: GTM (Ai Strategist (Fde))
   Previous 1: Data Scientist @ Adobe
   Previous 2: Data Science Intern @ Adobe
   Education: BS Data Science, Ucla '24
@@ -676,7 +676,7 @@ Employee #68
   Name: Ankit Kumar
   Grad: '12 | YoE: 13
   Start Date: 2025-05
-  Title: PM (Ai Product Manager | Strategist)
+  Title: GTM (Ai Product Manager | Strategist)
   Previous 1: Senior Product Manager @ Datavant
   Previous 2: Senior Product Manager @ Sattva Consulting
   Education: MBA, Mays Business School '17
@@ -696,7 +696,7 @@ Employee #70
   Name: Natasha Prats
   Grad: '09 | YoE: 16
   Start Date: 2025-06
-  Title: AI Engineer (Ai Strategist)
+  Title: GTM (Ai Strategist)
   Previous 1: Product Management Leader @ Sabbatical
   Previous 2: Senior Product Manager @ Intuit
   Education: MA Design, Stanford '14
@@ -736,7 +736,7 @@ Employee #74
   Name: Michael Liu
   Grad: '15 | YoE: 10
   Start Date: 2025-06
-  Title: AI Engineer (Ai Strategist)
+  Title: GTM (Ai Strategist)
   Previous 1: Lead Data Scientist @ Mckinsey & Company
   Previous 2: Lead Data Scientist @ Quantumblack, Ai By Mckinsey
   Education: MS Data Science, University Of Chicag '20
@@ -746,7 +746,7 @@ Employee #75
   Name: Michael Amoako
   Grad: '19 | YoE: 6
   Start Date: 2025-06
-  Title: AI Engineer (Ai Strategist)
+  Title: GTM (Ai Strategist)
   Previous 1: Summer Associate @ Mckinsey & Company
   Previous 2: Pre-Mba Intern @ Wellington Management
   Education: MBA Engineering, Harvard Business Sch '25
@@ -856,7 +856,7 @@ Employee #86
   Name: Boudhayan Sen
   Grad: '00 | YoE: 25
   Start Date: 2025-09
-  Title: AI Engineer (Ai Strategist)
+  Title: GTM (Ai Strategist)
   Previous 1: Expert Associate Partner @ Mckinsey & Company
   Previous 2: Director @ Wayfair
   Education: PhD Marketing, Yale School Of Manag '12
@@ -946,7 +946,7 @@ Employee #95
   Name: Jeremy Berkowitz
   Grad: '21 | YoE: 4
   Start Date: 2025-11
-  Title: AI Engineer (Ai Strategist)
+  Title: GTM (Ai Strategist)
   Previous 1: Senior Consultant - Global Data & Ai @ Slalom
   Previous 2: Consultant - Data & Analytics @ Slalom
   Education: Bachelor Of Applied  CS, Vrije Universiteit A '20
