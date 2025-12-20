@@ -1170,7 +1170,7 @@
                 : null;
             
             document.getElementById('company-info').innerHTML = 
-                `<strong>${data.company_display || data.company}</strong> · Founded: ${data.founded || '?'} · <span title="This is a sample of early employees. Data may be incomplete or incorrect due to the nature of the data provider.">${currentEmployees.length} employees</span>${spamCount > 0 ? ` (${spamCount} hidden)` : ''}`;
+                `<strong>${data.company_display || data.company}</strong> · Founded: ${data.founded || '?'} · <span title="Snapshot from data provider. May not be up to date or entirely accurate." style="cursor: help; border-bottom: 1px dotted #888;">${currentEmployees.length} employees</span>${spamCount > 0 ? ` (${spamCount} hidden)` : ''}`;
             
             let html = '<div class="main-layout">';
             
