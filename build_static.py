@@ -3,13 +3,12 @@
 Build script to generate a static version of the AI Teams site.
 - Inlines all company JSON data into the HTML
 - Removes delete/spam buttons and functionality
-- Outputs to docs/ folder for GitHub Pages deployment
+- Outputs to docs/ folder for GitHub Pages / Vercel deployment
 """
 
 import json
 import os
 import re
-import shutil
 from pathlib import Path
 
 def build_static():
@@ -17,11 +16,11 @@ def build_static():
     with open('index.html', 'r') as f:
         html = f.read()
     
-    # Read all company data files
+    # Read all company data files based on what's in the COMPANIES array
     companies = [
-        'perplexity', 'cognition', 'harvey', 'sierra', 'decagon',
-        'glean', 'distyl', 'cursor', 'peregrine', 'physical-intelligence',
-        'serval', 'brainco', 'elevenlabs', 'contextual', 'saronic'
+        'perplexity', 'cognition', 'cursor', 'elevenlabs', 'physical-intelligence',
+        'harvey', 'sierra', 'glean', 'saronic', 'decagon', 'contextual',
+        'distyl', 'serval', 'brainco'
     ]
     
     company_data = {}
@@ -37,7 +36,7 @@ def build_static():
         with open('raises.json', 'r') as f:
             raises_data = json.load(f)
     
-    # Read spam data - keep filtering active, just remove edit buttons
+    # Read spam data
     spam_data = {}
     if os.path.exists('spam.json'):
         with open('spam.json', 'r') as f:
@@ -56,9 +55,8 @@ def build_static():
                 existing_names = {e['name'].lower() for e in company_data[company_slug].get('employees', [])}
                 for emp in employees:
                     if emp['name'].lower() not in existing_names:
-                        # Add required fields with defaults
                         emp_entry = {
-                            'rank': 0,  # Will be recalculated
+                            'rank': 0,
                             'name': emp['name'],
                             'grad_year': emp.get('grad_year', '?'),
                             'yoe': emp.get('yoe', '?'),
@@ -67,6 +65,8 @@ def build_static():
                             'original_title': emp.get('title', 'N/A'),
                             'previous_title': emp.get('previous_title', 'N/A'),
                             'previous_company': emp.get('previous_company', 'N/A'),
+                            'previous_title_2': emp.get('previous_title_2', 'N/A'),
+                            'previous_company_2': emp.get('previous_company_2', 'N/A'),
                             'education': emp.get('education', 'N/A'),
                             'linkedin_url': emp.get('linkedin_url')
                         }
@@ -94,37 +94,12 @@ def build_static():
     # Inject inline data before the main script
     html = html.replace('<script>', inline_data + '\n    <script>', 1)
     
-    # Modify loadData to use preloaded data instead of fetch
-    old_load = '''async function loadData() {
-            try {
-                const spamRes = await fetch('/spam.json');
-                if (spamRes.ok) spamData = await spamRes.json();
-            } catch (e) {}
-            
-            try {
-                const raisesRes = await fetch('/raises.json');
-                if (raisesRes.ok) raisesData = await raisesRes.json();
-            } catch (e) {}
-            
-            for (const company of COMPANIES) {
-                try {
-                    const response = await fetch(company.file);
-                    if (response.ok) {
-                        companyData[company.slug] = await response.json();
-                    }
-                } catch (e) {}
-            }
-            renderTabs();
-            const first = Object.keys(companyData)[0];
-            if (first) showCompany(first);
-            else document.getElementById('content').textContent = 'No data found.';
-        }'''
-    
+    # Replace the entire loadData function with static version
     new_load = '''async function loadData() {
             // Static site: use preloaded data
             companyData = PRELOADED_DATA;
             raisesData = PRELOADED_RAISES;
-            spamData = PRELOADED_SPAM; // Spam filtering stays active, just no edit buttons
+            spamData = PRELOADED_SPAM;
             
             renderTabs();
             const first = Object.keys(companyData)[0];
@@ -132,48 +107,37 @@ def build_static():
             else document.getElementById('content').textContent = 'No data found.';
         }'''
     
-    html = html.replace(old_load, new_load)
-    
-    # Remove the spam button column header
-    html = html.replace('<th></th>', '')
-    
-    # Remove the spam button from table rows - replace the entire td with button
+    # Use regex to replace the loadData function
     html = re.sub(
-        r"<td><button class=\"spam-btn\" onclick=\"toggleSpam\([^)]+\)\">×</button></td>",
+        r'async function loadData\(\) \{[\s\S]*?renderTabs\(\);\s*const first = Object\.keys\(companyData\)\[0\];\s*if \(first\) showCompany\(first\);\s*else document\.getElementById\(\'content\'\)\.textContent = \'No data found\.\';\s*\}',
+        new_load,
+        html
+    )
+    
+    # Remove the spam button column header (the empty th for action column)
+    html = re.sub(r'<th class="col-action"></th>', '', html)
+    
+    # Remove the spam button td from table rows
+    html = re.sub(
+        r'<td class="col-action"><button class="spam-btn"[^>]*>×</button></td>',
         '',
         html
     )
     
-    # Remove toggleSpam function (it won't be called anyway but cleaner to remove)
-    old_toggle = '''async function toggleSpam(company, name) {
-            const wasSpam = isSpam(company, name);
-            
-            try {
-                await fetch('/spam', {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ company, name, is_spam: !wasSpam })
-                });
-                
-                if (!spamData[company]) spamData[company] = [];
-                if (wasSpam) {
-                    spamData[company] = spamData[company].filter(n => n !== name);
-                } else {
-                    spamData[company].push(name);
-                }
-                
-                showCompany(currentCompany);
-            } catch (e) {
-                alert('Failed to save spam status');
-            }
-        }'''
+    # Remove col-action CSS
+    html = re.sub(r'\.col-action \{[^}]+\}', '', html)
     
-    html = html.replace(old_toggle, '// toggleSpam removed in static build')
+    # Remove spam-btn CSS
+    html = re.sub(r'\.spam-btn \{[^}]+\}', '', html)
     
-    # Remove spam button CSS
-    html = html.replace('.spam-btn { cursor: pointer; padding: 2px 8px; font-size: 11px; }', '')
+    # Remove toggleSpam function
+    html = re.sub(
+        r'async function toggleSpam\([^)]*\) \{[\s\S]*?showCompany\(currentCompany\);[\s\S]*?\}[\s\S]*?\}',
+        '// toggleSpam removed in static build',
+        html
+    )
     
-    # Create docs folder for GitHub Pages
+    # Create docs folder
     os.makedirs('docs', exist_ok=True)
     
     # Write static HTML
@@ -182,9 +146,9 @@ def build_static():
     
     print(f"✓ Built static site to docs/index.html")
     print(f"  - Inlined {len(company_data)} company datasets")
-    print(f"  - Inlined spam list ({sum(len(v) for v in spam_data.values())} entries) - rows stay hidden")
-    print(f"  - Removed X buttons (no editing on static site)")
-    print(f"  - Ready for GitHub Pages deployment")
+    print(f"  - Inlined spam list ({sum(len(v) for v in spam_data.values())} entries)")
+    print(f"  - Removed X buttons")
+    print(f"  - Ready for deployment")
 
 if __name__ == '__main__':
     build_static()
