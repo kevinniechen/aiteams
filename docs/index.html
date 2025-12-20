@@ -821,10 +821,10 @@
                 interim: curFlags.interim || prevFlags.interim,
             };
             
-            if (fn === "Engineering") {
-                return { category: "Engineering", level: getEngLevel(yoe), confidence, seniority, flags };
-            }
-            return { category: fn, level: null, confidence, seniority, flags };
+            // Show seniority for Eng, Design, Product, GTM, Ops
+            const showLevelFor = ["Engineering", "Design", "Product", "GTM", "Ops"];
+            const level = showLevelFor.includes(fn) ? getEngLevel(yoe) : null;
+            return { category: fn, level, confidence, seniority, flags };
         }
         
         function formatPersonName(name, age) {
@@ -906,11 +906,11 @@
         
         function renderRoleTag(category, number = null, level = null) {
             const tag = getRoleTag(category);
-            // Founders don't get numbers, Engineering shows level in parentheses
+            // Founders don't get numbers; Eng, Design, Product, GTM, Ops show level
             let text;
             if (category === 'Founder' || number === null) {
                 text = tag.text;
-            } else if (category === 'Engineering' && level) {
+            } else if (level) {
                 text = `${tag.text} #${number} (${level})`;
             } else {
                 text = `${tag.text} #${number}`;
