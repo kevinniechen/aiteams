@@ -130,12 +130,10 @@ def build_static():
     # Remove spam-btn CSS
     html = re.sub(r'\.spam-btn \{[^}]+\}', '', html)
     
-    # Remove toggleSpam function
-    html = re.sub(
-        r'async function toggleSpam\([^)]*\) \{[\s\S]*?showCompany\(currentCompany\);[\s\S]*?\}[\s\S]*?\}',
-        '// toggleSpam removed in static build',
-        html
-    )
+    # Remove toggleSpam function completely
+    # Match: async function toggleSpam(company, name) { ... entire function body ... }
+    toggleSpam_pattern = r'async function toggleSpam\(company, name\) \{\s*const wasSpam = isSpam\(company, name\);[\s\S]*?alert\(\'Failed to save spam status\'\);\s*\}\s*\}'
+    html = re.sub(toggleSpam_pattern, '// toggleSpam removed in static build', html)
     
     # Create docs folder
     os.makedirs('docs', exist_ok=True)
