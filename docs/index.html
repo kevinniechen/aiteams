@@ -112,6 +112,7 @@
         .col-name { width: 140px; }
         .col-title { width: 280px; }
         .col-yoe { width: 35px; }
+        .col-start { width: 40px; }
         .col-edu { width: 250px; }
         .col-prev { width: auto; }
         
@@ -432,6 +433,7 @@
             .col-name { width: 100px; }
             .col-title { width: 140px; }
             .col-yoe { width: 30px; }
+            .col-start { width: 35px; }
             .col-edu { width: 100px; }
             .col-prev { width: auto; }
             .col-company { width: 55px; }
@@ -1178,6 +1180,7 @@ document.getElementById('company-info').innerHTML =
                     <th class="col-rank">#</th>
                     <th class="col-name">Name</th>
                     <th class="col-title">Title</th>
+                    <th class="col-start">Start</th>
                     <th class="col-yoe">YoE</th>
                     <th class="col-edu">Education</th>
                     <th class="col-prev">Experience</th>
@@ -1214,6 +1217,7 @@ document.getElementById('company-info').innerHTML =
                     <td>${idx + 1}</td>
                     <td>${name}</td>
                     <td title="${(e.original_title || e.title).replace(/"/g, '&quot;')}">${titleDisplay}</td>
+                    <td>${formatTenure(e.start_date, companyInceptionDate)}</td>
                     <td>${yoe}</td>
                     <td title="${(e.education || '').replace(/"/g, '&quot;')}">${eduDisplay}</td>
                     <td title="${expText.replace(/"/g, '&quot;')}">${prevDisplay}</td>
@@ -1350,6 +1354,7 @@ document.getElementById('company-info').innerHTML =
                     <th class="col-company">Company</th>
                     <th class="col-name">Name</th>
                     <th class="col-title">Title</th>
+                    <th class="col-start">Start</th>
                     <th class="col-yoe">YoE</th>
                     <th class="col-edu">Education</th>
                     <th class="col-prev">Experience</th>
@@ -1388,6 +1393,7 @@ document.getElementById('company-info').innerHTML =
                     <td><strong>${companyHighlight}</strong></td>
                     <td>${name}</td>
                     <td title="${(e.original_title || e.title).replace(/"/g, '&quot;')}">${titleDisplay}</td>
+                    <td>${formatTenure(e.start_date, inceptionDates[e.company_slug])}</td>
                     <td>${yoe}</td>
                     <td title="${(e.education || '').replace(/"/g, '&quot;')}">${eduDisplay}</td>
                     <td title="${expText.replace(/"/g, '&quot;')}">${prevDisplay}</td>
