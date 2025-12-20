@@ -992,7 +992,7 @@
         
         function renderWithLogo(text, logoUrl) {
             if (logoUrl) {
-                return `<span class="with-logo"><img class="logo-icon" src="${logoUrl}" onerror="this.style.display='none'">${text}</span>`;
+                return `<span class="with-logo"><img class="logo-icon" src="${logoUrl}" onerror="this.style.display='none'"><span>${text}</span></span>`;
             }
             return text;
         }
@@ -1484,7 +1484,31 @@ document.getElementById('company-info').innerHTML =
         
         function searchAllCompanies(query) {
             const results = [];
-            const q = query.toLowerCase();
+            const q = query.toLowerCase().trim();
+            
+            // Split query into tokens - each token must be found somewhere
+            // This allows "eng (mid)" to match "Eng #5 (Mid)" 
+            const tokens = q.split(/\s+/).filter(t => t.length > 0);
+            if (tokens.length === 0) return results;
+            
+            // Pre-compute category numbers for all companies first
+            const categoryNumbersByCompany = {};
+            Object.entries(companyData).forEach(([slug, data]) => {
+                const employees = (data.employees || []).filter(e => !isSpam(slug, e.name));
+                const categoryCounts = {};
+                const empCategoryNums = {};
+                employees.forEach(emp => {
+                    const role = categorizeRole(emp);
+                    if (role.category !== 'Founder') {
+                        if (!categoryCounts[role.category]) categoryCounts[role.category] = 0;
+                        categoryCounts[role.category]++;
+                        empCategoryNums[emp.name] = { category: role.category, num: categoryCounts[role.category], level: role.level };
+                    } else {
+                        empCategoryNums[emp.name] = { category: role.category, num: null, level: null };
+                    }
+                });
+                categoryNumbersByCompany[slug] = empCategoryNums;
+            });
             
             Object.entries(companyData).forEach(([slug, data]) => {
                 const companyName = data.company_display || slug;
@@ -1493,24 +1517,59 @@ document.getElementById('company-info').innerHTML =
                 employees.forEach(emp => {
                     if (isSpam(slug, emp.name)) return;
                     
-                    // Get role for searching
+                    // Get role info including computed number and level
                     const role = categorizeRole(emp);
+                    const catData = categoryNumbersByCompany[slug]?.[emp.name];
+                    const catNum = catData?.num;
+                    const catLevel = catData?.level || role.level;
                     
-                    // Search across all columns
-                    const searchFields = [
+                    // Build full role tag text for searching (e.g., "Design #3 (Jr)")
+                    const tag = getRoleTag(role.category);
+                    let roleTagText = tag.text;
+                    if (role.category !== 'Founder' && catNum !== null) {
+                        if (catLevel) {
+                            roleTagText = `${tag.text} #${catNum} (${catLevel})`;
+                        } else {
+                            roleTagText = `${tag.text} #${catNum}`;
+                        }
+                    }
+                    
+                    // Build experience text for searching
+                    let expParts = [];
+                    if (emp.previous_company && emp.previous_company !== 'N/A') {
+                        expParts.push(`${emp.previous_title} @ ${emp.previous_company}`);
+                    }
+                    if (emp.previous_company_2 && emp.previous_company_2 !== 'N/A') {
+                        expParts.push(`${emp.previous_title_2} @ ${emp.previous_company_2}`);
+                    }
+                    const expText = expParts.join('; ');
+                    
+                    // Build tenure text for searching
+                    const yoe = inferYoE(emp);
+                    const yoeStr = String(yoe);
+                    
+                    // Combine all searchable text into one string
+                    const searchText = [
                         emp.name,
                         emp.title,
                         emp.original_title,
                         emp.education,
                         emp.previous_title,
                         emp.previous_company,
+                        emp.previous_title_2,
+                        emp.previous_company_2,
+                        expText,
                         role.category,
+                        roleTagText,              // Full tag like "Design #3 (Jr)"
+                        catLevel,                 // Just "Jr", "Mid", "Sr"
                         companyName,
                         emp.grad_year,
-                        emp.start_date
-                    ].filter(Boolean).map(s => s.toLowerCase());
+                        emp.start_date,
+                        yoeStr                    // YoE number
+                    ].filter(Boolean).map(s => String(s).toLowerCase()).join(' ');
                     
-                    const matches = searchFields.some(field => field.includes(q));
+                    // All tokens must be found somewhere in the combined text
+                    const matches = tokens.every(token => searchText.includes(token));
                     
                     if (matches) {
                         results.push({
@@ -1535,19 +1594,41 @@ document.getElementById('company-info').innerHTML =
         
         function highlightMatch(text, query) {
             if (!text || !query) return text || '';
-            const regex = new RegExp(`(${query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+            // Split query into tokens and build a single regex to match any of them
+            const tokens = query.toLowerCase().trim().split(/\s+/).filter(t => t.length > 0);
+            if (tokens.length === 0) return text;
+            
+            // Escape each token and join with | for alternation, sort by length desc to match longer first
+            const escaped = tokens
+                .sort((a, b) => b.length - a.length)
+                .map(t => t.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+            const regex = new RegExp(`(${escaped.join('|')})`, 'gi');
             return text.replace(regex, '<span class="search-match">$1</span>');
         }
         
         function showSearchResults(query) {
             const results = searchAllCompanies(query);
             
-            // Pre-compute inception dates per company
+            // Pre-compute inception dates and category numbers per company
             const inceptionDates = {};
+            const categoryNumbersByCompany = {};
             Object.entries(companyData).forEach(([slug, data]) => {
                 const employees = (data.employees || []).filter(e => !isSpam(slug, e.name));
                 const dates = employees.map(e => e.start_date).filter(Boolean).sort();
                 inceptionDates[slug] = dates[0] || null;
+                
+                // Pre-compute category numbers for each employee in this company
+                const categoryCounts = {};
+                const empCategoryNums = {};
+                employees.forEach(emp => {
+                    const role = categorizeRole(emp);
+                    if (role.category !== 'Founder') {
+                        if (!categoryCounts[role.category]) categoryCounts[role.category] = 0;
+                        categoryCounts[role.category]++;
+                        empCategoryNums[emp.name] = { category: role.category, num: categoryCounts[role.category] };
+                    }
+                });
+                categoryNumbersByCompany[slug] = empCategoryNums;
             });
             
             // Update tabs to show none selected
@@ -1584,7 +1665,7 @@ document.getElementById('company-info').innerHTML =
                 const companyHighlight = highlightMatch(e.company_name, query);
                 const schoolLogo = getSchoolLogo(e.education);
                 const companyLogo = getCompanyLogo(e.previous_company);
-                const eduDisplay = schoolLogo ? `<span class="with-logo"><img class="logo-icon" src="${schoolLogo}" onerror="this.style.display='none'">${education}</span>` : education;
+                const eduDisplay = schoolLogo ? `<span class="with-logo"><img class="logo-icon" src="${schoolLogo}" onerror="this.style.display='none'"><span>${education}</span></span>` : education;
                 
                 // Build experience display with up to 2 previous jobs
                 let expParts = [];
@@ -1595,9 +1676,28 @@ document.getElementById('company-info').innerHTML =
                     expParts.push(`${highlightMatch(e.previous_title_2, query)} @ ${highlightMatch(e.previous_company_2, query)}`);
                 }
                 const expText = expParts.join('; ') || 'N/A';
-                const prevDisplay = companyLogo ? `<span class="with-logo"><img class="logo-icon" src="${companyLogo}" onerror="this.style.display='none'">${expText}</span>` : expText;
+                const prevDisplay = companyLogo ? `<span class="with-logo"><img class="logo-icon" src="${companyLogo}" onerror="this.style.display='none'"><span>${expText}</span></span>` : expText;
                 
-                const titleDisplay = `<span class="title-content">${renderRoleTag(role.category, null, role.level)}<span class="title-text">${title}</span></span>`;
+                // Get the category number for this employee from precomputed data
+                const empCatData = categoryNumbersByCompany[e.company_slug]?.[e.name];
+                const categoryNum = empCatData?.num || null;
+                
+                // Build role tag text and apply highlighting
+                const tag = getRoleTag(role.category);
+                let roleTagTextRaw = tag.text;
+                if (role.category !== 'Founder' && categoryNum !== null) {
+                    if (role.level) {
+                        roleTagTextRaw = `${tag.text} #${categoryNum} (${role.level})`;
+                    } else {
+                        roleTagTextRaw = `${tag.text} #${categoryNum}`;
+                    }
+                }
+                const roleTagTextHighlighted = highlightMatch(roleTagTextRaw, query);
+                const roleTagHtml = `<span class="role-tag ${tag.class}">${roleTagTextHighlighted}</span>`;
+                
+                const titleDisplay = `<span class="title-content">${roleTagHtml}<span class="title-text">${title}</span></span>`;
+                
+                const yoeHighlight = highlightMatch(String(yoe), query);
                 
                 html += `<tr class="employee-row">
                     <td>${e.rank}</td>
@@ -1605,7 +1705,7 @@ document.getElementById('company-info').innerHTML =
                     <td><strong>${companyHighlight}</strong></td>
                     <td>${name}</td>
                     <td title="${(e.original_title || e.title).replace(/"/g, '&quot;')}">${titleDisplay}</td>
-                    <td>${yoe}</td>
+                    <td>${yoeHighlight}</td>
                     <td title="${(e.education || '').replace(/"/g, '&quot;')}">${eduDisplay}</td>
                     <td title="${expText.replace(/"/g, '&quot;')}">${prevDisplay}</td>
                 </tr>`;
