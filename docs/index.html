@@ -111,7 +111,7 @@
         .col-rank { width: 25px; }
         .col-name { width: 140px; }
         .col-title { width: 280px; }
-        .col-yoe { width: 70px; }
+        .col-yoe { width: 35px; }
         .col-start { width: 40px; }
         .col-edu { width: 250px; }
         .col-prev { width: auto; }
@@ -432,7 +432,7 @@
             .col-rank { width: 20px; }
             .col-name { width: 100px; }
             .col-title { width: 140px; }
-            .col-yoe { width: 55px; }
+            .col-yoe { width: 30px; }
             .col-start { width: 35px; }
             .col-edu { width: 100px; }
             .col-prev { width: auto; }
@@ -905,10 +905,17 @@
             return config[category] || { text: category, class: 'role-tag-other' };
         }
         
-        function renderRoleTag(category, number = null) {
+        function renderRoleTag(category, number = null, level = null) {
             const tag = getRoleTag(category);
-            // Founders don't get numbers
-            const text = (category === 'Founder' || number === null) ? tag.text : `${tag.text} #${number}`;
+            // Founders don't get numbers, Engineering shows level in parentheses
+            let text;
+            if (category === 'Founder' || number === null) {
+                text = tag.text;
+            } else if (category === 'Engineering' && level) {
+                text = `${tag.text} #${number} (${level})`;
+            } else {
+                text = `${tag.text} #${number}`;
+            }
             return `<span class="role-tag ${tag.class}">${text}</span>`;
         }
         
@@ -1006,13 +1013,6 @@
             if (y <= 3) return 'Jr';
             if (y <= 8) return 'Sr';
             return 'Staff';
-        }
-        
-        function formatYoE(yoe) {
-            const y = parseInt(yoe) || 0;
-            if (yoe === '?' || isNaN(parseInt(yoe))) return '?';
-            const level = getLevel(yoe);
-            return `${level} (${y})`;
         }
         
         function buildSnapshot(employees, month) {
@@ -1331,7 +1331,7 @@ document.getElementById('company-info').innerHTML =
                     <th class="col-start">Joined</th>
                     <th class="col-name">Name</th>
                     <th class="col-title">Role</th>
-                    <th class="col-yoe">Exp</th>
+                    <th class="col-yoe">YoE</th>
                     <th class="col-edu">Education</th>
                     <th class="col-prev">Experience</th>
                     
@@ -1372,7 +1372,7 @@ document.getElementById('company-info').innerHTML =
                 const expText = expParts.join('; ') || 'N/A';
                 const prevDisplay = renderWithLogo(expText, companyLogo);
                 
-                const titleDisplay = `<span class="title-content">${renderRoleTag(role.category, categoryNum)}<span class="title-text">${e.original_title || e.title}</span></span>`;
+                const titleDisplay = `<span class="title-content">${renderRoleTag(role.category, categoryNum, role.level)}<span class="title-text">${e.original_title || e.title}</span></span>`;
                 html += `<tr class="employee-row" data-month="${e.start_date}" 
                     onmouseenter="highlightMonth('${e.start_date}', this)" onmouseleave="clearHighlight()"
                     onclick="selectMonth('${e.start_date}', false)" style="cursor: pointer">
@@ -1380,7 +1380,7 @@ document.getElementById('company-info').innerHTML =
                     <td>${formatTenure(e.start_date, companyInceptionDate)}</td>
                     <td>${name}</td>
                     <td title="${(e.original_title || e.title).replace(/"/g, '&quot;')}">${titleDisplay}</td>
-                    <td>${formatYoE(yoe)}</td>
+                    <td>${yoe}</td>
                     <td title="${(e.education || '').replace(/"/g, '&quot;')}">${eduDisplay}</td>
                     <td title="${expText.replace(/"/g, '&quot;')}">${prevDisplay}</td>
                     
@@ -1517,7 +1517,7 @@ document.getElementById('company-info').innerHTML =
                     <th class="col-company">Company</th>
                     <th class="col-name">Name</th>
                     <th class="col-title">Role</th>
-                    <th class="col-yoe">Exp</th>
+                    <th class="col-yoe">YoE</th>
                     <th class="col-edu">Education</th>
                     <th class="col-prev">Experience</th>
                 </tr>
@@ -1548,7 +1548,7 @@ document.getElementById('company-info').innerHTML =
                 const expText = expParts.join('; ') || 'N/A';
                 const prevDisplay = companyLogo ? `<span class="with-logo"><img class="logo-icon" src="${companyLogo}" onerror="this.style.display='none'">${expText}</span>` : expText;
                 
-                const titleDisplay = `<span class="title-content">${renderRoleTag(role.category)}<span class="title-text">${title}</span></span>`;
+                const titleDisplay = `<span class="title-content">${renderRoleTag(role.category, null, role.level)}<span class="title-text">${title}</span></span>`;
                 
                 html += `<tr class="employee-row">
                     <td>${e.rank}</td>
@@ -1556,7 +1556,7 @@ document.getElementById('company-info').innerHTML =
                     <td><strong>${companyHighlight}</strong></td>
                     <td>${name}</td>
                     <td title="${(e.original_title || e.title).replace(/"/g, '&quot;')}">${titleDisplay}</td>
-                    <td>${formatYoE(yoe)}</td>
+                    <td>${yoe}</td>
                     <td title="${(e.education || '').replace(/"/g, '&quot;')}">${eduDisplay}</td>
                     <td title="${expText.replace(/"/g, '&quot;')}">${prevDisplay}</td>
                 </tr>`;
