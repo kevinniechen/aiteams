@@ -135,6 +135,9 @@ def build_static():
     toggleSpam_pattern = r'async function toggleSpam\(company, name\) \{\s*const wasSpam = isSpam\(company, name\);[\s\S]*?alert\(\'Failed to save spam status\'\);\s*\}\s*\}'
     html = re.sub(toggleSpam_pattern, '// toggleSpam removed in static build', html)
     
+    # Remove "(X hidden)" text from company info
+    html = re.sub(r"\$\{spamCount > 0 \? ` \(\$\{spamCount\} hidden\)` : ''\}", "''", html)
+    
     # Create docs folder
     os.makedirs('docs', exist_ok=True)
     
