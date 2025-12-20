@@ -868,9 +868,16 @@
             const [startYear, startMonth] = startDate.split('-').map(Number);
             const [incYear, incMonth] = inception.split('-').map(Number);
             
-            const totalMonths = (startYear - incYear) * 12 + (startMonth - incMonth);
+            const totalMonths = Math.max(0, (startYear - incYear) * 12 + (startMonth - incMonth));
             
-            return `${Math.max(0, totalMonths)}mo`;
+            // Format as Xy Ymo (e.g., 1y2mo, 0mo, 2y0mo)
+            const years = Math.floor(totalMonths / 12);
+            const months = totalMonths % 12;
+            
+            if (years === 0) {
+                return `${months}mo`;
+            }
+            return `${years}y${months}mo`;
         }
         
         function getRoleTag(category) {
