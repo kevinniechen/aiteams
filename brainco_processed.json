@@ -1,7 +1,7 @@
 {
   "company": "brainco",
   "company_display": "Brainco",
-  "founded": "2022-01",
+  "founded": "2023-01",
   "employees": [
     {
       "rank": 1,
@@ -13,6 +13,8 @@
       "original_title": "Private Equity",
       "previous_title": "Director Of Operations",
       "previous_company": "Rithum",
+      "previous_title_2": "Head Of Operations",
+      "previous_company_2": "Cypher",
       "education": "BS Math, Brown University '16",
       "linkedin_url": "https://linkedin.com/in/eric-han16"
     },
@@ -26,6 +28,8 @@
       "original_title": "Co-Founder & President",
       "previous_title": "Co-Founder & Chief Executive Officer (Acquired)",
       "previous_company": "Serene Ai",
+      "previous_title_2": "Vice President",
+      "previous_company_2": "Clubhouse",
       "education": "Stanford '14",
       "linkedin_url": "https://linkedin.com/in/dashton-"
     },
@@ -39,6 +43,8 @@
       "original_title": "Head Of Design",
       "previous_title": "Senior Adjunct Professor",
       "previous_company": "California College Of The Arts",
+      "previous_title_2": "Founding Designer (Acq.)",
+      "previous_company_2": "Serene Ai",
       "education": "Master Of Fine Arts Design, School Of Visual Art '13",
       "linkedin_url": "https://linkedin.com/in/ssprockett"
     },
@@ -52,6 +58,8 @@
       "original_title": "Founding Engineer",
       "previous_title": "Staff Software Engineer",
       "previous_company": "Sprig",
+      "previous_title_2": "Founding Engineer",
+      "previous_company_2": "Elotl",
       "education": "MS, Corvinus University  '10",
       "linkedin_url": "https://linkedin.com/in/vilmos-nebehaj-7a379410"
     },
@@ -65,6 +73,8 @@
       "original_title": "Co-Founder & Head Of Engineering",
       "previous_title": "Co-Founder & Chief Technology Officer (Acquired)",
       "previous_company": "Serene Ai",
+      "previous_title_2": "Angel Track",
+      "previous_company_2": "First Round Capital",
       "education": "MS CS, University Of Buchar '11",
       "linkedin_url": "https://linkedin.com/in/mirceapasoi"
     },
@@ -78,6 +88,8 @@
       "original_title": "Co-Founder & Ai / Ml",
       "previous_title": "Co-Founder & Chief Technology Officer (Acquired)",
       "previous_company": "Serene Ai",
+      "previous_title_2": "Built & Managed The Machine Learning Team",
+      "previous_company_2": "Clubhouse",
       "education": "BE CS, Cornell '10",
       "linkedin_url": "https://linkedin.com/in/revantk"
     },
@@ -91,6 +103,8 @@
       "original_title": "Head Of Engineering Initiatives",
       "previous_title": "Chief Technology Officer",
       "previous_company": "Clubhouse",
+      "previous_title_2": "Technology Advisor & Angel Investor",
+      "previous_company_2": "Various Startups",
       "education": "United World College",
       "linkedin_url": "https://linkedin.com/in/almalkawi"
     },
@@ -104,6 +118,8 @@
       "original_title": "Founding Engineer",
       "previous_title": "Founding Engineer",
       "previous_company": "Supergood",
+      "previous_title_2": "Engineering Manager",
+      "previous_company_2": "Blend",
       "education": "PhD, Texas A&M University '17",
       "linkedin_url": "https://linkedin.com/in/zachary-benamram-413788226"
     },
@@ -117,6 +133,8 @@
       "original_title": "Ai Engineer",
       "previous_title": "Technical Architect",
       "previous_company": "Warden Global",
+      "previous_title_2": "Co-Founder & Chief Technology Officer",
+      "previous_company_2": "Teleport",
       "education": "MS, University Of Buchar '18",
       "linkedin_url": "https://linkedin.com/in/alexbuicescu"
     },
@@ -130,6 +148,8 @@
       "original_title": "Research Scientist",
       "previous_title": "Staff Research Engineer",
       "previous_company": "Google Deepmind",
+      "previous_title_2": "Founding Research Engineer",
+      "previous_company_2": "Isomorphic Labs",
       "education": "Entrepreneurship, Ucla Anderson School",
       "linkedin_url": "https://linkedin.com/in/sibon-li-9a9bba34"
     },
@@ -143,6 +163,8 @@
       "original_title": "Founding Engineer",
       "previous_title": "Member Of Technical Staff",
       "previous_company": "Harvey",
+      "previous_title_2": "Co-Founder And Chief Technology Officer",
+      "previous_company_2": "Stack",
       "education": "MS CE, Uc Irvine '13",
       "linkedin_url": "https://linkedin.com/in/cecez"
     },
@@ -156,6 +178,8 @@
       "original_title": "Founding Engineer",
       "previous_title": "Senior Machine Learning Engineer",
       "previous_company": "Anduril Industries",
+      "previous_title_2": "Machine Learning Engineer",
+      "previous_company_2": "Anduril Industries",
       "education": "MS CS, UC Berkeley '21",
       "linkedin_url": "https://linkedin.com/in/vishnu-d-9450a796"
     },
@@ -169,6 +193,8 @@
       "original_title": "Machine Learning Engineer",
       "previous_title": "Founder (Acquired)",
       "previous_company": "Storytime",
+      "previous_title_2": "Founder",
+      "previous_company_2": "Afterword",
       "education": "MS CS, UIUC '13",
       "linkedin_url": "https://linkedin.com/in/davidmlundgren"
     },
@@ -182,6 +208,8 @@
       "original_title": "Founding Deployed Engineer",
       "previous_title": "Co-Founder",
       "previous_company": "Leaping",
+      "previous_title_2": "Technical Lead",
+      "previous_company_2": "Rippling",
       "education": "Bachelor Of Applied  Engineering, University Of Waterl '22",
       "linkedin_url": "https://linkedin.com/in/kvptkr"
     },
@@ -195,6 +223,8 @@
       "original_title": "Ai / Ml",
       "previous_title": "Chief Technology Officer",
       "previous_company": "Sapling.Ai",
+      "previous_title_2": "Founding Engineer",
+      "previous_company_2": "Brilliant Smart Home",
       "education": "BS CS, UC Berkeley '13",
       "linkedin_url": "https://linkedin.com/in/hngjms"
     },
@@ -208,6 +238,8 @@
       "original_title": "Engineer",
       "previous_title": "Swe",
       "previous_company": "Macroscope",
+      "previous_title_2": "Tech Lead, Web",
+      "previous_company_2": "Clubhouse",
       "education": "Southern Methodist U '19",
       "linkedin_url": "https://linkedin.com/in/justinkunz-1"
     },
@@ -221,6 +253,8 @@
       "original_title": "Founding Recruiter",
       "previous_title": "Recruiting Lead",
       "previous_company": "Shepherd",
+      "previous_title_2": "Full Cycle Technical Recruiter",
+      "previous_company_2": "Nexhealth",
       "education": "MS Occupational Therapy, Boston University '15",
       "linkedin_url": "https://linkedin.com/in/ijoo22"
     },
@@ -234,6 +268,8 @@
       "original_title": "Product Designer",
       "previous_title": "Design Thinking Lecturer",
       "previous_company": "Saint Joseph University Of Beirut",
+      "previous_title_2": "Designer",
+      "previous_company_2": "Sap",
       "education": "Harvard Business Sch '21",
       "linkedin_url": "https://linkedin.com/in/mia-rizk"
     },
@@ -247,6 +283,8 @@
       "original_title": "Head Of Commercial Partnerships",
       "previous_title": "Mena Commercial Lead",
       "previous_company": "Palantir Technologies",
+      "previous_title_2": "Commercial Execution Lead",
+      "previous_company_2": "Palantir Technologies",
       "education": "MS Finance, Georgia Tech '17",
       "linkedin_url": "https://linkedin.com/in/rushad-kaizad-heerjee"
     },
@@ -260,6 +298,8 @@
       "original_title": "Chief Executive Officer",
       "previous_title": "Head Of Product",
       "previous_company": "Instabase",
+      "previous_title_2": "Director Of Product Management, Machine Learning And Data Science",
+      "previous_company_2": "Databricks",
       "education": "MBA, Mit Sloan School Of  '15",
       "linkedin_url": "https://linkedin.com/in/clemensmewald"
     },
@@ -273,6 +313,8 @@
       "original_title": "Machine Learning Engineer",
       "previous_title": "Machine Learning Intern",
       "previous_company": "Uber",
+      "previous_title_2": "Researcher",
+      "previous_company_2": "Yale University",
       "education": "MS Data Science, Yale '25",
       "linkedin_url": "https://linkedin.com/in/mattshu"
     },
@@ -286,6 +328,8 @@
       "original_title": "Gtm & Partnerships Executive",
       "previous_title": "Early Stage Investor",
       "previous_company": "Activeloop",
+      "previous_title_2": "Vice President Of Partnerships & Alliances",
+      "previous_company_2": "Groq",
       "education": "MBA Management, Stanford '07",
       "linkedin_url": "https://linkedin.com/in/walteraldana"
     },
@@ -299,6 +343,8 @@
       "original_title": "Ai Product Engineer",
       "previous_title": "Founding Engineer",
       "previous_company": "Lassie",
+      "previous_title_2": "Software Engineer",
+      "previous_company_2": "Ramp",
       "education": "BS CS, UIUC '22",
       "linkedin_url": "https://linkedin.com/in/jeffrey-tang"
     },
@@ -312,6 +358,8 @@
       "original_title": "Ai Product Engineer",
       "previous_title": "Software Engineer",
       "previous_company": "Tesla",
+      "previous_title_2": "Senior Software Engineer",
+      "previous_company_2": "Clever Inc.",
       "education": "BS CS, MIT '21",
       "linkedin_url": "https://linkedin.com/in/ashleyqwang"
     },
@@ -325,6 +373,8 @@
       "original_title": "Product Lead",
       "previous_title": "Product Team Lead",
       "previous_company": "Instabase",
+      "previous_title_2": "Lead Product Manager",
+      "previous_company_2": "C3 Ai",
       "education": "MS Design, Stanford '18",
       "linkedin_url": "https://linkedin.com/in/kaustubh-desh"
     },
@@ -338,6 +388,8 @@
       "original_title": "Operations",
       "previous_title": "Vice President",
       "previous_company": "Citadel Securities",
+      "previous_title_2": "Consultant",
+      "previous_company_2": "Bain & Company",
       "education": "BS Econ, Qut (Queensland Univ",
       "linkedin_url": "https://linkedin.com/in/jensenjoel"
     },
@@ -351,6 +403,8 @@
       "original_title": "Ai Product Engineer",
       "previous_title": "Senior Software Engineer",
       "previous_company": "Alchemy",
+      "previous_title_2": "Senior Software Engineer",
+      "previous_company_2": "Scale Ai",
       "education": "Y Combinator '16",
       "linkedin_url": "https://linkedin.com/in/derekdahmer"
     },
@@ -364,6 +418,8 @@
       "original_title": "Recruitment Coordinator",
       "previous_title": "Technical Recruiter",
       "previous_company": "Cardless",
+      "previous_title_2": "Technical Recruiter",
+      "previous_company_2": "Scalable",
       "education": "BS Communication, Ucla '17",
       "linkedin_url": "https://linkedin.com/in/veronica-tong-004629183"
     },
@@ -377,6 +433,8 @@
       "original_title": "Ai / Ml",
       "previous_title": "Machine Learning Engineer",
       "previous_company": "Pinterest",
+      "previous_title_2": "Research Assistant",
+      "previous_company_2": "Us-Asia Technology Management Center",
       "education": "MS CS, Stanford '21",
       "linkedin_url": "https://linkedin.com/in/ammar-alqatari"
     },
@@ -390,6 +448,8 @@
       "original_title": "Ai Product Engineer",
       "previous_title": "Software Engineer Intern",
       "previous_company": "Uber",
+      "previous_title_2": "Co-Founder",
+      "previous_company_2": "Beebettor",
       "education": "Y Combinator '24",
       "linkedin_url": "https://linkedin.com/in/mathyou-wolfe"
     },
@@ -403,6 +463,8 @@
       "original_title": "Ai Product Engineer",
       "previous_title": "Founding Member",
       "previous_company": "Theo Ai",
+      "previous_title_2": "Hyperline - Founding Engineer",
+      "previous_company_2": "Theo Ai",
       "education": "MS CS, Columbia '15",
       "linkedin_url": "https://linkedin.com/in/namanjn"
     },
@@ -416,6 +478,8 @@
       "original_title": "Ai Partnerships & Deployments",
       "previous_title": "Head Of Engagements, Gen Ai",
       "previous_company": "Scale Ai",
+      "previous_title_2": "Engagement Manager, Gen Ai",
+      "previous_company_2": "Scale Ai",
       "education": "Udacity '18",
       "linkedin_url": "https://linkedin.com/in/solimanfady"
     },
@@ -429,6 +493,8 @@
       "original_title": "Ai Product Engineer",
       "previous_title": "Senior Software Engineer",
       "previous_company": "Medallion",
+      "previous_title_2": "Co-Founder",
+      "previous_company_2": "Omnimerchant",
       "education": "CS, University Of Califo '18",
       "linkedin_url": "https://linkedin.com/in/m-t-andemeskel"
     },
@@ -442,6 +508,8 @@
       "original_title": "Ai / Ml Engineer",
       "previous_title": "Ai Engineer 2",
       "previous_company": "Meltwater",
+      "previous_title_2": "Data Scientist",
+      "previous_company_2": "Intorqa",
       "education": "MS CS, Manning College Of I '23",
       "linkedin_url": "https://linkedin.com/in/paarthtandon"
     },
@@ -455,6 +523,8 @@
       "original_title": "Ai / Ml Engineering",
       "previous_title": "Machine Learning Engineer",
       "previous_company": "Stripe",
+      "previous_title_2": "Machine Learning Engineer",
+      "previous_company_2": "Plaid",
       "education": "MA Econ, Ucla '15",
       "linkedin_url": "https://linkedin.com/in/vikramacharyarao"
     },
@@ -468,6 +538,8 @@
       "original_title": "Ai Due Diligence Principal",
       "previous_title": "Consultant",
       "previous_company": "Bain & Company",
+      "previous_title_2": "Senior Associate Consultant",
+      "previous_company_2": "Bain & Company",
       "education": "MEng ME, The University Of We '19",
       "linkedin_url": "https://linkedin.com/in/sam-jefferies-309035135"
     },
@@ -481,6 +553,8 @@
       "original_title": "Recruiting Coordinator",
       "previous_title": "Intern",
       "previous_company": "Valiance Capital",
+      "previous_title_2": "Campus Leadership Ambassador",
+      "previous_company_2": "You.Com",
       "education": "BA Public Policy, UC Berkeley '25",
       "linkedin_url": "https://linkedin.com/in/larissacorry"
     },
@@ -494,6 +568,8 @@
       "original_title": "Ai Platform Engineer",
       "previous_title": "Staff Software Engineer",
       "previous_company": "Alchemy",
+      "previous_title_2": "Software Engineer",
+      "previous_company_2": "Alchemy",
       "education": "BA CS, UC Berkeley '16",
       "linkedin_url": "https://linkedin.com/in/steven-yang-98123b66"
     },
@@ -507,6 +583,8 @@
       "original_title": "Ai / Ml Engineer",
       "previous_title": "Ai / Ml Engineer",
       "previous_company": "Adobe",
+      "previous_title_2": "Software Engineer Intern",
+      "previous_company_2": "Adobe",
       "education": "MS CS, Stanford '25",
       "linkedin_url": "https://linkedin.com/in/adam1zhao"
     }

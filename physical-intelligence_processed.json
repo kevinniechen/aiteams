@@ -13,6 +13,8 @@
       "original_title": "Operations",
       "previous_title": "Chief Of Staff",
       "previous_company": "Compound",
+      "previous_title_2": "Organizational Effectiveness",
+      "previous_company_2": "Curology",
       "education": "The American Univers '15",
       "linkedin_url": "https://linkedin.com/in/annawalling"
     },
@@ -26,6 +28,8 @@
       "original_title": "Co-Founder",
       "previous_title": "Head Of Stripe Issuing",
       "previous_company": "Stripe",
+      "previous_title_2": "N/A",
+      "previous_company_2": "N/A",
       "education": "Wesley College '11",
       "linkedin_url": "https://linkedin.com/in/lachy-groom-b218895"
     },
@@ -39,6 +43,8 @@
       "original_title": "Building Embodied Ai",
       "previous_title": "Senior Director, Head Of Behavior And Simulation",
       "previous_company": "Nuro",
+      "previous_title_2": "Senior Staff Software Engineer, Simulation & Behavior Research At Waymo",
+      "previous_company_2": "Waymo",
       "education": "BA Math, Israel Jobs '07",
       "linkedin_url": "https://linkedin.com/in/uryzhilinsky"
     },
@@ -52,6 +58,8 @@
       "original_title": "Member Of Technical Staff",
       "previous_title": "Angel Investor | Advisor",
       "previous_company": "Mohith Mothukuri",
+      "previous_title_2": "Senior Mechatronics Software Engineer",
+      "previous_company_2": "Anduril Industries",
       "education": "BS CS, Columbia '23",
       "linkedin_url": "https://linkedin.com/in/mohith-mothukuri"
     },
@@ -65,6 +73,8 @@
       "original_title": "Member Of Technical Staff",
       "previous_title": "Ml Research Engineer",
       "previous_company": "Tesla",
+      "previous_title_2": "Data Scientist",
+      "previous_company_2": "Tesla",
       "education": "BS CS, Columbia '22",
       "linkedin_url": "https://linkedin.com/in/niccolo-fusai-472525188"
     },
@@ -78,6 +88,8 @@
       "original_title": "Co-Founder",
       "previous_title": "Assistant Professor",
       "previous_company": "Stanford University",
+      "previous_title_2": "Research Scientist",
+      "previous_company_2": "Google Brain Google Deepmind",
       "education": "PhD, UC Berkeley '18",
       "linkedin_url": "https://linkedin.com/in/cbfinn"
     },
@@ -91,6 +103,8 @@
       "original_title": "Co-Founder",
       "previous_title": "Research Scientist",
       "previous_company": "Google",
+      "previous_title_2": "Propulsion Engineer",
+      "previous_company_2": "Boeing",
       "education": "PhD Engineering, Stanford '18",
       "linkedin_url": "https://linkedin.com/in/brian-ichter-26875978"
     },
@@ -104,6 +118,8 @@
       "original_title": "Chief Executive Officer",
       "previous_title": "Adjunct Professor",
       "previous_company": "Stanford University",
+      "previous_title_2": "Staff Research Scientist And Robot Manipulation Lead At Google Brain",
+      "previous_company_2": "Google",
       "education": "PhD CS, USC '18",
       "linkedin_url": "https://linkedin.com/in/karolhausman"
     },
@@ -117,6 +133,8 @@
       "original_title": "Member Of Technical Staff",
       "previous_title": "Research Scientist",
       "previous_company": "Toyota Research Institute",
+      "previous_title_2": "Research Intern / Student Researcher",
+      "previous_company_2": "Meta",
       "education": "PhD CS, Stanford '23",
       "linkedin_url": "https://linkedin.com/in/surajnaircaltech"
     },
@@ -130,6 +148,8 @@
       "original_title": "Co-Founder",
       "previous_title": "Software Engineer",
       "previous_company": "Google Deepmind",
+      "previous_title_2": "Research Scientist Intern",
+      "previous_company_2": "Google",
       "education": "PhD CS, Uc San Diego '22",
       "linkedin_url": "https://linkedin.com/in/quan-vuong-0a4a6460"
     },
@@ -143,6 +163,8 @@
       "original_title": "Member Of Technical Staff",
       "previous_title": "Machine Learning Engineer",
       "previous_company": "Tesla",
+      "previous_title_2": "Ai Research Resident",
+      "previous_company_2": "Halodi Robotics",
       "education": "BS Architecture, UC Berkeley '24",
       "linkedin_url": "https://linkedin.com/in/michael-equi"
     },
@@ -156,6 +178,8 @@
       "original_title": "Engineer",
       "previous_title": "Mechatronics Engineer",
       "previous_company": "Fs Studio",
+      "previous_title_2": "Test Engineer",
+      "previous_company_2": "X The Moonshot Factory",
       "education": "BS CE, University Of Califo '17",
       "linkedin_url": "https://linkedin.com/in/noah-brown-40157b124"
     },
@@ -169,6 +193,8 @@
       "original_title": "Operator Operations",
       "previous_title": "Software Engineer Intern",
       "previous_company": "Guangdong Bright Dream Robotics",
+      "previous_title_2": "N/A",
+      "previous_company_2": "N/A",
       "education": "MS Software Engineering, San Jos\u00e9 State Unive '22",
       "linkedin_url": "https://linkedin.com/in/zhonglin-liang-542982183"
     },
@@ -182,6 +208,8 @@
       "original_title": "Operator Operations",
       "previous_title": "Events Associate",
       "previous_company": "Mindsdb",
+      "previous_title_2": "Us Equities Proprietary Trader",
+      "previous_company_2": "Assent",
       "education": "BS CS, San Jos\u00e9 State Unive '06",
       "linkedin_url": "https://linkedin.com/in/manuel-alire-5226747"
     },
@@ -195,6 +223,8 @@
       "original_title": "Fleet Technician",
       "previous_title": "Asset Technician",
       "previous_company": "Eos It Solutions",
+      "previous_title_2": "Recreation Leader",
+      "previous_company_2": "City Of San Leandro",
       "education": "CS, University Of Califo '23",
       "linkedin_url": "https://linkedin.com/in/henry-lin-1641a620a"
     },
@@ -208,6 +238,8 @@
       "original_title": "Employee",
       "previous_title": "Senior Software Engineer",
       "previous_company": "Google",
+      "previous_title_2": "Chief Executive Officer",
+      "previous_company_2": "Colossal Crowd Games",
       "education": "PhD Neuroscience, USC '17",
       "linkedin_url": "https://linkedin.com/in/jimmy-tanner-70198732"
     },
@@ -221,6 +253,8 @@
       "original_title": "Member Of Technical Staff",
       "previous_title": "Machine Learning Engineer",
       "previous_company": "Wayve",
+      "previous_title_2": "Staff Software Engineer",
+      "previous_company_2": "Everyday Robots",
       "education": "CS, MIT '13",
       "linkedin_url": "https://linkedin.com/in/adrian-li"
     },
@@ -234,6 +268,8 @@
       "original_title": "Member Of Technical Staff",
       "previous_title": "Software Systems Engineering Intern",
       "previous_company": "Nasa Jet Propulsion Laboratory",
+      "previous_title_2": "Product Engineering Intern",
+      "previous_company_2": "Asana",
       "education": "PhD, UC Berkeley '27",
       "linkedin_url": "https://linkedin.com/in/kvablack"
     },
@@ -247,6 +283,8 @@
       "original_title": "Project Manager",
       "previous_title": "Founder",
       "previous_company": "Rugpull.Com",
+      "previous_title_2": "Operations Manager",
+      "previous_company_2": "Let'S Stage It!",
       "education": "Associates Engineering, Skyline College",
       "linkedin_url": null
     },
@@ -260,6 +298,8 @@
       "original_title": "Project Manager",
       "previous_title": "N/A",
       "previous_company": "N/A",
+      "previous_title_2": "N/A",
+      "previous_company_2": "N/A",
       "education": "N/A",
       "linkedin_url": "https://linkedin.com/in/lance-thoma-3154b2360"
     },
@@ -273,6 +313,8 @@
       "original_title": "Shift Lead",
       "previous_title": "Intern",
       "previous_company": "Friends Of Children With Special Needs (Fcsn)",
+      "previous_title_2": "Intern",
+      "previous_company_2": "Alameda County Workforce Development Board",
       "education": "English Language, Woodland Community C '20",
       "linkedin_url": "https://linkedin.com/in/steven-tang-0051a1146"
     },
@@ -286,6 +328,8 @@
       "original_title": "Mobile Deployment Lead",
       "previous_title": "N/A",
       "previous_company": "N/A",
+      "previous_title_2": "N/A",
+      "previous_company_2": "N/A",
       "education": "BS CE, Uci Samueli School O '23",
       "linkedin_url": "https://linkedin.com/in/sienallen"
     },
@@ -299,6 +343,8 @@
       "original_title": "Member Of Technical Staff",
       "previous_title": "Postdoctoral Researcher",
       "previous_company": "Stanford University",
+      "previous_title_2": "Postdoctoral Researcher",
+      "previous_company_2": "University Of California, Berkeley",
       "education": "PhD CS, USC",
       "linkedin_url": "https://linkedin.com/in/karlpertsch"
     },
@@ -312,6 +358,8 @@
       "original_title": "Business Operations",
       "previous_title": "Product Management / Marketing Intern",
       "previous_company": "Portrait Displays (Calman)",
+      "previous_title_2": "Product Management Intern",
+      "previous_company_2": "Tekion Corp",
       "education": "BS CS, San Francisco State  '24",
       "linkedin_url": "https://linkedin.com/in/csharmasfsu"
     },
@@ -325,6 +373,8 @@
       "original_title": "Operator Operations",
       "previous_title": "Project Manager",
       "previous_company": "Dilsys Electronics",
+      "previous_title_2": "N/A",
+      "previous_company_2": "N/A",
       "education": "BS Electronics Engineer, Saint Petersburg Sta '18",
       "linkedin_url": "https://linkedin.com/in/aikysmongush"
     },
@@ -338,6 +388,8 @@
       "original_title": "Robot Operator",
       "previous_title": "Store Protection Specialist",
       "previous_company": "Ross Dress For Less 245",
+      "previous_title_2": "N/A",
+      "previous_company_2": "N/A",
       "education": "BA Business, San Francisco State  '25",
       "linkedin_url": "https://linkedin.com/in/david-gladstein2002"
     },
@@ -351,6 +403,8 @@
       "original_title": "Software",
       "previous_title": "Senior Staff Software Engineer",
       "previous_company": "Nuro",
+      "previous_title_2": "Technical Lead, Behavior Systems",
+      "previous_company_2": "Nuro",
       "education": "PhD CS, MIT '11",
       "linkedin_url": "https://linkedin.com/in/szymonjakubczak"
     },
@@ -364,6 +418,8 @@
       "original_title": "Member Of Technical Staff",
       "previous_title": "Research Intern",
       "previous_company": "Facebook",
+      "previous_title_2": "Research Intern",
+      "previous_company_2": "Microsoft",
       "education": "PhD CS, UW '24",
       "linkedin_url": "https://linkedin.com/in/kelym"
     },
@@ -377,6 +433,8 @@
       "original_title": "Robot Operator",
       "previous_title": "Bilingual Residential Program Aide",
       "previous_company": "Hamilton Families",
+      "previous_title_2": "Receptionist",
+      "previous_company_2": "San Francisco Pet Hospital",
       "education": "BS, University Of Califo '20",
       "linkedin_url": "https://linkedin.com/in/cecilia-casquino-6aaa28215"
     },
@@ -390,6 +448,8 @@
       "original_title": "Robot Operator",
       "previous_title": "User Experience Designer | Edtech",
       "previous_company": "Tech Fleet",
+      "previous_title_2": "Design Fellow",
+      "previous_company_2": "Qtbipoc Design",
       "education": "Associate Of Arts Graphic Design, City College Of San  '24",
       "linkedin_url": "https://linkedin.com/in/amerielu"
     },
@@ -403,6 +463,8 @@
       "original_title": "Robot Operations",
       "previous_title": "Visual Merchandiser",
       "previous_company": "H&M",
+      "previous_title_2": "Scholar",
+      "previous_company_2": "Maisin Scholar Award",
       "education": "BS CS, San Francisco State  '26",
       "linkedin_url": "https://linkedin.com/in/shalom-tekeste"
     },
@@ -416,6 +478,8 @@
       "original_title": "Robot Operator",
       "previous_title": "Event Staff",
       "previous_company": "Dark Staffing Solutions",
+      "previous_title_2": "N/A",
+      "previous_company_2": "N/A",
       "education": "University Of Santo  '24",
       "linkedin_url": "https://linkedin.com/in/klint-zamora-29452028a"
     },
@@ -429,6 +493,8 @@
       "original_title": "Robot Operator",
       "previous_title": "Its Client Support Services Assistant",
       "previous_company": "University Of California, Santa Cruz",
+      "previous_title_2": "Computer Science Summer Institute",
+      "previous_company_2": "Google",
       "education": "BS CS, University Of Califo '25",
       "linkedin_url": "https://linkedin.com/in/darlingkat"
     },
@@ -442,6 +508,8 @@
       "original_title": "Robot Operations",
       "previous_title": "Residence Life Counselor",
       "previous_company": "Summer Discovery",
+      "previous_title_2": "Arabic Scribe",
+      "previous_company_2": "University Of San Francisco",
       "education": "BS Data Science, University Of San Fr '24",
       "linkedin_url": "https://linkedin.com/in/sobia-zahid"
     },
@@ -455,6 +523,8 @@
       "original_title": "Mobile Deployment Lead",
       "previous_title": "Night Stocker / Forklift Driver",
       "previous_company": "Costco Wholesale",
+      "previous_title_2": "Cashier / Waiter",
+      "previous_company_2": "Kamameshi House Japanese Cuisine",
       "education": "Associates, City College Of San  '26",
       "linkedin_url": "https://linkedin.com/in/shawntlorenzo"
     },
@@ -468,6 +538,8 @@
       "original_title": "Mobile Deployment Lead",
       "previous_title": "Unity Program Development",
       "previous_company": "California Academy Of Sciences",
+      "previous_title_2": "Content Creator",
+      "previous_company_2": "Tiktok",
       "education": "BS CS, San Francisco State  '23",
       "linkedin_url": "https://linkedin.com/in/jdelrosario26"
     },
@@ -481,6 +553,8 @@
       "original_title": "Operations",
       "previous_title": "Intern",
       "previous_company": "Nevada Bank And Trust",
+      "previous_title_2": "English Language Teacher",
+      "previous_company_2": "Ies \u00c1ngel De Saavedra",
       "education": "MS Creative Writing, University Of San Fr '26",
       "linkedin_url": "https://linkedin.com/in/marinda-lamb-08a00b179"
     },
@@ -494,6 +568,8 @@
       "original_title": "Student Researcher",
       "previous_title": "Student Researcher",
       "previous_company": "Google Deepmind",
+      "previous_title_2": "Ai Resident",
+      "previous_company_2": "Google",
       "education": "BS CS, UC Berkeley '19",
       "linkedin_url": "https://linkedin.com/in/dibyaghosh"
     },
@@ -507,6 +583,8 @@
       "original_title": "Member Of Technical Staff",
       "previous_title": "Software Engineer",
       "previous_company": "Nuro",
+      "previous_title_2": "Tech Lead Manager, Behavior Ml",
+      "previous_company_2": "Nuro",
       "education": "MS CE, UMich '17",
       "linkedin_url": "https://linkedin.com/in/haohuanw"
     },
@@ -520,6 +598,8 @@
       "original_title": "Member Of Technical Staff",
       "previous_title": "Student Researcher",
       "previous_company": "Google Deepmind",
+      "previous_title_2": "Graduate Student Researcher",
+      "previous_company_2": "Uc Berkeley Robotics And Ai Lab",
       "education": "PhD CS, UC Berkeley '25",
       "linkedin_url": "https://linkedin.com/in/smithlaura1028"
     },
@@ -533,6 +613,8 @@
       "original_title": "Robot Operator",
       "previous_title": "Academic Tutor (Calculus Ii)",
       "previous_company": "Laney College",
+      "previous_title_2": "Academic Tutor (Statistics)",
+      "previous_company_2": "Laney College",
       "education": "BA Econ, Uc Irvine '24",
       "linkedin_url": "https://linkedin.com/in/jia-bao-zhen-69b8b4184"
     },
@@ -546,6 +628,8 @@
       "original_title": "Robot Operator",
       "previous_title": "Store Associate",
       "previous_company": "The Walt Disney Family Museum",
+      "previous_title_2": "Technical Writer",
+      "previous_company_2": "Ortel, A Photonics Foundries Enterprise",
       "education": "BS ME, San Jos\u00e9 State Unive '23",
       "linkedin_url": "https://linkedin.com/in/kobeclee"
     },
@@ -559,6 +643,8 @@
       "original_title": "Robot Operator",
       "previous_title": "Student Intern",
       "previous_company": "All Stars Project, Inc.",
+      "previous_title_2": "Recreation Aide",
+      "previous_company_2": "City Of Oakland",
       "education": "CE, Uc Irvine '24",
       "linkedin_url": "https://linkedin.com/in/jeffrey-yu-b5473215a"
     },
@@ -572,6 +658,8 @@
       "original_title": "Robot Operator",
       "previous_title": "Software Quality Assurance Intern",
       "previous_company": "Thermo Fisher Scientific",
+      "previous_title_2": "N/A",
+      "previous_company_2": "N/A",
       "education": "University Of Califo '24",
       "linkedin_url": "https://linkedin.com/in/yushen-zheng-503299250"
     },
@@ -585,6 +673,8 @@
       "original_title": "Robot Operator",
       "previous_title": "Document Control Specialist",
       "previous_company": "Samtrans-San Mateo County Transit District",
+      "previous_title_2": "Executive Administrative Assistant",
+      "previous_company_2": "Samtrans-San Mateo County Transit District",
       "education": "Year Up United '24",
       "linkedin_url": "https://linkedin.com/in/imran-s-655770273"
     },
@@ -598,6 +688,8 @@
       "original_title": "Shift Lead",
       "previous_title": "Asset Technician",
       "previous_company": "Eos It Solutions",
+      "previous_title_2": "N/A",
+      "previous_company_2": "N/A",
       "education": "BS CS, University Of Califo '23",
       "linkedin_url": "https://linkedin.com/in/kirby-yu-b77654182"
     },
@@ -611,6 +703,8 @@
       "original_title": "Operator",
       "previous_title": "N/A",
       "previous_company": "N/A",
+      "previous_title_2": "N/A",
+      "previous_company_2": "N/A",
       "education": "N/A",
       "linkedin_url": "https://linkedin.com/in/raya-north-515369322"
     },
@@ -624,6 +718,8 @@
       "original_title": "Member Of Technical Staff",
       "previous_title": "Software Engineer",
       "previous_company": "Meta",
+      "previous_title_2": "Side Project",
+      "previous_company_2": "See A Satellite Tonight",
       "education": "BS CS, Harvey Mudd College '04",
       "linkedin_url": "https://linkedin.com/in/jdarpinian"
     },
@@ -637,6 +733,8 @@
       "original_title": "Member Of Technical Staff",
       "previous_title": "Research Intern",
       "previous_company": "Nvidia",
+      "previous_title_2": "Visiting Phd Student",
+      "previous_company_2": "Stanford University Department Of Computer Science",
       "education": "PhD Aerospace Engineerin, Princeton '25",
       "linkedin_url": "https://linkedin.com/in/allenzren"
     },
@@ -650,6 +748,8 @@
       "original_title": "Research Intern",
       "previous_title": "Associate",
       "previous_company": "Georgia Tech Angel Network",
+      "previous_title_2": "Quantitative Strategist",
+      "previous_company_2": "Goldman Sachs",
       "education": "PhD, Georgia Tech '27",
       "linkedin_url": "https://linkedin.com/in/skareer"
     },
@@ -663,6 +763,8 @@
       "original_title": "Student Researcher",
       "previous_title": "Graduate Student Researcher",
       "previous_company": "Berkeley Artificial Intelligence Research",
+      "previous_title_2": "Research Intern",
+      "previous_company_2": "Argo Ai",
       "education": "PhD CS, UC Berkeley '27",
       "linkedin_url": "https://linkedin.com/in/kylestach"
     },
@@ -676,6 +778,8 @@
       "original_title": "Fleet Maintenance Technician",
       "previous_title": "Assembly Technician",
       "previous_company": "The Bot Company",
+      "previous_title_2": "Lead Electromechanical Technician",
+      "previous_company_2": "Nodexus Inc.",
       "education": "Laney College",
       "linkedin_url": "https://linkedin.com/in/von-royce-villanueva-12752720"
     },
@@ -689,6 +793,8 @@
       "original_title": "Robot Stuff",
       "previous_title": "Engineering",
       "previous_company": "Stripe",
+      "previous_title_2": "Founding Engineer / Engineering Lead",
+      "previous_company_2": "Octane (We'Ve Joined Stripe!)",
       "education": "MS CE, CMU '19",
       "linkedin_url": "https://linkedin.com/in/karan-dhabalia"
     },
@@ -702,6 +808,8 @@
       "original_title": "Robotics Operator",
       "previous_title": "Customer Support",
       "previous_company": "Walker Advertising",
+      "previous_title_2": "Assistant Manager",
+      "previous_company_2": "Mobileone Llc",
       "education": "Associates CS, College Of San Mateo '24",
       "linkedin_url": "https://linkedin.com/in/oamarvochavillo"
     },
@@ -715,6 +823,8 @@
       "original_title": "Robot Operator",
       "previous_title": "Network Engineering Intern",
       "previous_company": "Healthequity",
+      "previous_title_2": "Student Researcher",
+      "previous_company_2": "University Of California, Berkeley",
       "education": "Math, UC Berkeley '24",
       "linkedin_url": "https://linkedin.com/in/nathaniel-macasaet"
     },
@@ -728,6 +838,8 @@
       "original_title": "Robot Operator",
       "previous_title": "Fitness Professional",
       "previous_company": "Ilovekickboxing",
+      "previous_title_2": "N/A",
+      "previous_company_2": "N/A",
       "education": "Skyline College '24",
       "linkedin_url": "https://linkedin.com/in/joseph-garrido-0877562b3"
     },
@@ -741,6 +853,8 @@
       "original_title": "Robot Operator",
       "previous_title": "Patient Service Representative",
       "previous_company": "Sutter Health",
+      "previous_title_2": "N/A",
+      "previous_company_2": "N/A",
       "education": "BS CS, University Of Califo '24",
       "linkedin_url": "https://linkedin.com/in/ernest-chan-9850771a4"
     },
@@ -754,6 +868,8 @@
       "original_title": "Researcher",
       "previous_title": "Software Engineer",
       "previous_company": "Google",
+      "previous_title_2": "Researcher",
+      "previous_company_2": "Stanford Artificial Intelligence Laboratory (Sail)",
       "education": "BS CS, Stanford '25",
       "linkedin_url": "https://linkedin.com/in/gashon-hussein"
     },
@@ -767,6 +883,8 @@
       "original_title": "Operations",
       "previous_title": "Product",
       "previous_company": "Recruitu",
+      "previous_title_2": "Analyst",
+      "previous_company_2": "Yale Student Investment Group",
       "education": "Math, Yale '27",
       "linkedin_url": "https://linkedin.com/in/rowan-jen-3ab64a189"
     },
@@ -780,6 +898,8 @@
       "original_title": "Graveyard Shift Lead",
       "previous_title": "Crew Member",
       "previous_company": "Trader Joe'S",
+      "previous_title_2": "N/A",
+      "previous_company_2": "N/A",
       "education": "ME, College Of San Mateo '25",
       "linkedin_url": "https://linkedin.com/in/odraffen"
     },
@@ -793,6 +913,8 @@
       "original_title": "Member Of Technical Staff",
       "previous_title": "Founding Engineer",
       "previous_company": "Stealth Startup",
+      "previous_title_2": "Ms / Mba Program",
+      "previous_company_2": "Harvard University",
       "education": "MBA Engineering, Harvard Business Sch '25",
       "linkedin_url": "https://linkedin.com/in/amamin"
     },
@@ -806,6 +928,8 @@
       "original_title": "Robot Operator",
       "previous_title": "Co-Founder / Chief Technology Officer",
       "previous_company": "Terroirai",
+      "previous_title_2": "Doctoral Student",
+      "previous_company_2": "University Of California, Berkeley",
       "education": "PhD, UC Berkeley '21",
       "linkedin_url": "https://linkedin.com/in/link-with-steven-shepard"
     },
@@ -819,6 +943,8 @@
       "original_title": "Robot Operator",
       "previous_title": "Software Developer Internship",
       "previous_company": "Tyler Technologies",
+      "previous_title_2": "Bank Teller",
+      "previous_company_2": "Wells Fargo",
       "education": "Bay Valley Tech - St '22",
       "linkedin_url": "https://linkedin.com/in/dton"
     },
@@ -832,6 +958,8 @@
       "original_title": "Hardware Engineer",
       "previous_title": "Robotics Engineer",
       "previous_company": "Pipedream",
+      "previous_title_2": "Undergraduate Research Assistant",
+      "previous_company_2": "Imperial College London",
       "education": "MEng Design, Imperial College Lon '23",
       "linkedin_url": "https://linkedin.com/in/thomas-godden"
     },
@@ -845,6 +973,8 @@
       "original_title": "Robot Operator",
       "previous_title": "Graduate Research Assistant",
       "previous_company": "Asu Neuromuscular Control And Human Robotics Laboratory",
+      "previous_title_2": "Systems Engineer",
+      "previous_company_2": "Simpliforge Creations Pvt Ltd",
       "education": "MS Aerospace Engineerin, Arizona State Univer",
       "linkedin_url": "https://linkedin.com/in/vedant2307"
     },
@@ -858,6 +988,8 @@
       "original_title": "Research Intern",
       "previous_title": "Graduate Researcher",
       "previous_company": "Stanford University",
+      "previous_title_2": "Data Scientist Intern",
+      "previous_company_2": "Microsoft",
       "education": "PhD, Stanford",
       "linkedin_url": "https://linkedin.com/in/marceltorne"
     },
@@ -871,6 +1003,8 @@
       "original_title": "Operations",
       "previous_title": "Senior Vice President Of Operations",
       "previous_company": "Home Partners Of America\u00ae",
+      "previous_title_2": "Vice President Of Business Operations",
+      "previous_company_2": "Airspace",
       "education": "MS, The London School Of '14",
       "linkedin_url": "https://linkedin.com/in/willstoeckle"
     },
@@ -884,6 +1018,8 @@
       "original_title": "Member Of The Technical Staff",
       "previous_title": "Senior Research Scientist",
       "previous_company": "Google Deepmind",
+      "previous_title_2": "Research Scientist",
+      "previous_company_2": "Toyota Research Institute",
       "education": "PhD CS, UC Berkeley '22",
       "linkedin_url": "https://linkedin.com/in/ashwin-balakrishna-9b71a357"
     },
@@ -897,6 +1033,8 @@
       "original_title": "Ai Robotics Data Collection",
       "previous_title": "N/A",
       "previous_company": "N/A",
+      "previous_title_2": "N/A",
+      "previous_company_2": "N/A",
       "education": "CS, California State Uni '25",
       "linkedin_url": "https://linkedin.com/in/charwin-idolyantes-62b43b196"
     },
@@ -910,6 +1048,8 @@
       "original_title": "Member Of Technical Staff",
       "previous_title": "Tech Lead Manager",
       "previous_company": "Recurrency",
+      "previous_title_2": "Fellow",
+      "previous_company_2": "Bessemer Venture Partners",
       "education": "BS CS, Georgia Tech '21",
       "linkedin_url": "https://linkedin.com/in/hunterhancock"
     },
@@ -923,6 +1063,8 @@
       "original_title": "Robot Operator",
       "previous_title": "Robotics Team Member",
       "previous_company": "Sjsu Robotics",
+      "previous_title_2": "Fast Food Cashier",
+      "previous_company_2": "Lee'S Sandwiches",
       "education": "BE Engineering, San Jos\u00e9 State Unive '25",
       "linkedin_url": "https://linkedin.com/in/tommy-tran-nguyen"
     },
@@ -936,6 +1078,8 @@
       "original_title": "Robot Operator",
       "previous_title": "Vehicle Operator, Alphaops",
       "previous_company": "Zoox",
+      "previous_title_2": "Private Mathematics Tutor",
+      "previous_company_2": "St John'S Orthodox Academy",
       "education": "MS CS, San Jos\u00e9 State Unive '24",
       "linkedin_url": "https://linkedin.com/in/kayla-m-91a39999"
     },
@@ -949,6 +1093,8 @@
       "original_title": "Robotics Operator",
       "previous_title": "Asset Protection",
       "previous_company": "Best Buy",
+      "previous_title_2": "N/A",
+      "previous_company_2": "N/A",
       "education": "BS Management, San Francisco State  '26",
       "linkedin_url": "https://linkedin.com/in/damian-gonzalez-322733246"
     },
@@ -962,6 +1108,8 @@
       "original_title": "Member Of Technical Staff",
       "previous_title": "Robotics Engineer",
       "previous_company": "Boston Dynamics",
+      "previous_title_2": "Engineering Intern",
+      "previous_company_2": "Spacex",
       "education": "CS, MIT '19",
       "linkedin_url": "https://linkedin.com/in/jared-dicarlo-333970122"
     },
@@ -975,6 +1123,8 @@
       "original_title": "Robot Operator",
       "previous_title": "Qa Tester",
       "previous_company": "Arcade",
+      "previous_title_2": "Preview Worker",
+      "previous_company_2": "Bonhams",
       "education": "Master Of Fine Arts Product Design, California College O '24",
       "linkedin_url": "https://linkedin.com/in/ariana-dorothea-levy-4a3a20149"
     },
@@ -988,6 +1138,8 @@
       "original_title": "Robot Operator",
       "previous_title": "Intern",
       "previous_company": "Test21",
+      "previous_title_2": "Teaching Aide",
+      "previous_company_2": "University Of California, Berkeley",
       "education": "San Jos\u00e9 State Unive '25",
       "linkedin_url": "https://linkedin.com/in/vincent-lam-84444a251"
     },
@@ -1001,6 +1153,8 @@
       "original_title": "Robot Operator",
       "previous_title": "Instructional Student Assistant",
       "previous_company": "San Francisco State University",
+      "previous_title_2": "Kitchen And Counter Help",
+      "previous_company_2": "Panda Restaurant Group",
       "education": "BS CS, San Francisco State  '24",
       "linkedin_url": "https://linkedin.com/in/kayla-young-0153aa240"
     },
@@ -1014,6 +1168,8 @@
       "original_title": "Robot Operator (Testing And Data Specialist)",
       "previous_title": "Sales Associate At Google Visitor Experience",
       "previous_company": "Mosaic North America",
+      "previous_title_2": "Headstarter Fellow",
+      "previous_company_2": "Headstarter",
       "education": "BS CS, San Jos\u00e9 State Unive '25",
       "linkedin_url": "https://linkedin.com/in/zoraizsabeel"
     },
@@ -1027,6 +1183,8 @@
       "original_title": "Research Intern",
       "previous_title": "Research Intern",
       "previous_company": "Rai Institute",
+      "previous_title_2": "Graduate Student Researcher",
+      "previous_company_2": "Uc San Diego",
       "education": "PhD CS, Uc San Diego '29",
       "linkedin_url": "https://linkedin.com/in/bo-ai"
     },
@@ -1040,6 +1198,8 @@
       "original_title": "Operations",
       "previous_title": "Consultant",
       "previous_company": "Stealth Mode Biotech",
+      "previous_title_2": "Host",
+      "previous_company_2": "Flying Biscuit Cafe",
       "education": "BS Philosophy, North Carolina State '25",
       "linkedin_url": "https://linkedin.com/in/davis-bray-b19930338"
     },
@@ -1053,6 +1213,8 @@
       "original_title": "Talent",
       "previous_title": "Head Of Recruiting",
       "previous_company": "Nuro",
+      "previous_title_2": "Head Of Executive Recruiting",
+      "previous_company_2": "Nuro",
       "education": "BA English, Middlebury College '06",
       "linkedin_url": "https://linkedin.com/in/bwillia"
     },
@@ -1066,6 +1228,8 @@
       "original_title": "Member Of Technical Staff",
       "previous_title": "Principal Electrical Engineer, Lead",
       "previous_company": "Familiar Machines & Magic",
+      "previous_title_2": "Senior Staff Electrical Engineer",
+      "previous_company_2": "Boston Dynamics",
       "education": "MS EE, Tufts University '13",
       "linkedin_url": "https://linkedin.com/in/sukwon-yoo-0b117367"
     },
@@ -1079,6 +1243,8 @@
       "original_title": "Member Of Technical Staff",
       "previous_title": "Embedded Software Engineer",
       "previous_company": "Skydio",
+      "previous_title_2": "Software Engineer",
+      "previous_company_2": "Open Robotics",
       "education": "BS CS, Uc Berkeley College  '19",
       "linkedin_url": "https://linkedin.com/in/~balke"
     }

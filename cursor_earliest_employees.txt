@@ -7,7 +7,8 @@ Employee #1
   Grad: '21 | YoE: 4
   Start Date: 2022-01
   Title: Co-Founder & CEO (Co-Founder & Chief Executive Officer)
-  Previous: Intern @ Octant
+  Previous 1: Intern @ Octant
+  Previous 2: Intern @ Google
   Education: BS CS, MIT '21
   LinkedIn: https://linkedin.com/in/michael-t-5b1bbb122
 
@@ -16,70 +17,78 @@ Employee #2
   Grad: '19 | YoE: 6
   Start Date: 2023-10
   Title: Founding Engineer (Founding Engineer)
-  Previous: Founding Engineer @ Bounti.Ai
+  Previous 1: Founding Engineer @ Bounti.Ai
+  Previous 2: Machine Learning Engineer @ Cisco
   Education: BS CS, MIT '19
   LinkedIn: https://linkedin.com/in/rishabh-y-6abb40ab
 
 Employee #3
+  Name: Federico Cassano
+  Grad: '24 | YoE: 1
+  Start Date: 2023-12
+  Title: Research Scientist (Research Scientist)
+  Previous 1: Machine Learning Research Engineer Intern @ Scale Ai
+  Previous 2: Research Intern @ Roblox
+  Education: BS Cybersecurity, Northeastern Univers '24
+  LinkedIn: https://linkedin.com/in/federicocassano
+
+Employee #4
   Name: Shaoru Huang
   Grad: '25 | YoE: ?
   Start Date: 2024-01
   Title: Founding Engineer (Founding Engineer)
-  Previous: N/A @ N/A
+  Previous 1: N/A @ N/A
+  Previous 2: N/A @ N/A
   Education: BS CE, UIUC '25
   LinkedIn: https://linkedin.com/in/shaoruu
 
-Employee #4
+Employee #5
   Name: Jordan Topoleski
   Grad: '17 | YoE: 8
   Start Date: 2024-01
   Title: COO (Chief Operating Officer)
-  Previous: Co-Founder @ Startup
+  Previous 1: Co-Founder @ Startup
+  Previous 2: Founder & Partner @ Inverted Agency
   Education: BA History, Harvard '17
   LinkedIn: https://linkedin.com/in/jtopoleski
 
-Employee #5
+Employee #6
   Name: Phillip Kravtsov
   Grad: '20 | YoE: 5
   Start Date: 2024-02
   Title: Founding Engineer (Founding Engineer And Researcher)
-  Previous: Software Engineer @ Trucksmarter
+  Previous 1: Software Engineer @ Trucksmarter
+  Previous 2: Machine Learning Engineer @ Nines
   Education: BS CS, UC Berkeley '20
   LinkedIn: https://linkedin.com/in/phillip-kravtsov-abab69148
 
-Employee #6
+Employee #7
   Name: Adam Hofmann
   Grad: '20 | YoE: 5
   Start Date: 2024-04
   Title: Engineer (Software Engineer)
-  Previous: Senior Software Consultant & Project Lead @ Hypotenuse Labs
+  Previous 1: Senior Software Consultant & Project Lead @ Hypotenuse Labs
+  Previous 2: Software Engineer @ Scribd, Inc.
   Education: BS CS, University Of Waterl '20
   LinkedIn: https://linkedin.com/in/adam-hofmann-507b20113
 
-Employee #7
+Employee #8
   Name: Luke Melas-Kyriazi
   Grad: '20 | YoE: 5
   Start Date: 2024-07
   Title: ML Engineer (Ml)
-  Previous: Visiting Research Scientist @ Meta
+  Previous 1: Visiting Research Scientist @ Meta
+  Previous 2: Machine Learning Engineer Intern @ Forethought
   Education: PhD CS, University Of Oxford '24
   LinkedIn: https://linkedin.com/in/lukemelas
-
-Employee #8
-  Name: Federico Cassano
-  Grad: '24 | YoE: 1
-  Start Date: 2024-07
-  Title: Research Scientist (Research Scientist)
-  Previous: Machine Learning Research Engineer Intern @ Scale Ai
-  Education: BS Cybersecurity, Northeastern Univers '24
-  LinkedIn: https://linkedin.com/in/federicocassano
 
 Employee #9
   Name: Baltazar Ruiz
   Grad: '25 | YoE: ?
   Start Date: 2024-07
   Title: Engineer (Engineer)
-  Previous: Software Engineer Intern @ Stripe
+  Previous 1: Software Engineer Intern @ Stripe
+  Previous 2: Software Engineer Intern @ Microsoft
   Education: BS CS, Harvey Mudd College '25
   LinkedIn: https://linkedin.com/in/baltaazr
 
@@ -88,7 +97,8 @@ Employee #10
   Grad: '20 | YoE: 5
   Start Date: 2024-08
   Title: Engineer (Software Engineer)
-  Previous: Software Engineer @ Plaid
+  Previous 1: Software Engineer @ Plaid
+  Previous 2: Teaching Assistant & Research Assistant @ Massachusetts Institute Of Technology
   Education: Lake City High Schoo '16
   LinkedIn: https://linkedin.com/in/zack-holbrook
 
@@ -97,7 +107,8 @@ Employee #11
   Grad: '19 | YoE: 6
   Start Date: 2024-10
   Title: Research (Research)
-  Previous: Founder @ Supermaven
+  Previous 1: Founder @ Supermaven
+  Previous 2: Research Scientist @ Openai
   Education: BS CS, University Of Waterl '19
   LinkedIn: https://linkedin.com/in/jacobbfjackson
 
@@ -106,7 +117,8 @@ Employee #12
   Grad: '24 | YoE: 1
   Start Date: 2024-11
   Title: GTM (Head Of Gtm Engineering)
-  Previous: Product Lead @ Point72 Private Investments
+  Previous 1: Product Lead @ Point72 Private Investments
+  Previous 2: Founder, Chief Executive Officer @ Hubble
   Education: BS Math, Harvard '24
   LinkedIn: https://linkedin.com/in/romanugarte
 
@@ -115,7 +127,8 @@ Employee #13
   Grad: '07 | YoE: 18
   Start Date: 2024-12
   Title: Staff Engineer (Senior Staff Engineer)
-  Previous: Staff Engineer @ Figma
+  Previous 1: Staff Engineer @ Figma
+  Previous 2: Tech Lead @ Stellar Development Foundation
   Education: BS CE, UIUC '07
   LinkedIn: https://linkedin.com/in/msfeldstein
 
@@ -124,7 +137,8 @@ Employee #14
   Grad: '21 | YoE: 4
   Start Date: 2024-12
   Title: Engineer (Software Engineer)
-  Previous: Software Engineer @ Chalk
+  Previous 1: Software Engineer @ Chalk
+  Previous 2: Software Engineer @ Databricks Mosaic Research
   Education: CS, MIT
   LinkedIn: https://linkedin.com/in/ravirahman
 
@@ -133,7 +147,8 @@ Employee #15
   Grad: '18 | YoE: 7
   Start Date: 2024-12
   Title: GTM (Enterprise Gtm)
-  Previous: Enterprise Account Executive @ Notion
+  Previous 1: Enterprise Account Executive @ Notion
+  Previous 2: Founding Account Executive @ Notion
   Education: BA Business, Emory University '18
   LinkedIn: https://linkedin.com/in/jonathanbraude
 
@@ -142,7 +157,8 @@ Employee #16
   Grad: '06 | YoE: 19
   Start Date: 2025-01
   Title: GTM (Gtm Leadership - Technical Account Management)
-  Previous: Javascript Workshop Instructor @ Galvanize - San Francisco, Soma
+  Previous 1: Javascript Workshop Instructor @ Galvanize - San Francisco, Soma
+  Previous 2: Principal Solutions Engineer @ Github
   Education: Software Engineering, Hack Reactor '15
   LinkedIn: https://linkedin.com/in/pravipati
 
@@ -151,7 +167,8 @@ Employee #17
   Grad: '97 | YoE: 28
   Start Date: 2025-01
   Title: General Counsel (General Counsel)
-  Previous: Founding Partner @ Ak Law Solutions
+  Previous 1: Founding Partner @ Ak Law Solutions
+  Previous 2: Regulatory Counsel @ Google
   Education: Doctor Of Jurisprude, NYU '03
   LinkedIn: https://linkedin.com/in/kazemiali
 
@@ -160,7 +177,8 @@ Employee #18
   Grad: '10 | YoE: 15
   Start Date: 2025-02
   Title: Engineering (Engineering)
-  Previous: Engineering Manager @ Cloudflare
+  Previous 1: Engineering Manager @ Cloudflare
+  Previous 2: Principal Engineer @ Cloudflare
   Education: MS CS, CMU '16
   LinkedIn: https://linkedin.com/in/eaufavor
 
@@ -169,7 +187,8 @@ Employee #19
   Grad: '12 | YoE: 13
   Start Date: 2025-02
   Title: GTM (Enterprise Gtm)
-  Previous: Senior Enterprise Account Executive @ Figma
+  Previous 1: Senior Enterprise Account Executive @ Figma
+  Previous 2: Enterprise Account Executive @ Figma
   Education: University Of Sevill '10
   LinkedIn: https://linkedin.com/in/grace-kneapler
 
@@ -178,7 +197,8 @@ Employee #20
   Grad: '09 | YoE: 16
   Start Date: 2025-02
   Title: Design (Head Of Design)
-  Previous: Founding Designer, Product, Design Lead @ Notion
+  Previous 1: Founding Designer, Product, Design Lead @ Notion
+  Previous 2: Product Designer @ Stripe
   Education: Biology, Mcgill University '14
   LinkedIn: https://linkedin.com/in/ryo-lu-7060b534
 
@@ -187,7 +207,8 @@ Employee #21
   Grad: '16 | YoE: 9
   Start Date: 2025-02
   Title: GTM (Enterprise Gtm)
-  Previous: Emerging Enterprise Account Executive @ Amplitude
+  Previous 1: Emerging Enterprise Account Executive @ Amplitude
+  Previous 2: Commercial Account Executive @ Amplitude
   Education: BS English, Wake Forest Universi '16
   LinkedIn: https://linkedin.com/in/bennettbrownlow
 
@@ -196,7 +217,8 @@ Employee #22
   Grad: '02 | YoE: 23
   Start Date: 2025-02
   Title: Engineer (Software Engineer)
-  Previous: Senior Principal Secure Software Engineer @ Zoom
+  Previous 1: Senior Principal Secure Software Engineer @ Zoom
+  Previous 2: Engineer @ Keybase
   Education: PhD CS, MIT '09
   LinkedIn: https://linkedin.com/in/jeremy-stribling-94b60455
 
@@ -205,7 +227,8 @@ Employee #23
   Grad: '18 | YoE: 7
   Start Date: 2025-03
   Title: Engineer (Software Engineer)
-  Previous: Founding Engineer @ Convex
+  Previous 1: Founding Engineer @ Convex
+  Previous 2: Senior Software Engineer @ Dropbox
   Education: BS CS, Yale '18
   LinkedIn: https://linkedin.com/in/lee-danilek
 
@@ -214,7 +237,8 @@ Employee #24
   Grad: '12 | YoE: 13
   Start Date: 2025-03
   Title: Making Cursor (Making Cursor)
-  Previous: Senior Staff Software Engineer @ Datadog
+  Previous 1: Senior Staff Software Engineer @ Datadog
+  Previous 2: Infrastructure Engineer @ Stripe
   Education: BS Physics, Columbia Engineering '12
   LinkedIn: https://linkedin.com/in/alex-haugland-4ba8893b
 
@@ -223,7 +247,8 @@ Employee #25
   Grad: '12 | YoE: 13
   Start Date: 2025-03
   Title: Building (Building)
-  Previous: Newsletter @ Next Play
+  Previous 1: Newsletter @ Next Play
+  Previous 2: Angel Track @ First Round Capital
   Education: Ramaz School '11
   LinkedIn: https://linkedin.com/in/benmlang
 
@@ -232,7 +257,8 @@ Employee #26
   Grad: '18 | YoE: 7
   Start Date: 2025-03
   Title: Engineer (Software Engineer)
-  Previous: Software Engineer @ Figma
+  Previous 1: Software Engineer @ Figma
+  Previous 2: Software Engineer @ Meta
   Education: BA CS, The University Of No '18
   LinkedIn: https://linkedin.com/in/jkap
 
@@ -241,7 +267,8 @@ Employee #27
   Grad: '07 | YoE: 18
   Start Date: 2025-03
   Title: Engineer (Software Engineer)
-  Previous: Software Engineer @ Anysphere
+  Previous 1: Principal Software Engineer @ Material Security
+  Previous 2: Staff Software Engineer @ Material Security
   Education: MS CS, Stanford '10
   LinkedIn: https://linkedin.com/in/natasha-gude-08b59b24
 
@@ -250,7 +277,8 @@ Employee #28
   Grad: '14 | YoE: 11
   Start Date: 2025-04
   Title: GTM (Gtm Leadership)
-  Previous: Head Of Sales @ Anrok
+  Previous 1: Head Of Sales @ Anrok
+  Previous 2: Manager, Enterprise Sales @ Figma
   Education: BS Anthropology, Barnard College '14
   LinkedIn: https://linkedin.com/in/tahirih-skolnik-2a135b103
 
@@ -259,7 +287,8 @@ Employee #29
   Grad: '17 | YoE: 8
   Start Date: 2025-04
   Title: GTM (Enterprise Gtm)
-  Previous: Founding Gtm Lead @ Galileo
+  Previous 1: Founding Gtm Lead @ Galileo
+  Previous 2: Enterprise Account Executive @ Algolia
   Education: BS CS, Clemson University '17
   LinkedIn: https://linkedin.com/in/kashyapyechuri
 
@@ -268,7 +297,8 @@ Employee #30
   Grad: '14 | YoE: 11
   Start Date: 2025-04
   Title: GTM (Enterprise Gtm)
-  Previous: Strategic Accounts @ Metronome
+  Previous 1: Strategic Accounts @ Metronome
+  Previous 2: Enterprise Account Executive @ Launchdarkly
   Education: BA Art History, Ithaca College
   LinkedIn: https://linkedin.com/in/taylorhaggard
 
@@ -277,7 +307,8 @@ Employee #31
   Grad: '07 | YoE: 18
   Start Date: 2025-04
   Title: VP (Vice President, Gtm)
-  Previous: Senior Vice President, Sales @ Vercel
+  Previous 1: Senior Vice President, Sales @ Vercel
+  Previous 2: Assistant Vice President, Sales @ Branch Metrics
   Education: BA Rhetoric, UC Berkeley
   LinkedIn: https://linkedin.com/in/tomerchernia
 
@@ -286,7 +317,8 @@ Employee #32
   Grad: '16 | YoE: 9
   Start Date: 2025-04
   Title: Research Scientist (Research Scientist)
-  Previous: Research Scientist @ Augment Code
+  Previous 1: Research Scientist @ Augment Code
+  Previous 2: Researcher @ Google
   Education: PhD CS, USC '22
   LinkedIn: https://linkedin.com/in/yury-zemlyanskiy
 
@@ -295,7 +327,8 @@ Employee #33
   Grad: '21 | YoE: 4
   Start Date: 2025-04
   Title: Designer (Designer)
-  Previous: Designer @ Notion
+  Previous 1: Designer @ Notion
+  Previous 2: Product Design Intern @ Meta
   Education: BS Business, USC '21
   LinkedIn: https://linkedin.com/in/mukherjeeankit
 
@@ -304,7 +337,8 @@ Employee #34
   Grad: '22 | YoE: 3
   Start Date: 2025-04
   Title: Engineer (Software Engineer)
-  Previous: Staff Software Engineer, Infrastructure @ Anyscale
+  Previous 1: Staff Software Engineer, Infrastructure @ Anyscale
+  Previous 2: Senior Software Engineer, Infrastructure @ Anyscale
   Education: BS CS, UC Berkeley '22
   LinkedIn: https://linkedin.com/in/shomilj
 
@@ -313,7 +347,8 @@ Employee #35
   Grad: '10 | YoE: 15
   Start Date: 2025-05
   Title: GTM (Enterprise Gtm)
-  Previous: Strategic Accounts @ Miro
+  Previous 1: Strategic Accounts @ Miro
+  Previous 2: Enterprise Account Executive @ Stripe
   Education: BA Government, Cornell '10
   LinkedIn: https://linkedin.com/in/marisa-breall-04692814
 
@@ -322,7 +357,8 @@ Employee #36
   Grad: '06 | YoE: 19
   Start Date: 2025-05
   Title: GTM (Gtm Recruiting)
-  Previous: Senior Manager, Sales Recruiting @ Vercel
+  Previous 1: Senior Manager, Sales Recruiting @ Vercel
+  Previous 2: Staff Recruiter @ Vercel
   Education: BA, University Of Colora
   LinkedIn: https://linkedin.com/in/rachelstoddartnixon
 
@@ -331,7 +367,8 @@ Employee #37
   Grad: '19 | YoE: 6
   Start Date: 2025-05
   Title: GTM (Enterprise Gtm)
-  Previous: Head Of Partnerships @ Anrok
+  Previous 1: Head Of Partnerships @ Anrok
+  Previous 2: Senior Partnerships Lead @ Anrok
   Education: MBA, The University Of Ch '22
   LinkedIn: https://linkedin.com/in/will-ziesing
 
@@ -340,7 +377,8 @@ Employee #38
   Grad: '17 | YoE: 8
   Start Date: 2025-05
   Title: GTM (Founding Enterprise Gtm)
-  Previous: Account Executive @ Census
+  Previous 1: Account Executive @ Census
+  Previous 2: Enterprise Account Executive @ Handshake
   Education: BS Biotechnology, Claremont Mckenna Co '17
   LinkedIn: https://linkedin.com/in/tsidhom
 
@@ -349,7 +387,8 @@ Employee #39
   Grad: '14 | YoE: 11
   Start Date: 2025-05
   Title: GTM (Enterprise Gtm)
-  Previous: Founding Gtm Team @ Patronus Ai
+  Previous 1: Founding Gtm Team @ Patronus Ai
+  Previous 2: Strategic Account Executive @ Monte Carlo
   Education: BS Environmental Scienc, UC Berkeley '14
   LinkedIn: https://linkedin.com/in/alexandra-chou
 
@@ -358,7 +397,8 @@ Employee #40
   Grad: '13 | YoE: 12
   Start Date: 2025-05
   Title: Infra Engineer (Head Of Engineering, Infrastructure)
-  Previous: Co-Founder / Chief Scientist @ Convex
+  Previous 1: Co-Founder / Chief Scientist @ Convex
+  Previous 2: Research Engineer @ Microsoft
   Education: BA Econ, Cornell '13
   LinkedIn: https://linkedin.com/in/sujayakar
 
@@ -367,7 +407,8 @@ Employee #41
   Grad: '18 | YoE: 7
   Start Date: 2025-05
   Title: Technical Support Engineering  (Technical Support Engineering Manager)
-  Previous: Technical Support Engineering Manager @ Tecton
+  Previous 1: Technical Support Engineering Manager @ Tecton
+  Previous 2: Technical Support Engineer, Machine Learning @ Tecton
   Education: BS Econ, University Of Wiscon '18
   LinkedIn: https://linkedin.com/in/kodyfisher
 
@@ -376,7 +417,8 @@ Employee #42
   Grad: '12 | YoE: 13
   Start Date: 2025-05
   Title: VP (Vice President, Solutions)
-  Previous: Vice President, Field Engineering @ Vercel
+  Previous 1: Vice President, Field Engineering @ Vercel
+  Previous 2: Vice President, Sales Engineering @ Vercel
   Education: BS Physics, Claremont Mckenna Co '12
   LinkedIn: https://linkedin.com/in/ricky-doar-39a4a873
 
@@ -385,7 +427,8 @@ Employee #43
   Grad: '08 | YoE: 17
   Start Date: 2025-05
   Title: GTM (Gtm Leadership)
-  Previous: Director, Us Enterprise Sales @ Vercel
+  Previous 1: Director, Us Enterprise Sales @ Vercel
+  Previous 2: Manager Of Enterprise Sales, Americas @ Sift
   Education: MBA Business, University Of Toront '12
   LinkedIn: https://linkedin.com/in/robert-f-98617b20
 
@@ -394,7 +437,8 @@ Employee #44
   Grad: '12 | YoE: 13
   Start Date: 2025-05
   Title: Account Executive (Account Executive - Emerging Enterprise)
-  Previous: Account Executive - Mid Market @ Harvey
+  Previous 1: Account Executive - Mid Market @ Harvey
+  Previous 2: Senior Account Executive @ Figma
   Education: BS Communication, Cornell '12
   LinkedIn: https://linkedin.com/in/davidchase3
 
@@ -403,7 +447,8 @@ Employee #45
   Grad: '15 | YoE: 10
   Start Date: 2025-06
   Title: GTM (Talent, Gtm)
-  Previous: Head Of Sales Development @ Hightouch
+  Previous 1: Head Of Sales Development @ Hightouch
+  Previous 2: Senior Account Manager @ Segment
   Education: Business, Arizona State Univer '15
   LinkedIn: https://linkedin.com/in/kgehringer2024
 
@@ -412,7 +457,8 @@ Employee #46
   Grad: '17 | YoE: 8
   Start Date: 2025-06
   Title: Product (Product)
-  Previous: Chief Executive Officer & Co-Founder @ Clarity
+  Previous 1: Chief Executive Officer & Co-Founder @ Clarity
+  Previous 2: Chief Technology Officer & Co-Founder @ Explo
   Education: BS CS, CMU '17
   LinkedIn: https://linkedin.com/in/rohannvarma
 
@@ -421,7 +467,8 @@ Employee #47
   Grad: '19 | YoE: 6
   Start Date: 2025-06
   Title: Product (Head Of Engineering, Product)
-  Previous: Notion Mail @ Notion
+  Previous 1: Notion Mail @ Notion
+  Previous 2: Sequoia Scout @ Sequoia Capital
   Education: MS CS, Stanford '20
   LinkedIn: https://linkedin.com/in/jason-ginsberg-0bb036127
 
@@ -430,7 +477,8 @@ Employee #48
   Grad: '16 | YoE: 9
   Start Date: 2025-06
   Title: Engineer (Technical Support Engineer)
-  Previous: Senior Support Engineer @ Sourcegraph
+  Previous 1: Senior Support Engineer @ Sourcegraph
+  Previous 2: Support Engineer @ Sourcegraph
   Education: MS CS, Usc Viterbi School O '23
   LinkedIn: https://linkedin.com/in/morgangautho
 
@@ -439,7 +487,8 @@ Employee #49
   Grad: '19 | YoE: 6
   Start Date: 2025-06
   Title: Product (Head Of Engineering, Product)
-  Previous: Notion Mail Lead @ Notion
+  Previous 1: Notion Mail Lead @ Notion
+  Previous 2: Sequoia Scout @ Sequoia Capital
   Education: Stanford '23
   LinkedIn: https://linkedin.com/in/amilich
 
@@ -448,7 +497,8 @@ Employee #50
   Grad: '13 | YoE: 12
   Start Date: 2025-06
   Title: GTM (Enterprise Gtm)
-  Previous: Senior Enterprise Account Executive @ Figma
+  Previous 1: Senior Enterprise Account Executive @ Figma
+  Previous 2: Enterprise Account Executive @ Figma
   Education: BA, Wesleyan University '13
   LinkedIn: https://linkedin.com/in/maxrosenman
 
@@ -457,7 +507,8 @@ Employee #51
   Grad: '12 | YoE: 13
   Start Date: 2025-06
   Title: Field Engineering (Field Engineering)
-  Previous: Senior Sales Engineer @ Snowflake
+  Previous 1: Senior Sales Engineer @ Snowflake
+  Previous 2: Sales Engineer @ Snowflake
   Education: Stanford '14
   LinkedIn: https://linkedin.com/in/mark-w-boos
 
@@ -466,7 +517,8 @@ Employee #52
   Grad: '15 | YoE: 10
   Start Date: 2025-06
   Title: GTM (Gtm)
-  Previous: Growth Director @ Moloco
+  Previous 1: Growth Director @ Moloco
+  Previous 2: Senior Growth Manager @ Moloco
   Education: Finance, UC Berkeley '20
   LinkedIn: https://linkedin.com/in/brookeylombardo
 
@@ -475,7 +527,8 @@ Employee #53
   Grad: '23 | YoE: 2
   Start Date: 2025-06
   Title: Operations (Operations)
-  Previous: Workplace Coordinator @ Accel
+  Previous 1: Workplace Coordinator @ Accel
+  Previous 2: Supervisor @ Vans
   Education: BA Psychology, Arizona State Univer '23
   LinkedIn: https://linkedin.com/in/brooke-howery-09445a211
 
@@ -484,7 +537,8 @@ Employee #54
   Grad: '08 | YoE: 17
   Start Date: 2025-07
   Title: VP (Vice President, Enterprise)
-  Previous: Co-Founder & Chief Executive Officer @ Koala
+  Previous 1: Co-Founder & Chief Executive Officer @ Koala
+  Previous 2: Senior Vice President, Twilio Engage General Manager @ Segment
   Education: BS CS, Harvard '08
   LinkedIn: https://linkedin.com/in/tido-carriero
 
@@ -493,7 +547,8 @@ Employee #55
   Grad: '13 | YoE: 12
   Start Date: 2025-07
   Title: Head Of Engineering, Async Age (Head Of Engineering, Async Agents)
-  Previous: Head Of Ai @ Airtable
+  Previous 1: Head Of Ai @ Airtable
+  Previous 2: Founder @ Airplane
   Education: BS CS, MIT '13
   LinkedIn: https://linkedin.com/in/joshmaa
 
@@ -502,7 +557,8 @@ Employee #56
   Grad: '07 | YoE: 18
   Start Date: 2025-07
   Title: Engineer (Software Engineer)
-  Previous: Co-Founder, Chief Technology Officer / Cpo @ Koala
+  Previous 1: Co-Founder, Chief Technology Officer / Cpo @ Koala
+  Previous 2: Senior Principal Software Engineer @ Segment
   Education: BA Communication, Iowa State Universit '07
   LinkedIn: https://linkedin.com/in/mshwery
 
@@ -511,7 +567,8 @@ Employee #57
   Grad: '09 | YoE: 16
   Start Date: 2025-07
   Title: Security (Security)
-  Previous: Co-Host @ 404 Security Not Found
+  Previous 1: Co-Host @ 404 Security Not Found
+  Previous 2: Co-Founder And Chief Executive Officer @ Resourcely
   Education: MS CE, Santa Clara Universi '12
   LinkedIn: https://linkedin.com/in/travismcpeak
 
@@ -520,7 +577,8 @@ Employee #58
   Grad: '17 | YoE: 8
   Start Date: 2025-07
   Title: Field Engineering (Field Engineering)
-  Previous: Head Of Developer Relations @ Arize Ai
+  Previous 1: Head Of Developer Relations @ Arize Ai
+  Previous 2: Venture Fellow - Ai / Ml / Automation @ Omega Venture Partners
   Education: MBA, Stanford '24
   LinkedIn: https://linkedin.com/in/johngilhuly
 
@@ -529,7 +587,8 @@ Employee #59
   Grad: '15 | YoE: 10
   Start Date: 2025-07
   Title: Infra Engineer (Ml Infra)
-  Previous: Technical Staff @ Stealth
+  Previous 1: Technical Staff @ Stealth
+  Previous 2: Director Of Engineering, Infrastructure And Security @ Planetscale
   Education: Royal Thimphu Colleg '14
   LinkedIn: https://linkedin.com/in/samkottler
 
@@ -538,7 +597,8 @@ Employee #60
   Grad: '16 | YoE: 9
   Start Date: 2025-07
   Title: Account Executive (Account Executive - Emerging Enterprise)
-  Previous: Account Executive, Mid-Market & Commercial @ Stripe
+  Previous 1: Account Executive, Mid-Market & Commercial @ Stripe
+  Previous 2: Account Executive, Startups @ Stripe
   Education: BS Entrepreneurship, Syracuse University '16
   LinkedIn: https://linkedin.com/in/casey-kerr
 
@@ -547,7 +607,8 @@ Employee #61
   Grad: '16 | YoE: 9
   Start Date: 2025-07
   Title: GTM (Enterprise Gtm)
-  Previous: Strategic Enterprise Account Executive @ Freshworks
+  Previous 1: Strategic Enterprise Account Executive @ Freshworks
+  Previous 2: Field Account Executive @ Netsuite
   Education: BS, Semester At Sea / Is '14
   LinkedIn: https://linkedin.com/in/yuqin-lu
 
@@ -556,7 +617,8 @@ Employee #62
   Grad: '19 | YoE: 6
   Start Date: 2025-07
   Title: Engineering (Engineering)
-  Previous: Co-Founder & Chief Technology Officer @ Clarity
+  Previous 1: Co-Founder & Chief Technology Officer @ Clarity
+  Previous 2: Engineering @ Notion
   Education: BS CS, University Of Maryla '19
   LinkedIn: https://linkedin.com/in/austinpiel
 
@@ -565,7 +627,8 @@ Employee #63
   Grad: '15 | YoE: 10
   Start Date: 2025-07
   Title: Research Scientist (Research Scientist)
-  Previous: Quantitative Researcher @ Jane Street
+  Previous 1: Quantitative Researcher @ Jane Street
+  Previous 2: Economist Intern @ Lyft
   Education: Stanford '21
   LinkedIn: https://linkedin.com/in/wanqizhu
 
@@ -574,7 +637,8 @@ Employee #64
   Grad: '15 | YoE: 10
   Start Date: 2025-07
   Title: Engineer (Software Engineer)
-  Previous: Engineering Manager @ Stripe
+  Previous 1: Engineering Manager @ Stripe
+  Previous 2: Co-Founder @ Octane (We'Ve Joined Stripe!)
   Education: BS Biomedical Engineeri, CMU '15
   LinkedIn: https://linkedin.com/in/ahmed-shalaby93
 
@@ -583,7 +647,8 @@ Employee #65
   Grad: '07 | YoE: 18
   Start Date: 2025-07
   Title: Engineer (Technical Support Engineer)
-  Previous: Senior Customer Support Engineer @ Vercel
+  Previous 1: Senior Customer Support Engineer @ Vercel
+  Previous 2: Senior Support Engineer @ Gitlab
   Education: Software Development, Woz U '18
   LinkedIn: https://linkedin.com/in/david-coy
 
@@ -592,7 +657,8 @@ Employee #66
   Grad: '13 | YoE: 12
   Start Date: 2025-07
   Title: GTM (Gtm - Emerging Enterprise)
-  Previous: Enterprise Account Executive @ Figma
+  Previous 1: Enterprise Account Executive @ Figma
+  Previous 2: Senior Account Executive, Mid-Market @ Figma
   Education: Architecture, Universitat Autònoma '12
   LinkedIn: https://linkedin.com/in/nelsonrony
 
@@ -601,7 +667,8 @@ Employee #67
   Grad: '22 | YoE: 3
   Start Date: 2025-07
   Title: Account Executive (Commercial Account Executive)
-  Previous: Corporate Account Executive @ Glean
+  Previous 1: Corporate Account Executive @ Glean
+  Previous 2: Business Development @ Glean
   Education: BA Econ, UC Berkeley '22
   LinkedIn: https://linkedin.com/in/noahwadhwani
 
@@ -610,7 +677,8 @@ Employee #68
   Grad: '12 | YoE: 13
   Start Date: 2025-08
   Title: Field Engineering Manager (Field Engineering Manager)
-  Previous: Director Of Sales Engineering, East @ Vercel
+  Previous 1: Director Of Sales Engineering, East @ Vercel
+  Previous 2: Sales Engineering @ Persona
   Education: BA International Relati, Claremont Mckenna Co '12
   LinkedIn: https://linkedin.com/in/diggoryr
 
@@ -619,7 +687,8 @@ Employee #69
   Grad: '16 | YoE: 9
   Start Date: 2025-08
   Title: Engineer (Software Engineer)
-  Previous: Core Developer @ Hudson River Trading
+  Previous 1: Core Developer @ Hudson River Trading
+  Previous 2: Software Developer Intern @ The D. E. Shaw Group
   Education: MS CS, Columbia '16
   LinkedIn: https://linkedin.com/in/xingzhouhe
 
@@ -628,7 +697,8 @@ Employee #70
   Grad: '17 | YoE: 8
   Start Date: 2025-08
   Title: GTM (Enterprise Gtm)
-  Previous: Chief Of Staff To The Chief Technology Officer @ Bonterra
+  Previous 1: Chief Of Staff To The Chief Technology Officer @ Bonterra
+  Previous 2: Graduate Fellow, Office Of The Secretary @ U.S. Department Of Commerce
   Education: Master Of Public Adm, Harvard Kennedy Scho '24
   LinkedIn: https://linkedin.com/in/rohan-chandra-3367b188
 
@@ -637,7 +707,8 @@ Employee #71
   Grad: '18 | YoE: 7
   Start Date: 2025-08
   Title: GTM (Enterprise Gtm)
-  Previous: Enterprise Gtm @ Linear
+  Previous 1: Enterprise Gtm @ Linear
+  Previous 2: Head Of Codecov Sales @ Sentry (Sentry.Io)
   Education: BA, Santa Clara Universi '18
   LinkedIn: https://linkedin.com/in/sabiha-viswanathan-37423134
 
@@ -646,7 +717,8 @@ Employee #72
   Grad: '18 | YoE: 7
   Start Date: 2025-08
   Title: GTM (Gtm)
-  Previous: Account Executive - Mid-Market @ Coupa
+  Previous 1: Account Executive - Mid-Market @ Coupa
+  Previous 2: Senior Corporate Account Executive @ Coupa
   Education: Business, School Of Business
   LinkedIn: https://linkedin.com/in/kristaletz
 
@@ -655,7 +727,8 @@ Employee #73
   Grad: '20 | YoE: 5
   Start Date: 2025-08
   Title: PM (Product Manager)
-  Previous: Self Serve Growth Lead @ Roboflow
+  Previous 1: Self Serve Growth Lead @ Roboflow
+  Previous 2: Self Serve Growth @ Roboflow
   Education: Georgetown Universit '20
   LinkedIn: https://linkedin.com/in/jacob-witt-181182129
 
@@ -664,7 +737,8 @@ Employee #74
   Grad: '00 | YoE: 25
   Start Date: 2025-08
   Title: GTM (Strategic Gtm)
-  Previous: Strategic Enterprise Sales Leadership @ Figma
+  Previous 1: Strategic Enterprise Sales Leadership @ Figma
+  Previous 2: Strategic Enterprise Sales @ Figma
   Education: Business, Bt '14
   LinkedIn: https://linkedin.com/in/jamesgarner
 
@@ -673,7 +747,8 @@ Employee #75
   Grad: '10 | YoE: 15
   Start Date: 2025-08
   Title: Building Cursor (Building Cursor)
-  Previous: Corporate Controller @ Grammarly
+  Previous 1: Corporate Controller @ Grammarly
+  Previous 2: Senior Manager @ Kpmg Us
   Education: MBA, The Wharton School '24
   LinkedIn: https://linkedin.com/in/babichkirill
 
@@ -682,7 +757,8 @@ Employee #76
   Grad: '13 | YoE: 12
   Start Date: 2025-08
   Title: GTM (Gtm Leadership)
-  Previous: Regional Director, Mid-Market Sales @ Vercel
+  Previous 1: Regional Director, Mid-Market Sales @ Vercel
+  Previous 2: Regional Vice President, Southeast @ Freshworks
   Education: BS Econ, Rutgers The State Un '13
   LinkedIn: https://linkedin.com/in/allegrakettelkamp
 
@@ -691,7 +767,8 @@ Employee #77
   Grad: '18 | YoE: 7
   Start Date: 2025-08
   Title: Account Executive (Account Executive - Emerging Enterprise)
-  Previous: Enterprise Account Executive @ Figma
+  Previous 1: Enterprise Account Executive @ Figma
+  Previous 2: Senior Account Executive, Mid-Market @ Figma
   Education: BS Marketing, University Of Georgi '18
   LinkedIn: https://linkedin.com/in/tess-lawson
 
@@ -700,7 +777,8 @@ Employee #78
   Grad: '08 | YoE: 17
   Start Date: 2025-09
   Title: Operations (Head Of Revenue Operations)
-  Previous: Head Of Revenue Operations @ Retool
+  Previous 1: Head Of Revenue Operations @ Retool
+  Previous 2: Director - Head Of Gtm Strategy Planning, Operations @ Brex
   Education: Business, Università Bocconi '06
   LinkedIn: https://linkedin.com/in/jkrangel
 
@@ -709,7 +787,8 @@ Employee #79
   Grad: '17 | YoE: 8
   Start Date: 2025-09
   Title: GTM (Enterprise Gtm)
-  Previous: Global Solution Architect @ Amplitude
+  Previous 1: Global Solution Architect @ Amplitude
+  Previous 2: Senior Solutions Engineer @ Amplitude
   Education: BA Dance, UC Berkeley '17
   LinkedIn: https://linkedin.com/in/xuaudrey
 
@@ -718,7 +797,8 @@ Employee #80
   Grad: '16 | YoE: 9
   Start Date: 2025-09
   Title: Engineering (Engineering)
-  Previous: Engineering Lead - Product Foundations @ Plaid
+  Previous 1: Engineering Lead - Product Foundations @ Plaid
+  Previous 2: Architecture Lead @ Plaid
   Education: MS CS, Stanford
   LinkedIn: https://linkedin.com/in/ntindall
 
@@ -727,7 +807,8 @@ Employee #81
   Grad: '15 | YoE: 10
   Start Date: 2025-09
   Title: GTM (Enterprise Gtm)
-  Previous: Strategic Sales | Web3 / Fintech & Biotech @ Google
+  Previous 1: Strategic Sales | Web3 / Fintech & Biotech @ Google
+  Previous 2: Field Sales Executive - Digital Natives @ Google
   Education: BS Psychology, Yale '15
   LinkedIn: https://linkedin.com/in/denzil-bernard
 
@@ -736,7 +817,8 @@ Employee #82
   Grad: '10 | YoE: 15
   Start Date: 2025-09
   Title: Engineering (Engineering)
-  Previous: Co-Founder / Chief Technology Officer @ Koala
+  Previous 1: Co-Founder / Chief Technology Officer @ Koala
+  Previous 2: Senior Principal Software Engineer @ Segment
   Education: BS Information Systems, Universidade Federal '10
   LinkedIn: https://linkedin.com/in/netto-farah-7433b328
 
@@ -745,7 +827,8 @@ Employee #83
   Grad: '17 | YoE: 8
   Start Date: 2025-09
   Title: GTM (Enterprise Gtm)
-  Previous: Strategic Account Executive @ Glean
+  Previous 1: Strategic Account Executive @ Glean
+  Previous 2: Enterprise Account Executive @ Glean
   Education: BS Advertising, UT Austin '17
   LinkedIn: https://linkedin.com/in/jennaleejones95
 
@@ -754,7 +837,8 @@ Employee #84
   Grad: '08 | YoE: 17
   Start Date: 2025-09
   Title: Ciso (Ciso)
-  Previous: Ciso @ Plaid
+  Previous 1: Ciso @ Plaid
+  Previous 2: Interim Ciso @ Square
   Education: CS, Georgetown Universit '08
   LinkedIn: https://linkedin.com/in/tom-daniels-7345564
 
@@ -763,7 +847,8 @@ Employee #85
   Grad: '15 | YoE: 10
   Start Date: 2025-09
   Title: GTM (Gtm)
-  Previous: Corporate Account Executive @ Okta
+  Previous 1: Corporate Account Executive @ Okta
+  Previous 2: Sales Team Lead, Us West @ Darktrace
   Education: Econ, Universidade De Fort '16
   LinkedIn: https://linkedin.com/in/kevin-sherman-2013
 
@@ -772,7 +857,8 @@ Employee #86
   Grad: '12 | YoE: 13
   Start Date: 2025-09
   Title: Operations (User Operations)
-  Previous: Director Of Product Management @ Sora
+  Previous 1: Director Of Product Management @ Sora
+  Previous 2: Director Of Customer Operations @ Mighty
   Education: BA Econ, Claremont Mckenna Co '12
   LinkedIn: https://linkedin.com/in/danielkwlee
 
@@ -781,7 +867,8 @@ Employee #87
   Grad: '11 | YoE: 14
   Start Date: 2025-09
   Title: Operations (People Operations)
-  Previous: People Lead @ Assembled
+  Previous 1: People Lead @ Assembled
+  Previous 2: Director, People Operations @ Nurx From Thirty Madison
   Education: BA Business, University Of Califo '11
   LinkedIn: https://linkedin.com/in/stephwu8
 
@@ -790,7 +877,8 @@ Employee #88
   Grad: '09 | YoE: 16
   Start Date: 2025-09
   Title: GTM (Enterprise Gtm Leadership)
-  Previous: Regional Vice President, Strategic Sales @ Writer
+  Previous 1: Regional Vice President, Strategic Sales @ Writer
+  Previous 2: Advisor @ Antler
   Education: Fashion, International School '07
   LinkedIn: https://linkedin.com/in/allison-vatz
 
@@ -799,7 +887,8 @@ Employee #89
   Grad: '16 | YoE: 9
   Start Date: 2025-09
   Title: Rl Foundations (Rl Foundations)
-  Previous: Member Of Technical Staff @ Openai
+  Previous 1: Member Of Technical Staff @ Openai
+  Previous 2: Research Intern @ Facebook
   Education: PhD, UC Berkeley '22
   LinkedIn: https://linkedin.com/in/ashvin-nair-7a496478
 
@@ -808,7 +897,8 @@ Employee #90
   Grad: '13 | YoE: 12
   Start Date: 2025-09
   Title: GTM (Gtm)
-  Previous: Staff Software Engineer - Credit Acceptance @ Helvetica Lake Consulting
+  Previous 1: Staff Software Engineer - Credit Acceptance @ Helvetica Lake Consulting
+  Previous 2: Lead Software Engineer - Guardian Life @ Helvetica Lake Consulting
   Education: MS Music, University Of Hydera '12
   LinkedIn: https://linkedin.com/in/sashakhadivian
 
@@ -817,7 +907,8 @@ Employee #91
   Grad: '17 | YoE: 8
   Start Date: 2025-09
   Title: Engineer (Technical Support Engineer)
-  Previous: Developer Success Engineer @ Stytch
+  Previous 1: Developer Success Engineer @ Stytch
+  Previous 2: Support Experience Engineer @ Plaid
   Education: BFA Fine Arts, The University Of Ge '17
   LinkedIn: https://linkedin.com/in/matthew-ruhlin-5b853289
 
@@ -826,7 +917,8 @@ Employee #92
   Grad: '13 | YoE: 12
   Start Date: 2025-09
   Title: ML Engineer (Engineer, Ml)
-  Previous: Co-Founder, Chief Technology Officer @ Alisa By Genova Labs
+  Previous 1: Co-Founder, Chief Technology Officer @ Alisa By Genova Labs
+  Previous 2: Distinguished Engineer, Ml @ Pinterest
   Education: MS CS, Stanford '17
   LinkedIn: https://linkedin.com/in/andrew-zhai-2796ab34
 
@@ -835,7 +927,8 @@ Employee #93
   Grad: '06 | YoE: 19
   Start Date: 2025-09
   Title: Head Of It (Head Of It)
-  Previous: Member Of Technical Staff @ Xai
+  Previous 1: Member Of Technical Staff @ Xai
+  Previous 2: Vice President Of It & Enterprise Security @ Newfront
   Education: Business, Gruppo Euris Spa '13
   LinkedIn: https://linkedin.com/in/danieljmacias
 
@@ -844,7 +937,8 @@ Employee #94
   Grad: '10 | YoE: 15
   Start Date: 2025-09
   Title: Engineer (Software Engineer)
-  Previous: Co-Founder @ Patchwork
+  Previous 1: Co-Founder @ Patchwork
+  Previous 2: Chief Technology Officer @ Ollie: Ai Photo Assistant
   Education: BS CS, University Of Victor '10
   LinkedIn: https://linkedin.com/in/mahyar-mcdonald-91aa78
 
@@ -853,7 +947,8 @@ Employee #95
   Grad: '16 | YoE: 9
   Start Date: 2025-09
   Title: GTM (Gtm)
-  Previous: Enterprise Account Executive @ Stripe
+  Previous 1: Enterprise Account Executive @ Stripe
+  Previous 2: Digital Native Account Executive @ Stripe
   Education: BS Finance, University Of Connec '16
   LinkedIn: https://linkedin.com/in/joseph-tucci
 
@@ -862,7 +957,8 @@ Employee #96
   Grad: '18 | YoE: 7
   Start Date: 2025-09
   Title: Engineer (Software Engineer)
-  Previous: Software Engineer @ Netflix
+  Previous 1: Software Engineer @ Netflix
+  Previous 2: Software Engineer Intern @ Bloomberg
   Education: CS, Brooklyn Technical H '21
   LinkedIn: https://linkedin.com/in/albert-slepak-005706176
 
@@ -871,7 +967,8 @@ Employee #97
   Grad: '12 | YoE: 13
   Start Date: 2025-09
   Title: Designer (Designer)
-  Previous: Designer @ Anysphere
+  Previous 1: Staff Product Designer @ Github
+  Previous 2: Staff Product Designer @ Replit
   Education: MA Journalism, Syracuse University '13
   LinkedIn: https://linkedin.com/in/mayaqgao
 
@@ -880,7 +977,8 @@ Employee #98
   Grad: '16 | YoE: 9
   Start Date: 2025-09
   Title: Engineer (Software Engineer)
-  Previous: Founding Ml Researcher @ Alisa By Genova Labs
+  Previous 1: Founding Ml Researcher @ Alisa By Genova Labs
+  Previous 2: Senior Machine Learning Engineer @ Pinterest
   Education: PhD Philosophy, North Carolina State '22
   LinkedIn: https://linkedin.com/in/chen-haoyu
 
@@ -889,7 +987,8 @@ Employee #99
   Grad: '19 | YoE: 6
   Start Date: 2025-09
   Title: Engineering (Engineering)
-  Previous: Principal Engineer, Algorithms And Platform @ Pinecone
+  Previous 1: Principal Engineer, Algorithms And Platform @ Pinecone
+  Previous 2: Engineering Manager @ Pinecone
   Education: BS CS, Cornell Engineering '19
   LinkedIn: https://linkedin.com/in/jack-pertschuk-833196114
 
@@ -898,6 +997,7 @@ Employee #100
   Grad: '11 | YoE: 14
   Start Date: 2025-10
   Title: Recruiting Lead (Recruiting Lead)
-  Previous: Recruiting Lead @ Sierra
+  Previous 1: Recruiting Lead @ Sierra
+  Previous 2: Leadership & Executive Recruiting Manager @ Stripe
   Education: Spanish, University Of Belgra '09
   LinkedIn: https://linkedin.com/in/j-mac

@@ -1,5 +1,5 @@
 BRAINCO - EARLIEST EMPLOYEES
-(Founded: 2022-01)
+(Founded: 2023-01)
 ================================================================================
 
 Employee #1
@@ -7,7 +7,8 @@ Employee #1
   Grad: '16 | YoE: 9
   Start Date: 2024-01
   Title: Private Equity (Private Equity)
-  Previous: Director Of Operations @ Rithum
+  Previous 1: Director Of Operations @ Rithum
+  Previous 2: Head Of Operations @ Cypher
   Education: BS Math, Brown University '16
   LinkedIn: https://linkedin.com/in/eric-han16
 
@@ -16,7 +17,8 @@ Employee #2
   Grad: '12 | YoE: 13
   Start Date: 2024-01
   Title: Co-Founder & President (Co-Founder & President)
-  Previous: Co-Founder & Chief Executive Officer (Acquired) @ Serene Ai
+  Previous 1: Co-Founder & Chief Executive Officer (Acquired) @ Serene Ai
+  Previous 2: Vice President @ Clubhouse
   Education: Stanford '14
   LinkedIn: https://linkedin.com/in/dashton-
 
@@ -25,7 +27,8 @@ Employee #3
   Grad: '08 | YoE: 17
   Start Date: 2024-01
   Title: Design (Head Of Design)
-  Previous: Senior Adjunct Professor @ California College Of The Arts
+  Previous 1: Senior Adjunct Professor @ California College Of The Arts
+  Previous 2: Founding Designer (Acq.) @ Serene Ai
   Education: Master Of Fine Arts Design, School Of Visual Art '13
   LinkedIn: https://linkedin.com/in/ssprockett
 
@@ -34,7 +37,8 @@ Employee #4
   Grad: '02 | YoE: 23
   Start Date: 2024-09
   Title: Founding Engineer (Founding Engineer)
-  Previous: Staff Software Engineer @ Sprig
+  Previous 1: Staff Software Engineer @ Sprig
+  Previous 2: Founding Engineer @ Elotl
   Education: MS, Corvinus University  '10
   LinkedIn: https://linkedin.com/in/vilmos-nebehaj-7a379410
 
@@ -43,7 +47,8 @@ Employee #5
   Grad: '09 | YoE: 16
   Start Date: 2024-10
   Title: Co-Founder (Co-Founder & Head Of Engineering)
-  Previous: Co-Founder & Chief Technology Officer (Acquired) @ Serene Ai
+  Previous 1: Co-Founder & Chief Technology Officer (Acquired) @ Serene Ai
+  Previous 2: Angel Track @ First Round Capital
   Education: MS CS, University Of Buchar '11
   LinkedIn: https://linkedin.com/in/mirceapasoi
 
@@ -52,7 +57,8 @@ Employee #6
   Grad: '10 | YoE: 15
   Start Date: 2024-10
   Title: Co-Founder (Co-Founder & Ai / Ml)
-  Previous: Co-Founder & Chief Technology Officer (Acquired) @ Serene Ai
+  Previous 1: Co-Founder & Chief Technology Officer (Acquired) @ Serene Ai
+  Previous 2: Built & Managed The Machine Learning Team @ Clubhouse
   Education: BE CS, Cornell '10
   LinkedIn: https://linkedin.com/in/revantk
 
@@ -61,7 +67,8 @@ Employee #7
   Grad: '06 | YoE: 19
   Start Date: 2024-10
   Title: Head Of Engineering Initiative (Head Of Engineering Initiatives)
-  Previous: Chief Technology Officer @ Clubhouse
+  Previous 1: Chief Technology Officer @ Clubhouse
+  Previous 2: Technology Advisor & Angel Investor @ Various Startups
   Education: United World College
   LinkedIn: https://linkedin.com/in/almalkawi
 
@@ -70,7 +77,8 @@ Employee #8
   Grad: '13 | YoE: 12
   Start Date: 2024-10
   Title: Founding Engineer (Founding Engineer)
-  Previous: Founding Engineer @ Supergood
+  Previous 1: Founding Engineer @ Supergood
+  Previous 2: Engineering Manager @ Blend
   Education: PhD, Texas A&M University '17
   LinkedIn: https://linkedin.com/in/zachary-benamram-413788226
 
@@ -79,7 +87,8 @@ Employee #9
   Grad: '16 | YoE: 9
   Start Date: 2024-10
   Title: AI Engineer (Ai Engineer)
-  Previous: Technical Architect @ Warden Global
+  Previous 1: Technical Architect @ Warden Global
+  Previous 2: Co-Founder & Chief Technology Officer @ Teleport
   Education: MS, University Of Buchar '18
   LinkedIn: https://linkedin.com/in/alexbuicescu
 
@@ -88,7 +97,8 @@ Employee #10
   Grad: '05 | YoE: 20
   Start Date: 2024-11
   Title: Research Scientist (Research Scientist)
-  Previous: Staff Research Engineer @ Google Deepmind
+  Previous 1: Staff Research Engineer @ Google Deepmind
+  Previous 2: Founding Research Engineer @ Isomorphic Labs
   Education: Entrepreneurship, Ucla Anderson School
   LinkedIn: https://linkedin.com/in/sibon-li-9a9bba34
 
@@ -97,7 +107,8 @@ Employee #11
   Grad: '10 | YoE: 15
   Start Date: 2024-11
   Title: Founding Engineer (Founding Engineer)
-  Previous: Member Of Technical Staff @ Harvey
+  Previous 1: Member Of Technical Staff @ Harvey
+  Previous 2: Co-Founder And Chief Technology Officer @ Stack
   Education: MS CE, Uc Irvine '13
   LinkedIn: https://linkedin.com/in/cecez
 
@@ -106,7 +117,8 @@ Employee #12
   Grad: '20 | YoE: 5
   Start Date: 2024-12
   Title: Founding Engineer (Founding Engineer)
-  Previous: Senior Machine Learning Engineer @ Anduril Industries
+  Previous 1: Senior Machine Learning Engineer @ Anduril Industries
+  Previous 2: Machine Learning Engineer @ Anduril Industries
   Education: MS CS, UC Berkeley '21
   LinkedIn: https://linkedin.com/in/vishnu-d-9450a796
 
@@ -115,7 +127,8 @@ Employee #13
   Grad: '10 | YoE: 15
   Start Date: 2025-01
   Title: ML Engineer (Machine Learning Engineer)
-  Previous: Founder (Acquired) @ Storytime
+  Previous 1: Founder (Acquired) @ Storytime
+  Previous 2: Founder @ Afterword
   Education: MS CS, UIUC '13
   LinkedIn: https://linkedin.com/in/davidmlundgren
 
@@ -124,7 +137,8 @@ Employee #14
   Grad: '22 | YoE: 3
   Start Date: 2025-01
   Title: Engineer (Founding Deployed Engineer)
-  Previous: Co-Founder @ Leaping
+  Previous 1: Co-Founder @ Leaping
+  Previous 2: Technical Lead @ Rippling
   Education: Bachelor Of Applied  Engineering, University Of Waterl '22
   LinkedIn: https://linkedin.com/in/kvptkr
 
@@ -133,7 +147,8 @@ Employee #15
   Grad: '13 | YoE: 12
   Start Date: 2025-01
   Title: ML Engineer (Ai / Ml)
-  Previous: Chief Technology Officer @ Sapling.Ai
+  Previous 1: Chief Technology Officer @ Sapling.Ai
+  Previous 2: Founding Engineer @ Brilliant Smart Home
   Education: BS CS, UC Berkeley '13
   LinkedIn: https://linkedin.com/in/hngjms
 
@@ -142,7 +157,8 @@ Employee #16
   Grad: '15 | YoE: 10
   Start Date: 2025-02
   Title: Engineer (Engineer)
-  Previous: Swe @ Macroscope
+  Previous 1: Swe @ Macroscope
+  Previous 2: Tech Lead, Web @ Clubhouse
   Education: Southern Methodist U '19
   LinkedIn: https://linkedin.com/in/justinkunz-1
 
@@ -151,7 +167,8 @@ Employee #17
   Grad: '13 | YoE: 12
   Start Date: 2025-03
   Title: Founding Recruiter (Founding Recruiter)
-  Previous: Recruiting Lead @ Shepherd
+  Previous 1: Recruiting Lead @ Shepherd
+  Previous 2: Full Cycle Technical Recruiter @ Nexhealth
   Education: MS Occupational Therapy, Boston University '15
   LinkedIn: https://linkedin.com/in/ijoo22
 
@@ -160,7 +177,8 @@ Employee #18
   Grad: '18 | YoE: 7
   Start Date: 2025-03
   Title: Product (Product Designer)
-  Previous: Design Thinking Lecturer @ Saint Joseph University Of Beirut
+  Previous 1: Design Thinking Lecturer @ Saint Joseph University Of Beirut
+  Previous 2: Designer @ Sap
   Education: Harvard Business Sch '21
   LinkedIn: https://linkedin.com/in/mia-rizk
 
@@ -169,7 +187,8 @@ Employee #19
   Grad: '14 | YoE: 11
   Start Date: 2025-04
   Title: Head Of Commercial Partnership (Head Of Commercial Partnerships)
-  Previous: Mena Commercial Lead @ Palantir Technologies
+  Previous 1: Mena Commercial Lead @ Palantir Technologies
+  Previous 2: Commercial Execution Lead @ Palantir Technologies
   Education: MS Finance, Georgia Tech '17
   LinkedIn: https://linkedin.com/in/rushad-kaizad-heerjee
 
@@ -178,7 +197,8 @@ Employee #20
   Grad: '12 | YoE: 13
   Start Date: 2025-05
   Title: CEO (Chief Executive Officer)
-  Previous: Head Of Product @ Instabase
+  Previous 1: Head Of Product @ Instabase
+  Previous 2: Director Of Product Management, Machine Learning And Data Science @ Databricks
   Education: MBA, Mit Sloan School Of  '15
   LinkedIn: https://linkedin.com/in/clemensmewald
 
@@ -187,7 +207,8 @@ Employee #21
   Grad: '25 | YoE: ?
   Start Date: 2025-06
   Title: ML Engineer (Machine Learning Engineer)
-  Previous: Machine Learning Intern @ Uber
+  Previous 1: Machine Learning Intern @ Uber
+  Previous 2: Researcher @ Yale University
   Education: MS Data Science, Yale '25
   LinkedIn: https://linkedin.com/in/mattshu
 
@@ -196,7 +217,8 @@ Employee #22
   Grad: '00 | YoE: 25
   Start Date: 2025-08
   Title: GTM (Gtm & Partnerships Executive)
-  Previous: Early Stage Investor @ Activeloop
+  Previous 1: Early Stage Investor @ Activeloop
+  Previous 2: Vice President Of Partnerships & Alliances @ Groq
   Education: MBA Management, Stanford '07
   LinkedIn: https://linkedin.com/in/walteraldana
 
@@ -205,7 +227,8 @@ Employee #23
   Grad: '22 | YoE: 3
   Start Date: 2025-08
   Title: AI Engineer (Ai Product Engineer)
-  Previous: Founding Engineer @ Lassie
+  Previous 1: Founding Engineer @ Lassie
+  Previous 2: Software Engineer @ Ramp
   Education: BS CS, UIUC '22
   LinkedIn: https://linkedin.com/in/jeffrey-tang
 
@@ -214,7 +237,8 @@ Employee #24
   Grad: '21 | YoE: 4
   Start Date: 2025-08
   Title: AI Engineer (Ai Product Engineer)
-  Previous: Software Engineer @ Tesla
+  Previous 1: Software Engineer @ Tesla
+  Previous 2: Senior Software Engineer @ Clever Inc.
   Education: BS CS, MIT '21
   LinkedIn: https://linkedin.com/in/ashleyqwang
 
@@ -223,7 +247,8 @@ Employee #25
   Grad: '16 | YoE: 9
   Start Date: 2025-08
   Title: Product (Product Lead)
-  Previous: Product Team Lead @ Instabase
+  Previous 1: Product Team Lead @ Instabase
+  Previous 2: Lead Product Manager @ C3 Ai
   Education: MS Design, Stanford '18
   LinkedIn: https://linkedin.com/in/kaustubh-desh
 
@@ -232,7 +257,8 @@ Employee #26
   Grad: '17 | YoE: 8
   Start Date: 2025-08
   Title: Operations (Operations)
-  Previous: Vice President @ Citadel Securities
+  Previous 1: Vice President @ Citadel Securities
+  Previous 2: Consultant @ Bain & Company
   Education: BS Econ, Qut (Queensland Univ
   LinkedIn: https://linkedin.com/in/jensenjoel
 
@@ -241,7 +267,8 @@ Employee #27
   Grad: '09 | YoE: 16
   Start Date: 2025-09
   Title: AI Engineer (Ai Product Engineer)
-  Previous: Senior Software Engineer @ Alchemy
+  Previous 1: Senior Software Engineer @ Alchemy
+  Previous 2: Senior Software Engineer @ Scale Ai
   Education: Y Combinator '16
   LinkedIn: https://linkedin.com/in/derekdahmer
 
@@ -250,7 +277,8 @@ Employee #28
   Grad: '17 | YoE: 8
   Start Date: 2025-09
   Title: Recruitment Coordinator (Recruitment Coordinator)
-  Previous: Technical Recruiter @ Cardless
+  Previous 1: Technical Recruiter @ Cardless
+  Previous 2: Technical Recruiter @ Scalable
   Education: BS Communication, Ucla '17
   LinkedIn: https://linkedin.com/in/veronica-tong-004629183
 
@@ -259,7 +287,8 @@ Employee #29
   Grad: '19 | YoE: 6
   Start Date: 2025-09
   Title: ML Engineer (Ai / Ml)
-  Previous: Machine Learning Engineer @ Pinterest
+  Previous 1: Machine Learning Engineer @ Pinterest
+  Previous 2: Research Assistant @ Us-Asia Technology Management Center
   Education: MS CS, Stanford '21
   LinkedIn: https://linkedin.com/in/ammar-alqatari
 
@@ -268,7 +297,8 @@ Employee #30
   Grad: '24 | YoE: 1
   Start Date: 2025-09
   Title: AI Engineer (Ai Product Engineer)
-  Previous: Software Engineer Intern @ Uber
+  Previous 1: Software Engineer Intern @ Uber
+  Previous 2: Co-Founder @ Beebettor
   Education: Y Combinator '24
   LinkedIn: https://linkedin.com/in/mathyou-wolfe
 
@@ -277,7 +307,8 @@ Employee #31
   Grad: '12 | YoE: 13
   Start Date: 2025-10
   Title: AI Engineer (Ai Product Engineer)
-  Previous: Founding Member @ Theo Ai
+  Previous 1: Founding Member @ Theo Ai
+  Previous 2: Hyperline - Founding Engineer @ Theo Ai
   Education: MS CS, Columbia '15
   LinkedIn: https://linkedin.com/in/namanjn
 
@@ -286,7 +317,8 @@ Employee #32
   Grad: '16 | YoE: 9
   Start Date: 2025-10
   Title: AI Engineer (Ai Partnerships & Deployments)
-  Previous: Head Of Engagements, Gen Ai @ Scale Ai
+  Previous 1: Head Of Engagements, Gen Ai @ Scale Ai
+  Previous 2: Engagement Manager, Gen Ai @ Scale Ai
   Education: Udacity '18
   LinkedIn: https://linkedin.com/in/solimanfady
 
@@ -295,7 +327,8 @@ Employee #33
   Grad: '14 | YoE: 11
   Start Date: 2025-10
   Title: AI Engineer (Ai Product Engineer)
-  Previous: Senior Software Engineer @ Medallion
+  Previous 1: Senior Software Engineer @ Medallion
+  Previous 2: Co-Founder @ Omnimerchant
   Education: CS, University Of Califo '18
   LinkedIn: https://linkedin.com/in/m-t-andemeskel
 
@@ -304,7 +337,8 @@ Employee #34
   Grad: '22 | YoE: 3
   Start Date: 2025-10
   Title: ML Engineer (Ai / Ml Engineer)
-  Previous: Ai Engineer 2 @ Meltwater
+  Previous 1: Ai Engineer 2 @ Meltwater
+  Previous 2: Data Scientist @ Intorqa
   Education: MS CS, Manning College Of I '23
   LinkedIn: https://linkedin.com/in/paarthtandon
 
@@ -313,7 +347,8 @@ Employee #35
   Grad: '11 | YoE: 14
   Start Date: 2025-10
   Title: ML Engineer (Ai / Ml Engineering)
-  Previous: Machine Learning Engineer @ Stripe
+  Previous 1: Machine Learning Engineer @ Stripe
+  Previous 2: Machine Learning Engineer @ Plaid
   Education: MA Econ, Ucla '15
   LinkedIn: https://linkedin.com/in/vikramacharyarao
 
@@ -322,7 +357,8 @@ Employee #36
   Grad: '16 | YoE: 9
   Start Date: 2025-10
   Title: AI Engineer (Ai Due Diligence Principal)
-  Previous: Consultant @ Bain & Company
+  Previous 1: Consultant @ Bain & Company
+  Previous 2: Senior Associate Consultant @ Bain & Company
   Education: MEng ME, The University Of We '19
   LinkedIn: https://linkedin.com/in/sam-jefferies-309035135
 
@@ -331,7 +367,8 @@ Employee #37
   Grad: '25 | YoE: ?
   Start Date: 2025-10
   Title: Recruiting Coordinator (Recruiting Coordinator)
-  Previous: Intern @ Valiance Capital
+  Previous 1: Intern @ Valiance Capital
+  Previous 2: Campus Leadership Ambassador @ You.Com
   Education: BA Public Policy, UC Berkeley '25
   LinkedIn: https://linkedin.com/in/larissacorry
 
@@ -340,7 +377,8 @@ Employee #38
   Grad: '16 | YoE: 9
   Start Date: 2025-11
   Title: Platform Engineer (Ai Platform Engineer)
-  Previous: Staff Software Engineer @ Alchemy
+  Previous 1: Staff Software Engineer @ Alchemy
+  Previous 2: Software Engineer @ Alchemy
   Education: BA CS, UC Berkeley '16
   LinkedIn: https://linkedin.com/in/steven-yang-98123b66
 
@@ -349,6 +387,7 @@ Employee #39
   Grad: '25 | YoE: ?
   Start Date: 2025-11
   Title: ML Engineer (Ai / Ml Engineer)
-  Previous: Ai / Ml Engineer @ Adobe
+  Previous 1: Ai / Ml Engineer @ Adobe
+  Previous 2: Software Engineer Intern @ Adobe
   Education: MS CS, Stanford '25
   LinkedIn: https://linkedin.com/in/adam1zhao

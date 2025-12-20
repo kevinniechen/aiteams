@@ -7,7 +7,8 @@ Employee #1
   Grad: '96 | YoE: 29
   Start Date: 2019-03
   Title: Founder & CEO (Founder And Chief Executive Officer)
-  Previous: Co-Founder @ Rubrik
+  Previous 1: Co-Founder @ Rubrik
+  Previous 2: Distinguished Engineer @ Google
   Education: MS CS, UW '97
   LinkedIn: https://linkedin.com/in/jain-arvind
 
@@ -16,7 +17,8 @@ Employee #2
   Grad: '97 | YoE: 28
   Start Date: 2019-03
   Title: Co-Founder (Co-Founder)
-  Previous: Principal Software Engineer @ Meta
+  Previous 1: Principal Software Engineer @ Meta
+  Previous 2: Principal Development Lead @ Microsoft
   Education: MS CS, Lynn University '99
   LinkedIn: https://linkedin.com/in/t-r-vishwanath-a045a9
 
@@ -25,7 +27,8 @@ Employee #3
   Grad: '04 | YoE: 21
   Start Date: 2019-04
   Title: Co-Founder (Co-Founder / Head Of Product Engineer)
-  Previous: Founding Member @ Post Social
+  Previous 1: Founding Member @ Post Social
+  Previous 2: Senior Staff Software Engineer @ Google
   Education: BS Electronics Engineer, Saint Louis Universi '04
   LinkedIn: https://linkedin.com/in/tonygentilcore
 
@@ -34,7 +37,8 @@ Employee #4
   Grad: '16 | YoE: 9
   Start Date: 2019-06
   Title: Founding Engineer (Founding Engineer)
-  Previous: Software Engineer, Research @ Google
+  Previous 1: Software Engineer, Research @ Google
+  Previous 2: Cofounder @ Firestop
   Education: BS CS, Princeton '16
   LinkedIn: https://linkedin.com/in/eddie-zhou-70364b54
 
@@ -43,7 +47,8 @@ Employee #5
   Grad: '19 | YoE: 6
   Start Date: 2019-07
   Title: Marketing (Digital Marketing Manager)
-  Previous: N/A @ N/A
+  Previous 1: N/A @ N/A
+  Previous 2: N/A @ N/A
   Education: N/A
   LinkedIn: https://linkedin.com/in/mahsin-hossain-345b87179
 
@@ -52,7 +57,8 @@ Employee #6
   Grad: '14 | YoE: 11
   Start Date: 2019-07
   Title: Staff Engineer (Staff Software Engineer)
-  Previous: Senior Software Engineer @ Chiron Health - A Medici Company
+  Previous 1: Senior Software Engineer @ Chiron Health - A Medici Company
+  Previous 2: N/A @ N/A
   Education: BS CS, UT Austin '14
   LinkedIn: https://linkedin.com/in/peter-gi-793361343
 
@@ -61,7 +67,8 @@ Employee #7
   Grad: '18 | YoE: 7
   Start Date: 2019-08
   Title: Founding Engineer (Founding Engineer, Engineering Manager)
-  Previous: Research Engineer @ Vicarious
+  Previous 1: Research Engineer @ Vicarious
+  Previous 2: Summer Scholar @ Quality Council Of India(Qci)
   Education: Stanford '23
   LinkedIn: https://linkedin.com/in/casawa
 
@@ -70,7 +77,8 @@ Employee #8
   Grad: '02 | YoE: 23
   Start Date: 2019-08
   Title: Engineer (Software Engineer)
-  Previous: Software Engineer @ Google
+  Previous 1: Software Engineer @ Google
+  Previous 2: Software Engineer @ Esi An Mks Brand
   Education: BS CS, Oregon State Univers '02
   LinkedIn: https://linkedin.com/in/james-simonsen-6914843
 
@@ -79,7 +87,8 @@ Employee #9
   Grad: '17 | YoE: 8
   Start Date: 2019-09
   Title: Engineering Manager (Engineering Manager)
-  Previous: Software Engineer @ Pinterest
+  Previous 1: Software Engineer @ Pinterest
+  Previous 2: Software Engineering Intern @ Pinterest
   Education: BS CS, UC Berkeley '17
   LinkedIn: https://linkedin.com/in/yiming-jen
 
@@ -88,7 +97,8 @@ Employee #10
   Grad: '07 | YoE: 18
   Start Date: 2019-12
   Title: Engineer (Software Engineer)
-  Previous: Software Engineer @ Meta
+  Previous 1: Software Engineer @ Meta
+  Previous 2: Senior Software Engineer @ Here Technologies
   Education: MS ME, University Of Albert '11
   LinkedIn: https://linkedin.com/in/pophus
 
@@ -97,7 +107,8 @@ Employee #11
   Grad: '96 | YoE: 29
   Start Date: 2019-12
   Title: Engineer (Software Engineer)
-  Previous: Software Engineer @ Dropbox
+  Previous 1: Software Engineer @ Dropbox
+  Previous 2: Software Engineer @ Google
   Education: PhD CS, University Of Maryla '05
   LinkedIn: https://linkedin.com/in/mustafa-tikir-07a30b2
 
@@ -106,7 +117,8 @@ Employee #12
   Grad: '11 | YoE: 14
   Start Date: 2020-05
   Title: Sales (Head Of Sales)
-  Previous: Manager, Inside Enterprise West & U.S. Higher Education Sales @ Box
+  Previous 1: Manager, Inside Enterprise West & U.S. Higher Education Sales @ Box
+  Previous 2: Account Executive, Field Sales @ Box
   Education: BA Econ, Rutgers University '11
   LinkedIn: https://linkedin.com/in/joshuajchang
 
@@ -115,7 +127,8 @@ Employee #13
   Grad: '15 | YoE: 10
   Start Date: 2020-12
   Title: Engineer (Engineer)
-  Previous: Member Of Technical Staff @ Qubole
+  Previous 1: Member Of Technical Staff @ Qubole
+  Previous 2: Software Development Engineer In Test @ Amagi
   Education: BTech Electronics Engineer, School Of Engineerin '15
   LinkedIn: https://linkedin.com/in/abhijith-shankar-9b70a898
 
@@ -124,7 +137,8 @@ Employee #14
   Grad: '10 | YoE: 15
   Start Date: 2021-01
   Title: Engineering Manager (Engineering Manager)
-  Previous: Senior Engineering Manager @ Rubrik
+  Previous 1: Senior Engineering Manager @ Rubrik
+  Previous 2: Software Engineer @ Cloudera
   Education: MS CS, Stanford '16
   LinkedIn: https://linkedin.com/in/chustephen
 
@@ -133,7 +147,8 @@ Employee #15
   Grad: '16 | YoE: 9
   Start Date: 2021-01
   Title: PM (Product Manager)
-  Previous: Product Manager @ Loom
+  Previous 1: Product Manager @ Loom
+  Previous 2: Corporate Development Manager @ Godaddy
   Education: BA, UPenn '16
 
 Employee #16
@@ -141,7 +156,8 @@ Employee #16
   Grad: '97 | YoE: 28
   Start Date: 2021-01
   Title: Director (Director)
-  Previous: Software Engineering Manager @ Facebook
+  Previous 1: Software Engineering Manager @ Facebook
+  Previous 2: Software Design Engineer @ Microsoft
   Education: MS CS, Ucla '00
   LinkedIn: https://linkedin.com/in/daniel-shen-74bba81b0
 
@@ -150,7 +166,8 @@ Employee #17
   Grad: '12 | YoE: 13
   Start Date: 2021-03
   Title: Site Lead, India Research & De (Site Lead, India Research & Development)
-  Previous: Advisor @ Relicx
+  Previous 1: Advisor @ Relicx
+  Previous 2: Head Of Platform @ Snorkel Ai
   Education: Stanford
   LinkedIn: https://linkedin.com/in/garvitjuniwal
 
@@ -159,7 +176,8 @@ Employee #18
   Grad: '14 | YoE: 11
   Start Date: 2021-05
   Title: Investor (Investor)
-  Previous: Investor @ Affirm
+  Previous 1: Investor @ Affirm
+  Previous 2: Co-Founder And Chief Executive Officer @ Aden
   Education: Y Combinator
   LinkedIn: https://linkedin.com/in/vincentjiangx
 
@@ -168,7 +186,8 @@ Employee #19
   Grad: '21 | YoE: 4
   Start Date: 2021-05
   Title: Engineer (Software Engineer)
-  Previous: Sde Intern @ Globalfair
+  Previous 1: Sde Intern @ Globalfair
+  Previous 2: N/A @ N/A
   Education: BTech, Heritage Institute O '21
   LinkedIn: https://linkedin.com/in/purvi-jain-083333171
 
@@ -177,7 +196,8 @@ Employee #20
   Grad: '21 | YoE: 4
   Start Date: 2021-05
   Title: Engineer (Software Engineer)
-  Previous: Sde Intern @ Globalfair
+  Previous 1: Sde Intern @ Globalfair
+  Previous 2: N/A @ N/A
   Education: BTech CS, Heritage Institute O '21
   LinkedIn: https://linkedin.com/in/purvi01
 
@@ -186,7 +206,8 @@ Employee #21
   Grad: '99 | YoE: 26
   Start Date: 2021-07
   Title: Engineer (Software Engineer (Ui))
-  Previous: Member Of Technical Staff (Ui) @ Clumio
+  Previous 1: Member Of Technical Staff (Ui) @ Clumio
+  Previous 2: Principal Software Engineer (Ui) @ Splunk
   Education: Woodbridge High Scho '93
   LinkedIn: https://linkedin.com/in/nathanarritt
 
@@ -195,7 +216,8 @@ Employee #22
   Grad: '11 | YoE: 14
   Start Date: 2021-07
   Title: Engineering Manager (Engineering Manager)
-  Previous: Angel Investor @ Angel Investor
+  Previous 1: Angel Investor @ Angel Investor
+  Previous 2: Senior Software Engineer @ Google
   Education: PhD Physics, Princeton '14
   LinkedIn: https://linkedin.com/in/arjunlandes
 
@@ -204,7 +226,8 @@ Employee #23
   Grad: '96 | YoE: 29
   Start Date: 2021-07
   Title: Engineer (Site Reliability Engineer)
-  Previous: Senior Site Reliability Engineer @ Google
+  Previous 1: Senior Site Reliability Engineer @ Google
+  Previous 2: Hp-User Experience Backline Support Engineer @ Hp
   Education: N/A
   LinkedIn: https://linkedin.com/in/gary-luo-7130014
 
@@ -213,7 +236,8 @@ Employee #24
   Grad: '08 | YoE: 17
   Start Date: 2021-07
   Title: Search Ranking Tech Lead (Search Ranking Tech Lead)
-  Previous: Senior Software Engineer @ Google
+  Previous 1: Senior Software Engineer @ Google
+  Previous 2: Inference Engineer @ Scaled Inference
   Education: MS CE, UIUC '13
   LinkedIn: https://linkedin.com/in/wrui
 
@@ -222,7 +246,8 @@ Employee #25
   Grad: '96 | YoE: 29
   Start Date: 2021-07
   Title: Engineer (Site Reliability Engineer)
-  Previous: Senior Site Reliability Engineer @ Google
+  Previous 1: Senior Site Reliability Engineer @ Google
+  Previous 2: Hp-User Experience Backline Support Engineer @ Hp
   Education: N/A
   LinkedIn: https://linkedin.com/in/gary-luo-7130014
 
@@ -231,7 +256,8 @@ Employee #26
   Grad: '21 | YoE: 4
   Start Date: 2021-08
   Title: Engineer (Software Engineer)
-  Previous: Cs 61B Head Ta @ University Of California, Berkeley
+  Previous 1: Cs 61B Head Ta @ University Of California, Berkeley
+  Previous 2: Software Engineer Intern @ Meta
   Education: BS CS, Uc Berkeley College  '21
   LinkedIn: https://linkedin.com/in/omarnabikhan
 
@@ -240,7 +266,8 @@ Employee #27
   Grad: '05 | YoE: 20
   Start Date: 2021-08
   Title: Engineer (Software Engineer)
-  Previous: Software Engineer @ Facebook
+  Previous 1: Software Engineer @ Facebook
+  Previous 2: Sde Ii @ Microsoft
   Education: Cornell '10
   LinkedIn: https://linkedin.com/in/gayan-edirisinghe-8472503
 
@@ -249,7 +276,8 @@ Employee #28
   Grad: '20 | YoE: 5
   Start Date: 2021-08
   Title: Engineer (Software Engineer)
-  Previous: Software Engineer @ Stealth Startup
+  Previous 1: Software Engineer @ Stealth Startup
+  Previous 2: Head Ta For Cs61B @ University Of California, Berkeley
   Education: BS CS, UC Berkeley '20
   LinkedIn: https://linkedin.com/in/connor-lafferty-b1133516a
 
@@ -258,7 +286,8 @@ Employee #29
   Grad: '16 | YoE: 9
   Start Date: 2021-08
   Title: Management Accountant (Management Accountant)
-  Previous: Management Accountant @ John Hornby Skewes And Company Limited
+  Previous 1: Management Accountant @ John Hornby Skewes And Company Limited
+  Previous 2: Assistant Management Accountant @ John Hornby Skewes And Company Limited
   Education: Aat
   LinkedIn: https://linkedin.com/in/haydn-ahmed-9104a3191
 
@@ -267,7 +296,8 @@ Employee #30
   Grad: '14 | YoE: 11
   Start Date: 2021-10
   Title: Account Executive (Account Executive, Strategic Accounts)
-  Previous: Enterprise Account Executive @ Box
+  Previous 1: Enterprise Account Executive @ Box
+  Previous 2: Inside Account Executive @ Box
   Education: BS Business, University Of San Fr '14
   LinkedIn: https://linkedin.com/in/kyle-dos-remedios
 
@@ -276,7 +306,8 @@ Employee #31
   Grad: '19 | YoE: 6
   Start Date: 2021-10
   Title: Engineer (Software Engineer)
-  Previous: Software Engineer @ Rippling
+  Previous 1: Software Engineer @ Rippling
+  Previous 2: Microsoft Research @ Microsoft
   Education: BE CS, Birla Institute Of T '19
   LinkedIn: https://linkedin.com/in/adityaku
 
@@ -285,7 +316,8 @@ Employee #32
   Grad: '20 | YoE: 5
   Start Date: 2021-12
   Title: Product (Product Designer)
-  Previous: Product Designer @ Intuit
+  Previous 1: Product Designer @ Intuit
+  Previous 2: N/A @ N/A
   Education: BS Architecture, Stanford '20
   LinkedIn: https://linkedin.com/in/dorothy-kang
 
@@ -294,6 +326,7 @@ Employee #33
   Grad: '19 | YoE: 6
   Start Date: 2021-12
   Title: Engineer (Software Engineer)
-  Previous: Research Intern @ Uppsala University
+  Previous 1: Research Intern @ Uppsala University
+  Previous 2: Research Intern @ University Of Warsaw
   Education: MS CS, UPenn '21
   LinkedIn: https://linkedin.com/in/shaan-vaidya

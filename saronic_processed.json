@@ -1,7 +1,7 @@
 {
   "company": "saronic",
   "company_display": "Saronic",
-  "founded": "2022-01",
+  "founded": "2022-06",
   "employees": [
     {
       "rank": 1,
@@ -13,6 +13,8 @@
       "original_title": "Co-Founder And Chief Commercial Officer",
       "previous_title": "Founder",
       "previous_company": "9 Line Solutions, Llc",
+      "previous_title_2": "Chairman & Chief Executive Officer",
+      "previous_company_2": "Temeku Technologies, Inc.",
       "education": "The Staff College '18",
       "linkedin_url": "https://linkedin.com/in/rob-lehman-8387634"
     },
@@ -26,6 +28,8 @@
       "original_title": "Co-Founder And Chief Executive Officer",
       "previous_title": "Entrepreneur In Residence",
       "previous_company": "8Vc",
+      "previous_title_2": "Board Member",
+      "previous_company_2": "Navy Seal Foundation",
       "education": "MBA Finance, The Wharton School '17",
       "linkedin_url": "https://linkedin.com/in/dino-mavrookas-190244127"
     },
@@ -39,6 +43,8 @@
       "original_title": "Co-Founder And Chief Commercial Officer",
       "previous_title": "Founder",
       "previous_company": "9 Line Solutions, Llc",
+      "previous_title_2": "Chairman & Chief Executive Officer",
+      "previous_company_2": "Temeku Technologies, Inc.",
       "education": "The Staff College '18",
       "linkedin_url": "https://linkedin.com/in/rob-lehman-8387634"
     },
@@ -52,6 +58,8 @@
       "original_title": "Senior Software Engineer",
       "previous_title": "Software Engineer",
       "previous_company": "Anduril Industries",
+      "previous_title_2": "Software Engineering Intern",
+      "previous_company_2": "Anduril Industries",
       "education": "BS CS, UIUC '20",
       "linkedin_url": "https://linkedin.com/in/rishidesai1"
     },
@@ -65,6 +73,8 @@
       "original_title": "Naval Software Architect",
       "previous_title": "Senior Naval Architect",
       "previous_company": "Thayermahan, Inc.",
+      "previous_title_2": "Naval Architect",
+      "previous_company_2": "General Dynamics Electric Boat",
       "education": "BS Engineering, Webb Institute '17",
       "linkedin_url": "https://linkedin.com/in/joseph-gargiulo-a959bb2aa"
     },
@@ -78,6 +88,8 @@
       "original_title": "Software Engineer",
       "previous_title": "Software Engineer",
       "previous_company": "Leantaas",
+      "previous_title_2": "Associate Software Engineer",
+      "previous_company_2": "Powerreviews, A 1Worldsync Company",
       "education": "BS CS, UIUC '20",
       "linkedin_url": "https://linkedin.com/in/javbit"
     },
@@ -91,6 +103,8 @@
       "original_title": "Research & Development Engineer And Test Manager",
       "previous_title": "Research Engineer",
       "previous_company": "Southwest Research Institute",
+      "previous_title_2": "Blast Effects Project Consultant",
+      "previous_company_2": "Bakerrisk",
       "education": "MS Management, The University Of Te '10",
       "linkedin_url": "https://linkedin.com/in/robertduran"
     },
@@ -104,6 +118,8 @@
       "original_title": "Senior Manufacturing Engineer",
       "previous_title": "Manufacturing Engineer",
       "previous_company": "Hyliion",
+      "previous_title_2": "Npi Process Engineering",
+      "previous_company_2": "Nxp Semiconductors",
       "education": "BS Electronics, Arizona State Univer '16",
       "linkedin_url": "https://linkedin.com/in/wtraylor"
     },
@@ -117,6 +133,8 @@
       "original_title": "Software Engineer",
       "previous_title": "Engineering Fellow",
       "previous_company": "8Vc",
+      "previous_title_2": "Ml Developer (Pt / Contract)",
+      "previous_company_2": "Shade Inc.",
       "education": "Virginia Tech '23",
       "linkedin_url": "https://linkedin.com/in/aydin-gokce-0aa1bb184"
     },
@@ -130,6 +148,8 @@
       "original_title": "Forward Deployed Engineer",
       "previous_title": "Combat Systems Test Engineer",
       "previous_company": "Jsl Technologies, Inc.",
+      "previous_title_2": "Field Service Engineer",
+      "previous_company_2": "Eos",
       "education": "MS Software Engineering, University Of Maryla '27",
       "linkedin_url": "https://linkedin.com/in/jamesdstackhouse"
     },
@@ -143,6 +163,8 @@
       "original_title": "Corporate Controller",
       "previous_title": "Assistant Controller",
       "previous_company": "Palantir Technologies",
+      "previous_title_2": "Senior Associate",
+      "previous_company_2": "Pwc",
       "education": "MS Accountancy, Wisconsin School Of  '06",
       "linkedin_url": "https://linkedin.com/in/corey-doermann-9321549"
     },
@@ -156,6 +178,8 @@
       "original_title": "Depot Repair Manager",
       "previous_title": "Field Service Engineer",
       "previous_company": "Canon Usa",
+      "previous_title_2": "Service Engineering Manager",
+      "previous_company_2": "Iron Ox",
       "education": "Associates Communications, Devry University '97",
       "linkedin_url": "https://linkedin.com/in/rodney-harris-2aa9951a8"
     },
@@ -169,6 +193,8 @@
       "original_title": "Software Engineer",
       "previous_title": "Software Engineer",
       "previous_company": "Anduril Industries",
+      "previous_title_2": "Software Engineer",
+      "previous_company_2": "General Atomics",
       "education": "BS EE, Lynn University '17",
       "linkedin_url": "https://linkedin.com/in/jacob-h-freeman"
     },
@@ -182,6 +208,8 @@
       "original_title": "Naval Architect",
       "previous_title": "Engineer",
       "previous_company": "Naval Surface Warfare Center Carderock Division (Nswccd)",
+      "previous_title_2": "Graduate Intern",
+      "previous_company_2": "University Of Michigan College Of Engineering",
       "education": "MS Engineering, UMich '20",
       "linkedin_url": "https://linkedin.com/in/autumn-szczepanski"
     },
@@ -195,6 +223,8 @@
       "original_title": "Software Engineer",
       "previous_title": "Software Development Engineer",
       "previous_company": "Amazon",
+      "previous_title_2": "Full Stack Engineer",
+      "previous_company_2": "Spreetail",
       "education": "BS CE, UT Austin '20",
       "linkedin_url": "https://linkedin.com/in/isaac-steadman"
     },
@@ -208,6 +238,8 @@
       "original_title": "Senior Technical Writer",
       "previous_title": "Senior Technical Writer",
       "previous_company": "Secureworks",
+      "previous_title_2": "Technical Writer | Uiux",
+      "previous_company_2": "Clockwork Solutions",
       "education": "MA, UT Austin '93",
       "linkedin_url": "https://linkedin.com/in/tomdobbsjr"
     },
@@ -221,6 +253,8 @@
       "original_title": "Senior Electrical Harness Engineer",
       "previous_title": "Senior Spacecraft Harness Engineer",
       "previous_company": "Saic",
+      "previous_title_2": "Senior Harness Engineer For Satellite Services Program Division",
+      "previous_company_2": "Stinger Ghaffarian Technologies (Sgt)",
       "education": "BS EE, Temple University '95",
       "linkedin_url": "https://linkedin.com/in/nailah-salaam-6737b9"
     },
@@ -234,6 +268,8 @@
       "original_title": "Mechanical Engineer",
       "previous_title": "Application Engineer",
       "previous_company": "Wilder Systems Robots",
+      "previous_title_2": "Mechanical Engineer",
+      "previous_company_2": "Icon",
       "education": "BS, CMU '19",
       "linkedin_url": "https://linkedin.com/in/stephanievtam"
     },
@@ -247,6 +283,8 @@
       "original_title": "Test Site Manager / Mission Operations Specialist",
       "previous_title": "Systems Test Engineer",
       "previous_company": "L3Harris Technologies",
+      "previous_title_2": "Electronics Maintenance Technician 3",
+      "previous_company_2": "Mclaughlin Research Corporation",
       "education": "Community College Of",
       "linkedin_url": "https://linkedin.com/in/ken-healy-7ba6a4156"
     },
@@ -260,6 +298,8 @@
       "original_title": "Boat Captain",
       "previous_title": "N/A",
       "previous_company": "N/A",
+      "previous_title_2": "N/A",
+      "previous_company_2": "N/A",
       "education": "N/A",
       "linkedin_url": "https://linkedin.com/in/tyler-hatfield-1a001b202"
     }

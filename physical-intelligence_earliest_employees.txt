@@ -7,7 +7,8 @@ Employee #1
   Grad: '15 | YoE: 10
   Start Date: 2024-01
   Title: Operations (Operations)
-  Previous: Chief Of Staff @ Compound
+  Previous 1: Chief Of Staff @ Compound
+  Previous 2: Organizational Effectiveness @ Curology
   Education: The American Univers '15
   LinkedIn: https://linkedin.com/in/annawalling
 
@@ -16,7 +17,8 @@ Employee #2
   Grad: '12 | YoE: 13
   Start Date: 2024-01
   Title: Co-Founder (Co-Founder)
-  Previous: Head Of Stripe Issuing @ Stripe
+  Previous 1: Head Of Stripe Issuing @ Stripe
+  Previous 2: N/A @ N/A
   Education: Wesley College '11
   LinkedIn: https://linkedin.com/in/lachy-groom-b218895
 
@@ -25,7 +27,8 @@ Employee #3
   Grad: '07 | YoE: 18
   Start Date: 2024-01
   Title: AI Engineer (Building Embodied Ai)
-  Previous: Senior Director, Head Of Behavior And Simulation @ Nuro
+  Previous 1: Senior Director, Head Of Behavior And Simulation @ Nuro
+  Previous 2: Senior Staff Software Engineer, Simulation & Behavior Research At Waymo @ Waymo
   Education: BA Math, Israel Jobs '07
   LinkedIn: https://linkedin.com/in/uryzhilinsky
 
@@ -34,7 +37,8 @@ Employee #4
   Grad: '23 | YoE: 2
   Start Date: 2024-01
   Title: Engineer (Member Of Technical Staff)
-  Previous: Angel Investor | Advisor @ Mohith Mothukuri
+  Previous 1: Angel Investor | Advisor @ Mohith Mothukuri
+  Previous 2: Senior Mechatronics Software Engineer @ Anduril Industries
   Education: BS CS, Columbia '23
   LinkedIn: https://linkedin.com/in/mohith-mothukuri
 
@@ -43,7 +47,8 @@ Employee #5
   Grad: '22 | YoE: 3
   Start Date: 2024-01
   Title: Engineer (Member Of Technical Staff)
-  Previous: Ml Research Engineer @ Tesla
+  Previous 1: Ml Research Engineer @ Tesla
+  Previous 2: Data Scientist @ Tesla
   Education: BS CS, Columbia '22
   LinkedIn: https://linkedin.com/in/niccolo-fusai-472525188
 
@@ -52,7 +57,8 @@ Employee #6
   Grad: '14 | YoE: 11
   Start Date: 2024-03
   Title: Co-Founder (Co-Founder)
-  Previous: Assistant Professor @ Stanford University
+  Previous 1: Assistant Professor @ Stanford University
+  Previous 2: Research Scientist @ Google Brain Google Deepmind
   Education: PhD, UC Berkeley '18
   LinkedIn: https://linkedin.com/in/cbfinn
 
@@ -61,7 +67,8 @@ Employee #7
   Grad: '12 | YoE: 13
   Start Date: 2024-03
   Title: Co-Founder (Co-Founder)
-  Previous: Research Scientist @ Google
+  Previous 1: Research Scientist @ Google
+  Previous 2: Propulsion Engineer @ Boeing
   Education: PhD Engineering, Stanford '18
   LinkedIn: https://linkedin.com/in/brian-ichter-26875978
 
@@ -70,7 +77,8 @@ Employee #8
   Grad: '11 | YoE: 14
   Start Date: 2024-03
   Title: CEO (Chief Executive Officer)
-  Previous: Adjunct Professor @ Stanford University
+  Previous 1: Adjunct Professor @ Stanford University
+  Previous 2: Staff Research Scientist And Robot Manipulation Lead At Google Brain @ Google
   Education: PhD CS, USC '18
   LinkedIn: https://linkedin.com/in/karolhausman
 
@@ -79,7 +87,8 @@ Employee #9
   Grad: '18 | YoE: 7
   Start Date: 2024-03
   Title: Engineer (Member Of Technical Staff)
-  Previous: Research Scientist @ Toyota Research Institute
+  Previous 1: Research Scientist @ Toyota Research Institute
+  Previous 2: Research Intern / Student Researcher @ Meta
   Education: PhD CS, Stanford '23
   LinkedIn: https://linkedin.com/in/surajnaircaltech
 
@@ -88,7 +97,8 @@ Employee #10
   Grad: '17 | YoE: 8
   Start Date: 2024-03
   Title: Co-Founder (Co-Founder)
-  Previous: Software Engineer @ Google Deepmind
+  Previous 1: Software Engineer @ Google Deepmind
+  Previous 2: Research Scientist Intern @ Google
   Education: PhD CS, Uc San Diego '22
   LinkedIn: https://linkedin.com/in/quan-vuong-0a4a6460
 
@@ -97,7 +107,8 @@ Employee #11
   Grad: '24 | YoE: 1
   Start Date: 2024-03
   Title: Engineer (Member Of Technical Staff)
-  Previous: Machine Learning Engineer @ Tesla
+  Previous 1: Machine Learning Engineer @ Tesla
+  Previous 2: Ai Research Resident @ Halodi Robotics
   Education: BS Architecture, UC Berkeley '24
   LinkedIn: https://linkedin.com/in/michael-equi
 
@@ -106,7 +117,8 @@ Employee #12
   Grad: '17 | YoE: 8
   Start Date: 2024-03
   Title: Engineer (Engineer)
-  Previous: Mechatronics Engineer @ Fs Studio
+  Previous 1: Mechatronics Engineer @ Fs Studio
+  Previous 2: Test Engineer @ X The Moonshot Factory
   Education: BS CE, University Of Califo '17
   LinkedIn: https://linkedin.com/in/noah-brown-40157b124
 
@@ -115,7 +127,8 @@ Employee #13
   Grad: '19 | YoE: 6
   Start Date: 2024-03
   Title: Operations (Operator Operations)
-  Previous: Software Engineer Intern @ Guangdong Bright Dream Robotics
+  Previous 1: Software Engineer Intern @ Guangdong Bright Dream Robotics
+  Previous 2: N/A @ N/A
   Education: MS Software Engineering, San José State Unive '22
   LinkedIn: https://linkedin.com/in/zhonglin-liang-542982183
 
@@ -124,7 +137,8 @@ Employee #14
   Grad: '06 | YoE: 19
   Start Date: 2024-03
   Title: Operations (Operator Operations)
-  Previous: Events Associate @ Mindsdb
+  Previous 1: Events Associate @ Mindsdb
+  Previous 2: Us Equities Proprietary Trader @ Assent
   Education: BS CS, San José State Unive '06
   LinkedIn: https://linkedin.com/in/manuel-alire-5226747
 
@@ -133,7 +147,8 @@ Employee #15
   Grad: '21 | YoE: 4
   Start Date: 2024-03
   Title: Fleet Technician (Fleet Technician)
-  Previous: Asset Technician @ Eos It Solutions
+  Previous 1: Asset Technician @ Eos It Solutions
+  Previous 2: Recreation Leader @ City Of San Leandro
   Education: CS, University Of Califo '23
   LinkedIn: https://linkedin.com/in/henry-lin-1641a620a
 
@@ -142,7 +157,8 @@ Employee #16
   Grad: '12 | YoE: 13
   Start Date: 2024-04
   Title: Employee (Employee)
-  Previous: Senior Software Engineer @ Google
+  Previous 1: Senior Software Engineer @ Google
+  Previous 2: Chief Executive Officer @ Colossal Crowd Games
   Education: PhD Neuroscience, USC '17
   LinkedIn: https://linkedin.com/in/jimmy-tanner-70198732
 
@@ -151,7 +167,8 @@ Employee #17
   Grad: '14 | YoE: 11
   Start Date: 2024-04
   Title: Engineer (Member Of Technical Staff)
-  Previous: Machine Learning Engineer @ Wayve
+  Previous 1: Machine Learning Engineer @ Wayve
+  Previous 2: Staff Software Engineer @ Everyday Robots
   Education: CS, MIT '13
   LinkedIn: https://linkedin.com/in/adrian-li
 
@@ -160,7 +177,8 @@ Employee #18
   Grad: '22 | YoE: 3
   Start Date: 2024-04
   Title: Engineer (Member Of Technical Staff)
-  Previous: Software Systems Engineering Intern @ Nasa Jet Propulsion Laboratory
+  Previous 1: Software Systems Engineering Intern @ Nasa Jet Propulsion Laboratory
+  Previous 2: Product Engineering Intern @ Asana
   Education: PhD, UC Berkeley '27
   LinkedIn: https://linkedin.com/in/kvablack
 
@@ -169,7 +187,8 @@ Employee #19
   Grad: '10 | YoE: 15
   Start Date: 2024-04
   Title: Project Manager (Project Manager)
-  Previous: Founder @ Rugpull.Com
+  Previous 1: Founder @ Rugpull.Com
+  Previous 2: Operations Manager @ Let'S Stage It!
   Education: Associates Engineering, Skyline College
 
 Employee #20
@@ -177,7 +196,8 @@ Employee #20
   Grad: '24 | YoE: 1
   Start Date: 2024-04
   Title: Project Manager (Project Manager)
-  Previous: N/A @ N/A
+  Previous 1: N/A @ N/A
+  Previous 2: N/A @ N/A
   Education: N/A
   LinkedIn: https://linkedin.com/in/lance-thoma-3154b2360
 
@@ -186,7 +206,8 @@ Employee #21
   Grad: '23 | YoE: 2
   Start Date: 2024-05
   Title: Shift Lead (Shift Lead)
-  Previous: Intern @ Friends Of Children With Special Needs (Fcsn)
+  Previous 1: Intern @ Friends Of Children With Special Needs (Fcsn)
+  Previous 2: Intern @ Alameda County Workforce Development Board
   Education: English Language, Woodland Community C '20
   LinkedIn: https://linkedin.com/in/steven-tang-0051a1146
 
@@ -195,7 +216,8 @@ Employee #22
   Grad: '23 | YoE: 2
   Start Date: 2024-05
   Title: Mobile Deployment Lead (Mobile Deployment Lead)
-  Previous: N/A @ N/A
+  Previous 1: N/A @ N/A
+  Previous 2: N/A @ N/A
   Education: BS CE, Uci Samueli School O '23
   LinkedIn: https://linkedin.com/in/sienallen
 
@@ -204,7 +226,8 @@ Employee #23
   Grad: '17 | YoE: 8
   Start Date: 2024-06
   Title: Engineer (Member Of Technical Staff)
-  Previous: Postdoctoral Researcher @ Stanford University
+  Previous 1: Postdoctoral Researcher @ Stanford University
+  Previous 2: Postdoctoral Researcher @ University Of California, Berkeley
   Education: PhD CS, USC
   LinkedIn: https://linkedin.com/in/karlpertsch
 
@@ -213,7 +236,8 @@ Employee #24
   Grad: '24 | YoE: 1
   Start Date: 2024-06
   Title: Operations (Business Operations)
-  Previous: Product Management / Marketing Intern @ Portrait Displays (Calman)
+  Previous 1: Product Management / Marketing Intern @ Portrait Displays (Calman)
+  Previous 2: Product Management Intern @ Tekion Corp
   Education: BS CS, San Francisco State  '24
   LinkedIn: https://linkedin.com/in/csharmasfsu
 
@@ -222,7 +246,8 @@ Employee #25
   Grad: '18 | YoE: 7
   Start Date: 2024-06
   Title: Operations (Operator Operations)
-  Previous: Project Manager @ Dilsys Electronics
+  Previous 1: Project Manager @ Dilsys Electronics
+  Previous 2: N/A @ N/A
   Education: BS Electronics Engineer, Saint Petersburg Sta '18
   LinkedIn: https://linkedin.com/in/aikysmongush
 
@@ -231,7 +256,8 @@ Employee #26
   Grad: '25 | YoE: ?
   Start Date: 2024-06
   Title: Robot Operator (Robot Operator)
-  Previous: Store Protection Specialist @ Ross Dress For Less 245
+  Previous 1: Store Protection Specialist @ Ross Dress For Less 245
+  Previous 2: N/A @ N/A
   Education: BA Business, San Francisco State  '25
   LinkedIn: https://linkedin.com/in/david-gladstein2002
 
@@ -240,7 +266,8 @@ Employee #27
   Grad: '06 | YoE: 19
   Start Date: 2024-07
   Title: Software (Software)
-  Previous: Senior Staff Software Engineer @ Nuro
+  Previous 1: Senior Staff Software Engineer @ Nuro
+  Previous 2: Technical Lead, Behavior Systems @ Nuro
   Education: PhD CS, MIT '11
   LinkedIn: https://linkedin.com/in/szymonjakubczak
 
@@ -249,7 +276,8 @@ Employee #28
   Grad: '17 | YoE: 8
   Start Date: 2024-07
   Title: Engineer (Member Of Technical Staff)
-  Previous: Research Intern @ Facebook
+  Previous 1: Research Intern @ Facebook
+  Previous 2: Research Intern @ Microsoft
   Education: PhD CS, UW '24
   LinkedIn: https://linkedin.com/in/kelym
 
@@ -258,7 +286,8 @@ Employee #29
   Grad: '20 | YoE: 5
   Start Date: 2024-07
   Title: Robot Operator (Robot Operator)
-  Previous: Bilingual Residential Program Aide @ Hamilton Families
+  Previous 1: Bilingual Residential Program Aide @ Hamilton Families
+  Previous 2: Receptionist @ San Francisco Pet Hospital
   Education: BS, University Of Califo '20
   LinkedIn: https://linkedin.com/in/cecilia-casquino-6aaa28215
 
@@ -267,7 +296,8 @@ Employee #30
   Grad: '18 | YoE: 7
   Start Date: 2024-07
   Title: Robot Operator (Robot Operator)
-  Previous: User Experience Designer | Edtech @ Tech Fleet
+  Previous 1: User Experience Designer | Edtech @ Tech Fleet
+  Previous 2: Design Fellow @ Qtbipoc Design
   Education: Associate Of Arts Graphic Design, City College Of San  '24
   LinkedIn: https://linkedin.com/in/amerielu
 
@@ -276,7 +306,8 @@ Employee #31
   Grad: '26 | YoE: -1
   Start Date: 2024-07
   Title: Operations (Robot Operations)
-  Previous: Visual Merchandiser @ H&M
+  Previous 1: Visual Merchandiser @ H&M
+  Previous 2: Scholar @ Maisin Scholar Award
   Education: BS CS, San Francisco State  '26
   LinkedIn: https://linkedin.com/in/shalom-tekeste
 
@@ -285,7 +316,8 @@ Employee #32
   Grad: '24 | YoE: 1
   Start Date: 2024-07
   Title: Robot Operator (Robot Operator)
-  Previous: Event Staff @ Dark Staffing Solutions
+  Previous 1: Event Staff @ Dark Staffing Solutions
+  Previous 2: N/A @ N/A
   Education: University Of Santo  '24
   LinkedIn: https://linkedin.com/in/klint-zamora-29452028a
 
@@ -294,7 +326,8 @@ Employee #33
   Grad: '25 | YoE: ?
   Start Date: 2024-09
   Title: Robot Operator (Robot Operator)
-  Previous: Its Client Support Services Assistant @ University Of California, Santa Cruz
+  Previous 1: Its Client Support Services Assistant @ University Of California, Santa Cruz
+  Previous 2: Computer Science Summer Institute @ Google
   Education: BS CS, University Of Califo '25
   LinkedIn: https://linkedin.com/in/darlingkat
 
@@ -303,7 +336,8 @@ Employee #34
   Grad: '24 | YoE: 1
   Start Date: 2024-09
   Title: Operations (Robot Operations)
-  Previous: Residence Life Counselor @ Summer Discovery
+  Previous 1: Residence Life Counselor @ Summer Discovery
+  Previous 2: Arabic Scribe @ University Of San Francisco
   Education: BS Data Science, University Of San Fr '24
   LinkedIn: https://linkedin.com/in/sobia-zahid
 
@@ -312,7 +346,8 @@ Employee #35
   Grad: '19 | YoE: 6
   Start Date: 2024-09
   Title: Mobile Deployment Lead (Mobile Deployment Lead)
-  Previous: Night Stocker / Forklift Driver @ Costco Wholesale
+  Previous 1: Night Stocker / Forklift Driver @ Costco Wholesale
+  Previous 2: Cashier / Waiter @ Kamameshi House Japanese Cuisine
   Education: Associates, City College Of San  '26
   LinkedIn: https://linkedin.com/in/shawntlorenzo
 
@@ -321,7 +356,8 @@ Employee #36
   Grad: '23 | YoE: 2
   Start Date: 2024-09
   Title: Mobile Deployment Lead (Mobile Deployment Lead)
-  Previous: Unity Program Development @ California Academy Of Sciences
+  Previous 1: Unity Program Development @ California Academy Of Sciences
+  Previous 2: Content Creator @ Tiktok
   Education: BS CS, San Francisco State  '23
   LinkedIn: https://linkedin.com/in/jdelrosario26
 
@@ -330,7 +366,8 @@ Employee #37
   Grad: '23 | YoE: 2
   Start Date: 2024-09
   Title: Operations (Operations)
-  Previous: Intern @ Nevada Bank And Trust
+  Previous 1: Intern @ Nevada Bank And Trust
+  Previous 2: English Language Teacher @ Ies Ángel De Saavedra
   Education: MS Creative Writing, University Of San Fr '26
   LinkedIn: https://linkedin.com/in/marinda-lamb-08a00b179
 
@@ -339,7 +376,8 @@ Employee #38
   Grad: '19 | YoE: 6
   Start Date: 2024-10
   Title: Researcher (Student Researcher)
-  Previous: Student Researcher @ Google Deepmind
+  Previous 1: Student Researcher @ Google Deepmind
+  Previous 2: Ai Resident @ Google
   Education: BS CS, UC Berkeley '19
   LinkedIn: https://linkedin.com/in/dibyaghosh
 
@@ -348,7 +386,8 @@ Employee #39
   Grad: '15 | YoE: 10
   Start Date: 2024-10
   Title: Engineer (Member Of Technical Staff)
-  Previous: Software Engineer @ Nuro
+  Previous 1: Software Engineer @ Nuro
+  Previous 2: Tech Lead Manager, Behavior Ml @ Nuro
   Education: MS CE, UMich '17
   LinkedIn: https://linkedin.com/in/haohuanw
 
@@ -357,7 +396,8 @@ Employee #40
   Grad: '19 | YoE: 6
   Start Date: 2024-10
   Title: Engineer (Member Of Technical Staff)
-  Previous: Student Researcher @ Google Deepmind
+  Previous 1: Student Researcher @ Google Deepmind
+  Previous 2: Graduate Student Researcher @ Uc Berkeley Robotics And Ai Lab
   Education: PhD CS, UC Berkeley '25
   LinkedIn: https://linkedin.com/in/smithlaura1028
 
@@ -366,7 +406,8 @@ Employee #41
   Grad: '24 | YoE: 1
   Start Date: 2024-11
   Title: Robot Operator (Robot Operator)
-  Previous: Academic Tutor (Calculus Ii) @ Laney College
+  Previous 1: Academic Tutor (Calculus Ii) @ Laney College
+  Previous 2: Academic Tutor (Statistics) @ Laney College
   Education: BA Econ, Uc Irvine '24
   LinkedIn: https://linkedin.com/in/jia-bao-zhen-69b8b4184
 
@@ -375,7 +416,8 @@ Employee #42
   Grad: '23 | YoE: 2
   Start Date: 2024-12
   Title: Robot Operator (Robot Operator)
-  Previous: Store Associate @ The Walt Disney Family Museum
+  Previous 1: Store Associate @ The Walt Disney Family Museum
+  Previous 2: Technical Writer @ Ortel, A Photonics Foundries Enterprise
   Education: BS ME, San José State Unive '23
   LinkedIn: https://linkedin.com/in/kobeclee
 
@@ -384,7 +426,8 @@ Employee #43
   Grad: '17 | YoE: 8
   Start Date: 2024-12
   Title: Robot Operator (Robot Operator)
-  Previous: Student Intern @ All Stars Project, Inc.
+  Previous 1: Student Intern @ All Stars Project, Inc.
+  Previous 2: Recreation Aide @ City Of Oakland
   Education: CE, Uc Irvine '24
   LinkedIn: https://linkedin.com/in/jeffrey-yu-b5473215a
 
@@ -393,7 +436,8 @@ Employee #44
   Grad: '22 | YoE: 3
   Start Date: 2024-12
   Title: Robot Operator (Robot Operator)
-  Previous: Software Quality Assurance Intern @ Thermo Fisher Scientific
+  Previous 1: Software Quality Assurance Intern @ Thermo Fisher Scientific
+  Previous 2: N/A @ N/A
   Education: University Of Califo '24
   LinkedIn: https://linkedin.com/in/yushen-zheng-503299250
 
@@ -402,7 +446,8 @@ Employee #45
   Grad: '23 | YoE: 2
   Start Date: 2025-01
   Title: Robot Operator (Robot Operator)
-  Previous: Document Control Specialist @ Samtrans-San Mateo County Transit District
+  Previous 1: Document Control Specialist @ Samtrans-San Mateo County Transit District
+  Previous 2: Executive Administrative Assistant @ Samtrans-San Mateo County Transit District
   Education: Year Up United '24
   LinkedIn: https://linkedin.com/in/imran-s-655770273
 
@@ -411,7 +456,8 @@ Employee #46
   Grad: '23 | YoE: 2
   Start Date: 2025-01
   Title: Shift Lead (Shift Lead)
-  Previous: Asset Technician @ Eos It Solutions
+  Previous 1: Asset Technician @ Eos It Solutions
+  Previous 2: N/A @ N/A
   Education: BS CS, University Of Califo '23
   LinkedIn: https://linkedin.com/in/kirby-yu-b77654182
 
@@ -420,7 +466,8 @@ Employee #47
   Grad: '25 | YoE: ?
   Start Date: 2025-01
   Title: Operator (Operator)
-  Previous: N/A @ N/A
+  Previous 1: N/A @ N/A
+  Previous 2: N/A @ N/A
   Education: N/A
   LinkedIn: https://linkedin.com/in/raya-north-515369322
 
@@ -429,7 +476,8 @@ Employee #48
   Grad: '04 | YoE: 21
   Start Date: 2025-02
   Title: Engineer (Member Of Technical Staff)
-  Previous: Software Engineer @ Meta
+  Previous 1: Software Engineer @ Meta
+  Previous 2: Side Project @ See A Satellite Tonight
   Education: BS CS, Harvey Mudd College '04
   LinkedIn: https://linkedin.com/in/jdarpinian
 
@@ -438,7 +486,8 @@ Employee #49
   Grad: '19 | YoE: 6
   Start Date: 2025-02
   Title: Engineer (Member Of Technical Staff)
-  Previous: Research Intern @ Nvidia
+  Previous 1: Research Intern @ Nvidia
+  Previous 2: Visiting Phd Student @ Stanford University Department Of Computer Science
   Education: PhD Aerospace Engineerin, Princeton '25
   LinkedIn: https://linkedin.com/in/allenzren
 
@@ -447,7 +496,8 @@ Employee #50
   Grad: '22 | YoE: 3
   Start Date: 2025-02
   Title: Intern (Research Intern)
-  Previous: Associate @ Georgia Tech Angel Network
+  Previous 1: Associate @ Georgia Tech Angel Network
+  Previous 2: Quantitative Strategist @ Goldman Sachs
   Education: PhD, Georgia Tech '27
   LinkedIn: https://linkedin.com/in/skareer
 
@@ -456,7 +506,8 @@ Employee #51
   Grad: '21 | YoE: 4
   Start Date: 2025-02
   Title: Researcher (Student Researcher)
-  Previous: Graduate Student Researcher @ Berkeley Artificial Intelligence Research
+  Previous 1: Graduate Student Researcher @ Berkeley Artificial Intelligence Research
+  Previous 2: Research Intern @ Argo Ai
   Education: PhD CS, UC Berkeley '27
   LinkedIn: https://linkedin.com/in/kylestach
 
@@ -465,7 +516,8 @@ Employee #52
   Grad: '04 | YoE: 21
   Start Date: 2025-03
   Title: Fleet Maintenance Technician (Fleet Maintenance Technician)
-  Previous: Assembly Technician @ The Bot Company
+  Previous 1: Assembly Technician @ The Bot Company
+  Previous 2: Lead Electromechanical Technician @ Nodexus Inc.
   Education: Laney College
   LinkedIn: https://linkedin.com/in/von-royce-villanueva-12752720
 
@@ -474,7 +526,8 @@ Employee #53
   Grad: '18 | YoE: 7
   Start Date: 2025-03
   Title: Robot Stuff (Robot Stuff)
-  Previous: Engineering @ Stripe
+  Previous 1: Engineering @ Stripe
+  Previous 2: Founding Engineer / Engineering Lead @ Octane (We'Ve Joined Stripe!)
   Education: MS CE, CMU '19
   LinkedIn: https://linkedin.com/in/karan-dhabalia
 
@@ -483,7 +536,8 @@ Employee #54
   Grad: '18 | YoE: 7
   Start Date: 2025-03
   Title: Robotics Operator (Robotics Operator)
-  Previous: Customer Support @ Walker Advertising
+  Previous 1: Customer Support @ Walker Advertising
+  Previous 2: Assistant Manager @ Mobileone Llc
   Education: Associates CS, College Of San Mateo '24
   LinkedIn: https://linkedin.com/in/oamarvochavillo
 
@@ -492,7 +546,8 @@ Employee #55
   Grad: '24 | YoE: 1
   Start Date: 2025-03
   Title: Robot Operator (Robot Operator)
-  Previous: Network Engineering Intern @ Healthequity
+  Previous 1: Network Engineering Intern @ Healthequity
+  Previous 2: Student Researcher @ University Of California, Berkeley
   Education: Math, UC Berkeley '24
   LinkedIn: https://linkedin.com/in/nathaniel-macasaet
 
@@ -501,7 +556,8 @@ Employee #56
   Grad: '23 | YoE: 2
   Start Date: 2025-03
   Title: Robot Operator (Robot Operator)
-  Previous: Fitness Professional @ Ilovekickboxing
+  Previous 1: Fitness Professional @ Ilovekickboxing
+  Previous 2: N/A @ N/A
   Education: Skyline College '24
   LinkedIn: https://linkedin.com/in/joseph-garrido-0877562b3
 
@@ -510,7 +566,8 @@ Employee #57
   Grad: '24 | YoE: 1
   Start Date: 2025-04
   Title: Robot Operator (Robot Operator)
-  Previous: Patient Service Representative @ Sutter Health
+  Previous 1: Patient Service Representative @ Sutter Health
+  Previous 2: N/A @ N/A
   Education: BS CS, University Of Califo '24
   LinkedIn: https://linkedin.com/in/ernest-chan-9850771a4
 
@@ -519,7 +576,8 @@ Employee #58
   Grad: '25 | YoE: ?
   Start Date: 2025-05
   Title: Researcher (Researcher)
-  Previous: Software Engineer @ Google
+  Previous 1: Software Engineer @ Google
+  Previous 2: Researcher @ Stanford Artificial Intelligence Laboratory (Sail)
   Education: BS CS, Stanford '25
   LinkedIn: https://linkedin.com/in/gashon-hussein
 
@@ -528,7 +586,8 @@ Employee #59
   Grad: '23 | YoE: 2
   Start Date: 2025-05
   Title: Operations (Operations)
-  Previous: Product @ Recruitu
+  Previous 1: Product @ Recruitu
+  Previous 2: Analyst @ Yale Student Investment Group
   Education: Math, Yale '27
   LinkedIn: https://linkedin.com/in/rowan-jen-3ab64a189
 
@@ -537,7 +596,8 @@ Employee #60
   Grad: '22 | YoE: 3
   Start Date: 2025-05
   Title: Graveyard Shift Lead (Graveyard Shift Lead)
-  Previous: Crew Member @ Trader Joe'S
+  Previous 1: Crew Member @ Trader Joe'S
+  Previous 2: N/A @ N/A
   Education: ME, College Of San Mateo '25
   LinkedIn: https://linkedin.com/in/odraffen
 
@@ -546,7 +606,8 @@ Employee #61
   Grad: '15 | YoE: 10
   Start Date: 2025-06
   Title: Engineer (Member Of Technical Staff)
-  Previous: Founding Engineer @ Stealth Startup
+  Previous 1: Founding Engineer @ Stealth Startup
+  Previous 2: Ms / Mba Program @ Harvard University
   Education: MBA Engineering, Harvard Business Sch '25
   LinkedIn: https://linkedin.com/in/amamin
 
@@ -555,7 +616,8 @@ Employee #62
   Grad: '15 | YoE: 10
   Start Date: 2025-06
   Title: Robot Operator (Robot Operator)
-  Previous: Co-Founder / Chief Technology Officer @ Terroirai
+  Previous 1: Co-Founder / Chief Technology Officer @ Terroirai
+  Previous 2: Doctoral Student @ University Of California, Berkeley
   Education: PhD, UC Berkeley '21
   LinkedIn: https://linkedin.com/in/link-with-steven-shepard
 
@@ -564,7 +626,8 @@ Employee #63
   Grad: '14 | YoE: 11
   Start Date: 2025-06
   Title: Robot Operator (Robot Operator)
-  Previous: Software Developer Internship @ Tyler Technologies
+  Previous 1: Software Developer Internship @ Tyler Technologies
+  Previous 2: Bank Teller @ Wells Fargo
   Education: Bay Valley Tech - St '22
   LinkedIn: https://linkedin.com/in/dton
 
@@ -573,7 +636,8 @@ Employee #64
   Grad: '18 | YoE: 7
   Start Date: 2025-06
   Title: Engineer (Hardware Engineer)
-  Previous: Robotics Engineer @ Pipedream
+  Previous 1: Robotics Engineer @ Pipedream
+  Previous 2: Undergraduate Research Assistant @ Imperial College London
   Education: MEng Design, Imperial College Lon '23
   LinkedIn: https://linkedin.com/in/thomas-godden
 
@@ -582,7 +646,8 @@ Employee #65
   Grad: '21 | YoE: 4
   Start Date: 2025-06
   Title: Robot Operator (Robot Operator)
-  Previous: Graduate Research Assistant @ Asu Neuromuscular Control And Human Robotics Laboratory
+  Previous 1: Graduate Research Assistant @ Asu Neuromuscular Control And Human Robotics Laboratory
+  Previous 2: Systems Engineer @ Simpliforge Creations Pvt Ltd
   Education: MS Aerospace Engineerin, Arizona State Univer
   LinkedIn: https://linkedin.com/in/vedant2307
 
@@ -591,7 +656,8 @@ Employee #66
   Grad: '21 | YoE: 4
   Start Date: 2025-06
   Title: Intern (Research Intern)
-  Previous: Graduate Researcher @ Stanford University
+  Previous 1: Graduate Researcher @ Stanford University
+  Previous 2: Data Scientist Intern @ Microsoft
   Education: PhD, Stanford
   LinkedIn: https://linkedin.com/in/marceltorne
 
@@ -600,7 +666,8 @@ Employee #67
   Grad: '12 | YoE: 13
   Start Date: 2025-07
   Title: Operations (Operations)
-  Previous: Senior Vice President Of Operations @ Home Partners Of America®
+  Previous 1: Senior Vice President Of Operations @ Home Partners Of America®
+  Previous 2: Vice President Of Business Operations @ Airspace
   Education: MS, The London School Of '14
   LinkedIn: https://linkedin.com/in/willstoeckle
 
@@ -609,7 +676,8 @@ Employee #68
   Grad: '18 | YoE: 7
   Start Date: 2025-07
   Title: Engineer (Member Of The Technical Staff)
-  Previous: Senior Research Scientist @ Google Deepmind
+  Previous 1: Senior Research Scientist @ Google Deepmind
+  Previous 2: Research Scientist @ Toyota Research Institute
   Education: PhD CS, UC Berkeley '22
   LinkedIn: https://linkedin.com/in/ashwin-balakrishna-9b71a357
 
@@ -618,7 +686,8 @@ Employee #69
   Grad: '25 | YoE: ?
   Start Date: 2025-07
   Title: AI Engineer (Ai Robotics Data Collection)
-  Previous: N/A @ N/A
+  Previous 1: N/A @ N/A
+  Previous 2: N/A @ N/A
   Education: CS, California State Uni '25
   LinkedIn: https://linkedin.com/in/charwin-idolyantes-62b43b196
 
@@ -627,7 +696,8 @@ Employee #70
   Grad: '21 | YoE: 4
   Start Date: 2025-08
   Title: Engineer (Member Of Technical Staff)
-  Previous: Tech Lead Manager @ Recurrency
+  Previous 1: Tech Lead Manager @ Recurrency
+  Previous 2: Fellow @ Bessemer Venture Partners
   Education: BS CS, Georgia Tech '21
   LinkedIn: https://linkedin.com/in/hunterhancock
 
@@ -636,7 +706,8 @@ Employee #71
   Grad: '25 | YoE: ?
   Start Date: 2025-08
   Title: Robot Operator (Robot Operator)
-  Previous: Robotics Team Member @ Sjsu Robotics
+  Previous 1: Robotics Team Member @ Sjsu Robotics
+  Previous 2: Fast Food Cashier @ Lee'S Sandwiches
   Education: BE Engineering, San José State Unive '25
   LinkedIn: https://linkedin.com/in/tommy-tran-nguyen
 
@@ -645,7 +716,8 @@ Employee #72
   Grad: '19 | YoE: 6
   Start Date: 2025-08
   Title: Robot Operator (Robot Operator)
-  Previous: Vehicle Operator, Alphaops @ Zoox
+  Previous 1: Vehicle Operator, Alphaops @ Zoox
+  Previous 2: Private Mathematics Tutor @ St John'S Orthodox Academy
   Education: MS CS, San José State Unive '24
   LinkedIn: https://linkedin.com/in/kayla-m-91a39999
 
@@ -654,7 +726,8 @@ Employee #73
   Grad: '26 | YoE: -1
   Start Date: 2025-08
   Title: Robotics Operator (Robotics Operator)
-  Previous: Asset Protection @ Best Buy
+  Previous 1: Asset Protection @ Best Buy
+  Previous 2: N/A @ N/A
   Education: BS Management, San Francisco State  '26
   LinkedIn: https://linkedin.com/in/damian-gonzalez-322733246
 
@@ -663,7 +736,8 @@ Employee #74
   Grad: '15 | YoE: 10
   Start Date: 2025-09
   Title: Engineer (Member Of Technical Staff)
-  Previous: Robotics Engineer @ Boston Dynamics
+  Previous 1: Robotics Engineer @ Boston Dynamics
+  Previous 2: Engineering Intern @ Spacex
   Education: CS, MIT '19
   LinkedIn: https://linkedin.com/in/jared-dicarlo-333970122
 
@@ -672,7 +746,8 @@ Employee #75
   Grad: '19 | YoE: 6
   Start Date: 2025-09
   Title: Robot Operator (Robot Operator)
-  Previous: Qa Tester @ Arcade
+  Previous 1: Qa Tester @ Arcade
+  Previous 2: Preview Worker @ Bonhams
   Education: Master Of Fine Arts Product Design, California College O '24
   LinkedIn: https://linkedin.com/in/ariana-dorothea-levy-4a3a20149
 
@@ -681,7 +756,8 @@ Employee #76
   Grad: '17 | YoE: 8
   Start Date: 2025-09
   Title: Robot Operator (Robot Operator)
-  Previous: Intern @ Test21
+  Previous 1: Intern @ Test21
+  Previous 2: Teaching Aide @ University Of California, Berkeley
   Education: San José State Unive '25
   LinkedIn: https://linkedin.com/in/vincent-lam-84444a251
 
@@ -690,7 +766,8 @@ Employee #77
   Grad: '24 | YoE: 1
   Start Date: 2025-09
   Title: Robot Operator (Robot Operator)
-  Previous: Instructional Student Assistant @ San Francisco State University
+  Previous 1: Instructional Student Assistant @ San Francisco State University
+  Previous 2: Kitchen And Counter Help @ Panda Restaurant Group
   Education: BS CS, San Francisco State  '24
   LinkedIn: https://linkedin.com/in/kayla-young-0153aa240
 
@@ -699,7 +776,8 @@ Employee #78
   Grad: '25 | YoE: ?
   Start Date: 2025-10
   Title: Data Engineer (Robot Operator (Testing And Data Specialist))
-  Previous: Sales Associate At Google Visitor Experience @ Mosaic North America
+  Previous 1: Sales Associate At Google Visitor Experience @ Mosaic North America
+  Previous 2: Headstarter Fellow @ Headstarter
   Education: BS CS, San José State Unive '25
   LinkedIn: https://linkedin.com/in/zoraizsabeel
 
@@ -708,7 +786,8 @@ Employee #79
   Grad: '23 | YoE: 2
   Start Date: 2025-10
   Title: Intern (Research Intern)
-  Previous: Research Intern @ Rai Institute
+  Previous 1: Research Intern @ Rai Institute
+  Previous 2: Graduate Student Researcher @ Uc San Diego
   Education: PhD CS, Uc San Diego '29
   LinkedIn: https://linkedin.com/in/bo-ai
 
@@ -717,7 +796,8 @@ Employee #80
   Grad: '25 | YoE: ?
   Start Date: 2025-10
   Title: Operations (Operations)
-  Previous: Consultant @ Stealth Mode Biotech
+  Previous 1: Consultant @ Stealth Mode Biotech
+  Previous 2: Host @ Flying Biscuit Cafe
   Education: BS Philosophy, North Carolina State '25
   LinkedIn: https://linkedin.com/in/davis-bray-b19930338
 
@@ -726,7 +806,8 @@ Employee #81
   Grad: '06 | YoE: 19
   Start Date: 2025-11
   Title: Talent (Talent)
-  Previous: Head Of Recruiting @ Nuro
+  Previous 1: Head Of Recruiting @ Nuro
+  Previous 2: Head Of Executive Recruiting @ Nuro
   Education: BA English, Middlebury College '06
   LinkedIn: https://linkedin.com/in/bwillia
 
@@ -735,7 +816,8 @@ Employee #82
   Grad: '12 | YoE: 13
   Start Date: 2025-11
   Title: Engineer (Member Of Technical Staff)
-  Previous: Principal Electrical Engineer, Lead @ Familiar Machines & Magic
+  Previous 1: Principal Electrical Engineer, Lead @ Familiar Machines & Magic
+  Previous 2: Senior Staff Electrical Engineer @ Boston Dynamics
   Education: MS EE, Tufts University '13
   LinkedIn: https://linkedin.com/in/sukwon-yoo-0b117367
 
@@ -744,6 +826,7 @@ Employee #83
   Grad: '19 | YoE: 6
   Start Date: 2025-11
   Title: Engineer (Member Of Technical Staff)
-  Previous: Embedded Software Engineer @ Skydio
+  Previous 1: Embedded Software Engineer @ Skydio
+  Previous 2: Software Engineer @ Open Robotics
   Education: BS CS, Uc Berkeley College  '19
   LinkedIn: https://linkedin.com/in/~balke

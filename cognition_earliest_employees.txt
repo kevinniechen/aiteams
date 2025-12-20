@@ -7,7 +7,8 @@ Employee #1
   Grad: '13 | YoE: 12
   Start Date: 2023-11
   Title: Founding Engineer (Founding Engineer)
-  Previous: Tech Lead Manager @ Nuro
+  Previous 1: Tech Lead Manager @ Nuro
+  Previous 2: Tech Lead @ Nuro
   Education: CS, Yale '18
   LinkedIn: https://linkedin.com/in/jiangtony
 
@@ -16,7 +17,8 @@ Employee #2
   Grad: '18 | YoE: 7
   Start Date: 2023-11
   Title: PM (Human Product Manager)
-  Previous: Product @ Arena
+  Previous 1: Product @ Arena
+  Previous 2: Member @ South Park Commons
   Education: BS CS, CMU '18
   LinkedIn: https://linkedin.com/in/saraxiang
 
@@ -25,7 +27,8 @@ Employee #3
   Grad: '22 | YoE: 3
   Start Date: 2023-11
   Title: Founding Engineer (Founding Engineer)
-  Previous: Software Engineer @ Quadric
+  Previous 1: Software Engineer @ Quadric
+  Previous 2: Software Engineer @ Lunchclub
   Education: BS Math, USC '22
   LinkedIn: https://linkedin.com/in/adhyyansekhsaria
 
@@ -34,7 +37,8 @@ Employee #4
   Grad: '14 | YoE: 11
   Start Date: 2023-11
   Title: Co-Founder & CEO (Co-Founder And Chief Executive Officer)
-  Previous: Co-Founder And Chief Technology Officer @ Lunchclub
+  Previous 1: Co-Founder And Chief Technology Officer @ Lunchclub
+  Previous 2: Software Engineer @ Addepar
   Education: Econ, Harvard '19
   LinkedIn: https://linkedin.com/in/scott-wu-8b94ab96
 
@@ -43,7 +47,8 @@ Employee #5
   Grad: '18 | YoE: 7
   Start Date: 2023-11
   Title: Co-Founder (Co-Founder)
-  Previous: Software Engineer @ Scale Ai
+  Previous 1: Software Engineer @ Scale Ai
+  Previous 2: Software Engineering Intern @ Meteor.Js
   Education: BS CS, MIT '18
   LinkedIn: https://linkedin.com/in/steven-hao-160b9638
 
@@ -52,7 +57,8 @@ Employee #6
   Grad: '24 | YoE: 1
   Start Date: 2023-11
   Title: Co-Founder (Co-Founder)
-  Previous: Early Engineer @ Anysphere
+  Previous 1: Early Engineer @ Anysphere
+  Previous 2: Co-Founder & Chief Executive Officer @ Deepreason
   Education: BS CS, Harvard '24
   LinkedIn: https://linkedin.com/in/waldenyan
 
@@ -61,7 +67,8 @@ Employee #7
   Grad: '19 | YoE: 6
   Start Date: 2023-11
   Title: Engineer (Human Software Engineer)
-  Previous: Software Engineer @ Modal
+  Previous 1: Software Engineer @ Modal
+  Previous 2: Software Engineer @ Impira (Acquired By Figma)
   Education: BS CS, MIT '19
   LinkedIn: https://linkedin.com/in/andrew-he
 
@@ -70,7 +77,8 @@ Employee #8
   Grad: '17 | YoE: 8
   Start Date: 2024-01
   Title: President (President)
-  Previous: Director Of Engineering & Ml @ Scale Ai
+  Previous 1: Director Of Engineering & Ml @ Scale Ai
+  Previous 2: Co-Founder & Chief Executive Officer @ Helia (Acquired By Scale Ai)
   Education: MS CS, Stanford '18
   LinkedIn: https://linkedin.com/in/russelljkaplan
 
@@ -79,7 +87,8 @@ Employee #9
   Grad: '17 | YoE: 8
   Start Date: 2024-01
   Title: Engineer (Human Software Engineer)
-  Previous: Co-Founder @ Stealth Startup
+  Previous 1: Co-Founder @ Stealth Startup
+  Previous 2: Software Engineer @ Waymo
   Education: BA CS, Harvard '17
   LinkedIn: https://linkedin.com/in/jeffrey-ling-92163879
 
@@ -88,7 +97,8 @@ Employee #10
   Grad: '18 | YoE: 7
   Start Date: 2024-01
   Title: GTM (Gtm)
-  Previous: Founder & Chief Executive Officer @ Refractive
+  Previous 1: Founder & Chief Executive Officer @ Refractive
+  Previous 2: Software Engineer @ Databricks
   Education: BS CE, CMU '18
   LinkedIn: https://linkedin.com/in/calvin-giroud-9667a8100
 
@@ -97,7 +107,8 @@ Employee #11
   Grad: '08 | YoE: 17
   Start Date: 2024-01
   Title: Board Member (Board Member)
-  Previous: Technical Manager @ Splunk
+  Previous 1: Technical Manager @ Splunk
+  Previous 2: Senior Technician @ Splunk
   Education: MS CS, UC Berkeley
 
 Employee #12
@@ -105,7 +116,8 @@ Employee #12
   Grad: '14 | YoE: 11
   Start Date: 2024-02
   Title: Engineer (Software Engineer)
-  Previous: Software Engineer @ Scale Ai
+  Previous 1: Software Engineer @ Scale Ai
+  Previous 2: Software Engineer @ Auth0 By Okta
   Education: Engineering, Universidad Nacional '20
   LinkedIn: https://linkedin.com/in/ramasilveyra
 
@@ -114,7 +126,8 @@ Employee #13
   Grad: '09 | YoE: 16
   Start Date: 2024-02
   Title: Engineer (Software Engineer)
-  Previous: Software Engineer @ Scale Ai
+  Previous 1: Software Engineer @ Scale Ai
+  Previous 2: Product Manager @ Auth0 By Okta
   Education: Instituto Tecnolã³Gi '10
   LinkedIn: https://linkedin.com/in/martin-cabral-b0897615
 
@@ -123,7 +136,8 @@ Employee #14
   Grad: '16 | YoE: 9
   Start Date: 2024-03
   Title: Operations (Operations)
-  Previous: Platform Operations @ Capchase
+  Previous 1: Platform Operations @ Capchase
+  Previous 2: Associate @ Dorilton
   Education: MBA, Columbia Business Sc '21
   LinkedIn: https://linkedin.com/in/salima-ghadimi-17064789
 
@@ -132,7 +146,8 @@ Employee #15
   Grad: '16 | YoE: 9
   Start Date: 2024-03
   Title: Senior Engineer (Senior Software Engineer)
-  Previous: Senior Data Scientist @ Scale Ai
+  Previous 1: Senior Data Scientist @ Scale Ai
+  Previous 2: Senior Software Engineer @ Scale Ai
   Education: Software Engineering, Free Code Camp '16
   LinkedIn: https://linkedin.com/in/federicomarcos
 
@@ -141,7 +156,8 @@ Employee #16
   Grad: '21 | YoE: 4
   Start Date: 2024-03
   Title: Engineer (Human)
-  Previous: Co-Founder @ Stealth
+  Previous 1: Co-Founder @ Stealth
+  Previous 2: N/A @ N/A
   Education: CS, Stanford '22
   LinkedIn: https://linkedin.com/in/-bryce
 
@@ -150,7 +166,8 @@ Employee #17
   Grad: '22 | YoE: 3
   Start Date: 2024-03
   Title: Founding Team (Founding Team)
-  Previous: Student Researcher @ Google Deepmind
+  Previous 1: Student Researcher @ Google Deepmind
+  Previous 2: Co-Founder @ Cofactory
   Education: PhD EE, Stanford '27
   LinkedIn: https://linkedin.com/in/silasalberti
 
@@ -159,7 +176,8 @@ Employee #18
   Grad: '24 | YoE: 1
   Start Date: 2024-04
   Title: Engineer (Human Software Engineer)
-  Previous: Research Engineer @ Trunk Tools
+  Previous 1: Research Engineer @ Trunk Tools
+  Previous 2: Product Manager @ Trunk Tools
   Education: MS CS, Stanford '24
   LinkedIn: https://linkedin.com/in/moritz-stephan
 
@@ -168,7 +186,8 @@ Employee #19
   Grad: '25 | YoE: ?
   Start Date: 2024-04
   Title: Engineer (Software Engineer)
-  Previous: Researcher At Low-Energy Autonomy And Navigation (Lean) Group @ Research Laboratory Of Electronics At Mit
+  Previous 1: Researcher At Low-Energy Autonomy And Navigation (Lean) Group @ Research Laboratory Of Electronics At Mit
+  Previous 2: Researcher At Mit Parallel Algorithms Group @ Mit Computer Science And Artificial Intelligence Laboratory (Csail)
   Education: BS Architecture, MIT '25
   LinkedIn: https://linkedin.com/in/dev-chheda-6497bb1a7
 
@@ -177,7 +196,8 @@ Employee #20
   Grad: '22 | YoE: 3
   Start Date: 2024-06
   Title: Product Engineer (Product Engineer)
-  Previous: Frontend Engineer Intern @ Replay.Io
+  Previous 1: Frontend Engineer Intern @ Replay.Io
+  Previous 2: Head Boy @ Montfort Secondary School
   Education: Montfort Secondary S '24
   LinkedIn: https://linkedin.com/in/mokshit-jain-34318018a
 
@@ -186,7 +206,8 @@ Employee #21
   Grad: '18 | YoE: 7
   Start Date: 2024-08
   Title: Engineer (Software Engineer)
-  Previous: Staff Software Engineer @ Scale Ai
+  Previous 1: Staff Software Engineer @ Scale Ai
+  Previous 2: Software Engineering Intern @ Quora
   Education: BS CS, MIT '18
   LinkedIn: https://linkedin.com/in/clhuang
 
@@ -195,7 +216,8 @@ Employee #22
   Grad: '20 | YoE: 5
   Start Date: 2024-08
   Title: Engineer (Human Engineer)
-  Previous: Software Engineering Contractor @ Windsurf
+  Previous 1: Software Engineering Contractor @ Windsurf
+  Previous 2: Ai Engineering Consultant @ Develop Health
   Education: MS Math, Harvard '20
   LinkedIn: https://linkedin.com/in/sullivan-sean
 
@@ -204,7 +226,8 @@ Employee #23
   Grad: '16 | YoE: 9
   Start Date: 2024-09
   Title: Account Executive (Account Executive, Strategic / Majors (Windsurf And Devin))
-  Previous: Enterprise Account Executive @ Chronosphere
+  Previous 1: Enterprise Account Executive @ Chronosphere
+  Previous 2: Strategic Account Executive, New Business @ Airtable
   Education: French Language, Université Paris - S
   LinkedIn: https://linkedin.com/in/shannonscheel
 
@@ -213,7 +236,8 @@ Employee #24
   Grad: '17 | YoE: 8
   Start Date: 2024-10
   Title: Director (Director, Sales Enablement)
-  Previous: Director, Sales Enablement @ Navan
+  Previous 1: Director, Sales Enablement @ Navan
+  Previous 2: Senior Manager, Sales Enablement @ Navan
   Education: Econ, Semester At Sea / Is '17
   LinkedIn: https://linkedin.com/in/danielle-mccabe
 
@@ -222,7 +246,8 @@ Employee #25
   Grad: '14 | YoE: 11
   Start Date: 2024-10
   Title: GTM (Gtm)
-  Previous: Strategic Account Executive, Emea @ Airtable
+  Previous 1: Strategic Account Executive, Emea @ Airtable
+  Previous 2: Senior Account Executive, Emea @ Airtable
   Education: BS International Relati, University Of Colora '14
   LinkedIn: https://linkedin.com/in/sam-rudy-44a2287b
 
@@ -231,7 +256,8 @@ Employee #26
   Grad: '13 | YoE: 12
   Start Date: 2024-10
   Title: Advisor (Advisor)
-  Previous: Advisor @ Stealth Mode
+  Previous 1: Advisor @ Stealth Mode
+  Previous 2: Vice President, Executive Networks @ Index Ventures
   Education: BS History, Binghamton Universit
   LinkedIn: https://linkedin.com/in/kirabusman
 
@@ -240,6 +266,7 @@ Employee #27
   Grad: '18 | YoE: 7
   Start Date: 2024-12
   Title: Engineer (Software Engineer)
-  Previous: Research Engineer @ Ramp
+  Previous 1: Research Engineer @ Ramp
+  Previous 2: N/A @ N/A
   Education: BS CS, Itmo University '18
   LinkedIn: https://linkedin.com/in/gennady-korotkevich

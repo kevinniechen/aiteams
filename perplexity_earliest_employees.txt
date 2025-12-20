@@ -7,7 +7,8 @@ Employee #1
   Grad: '12 | YoE: 13
   Start Date: 2022-08
   Title: Co-Founder & CSO (Cofounder, Chief Strategy Officer)
-  Previous: Quantitative Trader @ Tower Research Capital
+  Previous 1: Quantitative Trader @ Tower Research Capital
+  Previous 2: Trading Intern @ Tower Research Capital
   Education: CS, Harvard '17
   LinkedIn: https://linkedin.com/in/hjohnny
 
@@ -16,7 +17,8 @@ Employee #2
   Grad: '10 | YoE: 15
   Start Date: 2022-08
   Title: Co-Founder & CTO (Co-Founder & Chief Technology Officer)
-  Previous: Ai Research Scientist @ Facebook
+  Previous 1: Ai Research Scientist @ Facebook
+  Previous 2: Staff Ml Engineer @ Quora
   Education: PhD CS, NYU '22
   LinkedIn: https://linkedin.com/in/denisyarats
 
@@ -25,7 +27,8 @@ Employee #3
   Grad: '08 | YoE: 17
   Start Date: 2022-08
   Title: Fullstack Engineer (Full Stack Engineer)
-  Previous: Senior Engineer, Technical Product Manager, And Founding Team Member @ Captricity
+  Previous 1: Senior Engineer, Technical Product Manager, And Founding Team Member @ Captricity
+  Previous 2: Graduate Technical Intern @ Intel Corporation
   Education: MS CS, UC Berkeley '11
   LinkedIn: https://linkedin.com/in/nickjalbert
 
@@ -34,7 +37,8 @@ Employee #4
   Grad: '17 | YoE: 8
   Start Date: 2022-08
   Title: Co-Founder & CEO (Cofounder, President, Chief Executive Officer)
-  Previous: Research Scientist @ Openai
+  Previous 1: Research Scientist @ Openai
+  Previous 2: Research Intern @ Google
   Education: PhD CS, UC Berkeley '21
   LinkedIn: https://linkedin.com/in/aravind-srinivas-16051987
 
@@ -43,7 +47,8 @@ Employee #5
   Grad: '02 | YoE: 23
   Start Date: 2022-09
   Title: Engineer (Technical Staff)
-  Previous: Data Analyst @ Shenzhen Ok Panda
+  Previous 1: Data Analyst @ Shenzhen Ok Panda
+  Previous 2: Marketing Data Analyst @ Dorogo-Lom
   Education: MS Engineering, Saint Petersburg Sta '08
   LinkedIn: https://linkedin.com/in/alex-r-ff
 
@@ -52,7 +57,8 @@ Employee #6
   Grad: '15 | YoE: 10
   Start Date: 2022-10
   Title: Senior Engineer (Senior Software Engineer)
-  Previous: Full Stack Engineer @ Apple
+  Previous 1: Full Stack Engineer @ Apple
+  Previous 2: Software Engineer Ii @ Travelers
   Education: BS CS, USC
   LinkedIn: https://linkedin.com/in/bryce-mcfall-0408b2227
 
@@ -61,7 +67,8 @@ Employee #7
   Grad: '15 | YoE: 10
   Start Date: 2022-10
   Title: AI Engineer (Ai Software Engineer)
-  Previous: Full Stack Engineer @ Apple
+  Previous 1: Full Stack Engineer @ Apple
+  Previous 2: Software Engineer I @ Travelers
   Education: BS CS, USC '15
 
 Employee #8
@@ -69,7 +76,8 @@ Employee #8
   Grad: '13 | YoE: 12
   Start Date: 2022-10
   Title: VP (Vice President Of Design)
-  Previous: Founding Designer @ Beam
+  Previous 1: Founding Designer @ Beam
+  Previous 2: Product Design Lead & Manager @ Quora
   Education: BS, Rensselaer Polytechn '13
   LinkedIn: https://linkedin.com/in/henrymodisett
 
@@ -78,7 +86,8 @@ Employee #9
   Grad: '13 | YoE: 12
   Start Date: 2022-11
   Title: AI Engineer (Generative Ai Engineer)
-  Previous: Ml / Data Engineer @ Urbint
+  Previous 1: Ml / Data Engineer @ Urbint
+  Previous 2: Ml / Nlp Specialist @ Amazon
   Education: BS CS, University Of North  '13
   LinkedIn: https://linkedin.com/in/christopher-chaney-b78747329
 
@@ -87,7 +96,8 @@ Employee #10
   Grad: '20 | YoE: 5
   Start Date: 2022-12
   Title: VP (Vice President)
-  Previous: Senior Technical Manager / Technical Director @ C3 Ai
+  Previous 1: Senior Technical Manager / Technical Director @ C3 Ai
+  Previous 2: Technical Manager @ Microsoft
   Education: BS Engineering, Maten University Col '20
   LinkedIn: https://linkedin.com/in/ahmad-al-halabi-866617223
 
@@ -96,7 +106,8 @@ Employee #11
   Grad: '22 | YoE: 3
   Start Date: 2022-12
   Title: Community Manager (Community Manager)
-  Previous: Software Engineer @ Fis
+  Previous 1: Software Engineer @ Fis
+  Previous 2: N/A @ N/A
   Education: N/A
   LinkedIn: https://linkedin.com/in/aravindh-l-254855378
 
@@ -105,7 +116,8 @@ Employee #12
   Grad: '18 | YoE: 7
   Start Date: 2023-01
   Title: Engineer (Member Of Technical Staff)
-  Previous: Startup Explorations @ Various Startups
+  Previous 1: Startup Explorations @ Various Startups
+  Previous 2: Human @ Dorg
   Education: Engineering, Universidad Carlos I '18
   LinkedIn: https://linkedin.com/in/thot
 
@@ -114,7 +126,8 @@ Employee #13
   Grad: '19 | YoE: 6
   Start Date: 2023-01
   Title: Data Engineer (Senior Data Scientist)
-  Previous: Senior Data Engineer @ Walmart Global Tech
+  Previous 1: Senior Data Engineer @ Walmart Global Tech
+  Previous 2: Data Engineer @ Twitter
   Education: MS CS, University Of Cincin '21
 
 Employee #14
@@ -122,7 +135,8 @@ Employee #14
   Grad: '22 | YoE: 3
   Start Date: 2023-01
   Title: Engineer (Technical Staff)
-  Previous: Tensorrt Developer @ Nvidia
+  Previous 1: Tensorrt Developer @ Nvidia
+  Previous 2: Swe Intern @ Nvidia
   Education: BS CS, UC Berkeley '22
   LinkedIn: https://linkedin.com/in/kevin-s-hu
 
@@ -131,7 +145,8 @@ Employee #15
   Grad: '08 | YoE: 17
   Start Date: 2023-01
   Title: PM (Product Manager)
-  Previous: Product Marketing Manager @ Verily
+  Previous 1: Product Marketing Manager @ Verily
+  Previous 2: Product Coordinatorv @ Verily
   Education: MS Business, UMich
   LinkedIn: https://linkedin.com/in/antony-z-24a2ba182
 
@@ -140,7 +155,8 @@ Employee #16
   Grad: '16 | YoE: 9
   Start Date: 2023-01
   Title: PM (Product Manager)
-  Previous: Product Marketing Manager @ Verily
+  Previous 1: Product Marketing Manager @ Verily
+  Previous 2: Product Assistant @ Verily
   Education: N/A
   LinkedIn: https://linkedin.com/in/samu-pang-5ba291216
 
@@ -149,7 +165,8 @@ Employee #17
   Grad: '99 | YoE: 26
   Start Date: 2023-02
   Title: PM (Product Manager)
-  Previous: Product Marketing Manager @ Verily
+  Previous 1: Product Marketing Manager @ Verily
+  Previous 2: Product Assistant @ Verily
   Education: MS Business, UMich '02
 
 Employee #18
@@ -157,7 +174,8 @@ Employee #18
   Grad: '16 | YoE: 9
   Start Date: 2023-03
   Title: Senior Human Resources Manager (Senior Human Resources Manager)
-  Previous: Human Resources Manager @ S&S Infinite Mobile Inc
+  Previous 1: Human Resources Manager @ S&S Infinite Mobile Inc
+  Previous 2: Human Resources Manager @ Tekvysion
   Education: MBA Human Resources Mana, University Of North  '22
   LinkedIn: https://linkedin.com/in/syedali992
 
@@ -166,7 +184,8 @@ Employee #19
   Grad: '15 | YoE: 10
   Start Date: 2023-03
   Title: Engineer (Research Engineer)
-  Previous: Relocation @ Career Break
+  Previous 1: Relocation @ Career Break
+  Previous 2: Ai Research Scientist @ Altair
   Education: MS CS, Brigham Young Univer '20
   LinkedIn: https://linkedin.com/in/zack-morgan-2606222ba
 
@@ -175,7 +194,8 @@ Employee #20
   Grad: '07 | YoE: 18
   Start Date: 2023-03
   Title: PM (Product Manager)
-  Previous: Product Marketing Manager @ Verily
+  Previous 1: Product Marketing Manager @ Verily
+  Previous 2: Product Coordinator @ Coupa
   Education: MS Business, UMich
 
 Employee #21
@@ -183,7 +203,8 @@ Employee #21
   Grad: '07 | YoE: 18
   Start Date: 2023-04
   Title: Engineer (Engineer)
-  Previous: Android Developer @ Fitbit (Now Part Of Google)
+  Previous 1: Android Developer @ Fitbit (Now Part Of Google)
+  Previous 2: Lead Software Engineer @ Epam Systems
   Education: Belarusian State Uni '10
   LinkedIn: https://linkedin.com/in/uladzimir-kerus-53889220
 
@@ -192,7 +213,8 @@ Employee #22
   Grad: '15 | YoE: 10
   Start Date: 2023-05
   Title: Engineer (Engineer)
-  Previous: Teacher @ X-Men Productions
+  Previous 1: Teacher @ X-Men Productions
+  Previous 2: N/A @ N/A
   Education: N/A
   LinkedIn: https://linkedin.com/in/scott-summers-126b512b2
 
@@ -201,7 +223,8 @@ Employee #23
   Grad: '18 | YoE: 7
   Start Date: 2023-05
   Title: Business (Business Development Associate)
-  Previous: Technical Product Manager @ Factwise
+  Previous 1: Technical Product Manager @ Factwise
+  Previous 2: Software Engineer @ Cerner Corporation
   Education: MS Management, CMU '23
   LinkedIn: https://linkedin.com/in/niharika-sunkara
 
@@ -210,7 +233,8 @@ Employee #24
   Grad: '22 | YoE: 3
   Start Date: 2023-06
   Title: Engineer (Research Engineer)
-  Previous: Ml Intern @ Cresta
+  Previous 1: Ml Intern @ Cresta
+  Previous 2: Graduate Researcher @ Berkeley Artificial Intelligence Research
   Education: MS CS, UC Berkeley '23
   LinkedIn: https://linkedin.com/in/arnavgudibande
 
@@ -219,7 +243,8 @@ Employee #25
   Grad: '17 | YoE: 8
   Start Date: 2023-06
   Title: Engineer (Artificial Intelligence Developer)
-  Previous: Data Scientist @ Optum
+  Previous 1: Data Scientist @ Optum
+  Previous 2: N/A @ N/A
   Education: BS Engineering, Jadavpur University '17
   LinkedIn: https://linkedin.com/in/indrajeet-bose-406776361
 
@@ -228,7 +253,8 @@ Employee #26
   Grad: '12 | YoE: 13
   Start Date: 2023-07
   Title: Brand Experience (Brand Experience)
-  Previous: Director Of Design @ Flexa
+  Previous 1: Director Of Design @ Flexa
+  Previous 2: Founding Designer (Acquired By Flexa) @ Drop Party
   Education: BFA Design, The Art Institute '12
   LinkedIn: https://linkedin.com/in/phi-hoang-a8689741
 
@@ -237,7 +263,8 @@ Employee #27
   Grad: '17 | YoE: 8
   Start Date: 2023-07
   Title: Head Of Search (Head Of Search)
-  Previous: Senior Software Engineer @ Google
+  Previous 1: Senior Software Engineer @ Google
+  Previous 2: Group Head @ Yandex.Taxi
   Education: Yandex School Of Dat '19
   LinkedIn: https://linkedin.com/in/alexandr-yarats
 
@@ -246,7 +273,8 @@ Employee #28
   Grad: '18 | YoE: 7
   Start Date: 2023-08
   Title: Engineer (Research Engineer)
-  Previous: Research Intern @ Bosch
+  Previous 1: Research Intern @ Bosch
+  Previous 2: Research Intern @ Nvidia
   Education: MS ME, Stanford '20
   LinkedIn: https://linkedin.com/in/gradey-wang
 
@@ -255,7 +283,8 @@ Employee #29
   Grad: '22 | YoE: 3
   Start Date: 2023-08
   Title: Employee (Employee)
-  Previous: Employee @ Robust Intelligence
+  Previous 1: Employee @ Robust Intelligence
+  Previous 2: N/A @ N/A
   Education: MA Stats, Harvard '22
   LinkedIn: https://linkedin.com/in/william-z-268b36126
 
@@ -264,7 +293,8 @@ Employee #30
   Grad: '20 | YoE: 5
   Start Date: 2023-08
   Title: ML Engineer (Senior Machine Learning Engineer)
-  Previous: Sdet @ Luxoft
+  Previous 1: Sdet @ Luxoft
+  Previous 2: Software Engineer In Test @ Keyloop
   Education: BS Software Engineering, Vrije Universiteit B '20
   LinkedIn: https://linkedin.com/in/maxime-carlier-4088772ab
 
@@ -273,7 +303,8 @@ Employee #31
   Grad: '08 | YoE: 17
   Start Date: 2023-08
   Title: Engineer (Member Of Technical Staff)
-  Previous: Lead Software Engineer @ Epam Systems
+  Previous 1: Lead Software Engineer @ Epam Systems
+  Previous 2: Head Of Ios @ Sbermarket
   Education: MS Computer Application, State University Of  '15
   LinkedIn: https://linkedin.com/in/dmitry-shliugaev
 
@@ -282,7 +313,8 @@ Employee #32
   Grad: '05 | YoE: 20
   Start Date: 2023-08
   Title: VP (Vice President Of Finance)
-  Previous: Vice President Of Finance @ Kruze Consulting
+  Previous 1: Vice President Of Finance @ Kruze Consulting
+  Previous 2: Mentor @ Techstars
   Education: BA Econ, University Of Colora '05
   LinkedIn: https://linkedin.com/in/drew-venker
 
@@ -291,7 +323,8 @@ Employee #33
   Grad: '15 | YoE: 10
   Start Date: 2023-09
   Title: Founder (Executive Assistant To Chief Executive Officer & Co Founder Of Perplexity Ai)
-  Previous: Executive Assistant To Vice President Of Infrastructure Engineering @ Airbnb
+  Previous 1: Executive Assistant To Vice President Of Infrastructure Engineering @ Airbnb
+  Previous 2: Executive Assistant To Vice President Of Business Development @ Dropbox
   Education: BS Business, Columbia
 
 Employee #34
@@ -299,7 +332,8 @@ Employee #34
   Grad: '09 | YoE: 16
   Start Date: 2023-09
   Title: Engineer (Member Of Technical Staff)
-  Previous: Lead C Developer @ Bumble Inc.
+  Previous 1: Lead C Developer @ Bumble Inc.
+  Previous 2: Software Engineer Computer Vision Platform Video Conference Service @ Sberdevices
   Education: Moscow State Institu '13
   LinkedIn: https://linkedin.com/in/dmitry-pervukhin-90157870
 
@@ -308,7 +342,8 @@ Employee #35
   Grad: '12 | YoE: 13
   Start Date: 2023-10
   Title: Business (Chief Business Officer)
-  Previous: Board Director @ Payfare Inc.
+  Previous 1: Board Director @ Payfare Inc.
+  Previous 2: Co-Founder @ Tortoise
   Education: BA Anthropology, Columbia
   LinkedIn: https://linkedin.com/in/dmitryshevelenko
 
@@ -317,7 +352,8 @@ Employee #36
   Grad: '14 | YoE: 11
   Start Date: 2023-10
   Title: Data Engineer (Data Science)
-  Previous: Data Science Manager, Value & Pickup @ Instacart
+  Previous 1: Data Science Manager, Value & Pickup @ Instacart
+  Previous 2: Data Science Manager, Dependability @ Instacart
   Education: MS Engineering, Stanford '16
   LinkedIn: https://linkedin.com/in/alexisweill
 
@@ -326,7 +362,8 @@ Employee #37
   Grad: '11 | YoE: 14
   Start Date: 2023-10
   Title: Data Engineer (Head Of Data Science)
-  Previous: Data Science Manager, Value & Pickup @ Instacart
+  Previous 1: Data Science Manager, Value & Pickup @ Instacart
+  Previous 2: Data Science Manager, Dependability @ Instacart
   Education: MS Engineering, Stanford
   LinkedIn: https://linkedin.com/in/alexisweill
 
@@ -335,7 +372,8 @@ Employee #38
   Grad: '21 | YoE: 4
   Start Date: 2023-10
   Title: Engineer (Member Of Technical Staff)
-  Previous: Machine Learning Engineer @ Robust Intelligence
+  Previous 1: Machine Learning Engineer @ Robust Intelligence
+  Previous 2: Software Engineer Intern @ Bbot
   Education: MEng, MIT '21
   LinkedIn: https://linkedin.com/in/peter-k-hart
 
@@ -344,7 +382,8 @@ Employee #39
   Grad: '27 | YoE: -2
   Start Date: 2023-10
   Title: Llm Teacher (Llm Teacher)
-  Previous: N/A @ N/A
+  Previous 1: N/A @ N/A
+  Previous 2: N/A @ N/A
   Education: BS, University Of Gronin '27
   LinkedIn: https://linkedin.com/in/julius-potrykus-ab2587278
 
@@ -353,7 +392,8 @@ Employee #40
   Grad: '16 | YoE: 9
   Start Date: 2023-11
   Title: Engineer (Technical Staff)
-  Previous: Head Of Ios Development At Video Service @ Дзен
+  Previous 1: Head Of Ios Development At Video Service @ Дзен
+  Previous 2: Head Of Ios Development At Zen.Video @ Yandex
   Education: MS Software Engineering, National Research Nu '18
   LinkedIn: https://linkedin.com/in/lebedev-andrew
 
@@ -362,7 +402,8 @@ Employee #41
   Grad: '05 | YoE: 20
   Start Date: 2023-12
   Title: Ios Consultant (Ios Consultant)
-  Previous: Co-Founder @ Yard Robotics
+  Previous 1: Co-Founder @ Yard Robotics
+  Previous 2: Principal Ios Engineer @ Encore: Ai For Music Artists
   Education: BS CS, University Of Miami
   LinkedIn: https://linkedin.com/in/andersonlogan
 
@@ -371,7 +412,8 @@ Employee #42
   Grad: '18 | YoE: 7
   Start Date: 2023-12
   Title: Engineer (Software Engineer)
-  Previous: Software Engineer @ Trunk
+  Previous 1: Software Engineer @ Trunk
+  Previous 2: Software Engineer @ Google
   Education: BS CE, CMU '18
   LinkedIn: https://linkedin.com/in/nikhil-birmiwal-422184ab
 
@@ -380,7 +422,8 @@ Employee #43
   Grad: '13 | YoE: 12
   Start Date: 2023-12
   Title: Qa / Qc (Qa / Qc)
-  Previous: Quality Assurance Manager @ Intervale
+  Previous 1: Quality Assurance Manager @ Intervale
+  Previous 2: N/A @ N/A
   Education: Gomel State Universi '13
   LinkedIn: https://linkedin.com/in/mary-kotova-6b7504231
 
@@ -389,7 +432,8 @@ Employee #44
   Grad: '13 | YoE: 12
   Start Date: 2024-01
   Title: Head Of Strategic Finance & Co (Head Of Strategic Finance & Corporate Development)
-  Previous: Co-Founder @ Paperplane
+  Previous 1: Co-Founder @ Paperplane
+  Previous 2: Founding Team @ Hadrian
   Education: MIT
   LinkedIn: https://linkedin.com/in/dnlkwak
 
@@ -398,7 +442,8 @@ Employee #45
   Grad: '11 | YoE: 14
   Start Date: 2024-01
   Title: Engineer (Technical Staff)
-  Previous: Lead Software Engineer, Platform Team @ Bumble Inc.
+  Previous 1: Lead Software Engineer, Platform Team @ Bumble Inc.
+  Previous 2: Senior Antispam Engineer (Trust And Safety) @ Badoo
   Education: BS CS, National Research Nu '11
   LinkedIn: https://linkedin.com/in/mikhail-galanin
 
@@ -407,7 +452,8 @@ Employee #46
   Grad: '22 | YoE: 3
   Start Date: 2024-01
   Title: Head Of Special Projects (Head Of Special Projects)
-  Previous: Associate @ Social Capital
+  Previous 1: Associate @ Social Capital
+  Previous 2: Summer Analyst @ Social Capital
   Education: BA Econ, University Of Nottin '22
   LinkedIn: https://linkedin.com/in/aliabbaspanju
 
@@ -416,7 +462,8 @@ Employee #47
   Grad: '04 | YoE: 21
   Start Date: 2024-01
   Title: Product (Product Qa)
-  Previous: Senior Qa Engineer @ Navan
+  Previous 1: Senior Qa Engineer @ Navan
+  Previous 2: Qa Tester @ Apex Systems Uber
   Education: Portnov Computer Sch '16
   LinkedIn: https://linkedin.com/in/vydehi-dhulipala
 
@@ -425,7 +472,8 @@ Employee #48
   Grad: '23 | YoE: 2
   Start Date: 2024-01
   Title: ML Engineer (Ai / Ml Engineer)
-  Previous: Ai / Ml Engineer @ Meta
+  Previous 1: Ai / Ml Engineer @ Meta
+  Previous 2: N/A @ N/A
   Education: MS CS, Saint Louis Universi '25
   LinkedIn: https://linkedin.com/in/rohanthgundu
 
@@ -434,7 +482,8 @@ Employee #49
   Grad: '10 | YoE: 15
   Start Date: 2024-02
   Title: Product (Product Design Lead)
-  Previous: Founding Designer @ Artifact
+  Previous 1: Founding Designer @ Artifact
+  Previous 2: Principal Designer @ Metalab
   Education: Minnetonka High Scho '08
   LinkedIn: https://linkedin.com/in/gunnargray
 
@@ -443,7 +492,8 @@ Employee #50
   Grad: '12 | YoE: 13
   Start Date: 2024-02
   Title: Talent Acquisition (Talent Acquisition)
-  Previous: Recruiting @ Benchling
+  Previous 1: Recruiting @ Benchling
+  Previous 2: Preschool Teacher @ Discovery Children'S House
   Education: Early Childhood Educ, Montessori Teacher E '17
   LinkedIn: https://linkedin.com/in/maitapaik
 
@@ -452,7 +502,8 @@ Employee #51
   Grad: '10 | YoE: 15
   Start Date: 2024-02
   Title: Operations (Cx & User Ops)
-  Previous: Assistant General Manager @ Back Of The House, Inc.
+  Previous 1: Assistant General Manager @ Back Of The House, Inc.
+  Previous 2: Customer Support Manager, Training & Development @ Getaround
   Education: BA Political Science, San Francisco State 
   LinkedIn: https://linkedin.com/in/jennifer-palk-cogley
 
@@ -461,7 +512,8 @@ Employee #52
   Grad: '23 | YoE: 2
   Start Date: 2024-02
   Title: Fullstack Engineer (Full Stack Software Engineer)
-  Previous: Full Stack Engineer @ Accenture
+  Previous 1: Full Stack Engineer @ Accenture
+  Previous 2: N/A @ N/A
   Education: MS CS, Texas Tech Universit '25
   LinkedIn: https://linkedin.com/in/sai-dharani-garikapati-aa4081216
 
@@ -470,7 +522,8 @@ Employee #53
   Grad: '24 | YoE: 1
   Start Date: 2024-02
   Title: Senior Engineer (Senior Software Engineer)
-  Previous: N/A @ N/A
+  Previous 1: N/A @ N/A
+  Previous 2: N/A @ N/A
   Education: BS CS, Stanford
   LinkedIn: https://linkedin.com/in/mark-tonelle-23a76637a
 
@@ -479,7 +532,8 @@ Employee #54
   Grad: '14 | YoE: 11
   Start Date: 2024-03
   Title: Engineer (Member Of Technical Staff)
-  Previous: Head Of Data Science, Growth @ Instacart
+  Previous 1: Head Of Data Science, Growth @ Instacart
+  Previous 2: Data Science Manager, Education @ Chan Zuckerberg Initiative
   Education: MS Demography, University Of Oxford '15
   LinkedIn: https://linkedin.com/in/larmon-luo
 
@@ -488,7 +542,8 @@ Employee #55
   Grad: '21 | YoE: 4
   Start Date: 2024-03
   Title: Engineer (Member Of Technical Staff)
-  Previous: Software Engineer @ Scale Ai
+  Previous 1: Software Engineer @ Scale Ai
+  Previous 2: Software Engineer Intern @ Benchling
   Education: BA Cognitive Science, University Of Virgin '21
   LinkedIn: https://linkedin.com/in/nikashsethi
 
@@ -497,7 +552,8 @@ Employee #56
   Grad: '00 | YoE: 25
   Start Date: 2024-04
   Title: Engineering Leader (Engineering Leader)
-  Previous: Director Of Software Engineering @ Yext
+  Previous 1: Director Of Software Engineering @ Yext
+  Previous 2: Engineering Group Manager @ Yext
   Education: MS CS, MIT '01
   LinkedIn: https://linkedin.com/in/morris-tao
 
@@ -506,7 +562,8 @@ Employee #57
   Grad: '17 | YoE: 8
   Start Date: 2024-04
   Title: Workplace Experience Manager (Workplace Experience Manager)
-  Previous: Workplace Experience @ Skillz
+  Previous 1: Workplace Experience @ Skillz
+  Previous 2: Technical Sourcer @ Meta
   Education: BS Advertising, California State Uni '17
   LinkedIn: https://linkedin.com/in/lianepham
 
@@ -515,7 +572,8 @@ Employee #58
   Grad: '16 | YoE: 9
   Start Date: 2024-04
   Title: Engineer (Member Of Technical Staff)
-  Previous: Graphics Developer / Editor @ The New York Times
+  Previous 1: Graphics Developer / Editor @ The New York Times
+  Previous 2: Senior Software Engineer @ The New York Times
   Education: Columbia
   LinkedIn: https://linkedin.com/in/johnmichaelmur
 
@@ -524,7 +582,8 @@ Employee #59
   Grad: '03 | YoE: 22
   Start Date: 2024-04
   Title: Executive Assistant (Executive Assistant)
-  Previous: Executive And Personal Assistant @ Uhnw Family Office
+  Previous 1: Executive And Personal Assistant @ Uhnw Family Office
+  Previous 2: Executive Assistant To Chief Business Officer @ Uber
   Education: The Culinary Institu '98
   LinkedIn: https://linkedin.com/in/kirsten-thompson-a9355a24
 
@@ -533,7 +592,8 @@ Employee #60
   Grad: '16 | YoE: 9
   Start Date: 2024-04
   Title: Engineer (Member Of Technical Staff)
-  Previous: Software Engineer @ Airtable
+  Previous 1: Software Engineer @ Airtable
+  Previous 2: Senior Software Engineer @ Linkedin
   Education: MS CS, Ucla '18
   LinkedIn: https://linkedin.com/in/xinganwang
 
@@ -542,7 +602,8 @@ Employee #61
   Grad: '21 | YoE: 4
   Start Date: 2024-04
   Title: ML Engineer (Ai / Ml Engineer)
-  Previous: Full-Stack Developer @ Ibm
+  Previous 1: Full-Stack Developer @ Ibm
+  Previous 2: N/A @ N/A
   Education: MS Management, University Of Memphi
   LinkedIn: https://linkedin.com/in/yashwanth-thallapalli-b03a86204
 
@@ -551,7 +612,8 @@ Employee #62
   Grad: '24 | YoE: 1
   Start Date: 2024-04
   Title: AI Engineer (Ai Research Engineer)
-  Previous: Software Engineer Intern @ Hippocratic Ai
+  Previous 1: Software Engineer Intern @ Hippocratic Ai
+  Previous 2: Research Engineering Intern @ Meta
   Education: BS CS, Stanford '24
   LinkedIn: https://linkedin.com/in/patrickliu2011
 
@@ -560,7 +622,8 @@ Employee #63
   Grad: '18 | YoE: 7
   Start Date: 2024-04
   Title: Engineer (Research Engineer)
-  Previous: Software Engineer Intern @ Google
+  Previous 1: Software Engineer Intern @ Google
+  Previous 2: Research Intern @ Microsoft
   Education: PhD CS, UW '24
   LinkedIn: https://linkedin.com/in/lequn-chen
 
@@ -569,7 +632,8 @@ Employee #64
   Grad: '06 | YoE: 19
   Start Date: 2024-05
   Title: Product (Head Of Enterprise Product)
-  Previous: Director Of Product Management - Head Of Customer Platform @ Flexport
+  Previous 1: Director Of Product Management - Head Of Customer Platform @ Flexport
+  Previous 2: Mentor @ First Round Capital
   Education: Industrial Engineeri, The Hong Kong Univer '07
   LinkedIn: https://linkedin.com/in/franktepas
 
@@ -578,7 +642,8 @@ Employee #65
   Grad: '10 | YoE: 15
   Start Date: 2024-05
   Title: Engineer (Member Of Technical Staff)
-  Previous: Program Manager, Product Operations - Whatsapp @ Meta
+  Previous 1: Program Manager, Product Operations - Whatsapp @ Meta
+  Previous 2: Enterprise Support Engineer @ Meta
   Education: Cybersecurity, Codepath '19
   LinkedIn: https://linkedin.com/in/sgaleoto
 
@@ -587,7 +652,8 @@ Employee #66
   Grad: '16 | YoE: 9
   Start Date: 2024-05
   Title: Engineer (Member Of Technical Staff)
-  Previous: Software Engineer @ Kumo.Ai
+  Previous 1: Software Engineer @ Kumo.Ai
+  Previous 2: Software Engineer Intern @ Kumo.Ai
   Education: PhD CS, Stanford '23
   LinkedIn: https://linkedin.com/in/weihua-hu-a8284228
 
@@ -596,7 +662,8 @@ Employee #67
   Grad: '14 | YoE: 11
   Start Date: 2024-05
   Title: ML Engineer (Ai / Ml Engineer)
-  Previous: Ai / Ml Engineer @ Meta
+  Previous 1: Ai / Ml Engineer @ Meta
+  Previous 2: N/A @ N/A
   Education: MS CS, Cleveland State Univ '25
   LinkedIn: https://linkedin.com/in/niteesh-nitin-singh-27049293
 
@@ -605,7 +672,8 @@ Employee #68
   Grad: '04 | YoE: 21
   Start Date: 2024-06
   Title: Designer (Brand Designer)
-  Previous: Creative Director @ Carbon Health
+  Previous 1: Creative Director @ Carbon Health
+  Previous 2: Creative Director @ Meta
   Education: BFA Graphic Design, Colorado State Unive '04
   LinkedIn: https://linkedin.com/in/ryanputnam
 
@@ -614,7 +682,8 @@ Employee #69
   Grad: '12 | YoE: 13
   Start Date: 2024-06
   Title: Engineer (Member Of Technical Staff)
-  Previous: Software Engineer @ Google
+  Previous 1: Software Engineer @ Google
+  Previous 2: Software Engineering Intern @ Gocardless
   Education: MEng CS, Imperial College Lon '17
   LinkedIn: https://linkedin.com/in/mihai-popa-01502ba6
 
@@ -623,7 +692,8 @@ Employee #70
   Grad: '94 | YoE: 31
   Start Date: 2024-06
   Title: Llm Teacher (Llm Teacher)
-  Previous: Managing Director Innovation And Communications @ Omd Worldwide
+  Previous 1: Managing Director Innovation And Communications @ Omd Worldwide
+  Previous 2: Executive Director - The Idea Lab And Product Marketing @ The New York Times
   Education: Andrean High School
   LinkedIn: https://linkedin.com/in/tracy-quitasol
 
@@ -632,7 +702,8 @@ Employee #71
   Grad: '19 | YoE: 6
   Start Date: 2024-06
   Title: Engineer (Software Engineer)
-  Previous: Software Engineer @ Covariant
+  Previous 1: Software Engineer @ Covariant
+  Previous 2: Undergraduate Researcher @ University Of California, Berkeley
   Education: BS CS, UC Berkeley '19
   LinkedIn: https://linkedin.com/in/larry-yang
 
@@ -641,7 +712,8 @@ Employee #72
   Grad: '05 | YoE: 20
   Start Date: 2024-06
   Title: Engineer (Member Of Technical Staff)
-  Previous: Engineering Leader - Home & Categories @ Whatnot
+  Previous 1: Engineering Leader - Home & Categories @ Whatnot
+  Previous 2: Staff Software Engineer / Tech Lead @ Robinhood
   Education: MS CS, University Of Electr '08
   LinkedIn: https://linkedin.com/in/xin-xia-a97aa514
 
@@ -650,7 +722,8 @@ Employee #73
   Grad: '04 | YoE: 21
   Start Date: 2024-06
   Title: Cx (Cx)
-  Previous: Technical Writer - Japanese @ Keeper Security, Inc.
+  Previous 1: Technical Writer - Japanese @ Keeper Security, Inc.
+  Previous 2: Office Lead @ Forrest Solutions
   Education: Graphic Design, San Diego City Colle
   LinkedIn: https://linkedin.com/in/akiko-o-03b528207
 
@@ -659,7 +732,8 @@ Employee #74
   Grad: '25 | YoE: ?
   Start Date: 2024-06
   Title: Large Language Model Teacher (Large Language Model Teacher)
-  Previous: Computational Structures Teaching Assistant @ Georgetown University
+  Previous 1: Computational Structures Teaching Assistant @ Georgetown University
+  Previous 2: Quality Control Analyst @ Lightbox
   Education: BS CS, Georgetown Universit '25
   LinkedIn: https://linkedin.com/in/ashton-julia
 
@@ -668,7 +742,8 @@ Employee #75
   Grad: '25 | YoE: ?
   Start Date: 2024-06
   Title: Large Language Model Teacher (Large Language Model Teacher)
-  Previous: Computational Structures Teaching Assistant @ Georgetown University
+  Previous 1: Computational Structures Teaching Assistant @ Georgetown University
+  Previous 2: Quality Control Analyst @ Lightbox
   Education: BS CS, Georgetown Universit '25
   LinkedIn: https://linkedin.com/in/ashtonjulia
 
@@ -677,7 +752,8 @@ Employee #76
   Grad: '07 | YoE: 18
   Start Date: 2024-07
   Title: Co-Founder (Executive Assistant To Aravind Senior Inivas, Chief Executive Officer & Co-Founder)
-  Previous: Program Manager, Portfolio Operations @ Turn/River Capital
+  Previous 1: Program Manager, Portfolio Operations @ Turn/River Capital
+  Previous 2: Program Manager, All In Open Source @ Github
   Education: California College O
   LinkedIn: https://linkedin.com/in/carrieskeenan
 
@@ -686,7 +762,8 @@ Employee #77
   Grad: '08 | YoE: 17
   Start Date: 2024-07
   Title: Product (Product Designer)
-  Previous: Freelance Product Designer @ Grammarly
+  Previous 1: Freelance Product Designer @ Grammarly
+  Previous 2: Freelance Product Designer @ Flipboard
   Education: Architecture, University Of Colora '10
   LinkedIn: https://linkedin.com/in/justingrahamdesigner
 
@@ -695,7 +772,8 @@ Employee #78
   Grad: '13 | YoE: 12
   Start Date: 2024-07
   Title: Business (Head Of Strategic Business Development)
-  Previous: Director Of Business Development @ Gopuff
+  Previous 1: Director Of Business Development @ Gopuff
+  Previous 2: Head Of Business Development And Go-To-Market @ Rideos (Acquired By Gopuff)
   Education: BA Econ, Stanford
   LinkedIn: https://linkedin.com/in/andrew-beck-7a885b11
 
@@ -704,7 +782,8 @@ Employee #79
   Grad: '12 | YoE: 13
   Start Date: 2024-07
   Title: Senior Engineer (Senior Software Engineer)
-  Previous: Team Leaad @ Nebius
+  Previous 1: Team Leaad @ Nebius
+  Previous 2: Team Lead @ Yandex
   Education: BS CS, Itmo University '12
   LinkedIn: https://linkedin.com/in/abogutskiy
 
@@ -713,7 +792,8 @@ Employee #80
   Grad: '11 | YoE: 14
   Start Date: 2024-07
   Title: Engineer (Search Engineer)
-  Previous: Software Engineer @ Bloomberg
+  Previous 1: Software Engineer @ Bloomberg
+  Previous 2: Software Engineer @ Meta
   Education: N/A
   LinkedIn: https://linkedin.com/in/aleksei-bykov-a37a5b82
 
@@ -722,7 +802,8 @@ Employee #81
   Grad: '18 | YoE: 7
   Start Date: 2024-08
   Title: Engineer (Member Of Technical Staff)
-  Previous: Senior Machine Learning Engineer Ii @ Cruise
+  Previous 1: Senior Machine Learning Engineer Ii @ Cruise
+  Previous 2: Senior Machine Learning Engineer @ Cruise
   Education: MS CS, Stanford '19
   LinkedIn: https://linkedin.com/in/nicholasbien
 
@@ -731,7 +812,8 @@ Employee #82
   Grad: '12 | YoE: 13
   Start Date: 2024-08
   Title: Engineer (Member Of Technical Staff)
-  Previous: Staff Software Engineer @ Aquarium
+  Previous 1: Staff Software Engineer @ Aquarium
+  Previous 2: Senior Software Engineer @ Cruise
   Education: BS English Language, Princeton '12
   LinkedIn: https://linkedin.com/in/robinyang2
 
@@ -740,7 +822,8 @@ Employee #83
   Grad: '22 | YoE: 3
   Start Date: 2024-08
   Title: ML Engineer (Ai / Ml Engineer)
-  Previous: Ai / Ml Engineer @ Meta
+  Previous 1: Ai / Ml Engineer @ Meta
+  Previous 2: N/A @ N/A
   Education: MS Management, Webster University '25
   LinkedIn: https://linkedin.com/in/mohitha-chelikam57
 
@@ -749,7 +832,8 @@ Employee #84
   Grad: '22 | YoE: 3
   Start Date: 2024-08
   Title: Campus Strategist (Campus Strategist)
-  Previous: Project Manager / Data Lead @ Bluebonnet Data
+  Previous 1: Project Manager / Data Lead @ Bluebonnet Data
+  Previous 2: Analyst Intern @ Systematic Financial Management
   Education: BS, Rutgers University–N
   LinkedIn: https://linkedin.com/in/ibrahim-mudassar
 
@@ -758,7 +842,8 @@ Employee #85
   Grad: '11 | YoE: 14
   Start Date: 2024-09
   Title: AI Engineer (Ai Inference)
-  Previous: Staff Software Engineer @ Trunk
+  Previous 1: Staff Software Engineer @ Trunk
+  Previous 2: Senior Software Engineer, Tech Lead Manager @ Uber
   Education: MS CS, USC '14
   LinkedIn: https://linkedin.com/in/vladimir-zaytsev-10632a2b
 
@@ -767,7 +852,8 @@ Employee #86
   Grad: '16 | YoE: 9
   Start Date: 2024-09
   Title: Engineer (Member Of Technical Staff)
-  Previous: Senior Software Engineer @ Airbnb
+  Previous 1: Senior Software Engineer @ Airbnb
+  Previous 2: Software Engineer @ Airbnb
   Education: CE, CMU '19
   LinkedIn: https://linkedin.com/in/christina-ou
 
@@ -776,7 +862,8 @@ Employee #87
   Grad: '08 | YoE: 17
   Start Date: 2024-09
   Title: System Administration And Head (System Administration And Head Of It)
-  Previous: System Administrator @ Redis
+  Previous 1: System Administrator @ Redis
+  Previous 2: Desktop Support Engineer @ Jobvite
   Education: Bachelor Of Applied  Biology, San José State Unive '08
   LinkedIn: https://linkedin.com/in/vernon-man-4287bb58
 
@@ -785,7 +872,8 @@ Employee #88
   Grad: '07 | YoE: 18
   Start Date: 2024-09
   Title: Data Engineer (Data Scientist)
-  Previous: Data Scientist In Residence @ Creandum
+  Previous 1: Data Scientist In Residence @ Creandum
+  Previous 2: Data Scientist @ Classdojo
   Education: Terra.Do '22
   LinkedIn: https://linkedin.com/in/gustavlindqvist
 
@@ -794,7 +882,8 @@ Employee #89
   Grad: '13 | YoE: 12
   Start Date: 2024-09
   Title: Enterprise Customer Support Le (Enterprise Customer Support Lead)
-  Previous: Zendesk Administrator @ Tractive
+  Previous 1: Zendesk Administrator @ Tractive
+  Previous 2: Technical Support Engineer @ Motion
   Education: BA Global Studies, Portland State Unive '13
   LinkedIn: https://linkedin.com/in/matthewgbaird
 
@@ -803,7 +892,8 @@ Employee #90
   Grad: '17 | YoE: 8
   Start Date: 2024-09
   Title: Enterprise Growth (Enterprise Growth)
-  Previous: Strategic Account Director @ Juniper Square
+  Previous 1: Strategic Account Director @ Juniper Square
+  Previous 2: Account Director @ Juniper Square
   Education: Finance, Smu Cox School Of Bu '17
   LinkedIn: https://linkedin.com/in/pcsummers
 
@@ -812,7 +902,8 @@ Employee #91
   Grad: '18 | YoE: 7
   Start Date: 2024-09
   Title: Operations (Cx & User Ops)
-  Previous: Legal Policy Operations @ Twitter
+  Previous 1: Legal Policy Operations @ Twitter
+  Previous 2: N/A @ N/A
   Education: BA Legal Studies, UC Berkeley '18
   LinkedIn: https://linkedin.com/in/yenlee205
 
@@ -821,7 +912,8 @@ Employee #92
   Grad: '22 | YoE: 3
   Start Date: 2024-09
   Title: Engineer (Member Of Technical Staff)
-  Previous: Software Engineer @ Rockset
+  Previous 1: Software Engineer @ Rockset
+  Previous 2: Software Engineering Intern @ Ocient
   Education: BS CS, UMich '22
   LinkedIn: https://linkedin.com/in/ryansiu5
 
@@ -830,7 +922,8 @@ Employee #93
   Grad: '26 | YoE: -1
   Start Date: 2024-09
   Title: Product (Product Growth Intern)
-  Previous: Parc Instructional Student Assistant @ Center For Counseling And Diagnostic Services
+  Previous 1: Parc Instructional Student Assistant @ Center For Counseling And Diagnostic Services
+  Previous 2: Software Engineer Intern @ California Franchise Tax Board
   Education: BS CS, California State Uni '26
   LinkedIn: https://linkedin.com/in/udaykyama
 
@@ -839,7 +932,8 @@ Employee #94
   Grad: '16 | YoE: 9
   Start Date: 2024-09
   Title: Engineer (Technical Staff)
-  Previous: Senior Staff Compiler Engineer @ Sifive
+  Previous 1: Senior Staff Compiler Engineer @ Sifive
+  Previous 2: Staff Compiler Engineer @ Sifive
   Education: PhD CS, University Of Cambri '22
   LinkedIn: https://linkedin.com/in/nandor-licker
 
@@ -848,7 +942,8 @@ Employee #95
   Grad: '13 | YoE: 12
   Start Date: 2024-10
   Title: Designer (Brand Designer)
-  Previous: Creative @ Comcast
+  Previous 1: Creative @ Comcast
+  Previous 2: Creative Director @ Defy
   Education: BFA Fine Arts, Maryland Institute C '13
   LinkedIn: https://linkedin.com/in/erin-mcknight-91a62045
 
@@ -857,7 +952,8 @@ Employee #96
   Grad: '08 | YoE: 17
   Start Date: 2024-10
   Title: Operations (Head Of Legal & Operations)
-  Previous: Senior Director, Head Of Commercial Legal And Intellectual Property @ Opensea
+  Previous 1: Senior Director, Head Of Commercial Legal And Intellectual Property @ Opensea
+  Previous 2: Legal Director, Commercial And Intellectual Property @ Opensea
   Education: Doctor Of Jurisprude, UCLA '11
   LinkedIn: https://linkedin.com/in/nathan-barksdale
 
@@ -866,7 +962,8 @@ Employee #97
   Grad: '14 | YoE: 11
   Start Date: 2024-10
   Title: Partnerships (Partnerships)
-  Previous: Business Development @ Opensea
+  Previous 1: Business Development @ Opensea
+  Previous 2: Partnerships @ Electronic Arts (Ea)
   Education: MBA, Stanford '20
   LinkedIn: https://linkedin.com/in/willbrooke
 
@@ -875,7 +972,8 @@ Employee #98
   Grad: '90 | YoE: 35
   Start Date: 2024-10
   Title: Governance Risk & Compliance L (Governance Risk & Compliance Lead)
-  Previous: Staff Cybersecurity Engineer @ General Motors
+  Previous 1: Staff Cybersecurity Engineer @ General Motors
+  Previous 2: Senior Grc Analyst And Bcms Specialist @ Bigcommerce
   Education: BS Business, San Francisco State  '90
   LinkedIn: https://linkedin.com/in/nasar-massis
 
@@ -884,7 +982,8 @@ Employee #99
   Grad: '13 | YoE: 12
   Start Date: 2024-10
   Title: Designer (Brand Designer)
-  Previous: Senior Art Director @ Attentive
+  Previous 1: Senior Art Director @ Attentive
+  Previous 2: Art Director @ Attentive
   Education: Education, School Of Visual Art '15
   LinkedIn: https://linkedin.com/in/laurenkolm
 
@@ -893,6 +992,7 @@ Employee #100
   Grad: '03 | YoE: 22
   Start Date: 2024-10
   Title: Currently In Visa Wait (Currently In Visa Wait)
-  Previous: Leader Node At Dtube @ Dtube
+  Previous 1: Leader Node At Dtube @ Dtube
+  Previous 2: Head Of Operations @ Apiary Haus
   Education: Commerce, De Ferrers High Scho '86
   LinkedIn: https://linkedin.com/in/philcampbell

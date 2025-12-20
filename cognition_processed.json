@@ -13,6 +13,8 @@
       "original_title": "Founding Engineer",
       "previous_title": "Tech Lead Manager",
       "previous_company": "Nuro",
+      "previous_title_2": "Tech Lead",
+      "previous_company_2": "Nuro",
       "education": "CS, Yale '18",
       "linkedin_url": "https://linkedin.com/in/jiangtony"
     },
@@ -26,6 +28,8 @@
       "original_title": "Human Product Manager",
       "previous_title": "Product",
       "previous_company": "Arena",
+      "previous_title_2": "Member",
+      "previous_company_2": "South Park Commons",
       "education": "BS CS, CMU '18",
       "linkedin_url": "https://linkedin.com/in/saraxiang"
     },
@@ -39,6 +43,8 @@
       "original_title": "Founding Engineer",
       "previous_title": "Software Engineer",
       "previous_company": "Quadric",
+      "previous_title_2": "Software Engineer",
+      "previous_company_2": "Lunchclub",
       "education": "BS Math, USC '22",
       "linkedin_url": "https://linkedin.com/in/adhyyansekhsaria"
     },
@@ -52,6 +58,8 @@
       "original_title": "Co-Founder And Chief Executive Officer",
       "previous_title": "Co-Founder And Chief Technology Officer",
       "previous_company": "Lunchclub",
+      "previous_title_2": "Software Engineer",
+      "previous_company_2": "Addepar",
       "education": "Econ, Harvard '19",
       "linkedin_url": "https://linkedin.com/in/scott-wu-8b94ab96"
     },
@@ -65,6 +73,8 @@
       "original_title": "Co-Founder",
       "previous_title": "Software Engineer",
       "previous_company": "Scale Ai",
+      "previous_title_2": "Software Engineering Intern",
+      "previous_company_2": "Meteor.Js",
       "education": "BS CS, MIT '18",
       "linkedin_url": "https://linkedin.com/in/steven-hao-160b9638"
     },
@@ -78,6 +88,8 @@
       "original_title": "Co-Founder",
       "previous_title": "Early Engineer",
       "previous_company": "Anysphere",
+      "previous_title_2": "Co-Founder & Chief Executive Officer",
+      "previous_company_2": "Deepreason",
       "education": "BS CS, Harvard '24",
       "linkedin_url": "https://linkedin.com/in/waldenyan"
     },
@@ -91,6 +103,8 @@
       "original_title": "Human Software Engineer",
       "previous_title": "Software Engineer",
       "previous_company": "Modal",
+      "previous_title_2": "Software Engineer",
+      "previous_company_2": "Impira (Acquired By Figma)",
       "education": "BS CS, MIT '19",
       "linkedin_url": "https://linkedin.com/in/andrew-he"
     },
@@ -104,6 +118,8 @@
       "original_title": "President",
       "previous_title": "Director Of Engineering & Ml",
       "previous_company": "Scale Ai",
+      "previous_title_2": "Co-Founder & Chief Executive Officer",
+      "previous_company_2": "Helia (Acquired By Scale Ai)",
       "education": "MS CS, Stanford '18",
       "linkedin_url": "https://linkedin.com/in/russelljkaplan"
     },
@@ -117,6 +133,8 @@
       "original_title": "Human Software Engineer",
       "previous_title": "Co-Founder",
       "previous_company": "Stealth Startup",
+      "previous_title_2": "Software Engineer",
+      "previous_company_2": "Waymo",
       "education": "BA CS, Harvard '17",
       "linkedin_url": "https://linkedin.com/in/jeffrey-ling-92163879"
     },
@@ -130,6 +148,8 @@
       "original_title": "Gtm",
       "previous_title": "Founder & Chief Executive Officer",
       "previous_company": "Refractive",
+      "previous_title_2": "Software Engineer",
+      "previous_company_2": "Databricks",
       "education": "BS CE, CMU '18",
       "linkedin_url": "https://linkedin.com/in/calvin-giroud-9667a8100"
     },
@@ -143,6 +163,8 @@
       "original_title": "Board Member",
       "previous_title": "Technical Manager",
       "previous_company": "Splunk",
+      "previous_title_2": "Senior Technician",
+      "previous_company_2": "Splunk",
       "education": "MS CS, UC Berkeley",
       "linkedin_url": null
     },
@@ -156,6 +178,8 @@
       "original_title": "Software Engineer",
       "previous_title": "Software Engineer",
       "previous_company": "Scale Ai",
+      "previous_title_2": "Software Engineer",
+      "previous_company_2": "Auth0 By Okta",
       "education": "Engineering, Universidad Nacional '20",
       "linkedin_url": "https://linkedin.com/in/ramasilveyra"
     },
@@ -169,6 +193,8 @@
       "original_title": "Software Engineer",
       "previous_title": "Software Engineer",
       "previous_company": "Scale Ai",
+      "previous_title_2": "Product Manager",
+      "previous_company_2": "Auth0 By Okta",
       "education": "Instituto Tecnol\u00e3\u00b3Gi '10",
       "linkedin_url": "https://linkedin.com/in/martin-cabral-b0897615"
     },
@@ -182,6 +208,8 @@
       "original_title": "Operations",
       "previous_title": "Platform Operations",
       "previous_company": "Capchase",
+      "previous_title_2": "Associate",
+      "previous_company_2": "Dorilton",
       "education": "MBA, Columbia Business Sc '21",
       "linkedin_url": "https://linkedin.com/in/salima-ghadimi-17064789"
     },
@@ -195,6 +223,8 @@
       "original_title": "Senior Software Engineer",
       "previous_title": "Senior Data Scientist",
       "previous_company": "Scale Ai",
+      "previous_title_2": "Senior Software Engineer",
+      "previous_company_2": "Scale Ai",
       "education": "Software Engineering, Free Code Camp '16",
       "linkedin_url": "https://linkedin.com/in/federicomarcos"
     },
@@ -208,6 +238,8 @@
       "original_title": "Human",
       "previous_title": "Co-Founder",
       "previous_company": "Stealth",
+      "previous_title_2": "N/A",
+      "previous_company_2": "N/A",
       "education": "CS, Stanford '22",
       "linkedin_url": "https://linkedin.com/in/-bryce"
     },
@@ -221,6 +253,8 @@
       "original_title": "Founding Team",
       "previous_title": "Student Researcher",
       "previous_company": "Google Deepmind",
+      "previous_title_2": "Co-Founder",
+      "previous_company_2": "Cofactory",
       "education": "PhD EE, Stanford '27",
       "linkedin_url": "https://linkedin.com/in/silasalberti"
     },
@@ -234,6 +268,8 @@
       "original_title": "Human Software Engineer",
       "previous_title": "Research Engineer",
       "previous_company": "Trunk Tools",
+      "previous_title_2": "Product Manager",
+      "previous_company_2": "Trunk Tools",
       "education": "MS CS, Stanford '24",
       "linkedin_url": "https://linkedin.com/in/moritz-stephan"
     },
@@ -247,6 +283,8 @@
       "original_title": "Software Engineer",
       "previous_title": "Researcher At Low-Energy Autonomy And Navigation (Lean) Group",
       "previous_company": "Research Laboratory Of Electronics At Mit",
+      "previous_title_2": "Researcher At Mit Parallel Algorithms Group",
+      "previous_company_2": "Mit Computer Science And Artificial Intelligence Laboratory (Csail)",
       "education": "BS Architecture, MIT '25",
       "linkedin_url": "https://linkedin.com/in/dev-chheda-6497bb1a7"
     },
@@ -260,6 +298,8 @@
       "original_title": "Product Engineer",
       "previous_title": "Frontend Engineer Intern",
       "previous_company": "Replay.Io",
+      "previous_title_2": "Head Boy",
+      "previous_company_2": "Montfort Secondary School",
       "education": "Montfort Secondary S '24",
       "linkedin_url": "https://linkedin.com/in/mokshit-jain-34318018a"
     },
@@ -273,6 +313,8 @@
       "original_title": "Software Engineer",
       "previous_title": "Staff Software Engineer",
       "previous_company": "Scale Ai",
+      "previous_title_2": "Software Engineering Intern",
+      "previous_company_2": "Quora",
       "education": "BS CS, MIT '18",
       "linkedin_url": "https://linkedin.com/in/clhuang"
     },
@@ -286,6 +328,8 @@
       "original_title": "Human Engineer",
       "previous_title": "Software Engineering Contractor",
       "previous_company": "Windsurf",
+      "previous_title_2": "Ai Engineering Consultant",
+      "previous_company_2": "Develop Health",
       "education": "MS Math, Harvard '20",
       "linkedin_url": "https://linkedin.com/in/sullivan-sean"
     },
@@ -299,6 +343,8 @@
       "original_title": "Account Executive, Strategic / Majors (Windsurf And Devin)",
       "previous_title": "Enterprise Account Executive",
       "previous_company": "Chronosphere",
+      "previous_title_2": "Strategic Account Executive, New Business",
+      "previous_company_2": "Airtable",
       "education": "French Language, Universit\u00e9 Paris - S",
       "linkedin_url": "https://linkedin.com/in/shannonscheel"
     },
@@ -312,6 +358,8 @@
       "original_title": "Director, Sales Enablement",
       "previous_title": "Director, Sales Enablement",
       "previous_company": "Navan",
+      "previous_title_2": "Senior Manager, Sales Enablement",
+      "previous_company_2": "Navan",
       "education": "Econ, Semester At Sea / Is '17",
       "linkedin_url": "https://linkedin.com/in/danielle-mccabe"
     },
@@ -325,6 +373,8 @@
       "original_title": "Gtm",
       "previous_title": "Strategic Account Executive, Emea",
       "previous_company": "Airtable",
+      "previous_title_2": "Senior Account Executive, Emea",
+      "previous_company_2": "Airtable",
       "education": "BS International Relati, University Of Colora '14",
       "linkedin_url": "https://linkedin.com/in/sam-rudy-44a2287b"
     },
@@ -338,6 +388,8 @@
       "original_title": "Advisor",
       "previous_title": "Advisor",
       "previous_company": "Stealth Mode",
+      "previous_title_2": "Vice President, Executive Networks",
+      "previous_company_2": "Index Ventures",
       "education": "BS History, Binghamton Universit",
       "linkedin_url": "https://linkedin.com/in/kirabusman"
     },
@@ -351,6 +403,8 @@
       "original_title": "Software Engineer",
       "previous_title": "Research Engineer",
       "previous_company": "Ramp",
+      "previous_title_2": "N/A",
+      "previous_company_2": "N/A",
       "education": "BS CS, Itmo University '18",
       "linkedin_url": "https://linkedin.com/in/gennady-korotkevich"
     }

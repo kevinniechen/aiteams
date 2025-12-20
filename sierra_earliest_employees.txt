@@ -1,5 +1,5 @@
 SIERRA - EARLIEST EMPLOYEES
-(Founded: 2023-03)
+(Founded: 2023-10)
 ================================================================================
 
 Employee #1
@@ -7,7 +7,8 @@ Employee #1
   Grad: '02 | YoE: 23
   Start Date: 2023-03
   Title: Co-Founder (Co-Founder)
-  Previous: Co-Chief Executive Officer @ Salesforce
+  Previous 1: Co-Chief Executive Officer @ Salesforce
+  Previous 2: Chairman Of The Board @ Twitter
   Education: MS CS, Stanford '03
   LinkedIn: https://linkedin.com/in/brettaylor
 
@@ -16,698 +17,686 @@ Employee #2
   Grad: '05 | YoE: 20
   Start Date: 2023-03
   Title: Co-Founder (Co-Founder)
-  Previous: Vice President, Labs @ Google
+  Previous 1: Vice President, Labs @ Google
+  Previous 2: Vice President, Augmented Reality / Virtual Reality @ Google
   Education: BS CS, Princeton '05
   LinkedIn: https://linkedin.com/in/claybavor
 
 Employee #3
-  Name: Mihai Parparita
-  Grad: '09 | YoE: 16
-  Start Date: 2023-04
-  Title: Founding Engineer (Founding Engineer)
-  Previous: Member Of Technical Staff @ Tailscale
-  Education: BS, Princeton '09
-  LinkedIn: https://linkedin.com/in/mihai-parparita
-
-Employee #4
-  Name: Julie Tung
-  Grad: '01 | YoE: 24
-  Start Date: 2023-05
-  Title: Engineer (Engineer)
-  Previous: Software Engineer @ Pavilion
-  Education: MS CS, Stanford '06
-  LinkedIn: https://linkedin.com/in/julie-tung-6487905
-
-Employee #5
-  Name: Ali Aills
-  Grad: '10 | YoE: 15
-  Start Date: 2023-05
-  Title: Executive Assistant (Executive Assistant)
-  Previous: Principal Executive Assistant To Bret Taylor, Co-Chief Executive Officer @ Salesforce
-  Education: Business, Saint Mary'S College '12
-  LinkedIn: https://linkedin.com/in/allisonaills
-
-Employee #6
-  Name: Noah Shinn
-  Grad: '25 | YoE: ?
-  Start Date: 2023-05
-  Title: Research Scientist (Research Scientist)
-  Previous: N/A @ N/A
-  Education: BS Biochemistry, Northeastern Univers '25
-  LinkedIn: https://linkedin.com/in/noah-shinn
-
-Employee #7
-  Name: Arya Asemanfar
-  Grad: '08 | YoE: 17
-  Start Date: 2023-06
-  Title: Builder (Builder)
-  Previous: Co-Founder @ Runway
-  Education: BS CS, Uc Irvine '08
-  LinkedIn: https://linkedin.com/in/asemanfar
-
-Employee #8
-  Name: Valjean Clark
-  Grad: '10 | YoE: 15
-  Start Date: 2023-08
-  Title: Engineer (Software Engineer)
-  Previous: Director Of Product Design @ Lightstep
-  Education: MS, Uppsala University '12
-  LinkedIn: https://linkedin.com/in/valjeanclark
-
-Employee #9
-  Name: Nate White
-  Grad: '01 | YoE: 24
-  Start Date: 2023-08
-  Title: Engineer (Engineer)
-  Previous: Software Engineer @ Quip
-  Education: CS, Georgetown Universit '00
-  LinkedIn: https://linkedin.com/in/whiten
-
-Employee #10
-  Name: Pedram Razavi
-  Grad: '11 | YoE: 14
-  Start Date: 2023-08
-  Title: Engineer (Engineer)
-  Previous: Software Engineer @ Cocoon
-  Education: BS CS, MIT
-  LinkedIn: https://linkedin.com/in/pedram-r
-
-Employee #11
-  Name: Belinda Gu
-  Grad: '07 | YoE: 18
-  Start Date: 2023-09
-  Title: Engineer (Engineer)
-  Previous: Engineer @ Cocoon
-  Education: MS CS, Stanford '08
-  LinkedIn: https://linkedin.com/in/belinda-gu-10282113
-
-Employee #12
   Name: Anna Rosenman
   Grad: '06 | YoE: 19
   Start Date: 2023-10
   Title: Marketing (Head Of Marketing)
-  Previous: Chief Marketing Officer @ Automation Anywhere
+  Previous 1: Chief Marketing Officer @ Automation Anywhere
+  Previous 2: Senior Vice President Product Marketing @ Salesforce
   Education: MBA Business, MIT '11
   LinkedIn: https://linkedin.com/in/annarosenman
 
-Employee #13
+Employee #4
   Name: Patrick Linehan
   Grad: '01 | YoE: 24
   Start Date: 2023-10
   Title: Engineer (Engineer)
-  Previous: Principal @ Z Fromulator
+  Previous 1: Principal @ Z Fromulator
+  Previous 2: Principal Staff Software Engineer @ Slack
   Education: BS CS, Stanford '01
   LinkedIn: https://linkedin.com/in/plinehan
 
-Employee #14
+Employee #5
   Name: Kevin Crain
   Grad: '14 | YoE: 11
   Start Date: 2023-11
   Title: Engineer (Agent Engineer)
-  Previous: Software Engineer @ Salesforce Quip
+  Previous 1: Software Engineer @ Salesforce Quip
+  Previous 2: Sales & Operations Engineer (Business Operations Automation) @ Salesforce Quip
   Education: CS, Mit Xpro '23
   LinkedIn: https://linkedin.com/in/kevin-crain-668225103
 
-Employee #15
+Employee #6
   Name: Kimberly Patron
   Grad: '16 | YoE: 9
   Start Date: 2023-11
   Title: Infra Engineer (Core Infrastructure Engineer)
-  Previous: Staff Infrastructure Engineer @ Slack
+  Previous 1: Staff Infrastructure Engineer @ Slack
+  Previous 2: Staff Infrastructure Engineer @ Quip
   Education: Bloc '18
   LinkedIn: https://linkedin.com/in/nykimberly
 
-Employee #16
+Employee #7
   Name: Elliot Greenwald
   Grad: '07 | YoE: 18
   Start Date: 2024-01
   Title: GTM (Head Of Gtm Operations)
-  Previous: Senior Vice President, Self-Service And Growth @ Salesforce
+  Previous 1: Senior Vice President, Self-Service And Growth @ Salesforce
+  Previous 2: Senior Vice President & Chief Operations Officer - Quip @ Salesforce
   Education: MBA, Stanford '14
   LinkedIn: https://linkedin.com/in/elliotgreenwald
 
-Employee #17
+Employee #8
   Name: Natalie Meurer
   Grad: '16 | YoE: 9
   Start Date: 2024-01
   Title: Agent Engineering Lead (Agent Engineering Lead)
-  Previous: Co-Founder And Chief Executive Officer @ Probably Something
+  Previous 1: Co-Founder And Chief Executive Officer @ Probably Something
+  Previous 2: Privacy Engineering Lead, Government Platform @ Palantir Technologies
   Education: MBA, Stanford '23
   LinkedIn: https://linkedin.com/in/nataliemeurer
 
-Employee #18
+Employee #9
   Name: Yidong Hu
   Grad: '20 | YoE: 5
   Start Date: 2024-01
   Title: PM (Product Manager)
-  Previous: Product Manager @ Google
+  Previous 1: Product Manager @ Google
+  Previous 2: Associate Product Manager @ Google
   Education: MS CS, The Johns Hopkins Un '20
   LinkedIn: https://linkedin.com/in/yidong-dorothy-hu-71907bb0
 
-Employee #19
+Employee #10
   Name: Reggie Marable
   Grad: '95 | YoE: 30
   Start Date: 2024-01
   Title: Sales (Head Of Sales)
-  Previous: Head Of Sales - North America @ Slack
+  Previous 1: Head Of Sales - North America @ Slack
+  Previous 2: Area Vice President - Enterprise Sales @ Salesforce
   Education: BA Political Science, Morehouse College '95
   LinkedIn: https://linkedin.com/in/reggiemarable
 
-Employee #20
+Employee #11
   Name: April Chang
   Grad: '15 | YoE: 10
   Start Date: 2024-01
   Title: Talent Acquisition (Talent Acquisition)
-  Previous: Technical Sourcing Recruiter @ Airtable
+  Previous 1: Technical Sourcing Recruiter @ Airtable
+  Previous 2: Technical Sourcing Recruiter @ Rebellion Defense
   Education: BS Business, Langara College '15
   LinkedIn: https://linkedin.com/in/aprilyychang
 
-Employee #21
+Employee #12
   Name: Danny Lee
   Grad: '21 | YoE: 4
   Start Date: 2024-01
   Title: Engineer (Agent Engineer)
-  Previous: Software Engineer @ Meta
+  Previous 1: Software Engineer @ Meta
+  Previous 2: Software Engineer @ Google
   Education: BS CS, Uc Irvine
   LinkedIn: https://linkedin.com/in/dannyglee
 
-Employee #22
+Employee #13
   Name: Greg Snyder
   Grad: '15 | YoE: 10
   Start Date: 2024-02
   Title: Founding Recruiter (Founding Recruiter)
-  Previous: Talent @ First Round Capital
+  Previous 1: Talent @ First Round Capital
+  Previous 2: Technical Recruiter @ Monte Carlo
   Education: BBA Marketing, Northeastern Univers '15
   LinkedIn: https://linkedin.com/in/greg-snyder-34653017
 
-Employee #23
+Employee #14
   Name: Beth Nakamura
   Grad: '15 | YoE: 10
   Start Date: 2024-02
   Title: Agent Engineering Lead (Agent Engineering Lead)
-  Previous: Co-Founder @ Probably Something
+  Previous 1: Co-Founder @ Probably Something
+  Previous 2: Staff Software Engineer & Tech Lead Manager @ Lyft
   Education: Hackbright Academy
   LinkedIn: https://linkedin.com/in/bnakamura
 
-Employee #24
+Employee #15
   Name: Andrew Timmons
   Grad: '08 | YoE: 17
   Start Date: 2024-03
   Title: Engineer (Software Engineer)
-  Previous: Staff Software Engineer @ Slack
+  Previous 1: Staff Software Engineer @ Slack
+  Previous 2: Senior Software Engineer @ Slack
   Education: BA Film, Wayne State Universi
   LinkedIn: https://linkedin.com/in/andrew-timmons
 
-Employee #25
+Employee #16
   Name: Bhavish Gummadi
   Grad: '17 | YoE: 8
   Start Date: 2024-03
   Title: PM (Product Manager)
-  Previous: Product Manager @ Google
+  Previous 1: Product Manager @ Google
+  Previous 2: Associate Product Manager @ Google
   Education: CS, UMich '21
   LinkedIn: https://linkedin.com/in/bhavish-gummadi-763a53147
 
-Employee #26
+Employee #17
   Name: Jesse Gortarez
   Grad: '06 | YoE: 19
   Start Date: 2024-04
   Title: Engineer (Web Developer)
-  Previous: Lead User Interface Engineer @ Okta
+  Previous 1: Lead User Interface Engineer @ Okta
+  Previous 2: Staff Web Developer @ Okta
   Education: Graphic Design, Uc Berkeley Extensio '14
   LinkedIn: https://linkedin.com/in/jessegortarez
 
-Employee #27
+Employee #18
   Name: Gary Tsang
   Grad: '06 | YoE: 19
   Start Date: 2024-04
   Title: Engineer (Engineer)
-  Previous: Technical Lead @ Color
+  Previous 1: Technical Lead @ Color
+  Previous 2: Senior Staff Software Engineer @ Slack
   Education: BS CS, UT Austin '06
   LinkedIn: https://linkedin.com/in/gary-tsang-76a5522
 
-Employee #28
+Employee #19
   Name: Pol Peiffer
   Grad: '17 | YoE: 8
   Start Date: 2024-04
   Title: Head Of Agent Development (Head Of Agent Development)
-  Previous: Product Manager @ Google
+  Previous 1: Product Manager @ Google
+  Previous 2: Software Engineer @ Archlet
   Education: MS ME, Eth Zürich '20
   LinkedIn: https://linkedin.com/in/pol-peiffer
 
-Employee #29
+Employee #20
   Name: Ally Johnston
   Grad: '10 | YoE: 15
   Start Date: 2024-05
   Title: Product (Product Marketing Lead)
-  Previous: Senior Vice President Marketing, Tableau @ Salesforce
+  Previous 1: Senior Vice President Marketing, Tableau @ Salesforce
+  Previous 2: Vice President, Corporate Messaging @ Salesforce
   Education: BA, Stanford '10
   LinkedIn: https://linkedin.com/in/ally-witherspoon-johnston-1887813
 
-Employee #30
+Employee #21
   Name: Alex Cebrian
   Grad: '06 | YoE: 19
   Start Date: 2024-06
   Title: Engineer (Software Engineer)
-  Previous: Engineering Manager @ Slack
+  Previous 1: Engineering Manager @ Slack
+  Previous 2: Staff Software Engineer @ Slack
   Education: CS, Mcgill University '05
   LinkedIn: https://linkedin.com/in/alexcebrian
 
-Employee #31
+Employee #22
   Name: Leigh Wafer
   Grad: '13 | YoE: 12
   Start Date: 2024-06
   Title: Director (Sales Director)
-  Previous: Senior Account Executive, Large Enterprise @ Slack
+  Previous 1: Senior Account Executive, Large Enterprise @ Slack
+  Previous 2: Enterprise Account Executive @ Slack
   Education: Bachelor Of Music Vocal Performance, University Of Colora '13
   LinkedIn: https://linkedin.com/in/leighwafer
 
-Employee #32
+Employee #23
   Name: Nittai Malchin
   Grad: '15 | YoE: 10
   Start Date: 2024-07
   Title: Operations (Business Operations)
-  Previous: Head Of Strategy & Operations @ Rewatch
+  Previous 1: Head Of Strategy & Operations @ Rewatch
+  Previous 2: Chief Of Staff @ Rewatch
   Education: MS Accounting, UMich '16
   LinkedIn: https://linkedin.com/in/nittaimalchin
 
-Employee #33
+Employee #24
   Name: Michan Hardy
   Grad: '11 | YoE: 14
   Start Date: 2024-07
   Title: Recruiting Programs Manager (Recruiting Programs Manager)
-  Previous: People Operations Lead, Diversity Programs & Experiences @ Meta
+  Previous 1: People Operations Lead, Diversity Programs & Experiences @ Meta
+  Previous 2: People Operations Program Manager @ Facebook
   Education: BA Econ, Uc Irvine '11
   LinkedIn: https://linkedin.com/in/michanh
 
-Employee #34
+Employee #25
   Name: Wayne Fan
   Grad: '06 | YoE: 19
   Start Date: 2024-07
   Title: Designer (Designer)
-  Previous: Designer, Founder @ Balsa
+  Previous 1: Designer, Founder @ Balsa
+  Previous 2: Lead Designer @ Slack
   Education: BA Art, Ucla
   LinkedIn: https://linkedin.com/in/waynefan
 
-Employee #35
+Employee #26
   Name: Stephan Zuercher
   Grad: '95 | YoE: 30
   Start Date: 2024-07
   Title: Engineer (Engineer)
-  Previous: Software Engineer @ Turbine Labs, Inc
+  Previous 1: Software Engineer @ Turbine Labs, Inc
+  Previous 2: Senior Staff Software Engineer @ Twitter
   Education: BS Engineering, Harvey Mudd College '95
 
-Employee #36
+Employee #27
   Name: Manan Nayak
   Grad: '11 | YoE: 14
   Start Date: 2024-07
   Title: Engineer (Software Engineer)
-  Previous: Software Engineer @ Airtable
+  Previous 1: Software Engineer @ Airtable
+  Previous 2: Software Engineer @ Quip
   Education: MS CS, Iiit Hyderabad '12
   LinkedIn: https://linkedin.com/in/manan-nayak-b7a955159
 
-Employee #37
+Employee #28
   Name: Nishita J
   Grad: '20 | YoE: 5
   Start Date: 2024-07
   Title: PM (Product Manager)
-  Previous: Product Manager @ Cointracker
+  Previous 1: Product Manager @ Cointracker
+  Previous 2: Associate @ Ark Investment Management Llc
   Education: BS Econ, The Wharton School '20
   LinkedIn: https://linkedin.com/in/nisjain
 
-Employee #38
+Employee #29
   Name: Stephan Zuercher
   Grad: '11 | YoE: 14
   Start Date: 2024-07
   Title: Engineer (Engineer)
-  Previous: Senior Staff Software Engineer @ Salesforce
+  Previous 1: Senior Staff Software Engineer @ Salesforce
+  Previous 2: Founding Engineer @ Turbine Labs, Inc
   Education: BS Engineering, Harvey Mudd College
   LinkedIn: https://linkedin.com/in/stephanzuercher
 
-Employee #39
+Employee #30
   Name: Vijay Edupuganti
   Grad: '18 | YoE: 7
   Start Date: 2024-08
   Title: Agent Engineering (Agent Engineering)
-  Previous: Summer Associate @ Bain Capital Ventures
+  Previous 1: Summer Associate @ Bain Capital Ventures
+  Previous 2: Software Engineer @ Middesk
   Education: MBA, Harvard Business Sch '24
   LinkedIn: https://linkedin.com/in/vijay-edupuganti
 
-Employee #40
+Employee #31
   Name: Shaun Livingston
   Grad: '16 | YoE: 9
   Start Date: 2024-08
   Title: Engineer (Agent Engineer)
-  Previous: Software Engineer - Ai / Ml @ Lemos
+  Previous 1: Software Engineer - Ai / Ml @ Lemos
+  Previous 2: Technical Lead @ Traxporta By Traxion
   Education: BS Physics, Brigham Young Univer '16
   LinkedIn: https://linkedin.com/in/shaun-livingston
 
-Employee #41
+Employee #32
   Name: Karthik Thiyagarajan
   Grad: '08 | YoE: 17
   Start Date: 2024-08
   Title: Engineering (Engineering)
-  Previous: Co-Founder & Chief Technology Officer @ Lasso Labs
+  Previous 1: Co-Founder & Chief Technology Officer @ Lasso Labs
+  Previous 2: Engineering (Content Delivery) @ Netflix
   Education: MS, CMU '10
   LinkedIn: https://linkedin.com/in/karthikthiyagarajan
 
-Employee #42
+Employee #33
   Name: William Schwarzenbach
   Grad: '09 | YoE: 16
   Start Date: 2024-09
   Title: Engineer (Engineer)
-  Previous: Staff Software Engineer @ Cash App
+  Previous 1: Staff Software Engineer @ Cash App
+  Previous 2: Founding Engineer, Tech Lead @ Welkin Health
   Education: BS CS, Princeton '09
   LinkedIn: https://linkedin.com/in/wschwa
 
-Employee #43
+Employee #34
   Name: Kevin Ingelman
   Grad: '04 | YoE: 21
   Start Date: 2024-09
   Title: Engineer (Engineer)
-  Previous: Software Engineer @ Buoyant
+  Previous 1: Software Engineer @ Buoyant
+  Previous 2: Senior Staff Software Engineer @ Twitter
   Education: BS CS, University Of Richmo '04
   LinkedIn: https://linkedin.com/in/klingerf
 
-Employee #44
+Employee #35
   Name: Alex Avery
   Grad: '12 | YoE: 13
   Start Date: 2024-09
   Title: PM (Product Manager)
-  Previous: Founder @ Mainstreet Ai
+  Previous 1: Founder @ Mainstreet Ai
+  Previous 2: Founder @ Gather
   Education: MBA, Stanford '18
   LinkedIn: https://linkedin.com/in/alexander-avery
 
-Employee #45
+Employee #36
   Name: Tess Rosania
   Grad: '05 | YoE: 20
   Start Date: 2024-09
   Title: Engineer (Software Engineer)
-  Previous: Director Of Product Management @ Airtable
+  Previous 1: Director Of Product Management @ Airtable
+  Previous 2: Founder + Chief Executive Officer @ Balsa
   Education: BA CS, Dartmouth College '05
   LinkedIn: https://linkedin.com/in/tessro
 
-Employee #46
+Employee #37
   Name: Jenna Satterfield
   Grad: '10 | YoE: 15
   Start Date: 2024-09
   Title: Recruiting Programs (Recruiting Programs)
-  Previous: Career Coach @ Formation
+  Previous 1: Career Coach @ Formation
+  Previous 2: Consultant, Break Through Tech Ai At Cornell Tech @ Break Through Tech
   Education: BA Psychology, University Of Califo '10
   LinkedIn: https://linkedin.com/in/jenna-satterfield
 
-Employee #47
+Employee #38
   Name: Vijay Iyengar
   Grad: '14 | YoE: 11
   Start Date: 2024-10
   Title: Engineering Lead (Engineering Lead)
-  Previous: Senior Director Of Product @ Mixpanel
+  Previous 1: Senior Director Of Product @ Mixpanel
+  Previous 2: Principal Tech Lead Manager @ Mixpanel
   Education: MS CE, CMU '15
   LinkedIn: https://linkedin.com/in/vijay4
 
-Employee #48
+Employee #39
   Name: Stacy Kim
   Grad: '12 | YoE: 13
   Start Date: 2024-10
   Title: Operations (Recruiting Operations Manager)
-  Previous: Program Manager, Recruiting Operations & Leadership Recruiting @ Stripe
+  Previous 1: Program Manager, Recruiting Operations & Leadership Recruiting @ Stripe
+  Previous 2: Program Manager, Leadership Recruiting @ Stripe
   Education: MA Special Education, National Louis Unive '14
   LinkedIn: https://linkedin.com/in/kimstacy
 
-Employee #49
+Employee #40
   Name: Chetan Sastry
   Grad: '01 | YoE: 24
   Start Date: 2024-10
   Title: Engineer (Software Engineer)
-  Previous: Staff Software Engineer @ Uber
+  Previous 1: Staff Software Engineer @ Uber
+  Previous 2: Staff Software Engineer @ Meta
   Education: MS CS, Georgia Tech '17
   LinkedIn: https://linkedin.com/in/chetansastry
 
-Employee #50
+Employee #41
   Name: Rohith Ravi
   Grad: '07 | YoE: 18
   Start Date: 2024-10
   Title: Engineer (Software Engineer)
-  Previous: Engineering Manager @ Clipboard
+  Previous 1: Engineering Manager @ Clipboard
+  Previous 2: Chief Architect @ Mixpanel
   Education: BS CS, Uc Irvine '07
   LinkedIn: https://linkedin.com/in/rohithravi
 
-Employee #51
+Employee #42
   Name: Arup Malakar
   Grad: '06 | YoE: 19
   Start Date: 2024-10
   Title: Engineer (Software Engineer)
-  Previous: Principal Engineer @ Lyft
+  Previous 1: Principal Engineer @ Lyft
+  Previous 2: Principal Software Engineer & Tech Lead @ Dalet Flex
   Education: BTech CS, IIT '06
   LinkedIn: https://linkedin.com/in/amalakar
 
-Employee #52
+Employee #43
   Name: Ajeet Grewal
   Grad: '03 | YoE: 22
   Start Date: 2024-10
   Title: Engineer (Engineer)
-  Previous: Chief Executive Officer And Co-Founder @ Receptive Ai
+  Previous 1: Chief Executive Officer And Co-Founder @ Receptive Ai
+  Previous 2: Director, Software Engineering @ Twitter
   Education: MS CS, Simon Fraser Univers '09
   LinkedIn: https://linkedin.com/in/ajeetgrewal
 
-Employee #53
+Employee #44
   Name: Venu Satuluri
   Grad: '05 | YoE: 20
   Start Date: 2024-10
   Title: Engineer (Engineer)
-  Previous: Co-Founder @ Receptive Ai
+  Previous 1: Co-Founder @ Receptive Ai
+  Previous 2: Swe 2 -> Principal Ml Engineer @ Twitter
   Education: PhD CS, The Ohio State Unive '12
   LinkedIn: https://linkedin.com/in/venusatuluri
 
-Employee #54
+Employee #45
   Name: Catherine Ma
   Grad: '18 | YoE: 7
   Start Date: 2024-10
   Title: Engineer (Agent Engineer)
-  Previous: Engineering Manager @ Scale Ai
+  Previous 1: Engineering Manager @ Scale Ai
+  Previous 2: Staff Software Engineer @ Scale Ai
   Education: BS Math, Caltech '18
   LinkedIn: https://linkedin.com/in/macatherine
 
-Employee #55
+Employee #46
   Name: Michelle Carr
   Grad: '14 | YoE: 11
   Start Date: 2024-10
   Title: Talent (Talent)
-  Previous: Head Of Business And Product Recruiting @ Cash App
+  Previous 1: Head Of Business And Product Recruiting @ Cash App
+  Previous 2: Business Recruiting Lead @ Cash App
   Education: Cea Liberal Arts And '13
   LinkedIn: https://linkedin.com/in/msteyer
 
-Employee #56
+Employee #47
   Name: Jake Donham
   Grad: '94 | YoE: 31
   Start Date: 2024-10
   Title: Engineer (Engineer)
-  Previous: Principal Research Engineer @ Github
+  Previous 1: Principal Research Engineer @ Github
+  Previous 2: Independent Developer-Researcher @ Programmable Matter
   Education: Software Development, Recurse Center '21
   LinkedIn: https://linkedin.com/in/jakedonham
 
-Employee #57
+Employee #48
   Name: Dongxu Zhou
   Grad: '07 | YoE: 18
   Start Date: 2024-10
   Title: Engineer (Research Engineer)
-  Previous: Chief Technology Officer @ Glint
+  Previous 1: Chief Technology Officer @ Glint
+  Previous 2: Director, Data Science @ Moveworks
   Education: PhD Environmental Scienc, Uc Santa Barbara '12
   LinkedIn: https://linkedin.com/in/derekzh
 
-Employee #58
+Employee #49
   Name: Victor Barres
   Grad: '03 | YoE: 22
   Start Date: 2024-10
   Title: Researcher (Researcher)
-  Previous: Senior Researcher (Nlp) @ Elemental Cognition
+  Previous 1: Senior Researcher (Nlp) @ Elemental Cognition
+  Previous 2: Principal Nlp Scientist @ Uniphore
   Education: PhD Neuroscience, USC '17
   LinkedIn: https://linkedin.com/in/victor-barres
 
-Employee #59
+Employee #50
   Name: Jonathan Xu
   Grad: '18 | YoE: 7
   Start Date: 2024-10
   Title: GTM (Gtm Operations)
-  Previous: Vice President @ Coatue Management
+  Previous 1: Vice President @ Coatue Management
+  Previous 2: Consultant @ Boston Consulting Group (Bcg)
   Education: BS CS, UC Berkeley '18
   LinkedIn: https://linkedin.com/in/jonathanxu3
 
-Employee #60
+Employee #51
   Name: Melanie Picardo
   Grad: '17 | YoE: 8
   Start Date: 2024-11
   Title: Designer (Brand Designer)
-  Previous: Senior Designer @ Square
+  Previous 1: Senior Designer @ Square
+  Previous 2: Brand Designer @ Gusto
   Education: BFA Design, Academy Of Art Unive '17
   LinkedIn: https://linkedin.com/in/melanie-picardo
 
-Employee #61
+Employee #52
   Name: Emily Gebru
   Grad: '11 | YoE: 14
   Start Date: 2024-11
   Title: Marketing (Integrated Marketing + Campaigns Lead)
-  Previous: Group Manager, Campaign Marketing @ Zendesk
+  Previous 1: Group Manager, Campaign Marketing @ Zendesk
+  Previous 2: Marketing Manager, Integrated Campaigns @ Zendesk
   Education: MS International Relati, Depaul University '16
   LinkedIn: https://linkedin.com/in/emily-gebru-7416a32b
 
-Employee #62
+Employee #53
   Name: Jordeen Chang
   Grad: '14 | YoE: 11
   Start Date: 2024-11
   Title: Engineer (Agent Engineer)
-  Previous: Staff Software Engineer @ Speccheck (Yc W23)
+  Previous 1: Staff Software Engineer @ Speccheck (Yc W23)
+  Previous 2: Senior Software Engineer @ Lyft
   Education: CS, UC Berkeley '16
   LinkedIn: https://linkedin.com/in/jordeen
 
-Employee #63
+Employee #54
   Name: Krishna Bharathala
   Grad: '18 | YoE: 7
   Start Date: 2024-11
   Title: PM (Product Manager)
-  Previous: Member @ South Park Commons
+  Previous 1: Member @ South Park Commons
+  Previous 2: Summer Scholar @ Arpa-E
   Education: MS Energy, Stanford '23
   LinkedIn: https://linkedin.com/in/kbharathala
 
-Employee #64
+Employee #55
   Name: Neil Rahilly
   Grad: '04 | YoE: 21
   Start Date: 2024-11
   Title: Engineering Lead (Engineering Lead)
-  Previous: Vice President Product, Design, Support, And Customer Success @ Mixpanel
+  Previous 1: Vice President Product, Design, Support, And Customer Success @ Mixpanel
+  Previous 2: Vice President Product, Design, And Support @ Mixpanel
   Education: PhD, State Of Arizona '10
   LinkedIn: https://linkedin.com/in/neilrahilly
 
-Employee #65
+Employee #56
   Name: Junko Maegawa
   Grad: '04 | YoE: 21
   Start Date: 2024-11
   Title: Designer (Designer)
-  Previous: Creative Director @ Google
+  Previous 1: Creative Director @ Google
+  Previous 2: Brand Design Lead / Brand Studio @ Google
   Education: BFA Graphic Design, Academy Of Art Unive '04
   LinkedIn: https://linkedin.com/in/junko-maegawa-5813414
 
-Employee #66
+Employee #57
   Name: Akhila Chitiprolu
   Grad: '10 | YoE: 15
   Start Date: 2024-11
   Title: Head Of Security Grc (Head Of Security Grc)
-  Previous: Head Of Technology Governance, Risk And Compliance @ Stripe
+  Previous 1: Head Of Technology Governance, Risk And Compliance @ Stripe
+  Previous 2: Member Of The Board Of Advisors @ Pci Security Standards Council
   Education: MS Management, UW '15
   LinkedIn: https://linkedin.com/in/akhilachitiprolu
 
-Employee #67
+Employee #58
   Name: David Wang
   Grad: '12 | YoE: 13
   Start Date: 2024-11
   Title: Engineer (Agent Engineer)
-  Previous: Generative Ai, Strategic Projects Lead @ Scale Ai
+  Previous 1: Generative Ai, Strategic Projects Lead @ Scale Ai
+  Previous 2: Completed Mba @ Harvard Business School
   Education: MBA, Harvard Business Sch '20
   LinkedIn: https://linkedin.com/in/david-wang-86245787
 
-Employee #68
+Employee #59
   Name: Jackie Cai
   Grad: '15 | YoE: 10
   Start Date: 2024-11
   Title: Executive Assistant (Executive Assistant)
-  Previous: Executive Assistant To Chief Executive Officer & Managing Director, Hemant Taneja @ General Catalyst
+  Previous 1: Executive Assistant To Chief Executive Officer & Managing Director, Hemant Taneja @ General Catalyst
+  Previous 2: Executive Assistant To Chief Executive Officer @ Mixpanel
   Education: Design, Stanford
   LinkedIn: https://linkedin.com/in/jackie-sabino-b0135851
 
-Employee #69
+Employee #60
   Name: Kumar Pandya
   Grad: '12 | YoE: 13
   Start Date: 2024-11
   Title: Engineer (Software Engineer)
-  Previous: Engineering Manager @ Apple
+  Previous 1: Engineering Manager @ Apple
+  Previous 2: Senior Software Engineer @ Apple
   Education: CS, University Of Toront '15
   LinkedIn: https://linkedin.com/in/kpandya3
 
-Employee #70
+Employee #61
   Name: Saagar Godithi
   Grad: '21 | YoE: 4
   Start Date: 2024-11
   Title: Engineer (Engineer)
-  Previous: Ai Product Engineer @ Tome
+  Previous 1: Ai Product Engineer @ Tome
+  Previous 2: Software Engineer @ Scale Ai
   Education: BS CS, Ucla '21
   LinkedIn: https://linkedin.com/in/saagargodithi
 
-Employee #71
+Employee #62
   Name: Rishabh Nair
   Grad: '20 | YoE: 5
   Start Date: 2024-11
   Title: Engineer (Enterprise Sales Engineer)
-  Previous: Senior Solutions Engineer @ Segment
+  Previous 1: Senior Solutions Engineer @ Segment
+  Previous 2: Solutions Engineer @ Segment
   Education: BS, The University Of Br '20
   LinkedIn: https://linkedin.com/in/rishabh-nair11
 
-Employee #72
+Employee #63
   Name: Cristen Ho
   Grad: '18 | YoE: 7
   Start Date: 2024-11
   Title: Engineer (Agent Engineer)
-  Previous: Software Engineer @ Thriveai
+  Previous 1: Software Engineer @ Thriveai
+  Previous 2: Senior Software Engineer & Tech Lead, Google Maps Transit Ios @ Google
   Education: Australian Online Co
   LinkedIn: https://linkedin.com/in/cristenho
 
-Employee #73
+Employee #64
   Name: Caitlyn C
   Grad: '21 | YoE: 4
   Start Date: 2024-11
   Title: Engineer (Engineer)
-  Previous: Software Engineer @ Retool
+  Previous 1: Software Engineer @ Retool
+  Previous 2: Software Engineer @ Stripe
   Education: BA CS, UC Berkeley '21
   LinkedIn: https://linkedin.com/in/caitlynachen
 
-Employee #74
+Employee #65
   Name: Luis C
   Grad: '21 | YoE: 4
   Start Date: 2024-11
   Title: Engineer (Agent Engineer)
-  Previous: Software Engineer @ Tome
+  Previous 1: Software Engineer @ Tome
+  Previous 2: Fullstack Engineer @ Nearside (Acquired By Plastiq)
   Education: BS CS, Rice University '21
   LinkedIn: https://linkedin.com/in/luisclague
 
-Employee #75
+Employee #66
   Name: Ben Dong
   Grad: '13 | YoE: 12
   Start Date: 2024-12
   Title: Engineer (Software Engineer)
-  Previous: Senior Software Engineer @ Stripe
+  Previous 1: Senior Software Engineer @ Stripe
+  Previous 2: Software Engineer @ Opendoor
   Education: BS EE, UC Berkeley '13
   LinkedIn: https://linkedin.com/in/bdong281
 
-Employee #76
+Employee #67
   Name: Cody Krainock
   Grad: '12 | YoE: 13
   Start Date: 2024-12
   Title: Engineer (Engineer)
-  Previous: Engineer @ Loop
+  Previous 1: Engineer @ Loop
+  Previous 2: Engineer @ Whatsapp
   Education: BS Chemical Engineering, Ucla '12
   LinkedIn: https://linkedin.com/in/codykrainock
 
-Employee #77
+Employee #68
   Name: Julia Buchholz
   Grad: '21 | YoE: 4
   Start Date: 2024-12
   Title: Operations (Business Operations)
-  Previous: Engagement Manager @ Mckinsey & Company
+  Previous 1: Engagement Manager @ Mckinsey & Company
+  Previous 2: Senior Business Analyst @ Mckinsey & Company
   Education: BA Econ, UPenn '21
   LinkedIn: https://linkedin.com/in/julia-d-buchholz
 
-Employee #78
+Employee #69
   Name: Raluca Musaloiu-E
   Grad: '03 | YoE: 22
   Start Date: 2024-12
   Title: Engineer (Engineer)
-  Previous: Software Engineer, Cruise Ai @ Cruise
+  Previous 1: Software Engineer, Cruise Ai @ Cruise
+  Previous 2: Member Of Technical Staff @ Cisco Meraki
   Education: PhD CS, The Johns Hopkins Un '09
   LinkedIn: https://linkedin.com/in/ralucam
 
-Employee #79
+Employee #70
   Name: Laura Ludwig
   Grad: '17 | YoE: 8
   Start Date: 2024-12
   Title: Office Manager (Office Manager)
-  Previous: Congressional Aide @ U.S. House Of Representatives
+  Previous 1: Congressional Aide @ U.S. House Of Representatives
+  Previous 2: Administrative Assistant And Event Coordinator @ Stanford University Political Science
   Education: Government, University Of Califo '22
   LinkedIn: https://linkedin.com/in/laura-ludwig-73a7b519a

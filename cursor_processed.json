@@ -13,6 +13,8 @@
       "original_title": "Co-Founder & Chief Executive Officer",
       "previous_title": "Intern",
       "previous_company": "Octant",
+      "previous_title_2": "Intern",
+      "previous_company_2": "Google",
       "education": "BS CS, MIT '21",
       "linkedin_url": "https://linkedin.com/in/michael-t-5b1bbb122"
     },
@@ -26,11 +28,28 @@
       "original_title": "Founding Engineer",
       "previous_title": "Founding Engineer",
       "previous_company": "Bounti.Ai",
+      "previous_title_2": "Machine Learning Engineer",
+      "previous_company_2": "Cisco",
       "education": "BS CS, MIT '19",
       "linkedin_url": "https://linkedin.com/in/rishabh-y-6abb40ab"
     },
     {
       "rank": 3,
+      "name": "Federico Cassano",
+      "grad_year": "'24",
+      "yoe": "1",
+      "start_date": "2023-12",
+      "title": "Research Scientist",
+      "original_title": "Research Scientist",
+      "previous_title": "Machine Learning Research Engineer Intern",
+      "previous_company": "Scale Ai",
+      "previous_title_2": "Research Intern",
+      "previous_company_2": "Roblox",
+      "education": "BS Cybersecurity, Northeastern Univers '24",
+      "linkedin_url": "https://linkedin.com/in/federicocassano"
+    },
+    {
+      "rank": 4,
       "name": "Shaoru Huang",
       "grad_year": "'25",
       "yoe": "?",
@@ -39,11 +58,13 @@
       "original_title": "Founding Engineer",
       "previous_title": "N/A",
       "previous_company": "N/A",
+      "previous_title_2": "N/A",
+      "previous_company_2": "N/A",
       "education": "BS CE, UIUC '25",
       "linkedin_url": "https://linkedin.com/in/shaoruu"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Jordan Topoleski",
       "grad_year": "'17",
       "yoe": "8",
@@ -52,11 +73,13 @@
       "original_title": "Chief Operating Officer",
       "previous_title": "Co-Founder",
       "previous_company": "Startup",
+      "previous_title_2": "Founder & Partner",
+      "previous_company_2": "Inverted Agency",
       "education": "BA History, Harvard '17",
       "linkedin_url": "https://linkedin.com/in/jtopoleski"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Phillip Kravtsov",
       "grad_year": "'20",
       "yoe": "5",
@@ -65,11 +88,13 @@
       "original_title": "Founding Engineer And Researcher",
       "previous_title": "Software Engineer",
       "previous_company": "Trucksmarter",
+      "previous_title_2": "Machine Learning Engineer",
+      "previous_company_2": "Nines",
       "education": "BS CS, UC Berkeley '20",
       "linkedin_url": "https://linkedin.com/in/phillip-kravtsov-abab69148"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Adam Hofmann",
       "grad_year": "'20",
       "yoe": "5",
@@ -78,11 +103,13 @@
       "original_title": "Software Engineer",
       "previous_title": "Senior Software Consultant & Project Lead",
       "previous_company": "Hypotenuse Labs",
+      "previous_title_2": "Software Engineer",
+      "previous_company_2": "Scribd, Inc.",
       "education": "BS CS, University Of Waterl '20",
       "linkedin_url": "https://linkedin.com/in/adam-hofmann-507b20113"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Luke Melas-Kyriazi",
       "grad_year": "'20",
       "yoe": "5",
@@ -91,21 +118,10 @@
       "original_title": "Ml",
       "previous_title": "Visiting Research Scientist",
       "previous_company": "Meta",
+      "previous_title_2": "Machine Learning Engineer Intern",
+      "previous_company_2": "Forethought",
       "education": "PhD CS, University Of Oxford '24",
       "linkedin_url": "https://linkedin.com/in/lukemelas"
-    },
-    {
-      "rank": 8,
-      "name": "Federico Cassano",
-      "grad_year": "'24",
-      "yoe": "1",
-      "start_date": "2024-07",
-      "title": "Research Scientist",
-      "original_title": "Research Scientist",
-      "previous_title": "Machine Learning Research Engineer Intern",
-      "previous_company": "Scale Ai",
-      "education": "BS Cybersecurity, Northeastern Univers '24",
-      "linkedin_url": "https://linkedin.com/in/federicocassano"
     },
     {
       "rank": 9,
@@ -117,6 +133,8 @@
       "original_title": "Engineer",
       "previous_title": "Software Engineer Intern",
       "previous_company": "Stripe",
+      "previous_title_2": "Software Engineer Intern",
+      "previous_company_2": "Microsoft",
       "education": "BS CS, Harvey Mudd College '25",
       "linkedin_url": "https://linkedin.com/in/baltaazr"
     },
@@ -130,6 +148,8 @@
       "original_title": "Software Engineer",
       "previous_title": "Software Engineer",
       "previous_company": "Plaid",
+      "previous_title_2": "Teaching Assistant & Research Assistant",
+      "previous_company_2": "Massachusetts Institute Of Technology",
       "education": "Lake City High Schoo '16",
       "linkedin_url": "https://linkedin.com/in/zack-holbrook"
     },
@@ -143,6 +163,8 @@
       "original_title": "Research",
       "previous_title": "Founder",
       "previous_company": "Supermaven",
+      "previous_title_2": "Research Scientist",
+      "previous_company_2": "Openai",
       "education": "BS CS, University Of Waterl '19",
       "linkedin_url": "https://linkedin.com/in/jacobbfjackson"
     },
@@ -156,6 +178,8 @@
       "original_title": "Head Of Gtm Engineering",
       "previous_title": "Product Lead",
       "previous_company": "Point72 Private Investments",
+      "previous_title_2": "Founder, Chief Executive Officer",
+      "previous_company_2": "Hubble",
       "education": "BS Math, Harvard '24",
       "linkedin_url": "https://linkedin.com/in/romanugarte"
     },
@@ -169,6 +193,8 @@
       "original_title": "Senior Staff Engineer",
       "previous_title": "Staff Engineer",
       "previous_company": "Figma",
+      "previous_title_2": "Tech Lead",
+      "previous_company_2": "Stellar Development Foundation",
       "education": "BS CE, UIUC '07",
       "linkedin_url": "https://linkedin.com/in/msfeldstein"
     },
@@ -182,6 +208,8 @@
       "original_title": "Software Engineer",
       "previous_title": "Software Engineer",
       "previous_company": "Chalk",
+      "previous_title_2": "Software Engineer",
+      "previous_company_2": "Databricks Mosaic Research",
       "education": "CS, MIT",
       "linkedin_url": "https://linkedin.com/in/ravirahman"
     },
@@ -195,6 +223,8 @@
       "original_title": "Enterprise Gtm",
       "previous_title": "Enterprise Account Executive",
       "previous_company": "Notion",
+      "previous_title_2": "Founding Account Executive",
+      "previous_company_2": "Notion",
       "education": "BA Business, Emory University '18",
       "linkedin_url": "https://linkedin.com/in/jonathanbraude"
     },
@@ -208,6 +238,8 @@
       "original_title": "Gtm Leadership - Technical Account Management",
       "previous_title": "Javascript Workshop Instructor",
       "previous_company": "Galvanize - San Francisco, Soma",
+      "previous_title_2": "Principal Solutions Engineer",
+      "previous_company_2": "Github",
       "education": "Software Engineering, Hack Reactor '15",
       "linkedin_url": "https://linkedin.com/in/pravipati"
     },
@@ -221,6 +253,8 @@
       "original_title": "General Counsel",
       "previous_title": "Founding Partner",
       "previous_company": "Ak Law Solutions",
+      "previous_title_2": "Regulatory Counsel",
+      "previous_company_2": "Google",
       "education": "Doctor Of Jurisprude, NYU '03",
       "linkedin_url": "https://linkedin.com/in/kazemiali"
     },
@@ -234,6 +268,8 @@
       "original_title": "Engineering",
       "previous_title": "Engineering Manager",
       "previous_company": "Cloudflare",
+      "previous_title_2": "Principal Engineer",
+      "previous_company_2": "Cloudflare",
       "education": "MS CS, CMU '16",
       "linkedin_url": "https://linkedin.com/in/eaufavor"
     },
@@ -247,6 +283,8 @@
       "original_title": "Enterprise Gtm",
       "previous_title": "Senior Enterprise Account Executive",
       "previous_company": "Figma",
+      "previous_title_2": "Enterprise Account Executive",
+      "previous_company_2": "Figma",
       "education": "University Of Sevill '10",
       "linkedin_url": "https://linkedin.com/in/grace-kneapler"
     },
@@ -260,6 +298,8 @@
       "original_title": "Head Of Design",
       "previous_title": "Founding Designer, Product, Design Lead",
       "previous_company": "Notion",
+      "previous_title_2": "Product Designer",
+      "previous_company_2": "Stripe",
       "education": "Biology, Mcgill University '14",
       "linkedin_url": "https://linkedin.com/in/ryo-lu-7060b534"
     },
@@ -273,6 +313,8 @@
       "original_title": "Enterprise Gtm",
       "previous_title": "Emerging Enterprise Account Executive",
       "previous_company": "Amplitude",
+      "previous_title_2": "Commercial Account Executive",
+      "previous_company_2": "Amplitude",
       "education": "BS English, Wake Forest Universi '16",
       "linkedin_url": "https://linkedin.com/in/bennettbrownlow"
     },
@@ -286,6 +328,8 @@
       "original_title": "Software Engineer",
       "previous_title": "Senior Principal Secure Software Engineer",
       "previous_company": "Zoom",
+      "previous_title_2": "Engineer",
+      "previous_company_2": "Keybase",
       "education": "PhD CS, MIT '09",
       "linkedin_url": "https://linkedin.com/in/jeremy-stribling-94b60455"
     },
@@ -299,6 +343,8 @@
       "original_title": "Software Engineer",
       "previous_title": "Founding Engineer",
       "previous_company": "Convex",
+      "previous_title_2": "Senior Software Engineer",
+      "previous_company_2": "Dropbox",
       "education": "BS CS, Yale '18",
       "linkedin_url": "https://linkedin.com/in/lee-danilek"
     },
@@ -312,6 +358,8 @@
       "original_title": "Making Cursor",
       "previous_title": "Senior Staff Software Engineer",
       "previous_company": "Datadog",
+      "previous_title_2": "Infrastructure Engineer",
+      "previous_company_2": "Stripe",
       "education": "BS Physics, Columbia Engineering '12",
       "linkedin_url": "https://linkedin.com/in/alex-haugland-4ba8893b"
     },
@@ -325,6 +373,8 @@
       "original_title": "Building",
       "previous_title": "Newsletter",
       "previous_company": "Next Play",
+      "previous_title_2": "Angel Track",
+      "previous_company_2": "First Round Capital",
       "education": "Ramaz School '11",
       "linkedin_url": "https://linkedin.com/in/benmlang"
     },
@@ -338,6 +388,8 @@
       "original_title": "Software Engineer",
       "previous_title": "Software Engineer",
       "previous_company": "Figma",
+      "previous_title_2": "Software Engineer",
+      "previous_company_2": "Meta",
       "education": "BA CS, The University Of No '18",
       "linkedin_url": "https://linkedin.com/in/jkap"
     },
@@ -349,8 +401,10 @@
       "start_date": "2025-03",
       "title": "Engineer",
       "original_title": "Software Engineer",
-      "previous_title": "Software Engineer",
-      "previous_company": "Anysphere",
+      "previous_title": "Principal Software Engineer",
+      "previous_company": "Material Security",
+      "previous_title_2": "Staff Software Engineer",
+      "previous_company_2": "Material Security",
       "education": "MS CS, Stanford '10",
       "linkedin_url": "https://linkedin.com/in/natasha-gude-08b59b24"
     },
@@ -364,6 +418,8 @@
       "original_title": "Gtm Leadership",
       "previous_title": "Head Of Sales",
       "previous_company": "Anrok",
+      "previous_title_2": "Manager, Enterprise Sales",
+      "previous_company_2": "Figma",
       "education": "BS Anthropology, Barnard College '14",
       "linkedin_url": "https://linkedin.com/in/tahirih-skolnik-2a135b103"
     },
@@ -377,6 +433,8 @@
       "original_title": "Enterprise Gtm",
       "previous_title": "Founding Gtm Lead",
       "previous_company": "Galileo",
+      "previous_title_2": "Enterprise Account Executive",
+      "previous_company_2": "Algolia",
       "education": "BS CS, Clemson University '17",
       "linkedin_url": "https://linkedin.com/in/kashyapyechuri"
     },
@@ -390,6 +448,8 @@
       "original_title": "Enterprise Gtm",
       "previous_title": "Strategic Accounts",
       "previous_company": "Metronome",
+      "previous_title_2": "Enterprise Account Executive",
+      "previous_company_2": "Launchdarkly",
       "education": "BA Art History, Ithaca College",
       "linkedin_url": "https://linkedin.com/in/taylorhaggard"
     },
@@ -403,6 +463,8 @@
       "original_title": "Vice President, Gtm",
       "previous_title": "Senior Vice President, Sales",
       "previous_company": "Vercel",
+      "previous_title_2": "Assistant Vice President, Sales",
+      "previous_company_2": "Branch Metrics",
       "education": "BA Rhetoric, UC Berkeley",
       "linkedin_url": "https://linkedin.com/in/tomerchernia"
     },
@@ -416,6 +478,8 @@
       "original_title": "Research Scientist",
       "previous_title": "Research Scientist",
       "previous_company": "Augment Code",
+      "previous_title_2": "Researcher",
+      "previous_company_2": "Google",
       "education": "PhD CS, USC '22",
       "linkedin_url": "https://linkedin.com/in/yury-zemlyanskiy"
     },
@@ -429,6 +493,8 @@
       "original_title": "Designer",
       "previous_title": "Designer",
       "previous_company": "Notion",
+      "previous_title_2": "Product Design Intern",
+      "previous_company_2": "Meta",
       "education": "BS Business, USC '21",
       "linkedin_url": "https://linkedin.com/in/mukherjeeankit"
     },
@@ -442,6 +508,8 @@
       "original_title": "Software Engineer",
       "previous_title": "Staff Software Engineer, Infrastructure",
       "previous_company": "Anyscale",
+      "previous_title_2": "Senior Software Engineer, Infrastructure",
+      "previous_company_2": "Anyscale",
       "education": "BS CS, UC Berkeley '22",
       "linkedin_url": "https://linkedin.com/in/shomilj"
     },
@@ -455,6 +523,8 @@
       "original_title": "Enterprise Gtm",
       "previous_title": "Strategic Accounts",
       "previous_company": "Miro",
+      "previous_title_2": "Enterprise Account Executive",
+      "previous_company_2": "Stripe",
       "education": "BA Government, Cornell '10",
       "linkedin_url": "https://linkedin.com/in/marisa-breall-04692814"
     },
@@ -468,6 +538,8 @@
       "original_title": "Gtm Recruiting",
       "previous_title": "Senior Manager, Sales Recruiting",
       "previous_company": "Vercel",
+      "previous_title_2": "Staff Recruiter",
+      "previous_company_2": "Vercel",
       "education": "BA, University Of Colora",
       "linkedin_url": "https://linkedin.com/in/rachelstoddartnixon"
     },
@@ -481,6 +553,8 @@
       "original_title": "Enterprise Gtm",
       "previous_title": "Head Of Partnerships",
       "previous_company": "Anrok",
+      "previous_title_2": "Senior Partnerships Lead",
+      "previous_company_2": "Anrok",
       "education": "MBA, The University Of Ch '22",
       "linkedin_url": "https://linkedin.com/in/will-ziesing"
     },
@@ -494,6 +568,8 @@
       "original_title": "Founding Enterprise Gtm",
       "previous_title": "Account Executive",
       "previous_company": "Census",
+      "previous_title_2": "Enterprise Account Executive",
+      "previous_company_2": "Handshake",
       "education": "BS Biotechnology, Claremont Mckenna Co '17",
       "linkedin_url": "https://linkedin.com/in/tsidhom"
     },
@@ -507,6 +583,8 @@
       "original_title": "Enterprise Gtm",
       "previous_title": "Founding Gtm Team",
       "previous_company": "Patronus Ai",
+      "previous_title_2": "Strategic Account Executive",
+      "previous_company_2": "Monte Carlo",
       "education": "BS Environmental Scienc, UC Berkeley '14",
       "linkedin_url": "https://linkedin.com/in/alexandra-chou"
     },
@@ -520,6 +598,8 @@
       "original_title": "Head Of Engineering, Infrastructure",
       "previous_title": "Co-Founder / Chief Scientist",
       "previous_company": "Convex",
+      "previous_title_2": "Research Engineer",
+      "previous_company_2": "Microsoft",
       "education": "BA Econ, Cornell '13",
       "linkedin_url": "https://linkedin.com/in/sujayakar"
     },
@@ -533,6 +613,8 @@
       "original_title": "Technical Support Engineering Manager",
       "previous_title": "Technical Support Engineering Manager",
       "previous_company": "Tecton",
+      "previous_title_2": "Technical Support Engineer, Machine Learning",
+      "previous_company_2": "Tecton",
       "education": "BS Econ, University Of Wiscon '18",
       "linkedin_url": "https://linkedin.com/in/kodyfisher"
     },
@@ -546,6 +628,8 @@
       "original_title": "Vice President, Solutions",
       "previous_title": "Vice President, Field Engineering",
       "previous_company": "Vercel",
+      "previous_title_2": "Vice President, Sales Engineering",
+      "previous_company_2": "Vercel",
       "education": "BS Physics, Claremont Mckenna Co '12",
       "linkedin_url": "https://linkedin.com/in/ricky-doar-39a4a873"
     },
@@ -559,6 +643,8 @@
       "original_title": "Gtm Leadership",
       "previous_title": "Director, Us Enterprise Sales",
       "previous_company": "Vercel",
+      "previous_title_2": "Manager Of Enterprise Sales, Americas",
+      "previous_company_2": "Sift",
       "education": "MBA Business, University Of Toront '12",
       "linkedin_url": "https://linkedin.com/in/robert-f-98617b20"
     },
@@ -572,6 +658,8 @@
       "original_title": "Account Executive - Emerging Enterprise",
       "previous_title": "Account Executive - Mid Market",
       "previous_company": "Harvey",
+      "previous_title_2": "Senior Account Executive",
+      "previous_company_2": "Figma",
       "education": "BS Communication, Cornell '12",
       "linkedin_url": "https://linkedin.com/in/davidchase3"
     },
@@ -585,6 +673,8 @@
       "original_title": "Talent, Gtm",
       "previous_title": "Head Of Sales Development",
       "previous_company": "Hightouch",
+      "previous_title_2": "Senior Account Manager",
+      "previous_company_2": "Segment",
       "education": "Business, Arizona State Univer '15",
       "linkedin_url": "https://linkedin.com/in/kgehringer2024"
     },
@@ -598,6 +688,8 @@
       "original_title": "Product",
       "previous_title": "Chief Executive Officer & Co-Founder",
       "previous_company": "Clarity",
+      "previous_title_2": "Chief Technology Officer & Co-Founder",
+      "previous_company_2": "Explo",
       "education": "BS CS, CMU '17",
       "linkedin_url": "https://linkedin.com/in/rohannvarma"
     },
@@ -611,6 +703,8 @@
       "original_title": "Head Of Engineering, Product",
       "previous_title": "Notion Mail",
       "previous_company": "Notion",
+      "previous_title_2": "Sequoia Scout",
+      "previous_company_2": "Sequoia Capital",
       "education": "MS CS, Stanford '20",
       "linkedin_url": "https://linkedin.com/in/jason-ginsberg-0bb036127"
     },
@@ -624,6 +718,8 @@
       "original_title": "Technical Support Engineer",
       "previous_title": "Senior Support Engineer",
       "previous_company": "Sourcegraph",
+      "previous_title_2": "Support Engineer",
+      "previous_company_2": "Sourcegraph",
       "education": "MS CS, Usc Viterbi School O '23",
       "linkedin_url": "https://linkedin.com/in/morgangautho"
     },
@@ -637,6 +733,8 @@
       "original_title": "Head Of Engineering, Product",
       "previous_title": "Notion Mail Lead",
       "previous_company": "Notion",
+      "previous_title_2": "Sequoia Scout",
+      "previous_company_2": "Sequoia Capital",
       "education": "Stanford '23",
       "linkedin_url": "https://linkedin.com/in/amilich"
     },
@@ -650,6 +748,8 @@
       "original_title": "Enterprise Gtm",
       "previous_title": "Senior Enterprise Account Executive",
       "previous_company": "Figma",
+      "previous_title_2": "Enterprise Account Executive",
+      "previous_company_2": "Figma",
       "education": "BA, Wesleyan University '13",
       "linkedin_url": "https://linkedin.com/in/maxrosenman"
     },
@@ -663,6 +763,8 @@
       "original_title": "Field Engineering",
       "previous_title": "Senior Sales Engineer",
       "previous_company": "Snowflake",
+      "previous_title_2": "Sales Engineer",
+      "previous_company_2": "Snowflake",
       "education": "Stanford '14",
       "linkedin_url": "https://linkedin.com/in/mark-w-boos"
     },
@@ -676,6 +778,8 @@
       "original_title": "Gtm",
       "previous_title": "Growth Director",
       "previous_company": "Moloco",
+      "previous_title_2": "Senior Growth Manager",
+      "previous_company_2": "Moloco",
       "education": "Finance, UC Berkeley '20",
       "linkedin_url": "https://linkedin.com/in/brookeylombardo"
     },
@@ -689,6 +793,8 @@
       "original_title": "Operations",
       "previous_title": "Workplace Coordinator",
       "previous_company": "Accel",
+      "previous_title_2": "Supervisor",
+      "previous_company_2": "Vans",
       "education": "BA Psychology, Arizona State Univer '23",
       "linkedin_url": "https://linkedin.com/in/brooke-howery-09445a211"
     },
@@ -702,6 +808,8 @@
       "original_title": "Vice President, Enterprise",
       "previous_title": "Co-Founder & Chief Executive Officer",
       "previous_company": "Koala",
+      "previous_title_2": "Senior Vice President, Twilio Engage General Manager",
+      "previous_company_2": "Segment",
       "education": "BS CS, Harvard '08",
       "linkedin_url": "https://linkedin.com/in/tido-carriero"
     },
@@ -715,6 +823,8 @@
       "original_title": "Head Of Engineering, Async Agents",
       "previous_title": "Head Of Ai",
       "previous_company": "Airtable",
+      "previous_title_2": "Founder",
+      "previous_company_2": "Airplane",
       "education": "BS CS, MIT '13",
       "linkedin_url": "https://linkedin.com/in/joshmaa"
     },
@@ -728,6 +838,8 @@
       "original_title": "Software Engineer",
       "previous_title": "Co-Founder, Chief Technology Officer / Cpo",
       "previous_company": "Koala",
+      "previous_title_2": "Senior Principal Software Engineer",
+      "previous_company_2": "Segment",
       "education": "BA Communication, Iowa State Universit '07",
       "linkedin_url": "https://linkedin.com/in/mshwery"
     },
@@ -741,6 +853,8 @@
       "original_title": "Security",
       "previous_title": "Co-Host",
       "previous_company": "404 Security Not Found",
+      "previous_title_2": "Co-Founder And Chief Executive Officer",
+      "previous_company_2": "Resourcely",
       "education": "MS CE, Santa Clara Universi '12",
       "linkedin_url": "https://linkedin.com/in/travismcpeak"
     },
@@ -754,6 +868,8 @@
       "original_title": "Field Engineering",
       "previous_title": "Head Of Developer Relations",
       "previous_company": "Arize Ai",
+      "previous_title_2": "Venture Fellow - Ai / Ml / Automation",
+      "previous_company_2": "Omega Venture Partners",
       "education": "MBA, Stanford '24",
       "linkedin_url": "https://linkedin.com/in/johngilhuly"
     },
@@ -767,6 +883,8 @@
       "original_title": "Ml Infra",
       "previous_title": "Technical Staff",
       "previous_company": "Stealth",
+      "previous_title_2": "Director Of Engineering, Infrastructure And Security",
+      "previous_company_2": "Planetscale",
       "education": "Royal Thimphu Colleg '14",
       "linkedin_url": "https://linkedin.com/in/samkottler"
     },
@@ -780,6 +898,8 @@
       "original_title": "Account Executive - Emerging Enterprise",
       "previous_title": "Account Executive, Mid-Market & Commercial",
       "previous_company": "Stripe",
+      "previous_title_2": "Account Executive, Startups",
+      "previous_company_2": "Stripe",
       "education": "BS Entrepreneurship, Syracuse University '16",
       "linkedin_url": "https://linkedin.com/in/casey-kerr"
     },
@@ -793,6 +913,8 @@
       "original_title": "Enterprise Gtm",
       "previous_title": "Strategic Enterprise Account Executive",
       "previous_company": "Freshworks",
+      "previous_title_2": "Field Account Executive",
+      "previous_company_2": "Netsuite",
       "education": "BS, Semester At Sea / Is '14",
       "linkedin_url": "https://linkedin.com/in/yuqin-lu"
     },
@@ -806,6 +928,8 @@
       "original_title": "Engineering",
       "previous_title": "Co-Founder & Chief Technology Officer",
       "previous_company": "Clarity",
+      "previous_title_2": "Engineering",
+      "previous_company_2": "Notion",
       "education": "BS CS, University Of Maryla '19",
       "linkedin_url": "https://linkedin.com/in/austinpiel"
     },
@@ -819,6 +943,8 @@
       "original_title": "Research Scientist",
       "previous_title": "Quantitative Researcher",
       "previous_company": "Jane Street",
+      "previous_title_2": "Economist Intern",
+      "previous_company_2": "Lyft",
       "education": "Stanford '21",
       "linkedin_url": "https://linkedin.com/in/wanqizhu"
     },
@@ -832,6 +958,8 @@
       "original_title": "Software Engineer",
       "previous_title": "Engineering Manager",
       "previous_company": "Stripe",
+      "previous_title_2": "Co-Founder",
+      "previous_company_2": "Octane (We'Ve Joined Stripe!)",
       "education": "BS Biomedical Engineeri, CMU '15",
       "linkedin_url": "https://linkedin.com/in/ahmed-shalaby93"
     },
@@ -845,6 +973,8 @@
       "original_title": "Technical Support Engineer",
       "previous_title": "Senior Customer Support Engineer",
       "previous_company": "Vercel",
+      "previous_title_2": "Senior Support Engineer",
+      "previous_company_2": "Gitlab",
       "education": "Software Development, Woz U '18",
       "linkedin_url": "https://linkedin.com/in/david-coy"
     },
@@ -858,6 +988,8 @@
       "original_title": "Gtm - Emerging Enterprise",
       "previous_title": "Enterprise Account Executive",
       "previous_company": "Figma",
+      "previous_title_2": "Senior Account Executive, Mid-Market",
+      "previous_company_2": "Figma",
       "education": "Architecture, Universitat Aut\u00f2noma '12",
       "linkedin_url": "https://linkedin.com/in/nelsonrony"
     },
@@ -871,6 +1003,8 @@
       "original_title": "Commercial Account Executive",
       "previous_title": "Corporate Account Executive",
       "previous_company": "Glean",
+      "previous_title_2": "Business Development",
+      "previous_company_2": "Glean",
       "education": "BA Econ, UC Berkeley '22",
       "linkedin_url": "https://linkedin.com/in/noahwadhwani"
     },
@@ -884,6 +1018,8 @@
       "original_title": "Field Engineering Manager",
       "previous_title": "Director Of Sales Engineering, East",
       "previous_company": "Vercel",
+      "previous_title_2": "Sales Engineering",
+      "previous_company_2": "Persona",
       "education": "BA International Relati, Claremont Mckenna Co '12",
       "linkedin_url": "https://linkedin.com/in/diggoryr"
     },
@@ -897,6 +1033,8 @@
       "original_title": "Software Engineer",
       "previous_title": "Core Developer",
       "previous_company": "Hudson River Trading",
+      "previous_title_2": "Software Developer Intern",
+      "previous_company_2": "The D. E. Shaw Group",
       "education": "MS CS, Columbia '16",
       "linkedin_url": "https://linkedin.com/in/xingzhouhe"
     },
@@ -910,6 +1048,8 @@
       "original_title": "Enterprise Gtm",
       "previous_title": "Chief Of Staff To The Chief Technology Officer",
       "previous_company": "Bonterra",
+      "previous_title_2": "Graduate Fellow, Office Of The Secretary",
+      "previous_company_2": "U.S. Department Of Commerce",
       "education": "Master Of Public Adm, Harvard Kennedy Scho '24",
       "linkedin_url": "https://linkedin.com/in/rohan-chandra-3367b188"
     },
@@ -923,6 +1063,8 @@
       "original_title": "Enterprise Gtm",
       "previous_title": "Enterprise Gtm",
       "previous_company": "Linear",
+      "previous_title_2": "Head Of Codecov Sales",
+      "previous_company_2": "Sentry (Sentry.Io)",
       "education": "BA, Santa Clara Universi '18",
       "linkedin_url": "https://linkedin.com/in/sabiha-viswanathan-37423134"
     },
@@ -936,6 +1078,8 @@
       "original_title": "Gtm",
       "previous_title": "Account Executive - Mid-Market",
       "previous_company": "Coupa",
+      "previous_title_2": "Senior Corporate Account Executive",
+      "previous_company_2": "Coupa",
       "education": "Business, School Of Business",
       "linkedin_url": "https://linkedin.com/in/kristaletz"
     },
@@ -949,6 +1093,8 @@
       "original_title": "Product Manager",
       "previous_title": "Self Serve Growth Lead",
       "previous_company": "Roboflow",
+      "previous_title_2": "Self Serve Growth",
+      "previous_company_2": "Roboflow",
       "education": "Georgetown Universit '20",
       "linkedin_url": "https://linkedin.com/in/jacob-witt-181182129"
     },
@@ -962,6 +1108,8 @@
       "original_title": "Strategic Gtm",
       "previous_title": "Strategic Enterprise Sales Leadership",
       "previous_company": "Figma",
+      "previous_title_2": "Strategic Enterprise Sales",
+      "previous_company_2": "Figma",
       "education": "Business, Bt '14",
       "linkedin_url": "https://linkedin.com/in/jamesgarner"
     },
@@ -975,6 +1123,8 @@
       "original_title": "Building Cursor",
       "previous_title": "Corporate Controller",
       "previous_company": "Grammarly",
+      "previous_title_2": "Senior Manager",
+      "previous_company_2": "Kpmg Us",
       "education": "MBA, The Wharton School '24",
       "linkedin_url": "https://linkedin.com/in/babichkirill"
     },
@@ -988,6 +1138,8 @@
       "original_title": "Gtm Leadership",
       "previous_title": "Regional Director, Mid-Market Sales",
       "previous_company": "Vercel",
+      "previous_title_2": "Regional Vice President, Southeast",
+      "previous_company_2": "Freshworks",
       "education": "BS Econ, Rutgers The State Un '13",
       "linkedin_url": "https://linkedin.com/in/allegrakettelkamp"
     },
@@ -1001,6 +1153,8 @@
       "original_title": "Account Executive - Emerging Enterprise",
       "previous_title": "Enterprise Account Executive",
       "previous_company": "Figma",
+      "previous_title_2": "Senior Account Executive, Mid-Market",
+      "previous_company_2": "Figma",
       "education": "BS Marketing, University Of Georgi '18",
       "linkedin_url": "https://linkedin.com/in/tess-lawson"
     },
@@ -1014,6 +1168,8 @@
       "original_title": "Head Of Revenue Operations",
       "previous_title": "Head Of Revenue Operations",
       "previous_company": "Retool",
+      "previous_title_2": "Director - Head Of Gtm Strategy Planning, Operations",
+      "previous_company_2": "Brex",
       "education": "Business, Universit\u00e0 Bocconi '06",
       "linkedin_url": "https://linkedin.com/in/jkrangel"
     },
@@ -1027,6 +1183,8 @@
       "original_title": "Enterprise Gtm",
       "previous_title": "Global Solution Architect",
       "previous_company": "Amplitude",
+      "previous_title_2": "Senior Solutions Engineer",
+      "previous_company_2": "Amplitude",
       "education": "BA Dance, UC Berkeley '17",
       "linkedin_url": "https://linkedin.com/in/xuaudrey"
     },
@@ -1040,6 +1198,8 @@
       "original_title": "Engineering",
       "previous_title": "Engineering Lead - Product Foundations",
       "previous_company": "Plaid",
+      "previous_title_2": "Architecture Lead",
+      "previous_company_2": "Plaid",
       "education": "MS CS, Stanford",
       "linkedin_url": "https://linkedin.com/in/ntindall"
     },
@@ -1053,6 +1213,8 @@
       "original_title": "Enterprise Gtm",
       "previous_title": "Strategic Sales | Web3 / Fintech & Biotech",
       "previous_company": "Google",
+      "previous_title_2": "Field Sales Executive - Digital Natives",
+      "previous_company_2": "Google",
       "education": "BS Psychology, Yale '15",
       "linkedin_url": "https://linkedin.com/in/denzil-bernard"
     },
@@ -1066,6 +1228,8 @@
       "original_title": "Engineering",
       "previous_title": "Co-Founder / Chief Technology Officer",
       "previous_company": "Koala",
+      "previous_title_2": "Senior Principal Software Engineer",
+      "previous_company_2": "Segment",
       "education": "BS Information Systems, Universidade Federal '10",
       "linkedin_url": "https://linkedin.com/in/netto-farah-7433b328"
     },
@@ -1079,6 +1243,8 @@
       "original_title": "Enterprise Gtm",
       "previous_title": "Strategic Account Executive",
       "previous_company": "Glean",
+      "previous_title_2": "Enterprise Account Executive",
+      "previous_company_2": "Glean",
       "education": "BS Advertising, UT Austin '17",
       "linkedin_url": "https://linkedin.com/in/jennaleejones95"
     },
@@ -1092,6 +1258,8 @@
       "original_title": "Ciso",
       "previous_title": "Ciso",
       "previous_company": "Plaid",
+      "previous_title_2": "Interim Ciso",
+      "previous_company_2": "Square",
       "education": "CS, Georgetown Universit '08",
       "linkedin_url": "https://linkedin.com/in/tom-daniels-7345564"
     },
@@ -1105,6 +1273,8 @@
       "original_title": "Gtm",
       "previous_title": "Corporate Account Executive",
       "previous_company": "Okta",
+      "previous_title_2": "Sales Team Lead, Us West",
+      "previous_company_2": "Darktrace",
       "education": "Econ, Universidade De Fort '16",
       "linkedin_url": "https://linkedin.com/in/kevin-sherman-2013"
     },
@@ -1118,6 +1288,8 @@
       "original_title": "User Operations",
       "previous_title": "Director Of Product Management",
       "previous_company": "Sora",
+      "previous_title_2": "Director Of Customer Operations",
+      "previous_company_2": "Mighty",
       "education": "BA Econ, Claremont Mckenna Co '12",
       "linkedin_url": "https://linkedin.com/in/danielkwlee"
     },
@@ -1131,6 +1303,8 @@
       "original_title": "People Operations",
       "previous_title": "People Lead",
       "previous_company": "Assembled",
+      "previous_title_2": "Director, People Operations",
+      "previous_company_2": "Nurx From Thirty Madison",
       "education": "BA Business, University Of Califo '11",
       "linkedin_url": "https://linkedin.com/in/stephwu8"
     },
@@ -1144,6 +1318,8 @@
       "original_title": "Enterprise Gtm Leadership",
       "previous_title": "Regional Vice President, Strategic Sales",
       "previous_company": "Writer",
+      "previous_title_2": "Advisor",
+      "previous_company_2": "Antler",
       "education": "Fashion, International School '07",
       "linkedin_url": "https://linkedin.com/in/allison-vatz"
     },
@@ -1157,6 +1333,8 @@
       "original_title": "Rl Foundations",
       "previous_title": "Member Of Technical Staff",
       "previous_company": "Openai",
+      "previous_title_2": "Research Intern",
+      "previous_company_2": "Facebook",
       "education": "PhD, UC Berkeley '22",
       "linkedin_url": "https://linkedin.com/in/ashvin-nair-7a496478"
     },
@@ -1170,6 +1348,8 @@
       "original_title": "Gtm",
       "previous_title": "Staff Software Engineer - Credit Acceptance",
       "previous_company": "Helvetica Lake Consulting",
+      "previous_title_2": "Lead Software Engineer - Guardian Life",
+      "previous_company_2": "Helvetica Lake Consulting",
       "education": "MS Music, University Of Hydera '12",
       "linkedin_url": "https://linkedin.com/in/sashakhadivian"
     },
@@ -1183,6 +1363,8 @@
       "original_title": "Technical Support Engineer",
       "previous_title": "Developer Success Engineer",
       "previous_company": "Stytch",
+      "previous_title_2": "Support Experience Engineer",
+      "previous_company_2": "Plaid",
       "education": "BFA Fine Arts, The University Of Ge '17",
       "linkedin_url": "https://linkedin.com/in/matthew-ruhlin-5b853289"
     },
@@ -1196,6 +1378,8 @@
       "original_title": "Engineer, Ml",
       "previous_title": "Co-Founder, Chief Technology Officer",
       "previous_company": "Alisa By Genova Labs",
+      "previous_title_2": "Distinguished Engineer, Ml",
+      "previous_company_2": "Pinterest",
       "education": "MS CS, Stanford '17",
       "linkedin_url": "https://linkedin.com/in/andrew-zhai-2796ab34"
     },
@@ -1209,6 +1393,8 @@
       "original_title": "Head Of It",
       "previous_title": "Member Of Technical Staff",
       "previous_company": "Xai",
+      "previous_title_2": "Vice President Of It & Enterprise Security",
+      "previous_company_2": "Newfront",
       "education": "Business, Gruppo Euris Spa '13",
       "linkedin_url": "https://linkedin.com/in/danieljmacias"
     },
@@ -1222,6 +1408,8 @@
       "original_title": "Software Engineer",
       "previous_title": "Co-Founder",
       "previous_company": "Patchwork",
+      "previous_title_2": "Chief Technology Officer",
+      "previous_company_2": "Ollie: Ai Photo Assistant",
       "education": "BS CS, University Of Victor '10",
       "linkedin_url": "https://linkedin.com/in/mahyar-mcdonald-91aa78"
     },
@@ -1235,6 +1423,8 @@
       "original_title": "Gtm",
       "previous_title": "Enterprise Account Executive",
       "previous_company": "Stripe",
+      "previous_title_2": "Digital Native Account Executive",
+      "previous_company_2": "Stripe",
       "education": "BS Finance, University Of Connec '16",
       "linkedin_url": "https://linkedin.com/in/joseph-tucci"
     },
@@ -1248,6 +1438,8 @@
       "original_title": "Software Engineer",
       "previous_title": "Software Engineer",
       "previous_company": "Netflix",
+      "previous_title_2": "Software Engineer Intern",
+      "previous_company_2": "Bloomberg",
       "education": "CS, Brooklyn Technical H '21",
       "linkedin_url": "https://linkedin.com/in/albert-slepak-005706176"
     },
@@ -1259,8 +1451,10 @@
       "start_date": "2025-09",
       "title": "Designer",
       "original_title": "Designer",
-      "previous_title": "Designer",
-      "previous_company": "Anysphere",
+      "previous_title": "Staff Product Designer",
+      "previous_company": "Github",
+      "previous_title_2": "Staff Product Designer",
+      "previous_company_2": "Replit",
       "education": "MA Journalism, Syracuse University '13",
       "linkedin_url": "https://linkedin.com/in/mayaqgao"
     },
@@ -1274,6 +1468,8 @@
       "original_title": "Software Engineer",
       "previous_title": "Founding Ml Researcher",
       "previous_company": "Alisa By Genova Labs",
+      "previous_title_2": "Senior Machine Learning Engineer",
+      "previous_company_2": "Pinterest",
       "education": "PhD Philosophy, North Carolina State '22",
       "linkedin_url": "https://linkedin.com/in/chen-haoyu"
     },
@@ -1287,6 +1483,8 @@
       "original_title": "Engineering",
       "previous_title": "Principal Engineer, Algorithms And Platform",
       "previous_company": "Pinecone",
+      "previous_title_2": "Engineering Manager",
+      "previous_company_2": "Pinecone",
       "education": "BS CS, Cornell Engineering '19",
       "linkedin_url": "https://linkedin.com/in/jack-pertschuk-833196114"
     },
@@ -1300,6 +1498,8 @@
       "original_title": "Recruiting Lead",
       "previous_title": "Recruiting Lead",
       "previous_company": "Sierra",
+      "previous_title_2": "Leadership & Executive Recruiting Manager",
+      "previous_company_2": "Stripe",
       "education": "Spanish, University Of Belgra '09",
       "linkedin_url": "https://linkedin.com/in/j-mac"
     }

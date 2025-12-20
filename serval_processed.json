@@ -1,7 +1,7 @@
 {
   "company": "serval",
   "company_display": "Serval",
-  "founded": "2024-01",
+  "founded": "2023-01",
   "employees": [
     {
       "rank": 1,
@@ -13,6 +13,8 @@
       "original_title": "Founder And Chief Executive Officer",
       "previous_title": "Director Of Product",
       "previous_company": "Verkada",
+      "previous_title_2": "Product Lead",
+      "previous_company_2": "Verkada",
       "education": "Summerville High Sch '09",
       "linkedin_url": "https://linkedin.com/in/jakestauch"
     },
@@ -26,6 +28,8 @@
       "original_title": "Founder And Chief Technology Officer",
       "previous_title": "Director Of Engineering, New Product",
       "previous_company": "Verkada",
+      "previous_title_2": "Director Of Engineering, Alarms",
+      "previous_company_2": "Verkada",
       "education": "BA Communications, University Of Melbou '14",
       "linkedin_url": "https://linkedin.com/in/alexmcleodio"
     },
@@ -39,6 +43,8 @@
       "original_title": "Founding Software Engineer",
       "previous_title": "Software Engineer",
       "previous_company": "Meta",
+      "previous_title_2": "Software Engineer",
+      "previous_company_2": "Uber",
       "education": "PhD CS, Georgia Tech '16",
       "linkedin_url": "https://linkedin.com/in/yogesh-mundada-7422521"
     },
@@ -52,6 +58,8 @@
       "original_title": "Founding Engineer",
       "previous_title": "Founding Software Engineer",
       "previous_company": "Console",
+      "previous_title_2": "Software Engineer",
+      "previous_company_2": "Verkada",
       "education": "BS CS, Uc Irvine '22",
       "linkedin_url": "https://linkedin.com/in/kazhishida"
     },
@@ -65,6 +73,8 @@
       "original_title": "Founding Engineer",
       "previous_title": "Software Engineer",
       "previous_company": "Verkada",
+      "previous_title_2": "Software Development Intern",
+      "previous_company_2": "Lucid Motors",
       "education": "BS CS, Uc Irvine '23",
       "linkedin_url": "https://linkedin.com/in/sebastien-degroot"
     },
@@ -78,6 +88,8 @@
       "original_title": "Founding Engineer",
       "previous_title": "Managing Member, Engineering And Operations",
       "previous_company": "Politics Rewired",
+      "previous_title_2": "Tech Director",
+      "previous_company_2": "Progressive Democratic Campaign For U.S House Of Representatives",
       "education": "BS CS, Stanford '16",
       "linkedin_url": "https://linkedin.com/in/derrickliu"
     },
@@ -91,6 +103,8 @@
       "original_title": "Advisor",
       "previous_title": "Head Of Global Business Talent Acquisition",
       "previous_company": "Asana",
+      "previous_title_2": "Head Of Business Talent Acquisition, Amer",
+      "previous_company_2": "Asana",
       "education": "Bishop Connolly High",
       "linkedin_url": "https://linkedin.com/in/meg-k-bell"
     },
@@ -104,6 +118,8 @@
       "original_title": "Founding Engineer",
       "previous_title": "Software Engineer",
       "previous_company": "Verkada",
+      "previous_title_2": "Software Engineer",
+      "previous_company_2": "Snap Inc.",
       "education": "BA CS, Dartmouth College '21",
       "linkedin_url": "https://linkedin.com/in/teddy-wahle"
     },
@@ -117,6 +133,8 @@
       "original_title": "Forward Deployed Engineer",
       "previous_title": "Software Engineer",
       "previous_company": "Stealth",
+      "previous_title_2": "Product Engineer",
+      "previous_company_2": "Verkada",
       "education": "MS, Santa Clara Universi '24",
       "linkedin_url": "https://linkedin.com/in/jack-tone-gaul"
     },
@@ -130,6 +148,8 @@
       "original_title": "Founding Product Designer",
       "previous_title": "Product Design Lead",
       "previous_company": "Olympus",
+      "previous_title_2": "Product Designer",
+      "previous_company_2": "Vendra (Yc S24)",
       "education": "MS Design, Northwestern Univers '24",
       "linkedin_url": "https://linkedin.com/in/sounak-gupta"
     },
@@ -143,6 +163,8 @@
       "original_title": "Accountant",
       "previous_title": "Human Resources Manager",
       "previous_company": "Alphacore Technologies",
+      "previous_title_2": "Human Resources Assistant Manager",
+      "previous_company_2": "Takaful Malaysia",
       "education": "BA Accounting, Middlesex University '97",
       "linkedin_url": "https://linkedin.com/in/ahmad-nazlan-885116107"
     },
@@ -156,6 +178,8 @@
       "original_title": "Chief Operations Officer & Head Of Gtm",
       "previous_title": "Vice President Of Marketing, It",
       "previous_company": "Rippling",
+      "previous_title_2": "Vice President Of Growth",
+      "previous_company_2": "Rippling",
       "education": "Business, Duke University '11",
       "linkedin_url": "https://linkedin.com/in/tbirgisson"
     },
@@ -169,6 +193,8 @@
       "original_title": "Head Of Field Marketing And Customer Experience",
       "previous_title": "Head Of Field Marketing",
       "previous_company": "Rippling",
+      "previous_title_2": "Senior Demand Generation Manager, Field Marketing",
+      "previous_company_2": "Rippling",
       "education": "Nutrition, Cornell",
       "linkedin_url": "https://linkedin.com/in/beckyholmesog"
     },
@@ -182,6 +208,8 @@
       "original_title": "Software Engineer",
       "previous_title": "Senior Software Engineer",
       "previous_company": "Zipline",
+      "previous_title_2": "Software Engineer Ii",
+      "previous_company_2": "Microsoft",
       "education": "Harvard '18",
       "linkedin_url": "https://linkedin.com/in/adriana-g-395490163"
     },
@@ -195,6 +223,8 @@
       "original_title": "Software Engineer",
       "previous_title": "Founding Engineer",
       "previous_company": "Athean",
+      "previous_title_2": "Staff Software Engineer",
+      "previous_company_2": "Verkada",
       "education": "CS, University Of Waterl",
       "linkedin_url": "https://linkedin.com/in/ryan-w-05683420"
     },
@@ -208,6 +238,8 @@
       "original_title": "Head Of Film & Photography",
       "previous_title": "Cinematographer & Photographer",
       "previous_company": "Verkada",
+      "previous_title_2": "Head Of Marketing & Floor Scrubbing",
+      "previous_company_2": "Lula",
       "education": "BBA Business, Portland State Unive '12",
       "linkedin_url": "https://linkedin.com/in/thedavidkeller"
     },
@@ -221,6 +253,8 @@
       "original_title": "Head Of Business Operations",
       "previous_title": "Head Of Engineering Strategy & Operations",
       "previous_company": "Verkada",
+      "previous_title_2": "Managing Consultant",
+      "previous_company_2": "Ibm",
       "education": "MS CS, Georgia Tech '23",
       "linkedin_url": "https://linkedin.com/in/scottccovington"
     },
@@ -234,6 +268,8 @@
       "original_title": "Head Of Growth",
       "previous_title": "Head Of Growth, Paid Social",
       "previous_company": "Rippling",
+      "previous_title_2": "Growth Lead",
+      "previous_company_2": "Rippling",
       "education": "BS CS, MIT '19",
       "linkedin_url": "https://linkedin.com/in/lauren-kroeger"
     },
@@ -247,6 +283,8 @@
       "original_title": "Executive Assistant And Office Manager",
       "previous_title": "Executive Assistant And Office Manager",
       "previous_company": "G2 Venture Partners",
+      "previous_title_2": "Summer Analyst",
+      "previous_company_2": "Detroit Venture Partners",
       "education": "King'S College Londo '23",
       "linkedin_url": "https://linkedin.com/in/michaela-nam"
     },
@@ -260,6 +298,8 @@
       "original_title": "Product Marketing",
       "previous_title": "Senior Gtm Manager",
       "previous_company": "Rippling",
+      "previous_title_2": "Senior Associate Consultant",
+      "previous_company_2": "Bain & Company",
       "education": "Chinese Language, University Of Intern '17",
       "linkedin_url": "https://linkedin.com/in/hannah-lm-wood"
     },
@@ -273,6 +313,8 @@
       "original_title": "Forward Deployed Engineer",
       "previous_title": "Product Manager",
       "previous_company": "Microsoft",
+      "previous_title_2": "Campus Associate",
+      "previous_company_2": "8Vc",
       "education": "West Valley College '19",
       "linkedin_url": "https://linkedin.com/in/dereknzheng"
     },
@@ -286,6 +328,8 @@
       "original_title": "Forward Deployed Engineer",
       "previous_title": "Co-Founder",
       "previous_company": "Paperclip",
+      "previous_title_2": "Founding Engineer",
+      "previous_company_2": "Slingshot",
       "education": "BA CS, Claremont Mckenna Co '21",
       "linkedin_url": "https://linkedin.com/in/spencer-lang"
     }

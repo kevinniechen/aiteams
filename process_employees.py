@@ -253,12 +253,14 @@ def get_company_title(person, linkedin_id, website):
     original = person.get('job_title', 'N/A')
     return normalize_title(original), original
 
-def get_previous_job(person, linkedin_id, website):
-    """Get the title and company immediately before target company"""
+def get_previous_jobs(person, linkedin_id, website, count=2):
+    """Get the previous jobs before target company (returns list of (title, company) tuples)"""
     experiences = person.get('experience', [])
     sorted_exp = sorted(experiences, key=lambda x: parse_date(x.get('start_date')), reverse=True)
     
     found_company = False
+    previous_jobs = []
+    
     for exp in sorted_exp:
         company = exp.get('company', {})
         
@@ -266,16 +268,20 @@ def get_previous_job(person, linkedin_id, website):
             found_company = True
             continue
         
-        if found_company:
+        if found_company and len(previous_jobs) < count:
             title = exp.get('title', {})
             company_name = company.get('name', 'Unknown')
             if isinstance(title, dict):
                 title_name = title.get('name', 'N/A')
             else:
                 title_name = title or 'N/A'
-            return title_name, company_name
+            previous_jobs.append((title_name, company_name))
     
-    return "N/A", "N/A"
+    # Pad with N/A if we don't have enough
+    while len(previous_jobs) < count:
+        previous_jobs.append(("N/A", "N/A"))
+    
+    return previous_jobs
 
 def get_first_job_year(person):
     """Get the year of the first job as a proxy for graduation"""
@@ -554,9 +560,13 @@ def main():
         name = emp.get('full_name', 'Unknown').title()
         title, original_title = get_company_title(emp, linkedin_id, website)
         original_title = original_title.title()
-        prev_title, prev_company = get_previous_job(emp, linkedin_id, website)
-        prev_title = prev_title.title()
-        prev_company = prev_company.title()
+        previous_jobs = get_previous_jobs(emp, linkedin_id, website, count=2)
+        prev_title1, prev_company1 = previous_jobs[0]
+        prev_title2, prev_company2 = previous_jobs[1]
+        prev_title1 = prev_title1.title()
+        prev_company1 = prev_company1.title()
+        prev_title2 = prev_title2.title()
+        prev_company2 = prev_company2.title()
         edu_formatted, _ = get_education_formatted(emp)
         grad_year, grad_estimated = get_bachelors_grad_year(emp)
         yoe = get_yoe(emp, grad_year)
@@ -579,7 +589,8 @@ def main():
         print(f"  Age: {age_str} | YoE: {yoe_str}")
         print(f"  Start Date: {start_str}")
         print(f"  Title: {title} ({original_title})")
-        print(f"  Previous: {prev_title} @ {prev_company}")
+        print(f"  Previous 1: {prev_title1} @ {prev_company1}")
+        print(f"  Previous 2: {prev_title2} @ {prev_company2}")
         print(f"  Education: {edu_str}")
         if linkedin_url:
             print(f"  LinkedIn: {linkedin_url}")
@@ -590,7 +601,8 @@ def main():
         output_lines.append(f"  Grad: {grad_year_str} | YoE: {yoe_str}")
         output_lines.append(f"  Start Date: {start_str}")
         output_lines.append(f"  Title: {title} ({original_title})")
-        output_lines.append(f"  Previous: {prev_title} @ {prev_company}")
+        output_lines.append(f"  Previous 1: {prev_title1} @ {prev_company1}")
+        output_lines.append(f"  Previous 2: {prev_title2} @ {prev_company2}")
         output_lines.append(f"  Education: {edu_str}")
         if linkedin_url:
             output_lines.append(f"  LinkedIn: {linkedin_url}")
@@ -605,8 +617,10 @@ def main():
             "start_date": start_str,
             "title": title,
             "original_title": original_title,
-            "previous_title": prev_title,
-            "previous_company": prev_company,
+            "previous_title": prev_title1,
+            "previous_company": prev_company1,
+            "previous_title_2": prev_title2,
+            "previous_company_2": prev_company2,
             "education": edu_str,
             "linkedin_url": linkedin_url
         })

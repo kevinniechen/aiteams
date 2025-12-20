@@ -7,7 +7,8 @@ Employee #1
   Grad: '17 | YoE: 8
   Start Date: 2022-01
   Title: Co-Founder (Co-Founder)
-  Previous: Deployment Strategist @ Palantir Technologies
+  Previous 1: Deployment Strategist @ Palantir Technologies
+  Previous 2: Risk Analyst @ Blackrock
   Education: MS CS, Imperial College Lon '17
   LinkedIn: https://linkedin.com/in/matiii
 
@@ -16,7 +17,8 @@ Employee #2
   Grad: '16 | YoE: 9
   Start Date: 2022-01
   Title: Co-Founder (Co-Founder)
-  Previous: Software Engineer @ Google
+  Previous 1: Software Engineer @ Google
+  Previous 2: Software Engineer @ Tessian
   Education: MS CS, University Of Cambri '17
   LinkedIn: https://linkedin.com/in/piotr-dabkowski-50222bba
 
@@ -25,7 +27,8 @@ Employee #3
   Grad: '16 | YoE: 9
   Start Date: 2022-06
   Title: Communications (Communications)
-  Previous: Production @ Papaya Films
+  Previous 1: Production @ Papaya Films
+  Previous 2: N/A @ N/A
   Education: MA Philosophy, King'S College Londo '19
   LinkedIn: https://linkedin.com/in/ignaz-kowalczuk-eleven
 
@@ -34,7 +37,8 @@ Employee #4
   Grad: '12 | YoE: 13
   Start Date: 2022-07
   Title: GTM (Gtm)
-  Previous: Venture Partner @ Concept Ventures
+  Previous 1: Venture Partner @ Concept Ventures
+  Previous 2: Vice President Product @ Job&Talent
   Education: BA International Relati, London Metropolitan  '12
   LinkedIn: https://linkedin.com/in/carlesreina
 
@@ -43,7 +47,8 @@ Employee #5
   Grad: '16 | YoE: 9
   Start Date: 2022-09
   Title: Fullstack Engineer (Ai & Full Stack Software Engineer)
-  Previous: Full Stack Ai Developer @ Plego Packaging
+  Previous 1: Full Stack Ai Developer @ Plego Packaging
+  Previous 2: Machine Learning Engineer @ Flatiron Health
   Education: BS CS, The University Of Te '16
   LinkedIn: https://linkedin.com/in/michael-cox-3756a2371
 
@@ -52,7 +57,8 @@ Employee #6
   Grad: '20 | YoE: 5
   Start Date: 2023-03
   Title: Research (Research)
-  Previous: Military Service @ Swiss Armed Forces
+  Previous 1: Military Service @ Swiss Armed Forces
+  Previous 2: Software Engineer @ Paritor Ltd
   Education: MS, Eth Zürich '23
   LinkedIn: https://linkedin.com/in/flavio-schneider-a0032b145
 
@@ -61,7 +67,8 @@ Employee #7
   Grad: '15 | YoE: 10
   Start Date: 2023-03
   Title: Researcher (Artificial Intelligence Researcher)
-  Previous: Artificial Intelligence Engineer @ Fpt.Ai
+  Previous 1: Artificial Intelligence Engineer @ Fpt.Ai
+  Previous 2: Artificial Intelligence Intern @ Instadeep
   Education: MS CS, Texas State Universi '17
   LinkedIn: https://linkedin.com/in/steven-glover-377aa8354
 
@@ -70,7 +77,8 @@ Employee #8
   Grad: '14 | YoE: 11
   Start Date: 2023-05
   Title: Operations (Operations Engineering)
-  Previous: Deployment Strategist @ Palantir Technologies
+  Previous 1: Deployment Strategist @ Palantir Technologies
+  Previous 2: Head Of Sales @ Luxtech Led Modules
   Education: MS Engineering, The University Of No '15
   LinkedIn: https://linkedin.com/in/kchu62
 
@@ -79,7 +87,8 @@ Employee #9
   Grad: '20 | YoE: 5
   Start Date: 2023-06
   Title: Especialista En Pruebas De Acc (Especialista En Pruebas De Accesibilidad)
-  Previous: Probador De Videojuegos @ Lo-Fi People
+  Previous 1: Probador De Videojuegos @ Lo-Fi People
+  Previous 2: Analista De Sistemas @ Subsecretaria De Modernizacion Tecnologica Mgp
   Education: Iset Mar Del Plata '19
   LinkedIn: https://linkedin.com/in/fermín-castañeiras-03b4161b0
 
@@ -88,7 +97,8 @@ Employee #10
   Grad: '16 | YoE: 9
   Start Date: 2023-07
   Title: Fullstack Engineer (Ai Full Stack Engineer)
-  Previous: Ai Full Stack Software Developer @ Brocoders | On-Demand Technical Team
+  Previous 1: Ai Full Stack Software Developer @ Brocoders | On-Demand Technical Team
+  Previous 2: Machine Learning Engineer @ Orbem
   Education: BS, Faculty Of Engineeri '16
   LinkedIn: https://linkedin.com/in/stefan-lang-a66734387
 
@@ -97,7 +107,8 @@ Employee #11
   Grad: '16 | YoE: 9
   Start Date: 2023-08
   Title: Support Specialist (Support Specialist)
-  Previous: Senior Technical Support Specialist @ Kajabi
+  Previous 1: Senior Technical Support Specialist @ Kajabi
+  Previous 2: Web Consultant @ Godaddy
   Education: Engineering, Rizal Technological  '16
   LinkedIn: https://linkedin.com/in/jerimah-helig-77a718295
 
@@ -106,7 +117,8 @@ Employee #12
   Grad: '12 | YoE: 13
   Start Date: 2023-09
   Title: GTM (Founding Gtm)
-  Previous: Sales Emea @ Notion
+  Previous 1: Sales Emea @ Notion
+  Previous 2: Account Executive, Mid Market - Southern Europe + Middle East @ Slack
   Education: Management, Insper Instituto De  '14
   LinkedIn: https://linkedin.com/in/lucasdesi
 
@@ -115,7 +127,8 @@ Employee #13
   Grad: '16 | YoE: 9
   Start Date: 2023-09
   Title: Engineering (Engineering)
-  Previous: Uk Health Lead @ Palantir Technologies
+  Previous 1: Uk Health Lead @ Palantir Technologies
+  Previous 2: Technical Lead @ Palantir Technologies
   Education: CS, University Of Oxford '18
   LinkedIn: https://linkedin.com/in/alexander-holt-ab5382119
 
@@ -124,7 +137,8 @@ Employee #14
   Grad: '09 | YoE: 16
   Start Date: 2023-10
   Title: Partnerships (Partnerships)
-  Previous: Head Of Creator Partnerships And Investments @ Creative Juice
+  Previous 1: Head Of Creator Partnerships And Investments @ Creative Juice
+  Previous 2: Director, Global Content Strategy, Planning, And Analytics (Acquired By Amazon) @ Mgm
   Education: MBA Entrepreneurship, Columbia '16
   LinkedIn: https://linkedin.com/in/dustin-blank
 
@@ -133,7 +147,8 @@ Employee #15
   Grad: '19 | YoE: 6
   Start Date: 2023-10
   Title: GTM (Gtm)
-  Previous: Gtm - Data Engine & Generative Ai @ Scale Ai
+  Previous 1: Gtm - Data Engine & Generative Ai @ Scale Ai
+  Previous 2: Business Development, Strategic Accounts & Gtm @ Scale Ai
   Education: Econ, Hamline University '18
   LinkedIn: https://linkedin.com/in/dalton-pakkala-968416127
 
@@ -142,7 +157,8 @@ Employee #16
   Grad: '16 | YoE: 9
   Start Date: 2023-10
   Title: Finance & Revops (Finance & Revops)
-  Previous: Business Transformation Senior Manager @ Ciech Group
+  Previous 1: Business Transformation Senior Manager @ Ciech Group
+  Previous 2: Capital Allocation Senior Manager @ Ciech Group
   Education: MS, Imperial College Lon '17
   LinkedIn: https://linkedin.com/in/maciej-m
 
@@ -151,7 +167,8 @@ Employee #17
   Grad: '17 | YoE: 8
   Start Date: 2023-11
   Title: Growth (Growth)
-  Previous: Special Projects (Interim) @ Stealth Startup
+  Previous 1: Special Projects (Interim) @ Stealth Startup
+  Previous 2: Head Of Product (Interim) @ Posthog
   Education: Y Combinator '20
   LinkedIn: https://linkedin.com/in/luke-harries
 
@@ -160,7 +177,8 @@ Employee #18
   Grad: '16 | YoE: 9
   Start Date: 2023-12
   Title: GTM (Gtm)
-  Previous: Senior Enterprise Account Executive @ Attain
+  Previous 1: Senior Enterprise Account Executive @ Attain
+  Previous 2: Senior Client Partner, Enterprise @ Oracle
   Education: MBA Finance, Louisiana State Univ '21
   LinkedIn: https://linkedin.com/in/emiliedrishinski
 
@@ -169,6 +187,7 @@ Employee #19
   Grad: '10 | YoE: 15
   Start Date: 2023-12
   Title: Data Engineer (Voices And Data)
-  Previous: Administration @ Bodyworks Physiotherapy & Sports Medicine Clinic
+  Previous 1: Administration @ Bodyworks Physiotherapy & Sports Medicine Clinic
+  Previous 2: Choral Instructor @ Bellingham Public Schools
   Education: Master Of Music Vocal Performance, UW '11
   LinkedIn: https://linkedin.com/in/markseidlca

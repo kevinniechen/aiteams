@@ -1,5 +1,5 @@
 DECAGON - EARLIEST EMPLOYEES
-(Founded: 2023-01)
+(Founded: 2023-04)
 ================================================================================
 
 Employee #1
@@ -7,7 +7,8 @@ Employee #1
   Grad: '17 | YoE: 8
   Start Date: 2023-01
   Title: Co-Founder (Co-Founder)
-  Previous: Co-Founder @ Helia (Acquired By Scale Ai)
+  Previous 1: Co-Founder @ Helia (Acquired By Scale Ai)
+  Previous 2: Deployment Strategist @ Palantir Technologies
   Education: MS CS, Stanford '19
   LinkedIn: https://linkedin.com/in/sreenivasashwin
 
@@ -16,7 +17,8 @@ Employee #2
   Grad: '16 | YoE: 9
   Start Date: 2023-08
   Title: Co-Founder (Chief Executive Officer / Co-Founder)
-  Previous: Chief Executive Officer / Founder @ Lowkey (Acquired By Niantic!)
+  Previous 1: Chief Executive Officer / Founder @ Lowkey (Acquired By Niantic!)
+  Previous 2: Intern @ Citadel
   Education: Math, Fairview High School
   LinkedIn: https://linkedin.com/in/thejessezhang
 
@@ -25,7 +27,8 @@ Employee #3
   Grad: '19 | YoE: 6
   Start Date: 2024-01
   Title: Engineering (Engineering)
-  Previous: Engineering Manager @ Scale Ai
+  Previous 1: Engineering Manager @ Scale Ai
+  Previous 2: Software Engineer @ Scale Ai
   Education: BA CS, UC Berkeley '19
   LinkedIn: https://linkedin.com/in/sang
 
@@ -34,7 +37,8 @@ Employee #4
   Grad: '20 | YoE: 5
   Start Date: 2024-01
   Title: Agents (Agents)
-  Previous: General Manager, Product @ Truework
+  Previous 1: General Manager, Product @ Truework
+  Previous 2: Entrepreneur In Residence @ Afore Capital
   Education: BS Engineering, Columbia '20
   LinkedIn: https://linkedin.com/in/sambhavjain1436789
 
@@ -43,7 +47,8 @@ Employee #5
   Grad: '18 | YoE: 7
   Start Date: 2024-01
   Title: PM (Agent Product Manager)
-  Previous: Software Investor @ Spectrum Equity
+  Previous 1: Software Investor @ Spectrum Equity
+  Previous 2: Trading @ Citadel Securities
   Education: CS, Amador Valley High S
   LinkedIn: https://linkedin.com/in/katherinexiao
 
@@ -52,7 +57,8 @@ Employee #6
   Grad: '17 | YoE: 8
   Start Date: 2024-01
   Title: Sales (Sales)
-  Previous: Worldwide Sales | Data Observability @ Ibm
+  Previous 1: Worldwide Sales | Data Observability @ Ibm
+  Previous 2: Sales @ Databand.Ai
   Education: UPenn '17
   LinkedIn: https://linkedin.com/in/proctorg
 
@@ -61,7 +67,8 @@ Employee #7
   Grad: '24 | YoE: 1
   Start Date: 2024-01
   Title: Engineer (Engineer)
-  Previous: Intern @ Scale Ai
+  Previous 1: Intern @ Scale Ai
+  Previous 2: Intern @ Hudson River Trading
   Education: MS CS, Harvard '24
   LinkedIn: https://linkedin.com/in/chen-cynthia
 
@@ -70,7 +77,8 @@ Employee #8
   Grad: '16 | YoE: 9
   Start Date: 2024-01
   Title: Engineering (Engineering)
-  Previous: Chief Of Staff @ Dorsal Health
+  Previous 1: Chief Of Staff @ Dorsal Health
+  Previous 2: Software Engineer @ Gather
   Education: Harvard '22
   LinkedIn: https://linkedin.com/in/ayjin
 
@@ -79,7 +87,8 @@ Employee #9
   Grad: '17 | YoE: 8
   Start Date: 2024-01
   Title: Product (Product + Gtm)
-  Previous: General Manager, Product @ Truework
+  Previous 1: General Manager, Product @ Truework
+  Previous 2: Entrepreneur In Residence @ Afore Capital
   Education: BS Industrial Engineeri, Columbia
   LinkedIn: https://linkedin.com/in/sambhavjain2799
 
@@ -88,7 +97,8 @@ Employee #10
   Grad: '17 | YoE: 8
   Start Date: 2024-05
   Title: VP (Vice President, Agent Product)
-  Previous: Co-Founder, Chief Executive Officer @ Homeflow
+  Previous 1: Co-Founder, Chief Executive Officer @ Homeflow
+  Previous 2: Growth Initiatives @ Hippo Insurance
   Education: BS Management, MIT '17
   LinkedIn: https://linkedin.com/in/perryha95
 
@@ -97,7 +107,8 @@ Employee #11
   Grad: '22 | YoE: 3
   Start Date: 2024-06
   Title: Engineer (Engineer)
-  Previous: Software Engineer @ Lyft
+  Previous 1: Software Engineer @ Lyft
+  Previous 2: Full Stack Engineer Intern @ Snackpass
   Education: BA Math, UC Berkeley '22
   LinkedIn: https://linkedin.com/in/rohan-d-souza
 
@@ -106,7 +117,8 @@ Employee #12
   Grad: '08 | YoE: 17
   Start Date: 2024-07
   Title: Sales (Sales)
-  Previous: Strategic Accounts @ Mux
+  Previous 1: Strategic Accounts @ Mux
+  Previous 2: Sales Manager, Mid Market (Amer) @ Mux
   Education: Solo Schools '07
   LinkedIn: https://linkedin.com/in/matthewtosi
 
@@ -115,7 +127,8 @@ Employee #13
   Grad: '18 | YoE: 7
   Start Date: 2024-09
   Title: Director (Director, Agent Product)
-  Previous: Business Operations Manager @ Rodeo
+  Previous 1: Business Operations Manager @ Rodeo
+  Previous 2: Strategy & Operations Lead @ Naavik
   Education: BS Business, Washington Universit '18
   LinkedIn: https://linkedin.com/in/maxlowenthal
 
@@ -124,7 +137,8 @@ Employee #14
   Grad: '17 | YoE: 8
   Start Date: 2024-09
   Title: Engineer (Member Of The Technical Staff)
-  Previous: Software Engineer, Product @ Plaid
+  Previous 1: Software Engineer, Product @ Plaid
+  Previous 2: Software Engineer, Platform @ Plaid
   Education: CS, MIT
   LinkedIn: https://linkedin.com/in/andrew-chen-962979122
 
@@ -133,7 +147,8 @@ Employee #15
   Grad: '15 | YoE: 10
   Start Date: 2024-10
   Title: Sales (Sales)
-  Previous: Enterprise Account Executive @ Retool
+  Previous 1: Enterprise Account Executive @ Retool
+  Previous 2: Account Executive @ Retool
   Education: Web Development, General Assembly '15
   LinkedIn: https://linkedin.com/in/noahspringwater
 
@@ -142,7 +157,8 @@ Employee #16
   Grad: '15 | YoE: 10
   Start Date: 2024-10
   Title: Head Of Talent (Head Of Talent)
-  Previous: Talent @ Adept
+  Previous 1: Talent @ Adept
+  Previous 2: Technical Recruiting Manager @ Doordash
   Education: BS Communication, UW '15
   LinkedIn: https://linkedin.com/in/jacobarnall
 
@@ -151,7 +167,8 @@ Employee #17
   Grad: '23 | YoE: 2
   Start Date: 2024-10
   Title: Engineer (Member Of Technical Staff)
-  Previous: Software Engineer Ii @ Stripe
+  Previous 1: Software Engineer Ii @ Stripe
+  Previous 2: Software Engineer @ Stripe
   Education: BS CE, CMU '23
   LinkedIn: https://linkedin.com/in/gramliu
 
@@ -160,7 +177,8 @@ Employee #18
   Grad: '22 | YoE: 3
   Start Date: 2024-10
   Title: Engineer (Member Of Technical Staff)
-  Previous: Gardening Leave @ Headlands Technologies Llc
+  Previous 1: Gardening Leave @ Headlands Technologies Llc
+  Previous 2: Research Developer (Quantitative Researcher) @ Headlands Technologies Llc
   Education: BS CS, UT Austin '22
   LinkedIn: https://linkedin.com/in/virajmaddur
 
@@ -169,7 +187,8 @@ Employee #19
   Grad: '21 | YoE: 4
   Start Date: 2024-10
   Title: Executive Assistant (Executive Assistant)
-  Previous: Rupa University Program Manager @ Rupa Health
+  Previous 1: Rupa University Program Manager @ Rupa Health
+  Previous 2: Executive Assistant To Chief Executive Officer @ Rupa Health
   Education: BBA International Busine, San Francisco State  '21
   LinkedIn: https://linkedin.com/in/alexia-esquivel-443113184
 
@@ -178,7 +197,8 @@ Employee #20
   Grad: '13 | YoE: 12
   Start Date: 2024-12
   Title: Sales (Sales)
-  Previous: Co-Founder And Head Of Gtm @ Canvas
+  Previous 1: Co-Founder And Head Of Gtm @ Canvas
+  Previous 2: Product Manager @ Flexport
   Education: BS Advertising, University Of Oregon '13
   LinkedIn: https://linkedin.com/in/ryanjbuick
 
@@ -187,7 +207,8 @@ Employee #21
   Grad: '16 | YoE: 9
   Start Date: 2024-12
   Title: Sales (Sales Development Representative)
-  Previous: Sales Development Representative @ Tropic
+  Previous 1: Sales Development Representative @ Tropic
+  Previous 2: Founding Business Development Representative @ Courier
   Education: BS Kinesiology, California State Uni '16
   LinkedIn: https://linkedin.com/in/joseph-grinstain-4787285a
 
@@ -196,7 +217,8 @@ Employee #22
   Grad: '20 | YoE: 5
   Start Date: 2024-12
   Title: GTM (Enterprise Gtm Lead)
-  Previous: Sales Lead @ Userclouds
+  Previous 1: Sales Lead @ Userclouds
+  Previous 2: Senior Account Executive @ Productiv
   Education: BS EE, Santa Clara Universi '20
   LinkedIn: https://linkedin.com/in/cymir
 
@@ -205,7 +227,8 @@ Employee #23
   Grad: '17 | YoE: 8
   Start Date: 2024-12
   Title: Engineer (Member Of Technical Staff)
-  Previous: Software Engineer - Conversation Product @ Moveworks
+  Previous 1: Software Engineer - Conversation Product @ Moveworks
+  Previous 2: Senior Software Engineer @ Roblox
   Education: BA CS, UC Berkeley '17
   LinkedIn: https://linkedin.com/in/christopherchen95
 
@@ -214,6 +237,7 @@ Employee #24
   Grad: '24 | YoE: 1
   Start Date: 2024-12
   Title: Engineer (Member Of Technical Staff)
-  Previous: Software Engineer Intern @ Scale Ai
+  Previous 1: Software Engineer Intern @ Scale Ai
+  Previous 2: Cs 61B Head Ta @ Uc Berkeley Electrical Engineering & Computer Sciences (Eecs)
   Education: BS, UC Berkeley '24
   LinkedIn: https://linkedin.com/in/allengu01

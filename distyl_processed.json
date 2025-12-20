@@ -1,7 +1,7 @@
 {
   "company": "distyl",
   "company_display": "Distyl",
-  "founded": "2022-01",
+  "founded": "2023-09",
   "employees": [
     {
       "rank": 1,
@@ -13,6 +13,8 @@
       "original_title": "Co-Founder, Chief Executive Officer",
       "previous_title": "Head Of Solutions",
       "previous_company": "Snorkel Ai",
+      "previous_title_2": "Executive",
+      "previous_company_2": "Palantir Technologies",
       "education": "BS CE, Cornell '10",
       "linkedin_url": "https://linkedin.com/in/arjunsprakash"
     },
@@ -26,76 +28,13 @@
       "original_title": "Co-Founder, Chief Operations Officer",
       "previous_title": "Business Development",
       "previous_company": "Palantir Technologies",
+      "previous_title_2": "Fixed Income Trader",
+      "previous_company_2": "Citadel",
       "education": "BS Accounting, The Wharton School '09",
       "linkedin_url": "https://linkedin.com/in/derek-ho-b760a16"
     },
     {
       "rank": 3,
-      "name": "Jenn Gamble",
-      "grad_year": "'06",
-      "yoe": "19",
-      "start_date": "2023-01",
-      "title": "Data Engineer",
-      "original_title": "Founding Head Of Data Science",
-      "previous_title": "Head Of Data Science",
-      "previous_company": "Stealth Startup",
-      "education": "PhD EE, North Carolina State '15",
-      "linkedin_url": "https://linkedin.com/in/jenn-gamble"
-    },
-    {
-      "rank": 4,
-      "name": "Karime Maamari",
-      "grad_year": "'18",
-      "yoe": "7",
-      "start_date": "2023-01",
-      "title": "Head Of Research",
-      "original_title": "Head Of Research",
-      "previous_title": "Simulation Engineer",
-      "previous_company": "Nasa Langley Research Center",
-      "education": "Physics, USC",
-      "linkedin_url": "https://linkedin.com/in/karime-maamari"
-    },
-    {
-      "rank": 5,
-      "name": "Gillian Jarvis",
-      "grad_year": "'12",
-      "yoe": "13",
-      "start_date": "2023-01",
-      "title": "Head Of Brand",
-      "original_title": "Head Of Brand",
-      "previous_title": "Design Advisor",
-      "previous_company": "Zero Prime Ventures",
-      "education": "Advertising, Humber College",
-      "linkedin_url": "https://linkedin.com/in/gillianjarvis"
-    },
-    {
-      "rank": 6,
-      "name": "David Lisuk",
-      "grad_year": "'10",
-      "yoe": "15",
-      "start_date": "2023-05",
-      "title": "Director",
-      "original_title": "Director Of Engineering",
-      "previous_title": "Head Of Ai / Ml Engineering",
-      "previous_company": "Palantir Technologies",
-      "education": "MS CS, Uc San Diego '14",
-      "linkedin_url": "https://linkedin.com/in/dlisuk"
-    },
-    {
-      "rank": 7,
-      "name": "Jessica Hamel",
-      "grad_year": "'05",
-      "yoe": "20",
-      "start_date": "2023-07",
-      "title": "Engineer",
-      "original_title": "Software Engineer",
-      "previous_title": "Consulting Software Engineer",
-      "previous_company": "Various Companies",
-      "education": "MS Journalism, UC Berkeley '14",
-      "linkedin_url": "https://linkedin.com/in/jessihamel"
-    },
-    {
-      "rank": 8,
       "name": "Yonas Tesfaye",
       "grad_year": "'07",
       "yoe": "18",
@@ -104,11 +43,13 @@
       "original_title": "Engineering",
       "previous_title": "Partner, Data Science Lead",
       "previous_company": "Point72 Hyperscale",
+      "previous_title_2": "Software Engineering Manager",
+      "previous_company_2": "Apple",
       "education": "MS Aerospace Engineerin, Stanford '09",
       "linkedin_url": "https://linkedin.com/in/yonas-tesfaye"
     },
     {
-      "rank": 9,
+      "rank": 4,
       "name": "Alex Tran",
       "grad_year": "'18",
       "yoe": "7",
@@ -117,11 +58,13 @@
       "original_title": "Senior Software Engineer",
       "previous_title": "Founding Engineer",
       "previous_company": "Swsh",
+      "previous_title_2": "Web Developer",
+      "previous_company_2": "Lyft",
       "education": "BS CS, University Of Colora '18",
       "linkedin_url": "https://linkedin.com/in/alex1n"
     },
     {
-      "rank": 10,
+      "rank": 5,
       "name": "Patrick Kolencherry",
       "grad_year": "'12",
       "yoe": "13",
@@ -130,11 +73,13 @@
       "original_title": "Ai Strategist",
       "previous_title": "Product (Latitud Finance, Camu)",
       "previous_company": "Latitud",
+      "previous_title_2": "Platform Marketing",
+      "previous_company_2": "Snorkel Ai",
       "education": "Math, University Of Warwic",
       "linkedin_url": "https://linkedin.com/in/kolencherryp"
     },
     {
-      "rank": 11,
+      "rank": 6,
       "name": "Connor Landy",
       "grad_year": "'13",
       "yoe": "12",
@@ -143,11 +88,13 @@
       "original_title": "Product",
       "previous_title": "Product Data Science",
       "previous_company": "Airtable",
+      "previous_title_2": "Commercial Lead And Data Science",
+      "previous_company_2": "Palantir Technologies",
       "education": "Chinese Language, National Taiwan Univ '14",
       "linkedin_url": "https://linkedin.com/in/connorlandy"
     },
     {
-      "rank": 12,
+      "rank": 7,
       "name": "Will Morley",
       "grad_year": "'23",
       "yoe": "2",
@@ -156,11 +103,13 @@
       "original_title": "Engineering",
       "previous_title": "Software Engineer, Machine Learning",
       "previous_company": "Arcus",
+      "previous_title_2": "Machine Learning Engineer",
+      "previous_company_2": "Curv Ai",
       "education": "Bachelor Of Applied  CE, University Of Toront '23",
       "linkedin_url": "https://linkedin.com/in/will-morley"
     },
     {
-      "rank": 13,
+      "rank": 8,
       "name": "Daniel Jaroslawicz",
       "grad_year": "'19",
       "yoe": "6",
@@ -169,11 +118,13 @@
       "original_title": "Ai Research Engineer",
       "previous_title": "Advanced Ai Scientist",
       "previous_company": "Benevolentai",
+      "previous_title_2": "Ai Scientist",
+      "previous_company_2": "Benevolentai",
       "education": "MS CS, Columbia '20",
       "linkedin_url": "https://linkedin.com/in/djaroslawicz"
     },
     {
-      "rank": 14,
+      "rank": 9,
       "name": "David Roth",
       "grad_year": "'18",
       "yoe": "7",
@@ -182,11 +133,13 @@
       "original_title": "Ai Engineer",
       "previous_title": "Research Fellow",
       "previous_company": "Zillow",
+      "previous_title_2": "Data Science / Machine Learning Engineering Intern",
+      "previous_company_2": "Spotify",
       "education": "MS Data Science, Nyu Center For Data  '23",
       "linkedin_url": "https://linkedin.com/in/david-s-roth"
     },
     {
-      "rank": 15,
+      "rank": 10,
       "name": "Edward Chew",
       "grad_year": "'23",
       "yoe": "2",
@@ -195,11 +148,13 @@
       "original_title": "Frontend Engineer",
       "previous_title": "Co-Founder, President",
       "previous_company": "Codelab",
+      "previous_title_2": "Software Engineer Intern",
+      "previous_company_2": "Ibm",
       "education": "BS CS, University Of Califo '23",
       "linkedin_url": "https://linkedin.com/in/edwardchew8"
     },
     {
-      "rank": 16,
+      "rank": 11,
       "name": "Eng Marie-Philippe Gill",
       "grad_year": "'18",
       "yoe": "7",
@@ -208,11 +163,13 @@
       "original_title": "Ai Engineer",
       "previous_title": "Nlp Research Developer",
       "previous_company": "Croesus",
+      "previous_title_2": "Visiting Graduate Student",
+      "previous_company_2": "Johns Hopkins Whiting School Of Engineering",
       "education": "MS Engineering, \u00c9cole De Technologie '21",
       "linkedin_url": "https://linkedin.com/in/mariephilippegill"
     },
     {
-      "rank": 17,
+      "rank": 12,
       "name": "Jake Wallin",
       "grad_year": "'21",
       "yoe": "4",
@@ -221,11 +178,13 @@
       "original_title": "Ai Engineer",
       "previous_title": "Software Engineer",
       "previous_company": "Arista Networks",
+      "previous_title_2": "Software Engineer Intern",
+      "previous_company_2": "Arista Networks",
       "education": "MS CS, Ucla '22",
       "linkedin_url": "https://linkedin.com/in/jake-wallin-716255179"
     },
     {
-      "rank": 18,
+      "rank": 13,
       "name": "Deep Patel",
       "grad_year": "'15",
       "yoe": "10",
@@ -234,11 +193,13 @@
       "original_title": "Applied Ai Researcher",
       "previous_title": "Senior Software Engineer",
       "previous_company": "Gitstart",
+      "previous_title_2": "Software Engineer",
+      "previous_company_2": "Oscar Health",
       "education": "The Hong Kong Univer '14",
       "linkedin_url": "https://linkedin.com/in/patel-deep"
     },
     {
-      "rank": 19,
+      "rank": 14,
       "name": "Tony Yates",
       "grad_year": "'96",
       "yoe": "29",
@@ -247,11 +208,13 @@
       "original_title": "Founding Product Designer",
       "previous_title": "Solopreneur",
       "previous_company": "Studio Y",
+      "previous_title_2": "N/A",
+      "previous_company_2": "N/A",
       "education": "Architecture, UW '13",
       "linkedin_url": "https://linkedin.com/in/tonyatmononymous"
     },
     {
-      "rank": 20,
+      "rank": 15,
       "name": "Emily Broadhurst",
       "grad_year": "'23",
       "yoe": "2",
@@ -260,11 +223,13 @@
       "original_title": "Ai Engineer",
       "previous_title": "Research Science Instructor",
       "previous_company": "Inspirit Ai",
+      "previous_title_2": "Software Engineer",
+      "previous_company_2": "Joby Aviation",
       "education": "MS CS, Stanford '24",
       "linkedin_url": "https://linkedin.com/in/emily-broadhurst-85b425157"
     },
     {
-      "rank": 21,
+      "rank": 16,
       "name": "Joseph Edell",
       "grad_year": "'21",
       "yoe": "4",
@@ -273,11 +238,13 @@
       "original_title": "Tech Lead",
       "previous_title": "Analyst",
       "previous_company": "Goldman Sachs",
+      "previous_title_2": "Software Engineer",
+      "previous_company_2": "Brewsy",
       "education": "MS CS, NYU '23",
       "linkedin_url": "https://linkedin.com/in/joseph-edell-63b267139"
     },
     {
-      "rank": 22,
+      "rank": 17,
       "name": "Tessa Jones",
       "grad_year": "'17",
       "yoe": "8",
@@ -286,11 +253,13 @@
       "original_title": "Platform Engineer",
       "previous_title": "Senior Software Engineer",
       "previous_company": "Maza",
+      "previous_title_2": "Senior Software Engineer",
+      "previous_company_2": "Carbon Health",
       "education": "The University Of Ed '15",
       "linkedin_url": "https://linkedin.com/in/tessakjones"
     },
     {
-      "rank": 23,
+      "rank": 18,
       "name": "Brian Coyle",
       "grad_year": "'99",
       "yoe": "26",
@@ -299,11 +268,13 @@
       "original_title": "Ai Strategist",
       "previous_title": "Head Of Post Sales Services Strategy And Programs",
       "previous_company": "Twilio",
+      "previous_title_2": "Product Manager At United States Digital Service",
+      "previous_company_2": "U.S. Doge Service",
       "education": "BS Computer Information, Manhattan University '99",
       "linkedin_url": "https://linkedin.com/in/bccoyle"
     },
     {
-      "rank": 24,
+      "rank": 19,
       "name": "Omar Bekdash",
       "grad_year": "'22",
       "yoe": "3",
@@ -312,11 +283,13 @@
       "original_title": "Ai Strategist (Technical Project / Product Manager)",
       "previous_title": "Data Science Consulting Analyst In Marketing And Sales",
       "previous_company": "Mckinsey & Company",
+      "previous_title_2": "Data Science Intern",
+      "previous_company_2": "Paypal",
       "education": "BS CS, Cornell '22",
       "linkedin_url": "https://linkedin.com/in/omar-ryan-bekdash"
     },
     {
-      "rank": 25,
+      "rank": 20,
       "name": "Michelle Wetzler",
       "grad_year": "'05",
       "yoe": "20",
@@ -325,11 +298,13 @@
       "original_title": "Head Of Program Management",
       "previous_title": "Senior Director, Head Of Global Professional Services (Flex)",
       "previous_company": "Twilio",
+      "previous_title_2": "Chief Data Scientist",
+      "previous_company_2": "Keen",
       "education": "Business, UIUC '06",
       "linkedin_url": "https://linkedin.com/in/michellewetzler"
     },
     {
-      "rank": 26,
+      "rank": 21,
       "name": "Aryeh Klein",
       "grad_year": "'20",
       "yoe": "5",
@@ -338,11 +313,13 @@
       "original_title": "Ai Engineer",
       "previous_title": "Software Development Engineer Iii",
       "previous_company": "Amazon Web Services (Aws)",
+      "previous_title_2": "Software Development Engineer Ii",
+      "previous_company_2": "Amazon Web Services (Aws)",
       "education": "BA CS, Yeshiva University '20",
       "linkedin_url": "https://linkedin.com/in/aryeh-klein-670527150"
     },
     {
-      "rank": 27,
+      "rank": 22,
       "name": "Jerrell Taylor",
       "grad_year": "'12",
       "yoe": "13",
@@ -351,11 +328,13 @@
       "original_title": "Ai Strategist",
       "previous_title": "Co-Founder - Product & Ai Lead",
       "previous_company": "Centauru Ai",
+      "previous_title_2": "Senior Product Manager",
+      "previous_company_2": "Toptal",
       "education": "BA Creative Writing, University Of North  '12",
       "linkedin_url": "https://linkedin.com/in/jerrell-taylor-5b070841"
     },
     {
-      "rank": 28,
+      "rank": 23,
       "name": "Aisha Quaintance",
       "grad_year": "'05",
       "yoe": "20",
@@ -364,11 +343,13 @@
       "original_title": "Principal Advisor & Head Of Partnerships, Strategy & Growth",
       "previous_title": "Advisory Board Member For Data Leadership Collaborative",
       "previous_company": "Salesforce",
+      "previous_title_2": "Advisor (Previous Vice President Strategic Development)",
+      "previous_company_2": "Relationalai",
       "education": "Georgia State Univer",
       "linkedin_url": "https://linkedin.com/in/aishaquaintance"
     },
     {
-      "rank": 29,
+      "rank": 24,
       "name": "Kwadwo Nyarko",
       "grad_year": "'12",
       "yoe": "13",
@@ -377,11 +358,13 @@
       "original_title": "Ai Engineer",
       "previous_title": "Co-Founder",
       "previous_company": "Nophin (Yc W22)",
+      "previous_title_2": "Co-Founder & Chief Technology Officer",
+      "previous_company_2": "Sourcediv",
       "education": "MEng CS, Cornell Tech '14",
       "linkedin_url": "https://linkedin.com/in/kwadwo-nyarko"
     },
     {
-      "rank": 30,
+      "rank": 25,
       "name": "Ravi Bhandia",
       "grad_year": "'18",
       "yoe": "7",
@@ -390,11 +373,13 @@
       "original_title": "Ai Strategist",
       "previous_title": "Product Manager - Generative Ai (Acquired Through Armorblox)",
       "previous_company": "Cisco",
+      "previous_title_2": "Mentee",
+      "previous_company_2": "First Round Fast Track",
       "education": "MS Data Science, UC Berkeley '20",
       "linkedin_url": "https://linkedin.com/in/ravibhandia"
     },
     {
-      "rank": 31,
+      "rank": 26,
       "name": "Brendan Whiting",
       "grad_year": "'14",
       "yoe": "11",
@@ -403,11 +388,13 @@
       "original_title": "Ai Engineer",
       "previous_title": "Engineer",
       "previous_company": "Arena",
+      "previous_title_2": "Front End Engineer Ii",
+      "previous_company_2": "Amazon Web Services (Aws)",
       "education": "Software Engineering, General Assembly '18",
       "linkedin_url": "https://linkedin.com/in/brendan-whiting"
     },
     {
-      "rank": 32,
+      "rank": 27,
       "name": "Eric Yu",
       "grad_year": "'15",
       "yoe": "10",
@@ -416,11 +403,13 @@
       "original_title": "Ai Engineer",
       "previous_title": "Research",
       "previous_company": "Morph Labs",
+      "previous_title_2": "Senior Software Engineer, Research",
+      "previous_company_2": "Snorkel Ai",
       "education": "BS Bioengineering, UC Berkeley '15",
       "linkedin_url": "https://linkedin.com/in/eric-yu-63606831"
     },
     {
-      "rank": 33,
+      "rank": 28,
       "name": "Ozden Onder",
       "grad_year": "'04",
       "yoe": "21",
@@ -429,11 +418,13 @@
       "original_title": "Fractional People & Talent Leader",
       "previous_title": "People Strategy Consultant",
       "previous_company": "Alpeniq",
+      "previous_title_2": "Strategic Advisor",
+      "previous_company_2": "Advolve.Ai",
       "education": "MA Econ, San Francisco State  '07",
       "linkedin_url": "https://linkedin.com/in/oonder"
     },
     {
-      "rank": 34,
+      "rank": 29,
       "name": "Yosser D'Avanzo",
       "grad_year": "'18",
       "yoe": "7",
@@ -442,11 +433,13 @@
       "original_title": "Ai Engineer",
       "previous_title": "Senior Software Engineer",
       "previous_company": "Scale Ai",
+      "previous_title_2": "Senior Software Development Engineer",
+      "previous_company_2": "Cruise",
       "education": "BS ME, CMU '18",
       "linkedin_url": "https://linkedin.com/in/yosser-d-avanzo-895768115"
     },
     {
-      "rank": 35,
+      "rank": 30,
       "name": "Pranav Menon",
       "grad_year": "'16",
       "yoe": "9",
@@ -455,11 +448,13 @@
       "original_title": "Ai Engineer",
       "previous_title": "Senior Data Scientist / Mle (Tech Lead)",
       "previous_company": "C3 Ai",
+      "previous_title_2": "Machine Learning Engineer (Computer Vision)",
+      "previous_company_2": "Grabango",
       "education": "CS, Udacity '19",
       "linkedin_url": "https://linkedin.com/in/psmenon"
     },
     {
-      "rank": 36,
+      "rank": 31,
       "name": "Rob Schwartz",
       "grad_year": "'21",
       "yoe": "4",
@@ -468,11 +463,13 @@
       "original_title": "Ai Strategist",
       "previous_title": "Product Manager",
       "previous_company": "Nfx",
+      "previous_title_2": "Analyst",
+      "previous_company_2": "Nfx",
       "education": "BA Math, UC Berkeley '21",
       "linkedin_url": "https://linkedin.com/in/r-schwartz"
     },
     {
-      "rank": 37,
+      "rank": 32,
       "name": "Vijay Candade",
       "grad_year": "'08",
       "yoe": "17",
@@ -481,11 +478,13 @@
       "original_title": "Strategy & Growth",
       "previous_title": "Head Of Marketplace",
       "previous_company": "Scale Ai",
+      "previous_title_2": "Strategy",
+      "previous_company_2": "Hp",
       "education": "MBA, Columbia '16",
       "linkedin_url": "https://linkedin.com/in/vijay-candade"
     },
     {
-      "rank": 38,
+      "rank": 33,
       "name": "Alba Rodriguez",
       "grad_year": "'12",
       "yoe": "13",
@@ -494,11 +493,13 @@
       "original_title": "Strategy & Growth | Agentic Ai",
       "previous_title": "Strategy, And Central Pmo",
       "previous_company": "Kkr",
+      "previous_title_2": "Chief Of Staff (Former Operations, Corporate Development)",
+      "previous_company_2": "Careem",
       "education": "MBA, Stanford '24",
       "linkedin_url": "https://linkedin.com/in/alba-rubio-rodriguez-4a791365"
     },
     {
-      "rank": 39,
+      "rank": 34,
       "name": "Vitoria Lima",
       "grad_year": "'20",
       "yoe": "5",
@@ -507,11 +508,13 @@
       "original_title": "Ai Deployment Strategist",
       "previous_title": "Machine Learning Engineer",
       "previous_company": "Weights & Biases",
+      "previous_title_2": "Data Science Teaching Fellow",
+      "previous_company_2": "Harvard University",
       "education": "MIT '22",
       "linkedin_url": "https://linkedin.com/in/thevitorialima"
     },
     {
-      "rank": 40,
+      "rank": 35,
       "name": "Jiahao Dong",
       "grad_year": "'21",
       "yoe": "4",
@@ -520,11 +523,13 @@
       "original_title": "Ai Engineer",
       "previous_title": "Software Engineer",
       "previous_company": "Eyenuk, Inc.",
+      "previous_title_2": "Machine Learning Researcher",
+      "previous_company_2": "Cornell Tech",
       "education": "MS, Cornell Tech '23",
       "linkedin_url": "https://linkedin.com/in/jiahaodong"
     },
     {
-      "rank": 41,
+      "rank": 36,
       "name": "Gautham R",
       "grad_year": "'25",
       "yoe": "?",
@@ -533,11 +538,13 @@
       "original_title": "Ai Strategist",
       "previous_title": "N/A",
       "previous_company": "N/A",
+      "previous_title_2": "N/A",
+      "previous_company_2": "N/A",
       "education": "Monta Vista High Sch",
       "linkedin_url": "https://linkedin.com/in/gurugautham"
     },
     {
-      "rank": 42,
+      "rank": 37,
       "name": "Wilbur W",
       "grad_year": "'22",
       "yoe": "3",
@@ -546,11 +553,13 @@
       "original_title": "Ai Strategist",
       "previous_title": "Senior Business Analyst",
       "previous_company": "Mckinsey & Company",
+      "previous_title_2": "N/A",
+      "previous_company_2": "N/A",
       "education": "MEng Financial Engineerin, Princeton",
       "linkedin_url": "https://linkedin.com/in/wilbur-w-6a5b33144"
     },
     {
-      "rank": 43,
+      "rank": 38,
       "name": "Erica Lee",
       "grad_year": "'15",
       "yoe": "10",
@@ -559,11 +568,13 @@
       "original_title": "People & Talent Analyst",
       "previous_title": "Senior People Operations Manager",
       "previous_company": "Daybreak",
+      "previous_title_2": "People Operations Manager",
+      "previous_company_2": "Daybreak",
       "education": "MBA, University Of San Fr '19",
       "linkedin_url": "https://linkedin.com/in/ericaglee"
     },
     {
-      "rank": 44,
+      "rank": 39,
       "name": "Jessie Ko",
       "grad_year": "'21",
       "yoe": "4",
@@ -572,11 +583,13 @@
       "original_title": "Operations Analyst",
       "previous_title": "Global Benefits Operations Analyst",
       "previous_company": "Uber",
+      "previous_title_2": "People Operations Coordinator",
+      "previous_company_2": "Clari",
       "education": "BS Business, University Of San Fr '21",
       "linkedin_url": "https://linkedin.com/in/jessie-ko"
     },
     {
-      "rank": 45,
+      "rank": 40,
       "name": "William Minnis",
       "grad_year": "'23",
       "yoe": "2",
@@ -585,11 +598,13 @@
       "original_title": "Software Engineer",
       "previous_title": "Software Engineer",
       "previous_company": "Goldman Sachs",
+      "previous_title_2": "Head Of Protocol Governance",
+      "previous_company_2": "Blockchain At Berkeley",
       "education": "BS CS, UC Berkeley '23",
       "linkedin_url": "https://linkedin.com/in/willminnis"
     },
     {
-      "rank": 46,
+      "rank": 41,
       "name": "Vashisht Anand",
       "grad_year": "'14",
       "yoe": "11",
@@ -598,11 +613,13 @@
       "original_title": "Ai Strategist",
       "previous_title": "Product And Strategy (Founding Team)",
       "previous_company": "Sequio.Ai",
+      "previous_title_2": "Product Manager",
+      "previous_company_2": "Anthill Ventures",
       "education": "MS Engineering, San Jos\u00e9 State Unive '24",
       "linkedin_url": "https://linkedin.com/in/vga5"
     },
     {
-      "rank": 47,
+      "rank": 42,
       "name": "Yenchia Feng",
       "grad_year": "'18",
       "yoe": "7",
@@ -611,11 +628,13 @@
       "original_title": "Applied Ai Researcher",
       "previous_title": "Data Scientist & Research Lead",
       "previous_company": "Studycat",
+      "previous_title_2": "Data Science Intern",
+      "previous_company_2": "Studycat",
       "education": "PhD, Stanford '23",
       "linkedin_url": "https://linkedin.com/in/yenchia-feng"
     },
     {
-      "rank": 48,
+      "rank": 43,
       "name": "Rahul Singhal",
       "grad_year": "'24",
       "yoe": "1",
@@ -624,11 +643,28 @@
       "original_title": "Researcher",
       "previous_title": "Software Engineer Intern",
       "previous_company": "Liveramp",
+      "previous_title_2": "Research Engineer Intern",
+      "previous_company_2": "Cornell Recursion And Learning Lab",
       "education": "MEng CS, Cornell '24",
       "linkedin_url": "https://linkedin.com/in/rahul3402"
     },
     {
-      "rank": 49,
+      "rank": 44,
+      "name": "Gillian Jarvis",
+      "grad_year": "'12",
+      "yoe": "13",
+      "start_date": "2025-04",
+      "title": "Head Of Brand",
+      "original_title": "Head Of Brand",
+      "previous_title": "Design Advisor",
+      "previous_company": "Zero Prime Ventures",
+      "previous_title_2": "Design Director",
+      "previous_company_2": "Twist Bioscience",
+      "education": "Advertising, Humber College",
+      "linkedin_url": "https://linkedin.com/in/gillianjarvis"
+    },
+    {
+      "rank": 45,
       "name": "David Mcnerney",
       "grad_year": "'98",
       "yoe": "27",
@@ -637,11 +673,13 @@
       "original_title": "Platform Engineer",
       "previous_title": "Head Of Engineering",
       "previous_company": "Branch Care",
+      "previous_title_2": "Tech Lead / Manager",
+      "previous_company_2": "Flatiron Health",
       "education": "BA Chemistry, University Of Califo",
       "linkedin_url": "https://linkedin.com/in/david-mcnerney-08178168"
     },
     {
-      "rank": 50,
+      "rank": 46,
       "name": "Bryan Rivera",
       "grad_year": "'19",
       "yoe": "6",
@@ -650,11 +688,13 @@
       "original_title": "Senior Software Engineer",
       "previous_title": "Senior Software Engineer",
       "previous_company": "Coursera",
+      "previous_title_2": "Software Engineering Intern",
+      "previous_company_2": "Coursera",
       "education": "BS CS, University Of Florid '19",
       "linkedin_url": "https://linkedin.com/in/riverab"
     },
     {
-      "rank": 51,
+      "rank": 47,
       "name": "Nitesh Nagpal",
       "grad_year": "'20",
       "yoe": "5",
@@ -663,11 +703,13 @@
       "original_title": "Ai Strategist",
       "previous_title": "Data & Ai Consultant",
       "previous_company": "Guidehouse",
+      "previous_title_2": "Advanced Solutions Intern - Business And It Strategy",
+      "previous_company_2": "Guidehouse",
       "education": "UC Berkeley '23",
       "linkedin_url": "https://linkedin.com/in/nitesh-nagpal"
     },
     {
-      "rank": 52,
+      "rank": 48,
       "name": "Smarth Gupta",
       "grad_year": "'20",
       "yoe": "5",
@@ -676,11 +718,13 @@
       "original_title": "Ai Engineer",
       "previous_title": "Data Scientist | Founding Team",
       "previous_company": "Spiny.Ai",
+      "previous_title_2": "Member Of Technical Staff",
+      "previous_company_2": "Eightfold",
       "education": "MS Data Science, Columbia '22",
       "linkedin_url": "https://linkedin.com/in/smarth-gupta"
     },
     {
-      "rank": 53,
+      "rank": 49,
       "name": "Aria Eghbali",
       "grad_year": "'24",
       "yoe": "1",
@@ -689,11 +733,13 @@
       "original_title": "Ai Strategist",
       "previous_title": "Analyst",
       "previous_company": "Morgan Stanley",
+      "previous_title_2": "Graduate Teaching Assistant",
+      "previous_company_2": "University Of Pennsylvania Engineering",
       "education": "MS CS, UPenn '24",
       "linkedin_url": "https://linkedin.com/in/aria-eghbali"
     },
     {
-      "rank": 54,
+      "rank": 50,
       "name": "Vedant Sahai",
       "grad_year": "'21",
       "yoe": "4",
@@ -702,11 +748,13 @@
       "original_title": "Ai Engineer",
       "previous_title": "Machine Learning Engineer",
       "previous_company": "Julep Ai",
+      "previous_title_2": "Teaching Assistant",
+      "previous_company_2": "Penn State University",
       "education": "MS CS, Penn State Universit '24",
       "linkedin_url": "https://linkedin.com/in/vedantsahai18"
     },
     {
-      "rank": 55,
+      "rank": 51,
       "name": "Rachel O",
       "grad_year": "'22",
       "yoe": "3",
@@ -715,11 +763,13 @@
       "original_title": "Frontend Engineer",
       "previous_title": "Software Engineer",
       "previous_company": "Alteryx",
+      "previous_title_2": "Research Intern (Explorecsr)",
+      "previous_company_2": "Brown University",
       "education": "BS CS, Nyu Tandon School Of '22",
       "linkedin_url": "https://linkedin.com/in/rachelombok"
     },
     {
-      "rank": 56,
+      "rank": 52,
       "name": "Kulbir Singh",
       "grad_year": "'25",
       "yoe": "?",
@@ -728,11 +778,13 @@
       "original_title": "Ai Strategist (Fwd Deployed Engineer)",
       "previous_title": "Seattle Chapter Lead",
       "previous_company": "The Ai Collective",
+      "previous_title_2": "Research",
+      "previous_company_2": "University Of Washington",
       "education": "BS Design, UW '25",
       "linkedin_url": "https://linkedin.com/in/kulbir123"
     },
     {
-      "rank": 57,
+      "rank": 53,
       "name": "Andre Chen",
       "grad_year": "'18",
       "yoe": "7",
@@ -741,11 +793,13 @@
       "original_title": "Ai Engineer",
       "previous_title": "Senior Data Scientist, Generative Ai",
       "previous_company": "Accenture Federal Services",
+      "previous_title_2": "Data Scientist, Generative Ai",
+      "previous_company_2": "Accenture Federal Services",
       "education": "MS Data Science, NYU '23",
       "linkedin_url": "https://linkedin.com/in/andre-chen1"
     },
     {
-      "rank": 58,
+      "rank": 54,
       "name": "Heather Katz",
       "grad_year": "'06",
       "yoe": "19",
@@ -754,11 +808,13 @@
       "original_title": "Enterprise Ai Delivery Manager",
       "previous_title": "Head Of Document Platforms",
       "previous_company": "Geico",
+      "previous_title_2": "Assistant Vice President | Underwriting Systems",
+      "previous_company_2": "Geico",
       "education": "MS Business, Tain '08",
       "linkedin_url": "https://linkedin.com/in/heatherkatz"
     },
     {
-      "rank": 59,
+      "rank": 55,
       "name": "Louis Penafiel",
       "grad_year": "'18",
       "yoe": "7",
@@ -767,11 +823,13 @@
       "original_title": "Ai Platform Engineer",
       "previous_title": "Senior Research Engineer | Data Scientist",
       "previous_company": "Aptima",
+      "previous_title_2": "Lead, Artificial Intelligence Technologies",
+      "previous_company_2": "Aptima",
       "education": "MS Physics, Cornell '20",
       "linkedin_url": "https://linkedin.com/in/jorelpenafiel"
     },
     {
-      "rank": 60,
+      "rank": 56,
       "name": "Mustafa Mirza",
       "grad_year": "'25",
       "yoe": "?",
@@ -780,11 +838,13 @@
       "original_title": "Ai Engineer",
       "previous_title": "Software Engineer Intern",
       "previous_company": "Deductive Ai",
+      "previous_title_2": "Teaching Assistant - Cs 188 (Artificial Intelligence)",
+      "previous_company_2": "Uc Berkeley Electrical Engineering & Computer Sciences (Eecs)",
       "education": "BA CS, UC Berkeley '25",
       "linkedin_url": "https://linkedin.com/in/mustafa-mirza-460551234"
     },
     {
-      "rank": 61,
+      "rank": 57,
       "name": "Akshat Vaidya",
       "grad_year": "'18",
       "yoe": "7",
@@ -793,11 +853,13 @@
       "original_title": "Ai Strategist",
       "previous_title": "Product Manager",
       "previous_company": "Prodigal",
+      "previous_title_2": "Associate Product Manager",
+      "previous_company_2": "Prodigal",
       "education": "MS Information Systems, University Of Maryla '19",
       "linkedin_url": "https://linkedin.com/in/akshat-vaidya"
     },
     {
-      "rank": 62,
+      "rank": 58,
       "name": "Anish Dulla",
       "grad_year": "'24",
       "yoe": "1",
@@ -806,11 +868,13 @@
       "original_title": "Ai Strategist (Fde)",
       "previous_title": "Data Scientist",
       "previous_company": "Adobe",
+      "previous_title_2": "Data Science Intern",
+      "previous_company_2": "Adobe",
       "education": "BS Data Science, Ucla '24",
       "linkedin_url": "https://linkedin.com/in/anish-dulla"
     },
     {
-      "rank": 63,
+      "rank": 59,
       "name": "Mihir Sawhney",
       "grad_year": "'25",
       "yoe": "?",
@@ -819,11 +883,13 @@
       "original_title": "Ai Engineer (Tpm)",
       "previous_title": "Technical Product Manager Intern",
       "previous_company": "Adobe",
+      "previous_title_2": "Ai & Ml Intern",
+      "previous_company_2": "Mercor",
       "education": "BS Econ, Ucla '25",
       "linkedin_url": "https://linkedin.com/in/mihir-sawhney-8b466924a"
     },
     {
-      "rank": 64,
+      "rank": 60,
       "name": "Joshua Shou",
       "grad_year": "'23",
       "yoe": "2",
@@ -832,11 +898,13 @@
       "original_title": "Ai Engineer",
       "previous_title": "Ai Software Engineer",
       "previous_company": "Instalily Ai",
+      "previous_title_2": "Quantitative Trader",
+      "previous_company_2": "Imc Trading",
       "education": "BS Math, University Of Chicag '23",
       "linkedin_url": "https://linkedin.com/in/joshua-shou-43a107199"
     },
     {
-      "rank": 65,
+      "rank": 61,
       "name": "Tianxiao Li",
       "grad_year": "'23",
       "yoe": "2",
@@ -845,11 +913,13 @@
       "original_title": "Ai Engineer",
       "previous_title": "Research Engineer",
       "previous_company": "University Of Toronto",
+      "previous_title_2": "Ai Engineer",
+      "previous_company_2": "Intact",
       "education": "MEng CS, UC Berkeley '25",
       "linkedin_url": "https://linkedin.com/in/tonyltx"
     },
     {
-      "rank": 66,
+      "rank": 62,
       "name": "Nicholas Gannon",
       "grad_year": "'20",
       "yoe": "5",
@@ -858,11 +928,13 @@
       "original_title": "Ai Engineer",
       "previous_title": "Analytics And Ai - Data Scientist And Software Engineer",
       "previous_company": "Pwc",
+      "previous_title_2": "Data Analyst And Software Engineer",
+      "previous_company_2": "Lifestacks",
       "education": "MS Data Science, Tufts University '22",
       "linkedin_url": "https://linkedin.com/in/nicholas-gannon-ba922a157"
     },
     {
-      "rank": 67,
+      "rank": 63,
       "name": "Hemantha Bharadwaj",
       "grad_year": "'22",
       "yoe": "3",
@@ -871,11 +943,13 @@
       "original_title": "Ai Engineer",
       "previous_title": "Ai / Ml Lead",
       "previous_company": "Rippleworx",
+      "previous_title_2": "Generative Ai Technical Lead",
+      "previous_company_2": "Airlinq",
       "education": "MS CE, Georgia Tech '24",
       "linkedin_url": "https://linkedin.com/in/hemantha-krishna-bharadwaj-2504a21ab"
     },
     {
-      "rank": 68,
+      "rank": 64,
       "name": "Ankit Kumar",
       "grad_year": "'12",
       "yoe": "13",
@@ -884,11 +958,13 @@
       "original_title": "Ai Product Manager | Strategist",
       "previous_title": "Senior Product Manager",
       "previous_company": "Datavant",
+      "previous_title_2": "Senior Product Manager",
+      "previous_company_2": "Sattva Consulting",
       "education": "MBA, Mays Business School '17",
       "linkedin_url": "https://linkedin.com/in/ankit10k"
     },
     {
-      "rank": 69,
+      "rank": 65,
       "name": "Brad Freitag",
       "grad_year": "'94",
       "yoe": "31",
@@ -897,11 +973,13 @@
       "original_title": "Principal Advisor",
       "previous_title": "Chief Executive Officer",
       "previous_company": "Claris, An Apple Company",
+      "previous_title_2": "Employee",
+      "previous_company_2": "Apple",
       "education": "BS, Loyola University Ch",
       "linkedin_url": "https://linkedin.com/in/bradfreitag"
     },
     {
-      "rank": 70,
+      "rank": 66,
       "name": "Natasha Prats",
       "grad_year": "'09",
       "yoe": "16",
@@ -910,11 +988,13 @@
       "original_title": "Ai Strategist",
       "previous_title": "Product Management Leader",
       "previous_company": "Sabbatical",
+      "previous_title_2": "Senior Product Manager",
+      "previous_company_2": "Intuit",
       "education": "MA Design, Stanford '14",
       "linkedin_url": "https://linkedin.com/in/natasha-prats"
     },
     {
-      "rank": 71,
+      "rank": 67,
       "name": "Levi Gordon",
       "grad_year": "'13",
       "yoe": "12",
@@ -923,11 +1003,13 @@
       "original_title": "Operations Coordinator",
       "previous_title": "Community Associate",
       "previous_company": "Wework",
+      "previous_title_2": "Research And Filing Assistant",
+      "previous_company_2": "Tuff City Records",
       "education": "BS Engineering, American College Of  '13",
       "linkedin_url": "https://linkedin.com/in/levi-gordon-58a78036"
     },
     {
-      "rank": 72,
+      "rank": 68,
       "name": "Austin Fischer",
       "grad_year": "'17",
       "yoe": "8",
@@ -936,11 +1018,13 @@
       "original_title": "Ai Engineer",
       "previous_title": "Senior Machine Learning Engineer",
       "previous_company": "Rapidscale",
+      "previous_title_2": "Machine Learning Engineer",
+      "previous_company_2": "Rapidscale",
       "education": "MS CS, Georgia Tech '26",
       "linkedin_url": "https://linkedin.com/in/alfischer33"
     },
     {
-      "rank": 73,
+      "rank": 69,
       "name": "Durga Saluru",
       "grad_year": "'21",
       "yoe": "4",
@@ -949,11 +1033,13 @@
       "original_title": "Applied Ai Researcher",
       "previous_title": "Intern - Research Engineer",
       "previous_company": "Quantiphi",
+      "previous_title_2": "Artificial Intelligence Intern",
+      "previous_company_2": "Aira Technologies",
       "education": "MS CS, University Of Massac '25",
       "linkedin_url": "https://linkedin.com/in/durga-sandeep-saluru-391301144"
     },
     {
-      "rank": 74,
+      "rank": 70,
       "name": "Michael Liu",
       "grad_year": "'15",
       "yoe": "10",
@@ -962,11 +1048,13 @@
       "original_title": "Ai Strategist",
       "previous_title": "Lead Data Scientist",
       "previous_company": "Mckinsey & Company",
+      "previous_title_2": "Lead Data Scientist",
+      "previous_company_2": "Quantumblack, Ai By Mckinsey",
       "education": "MS Data Science, University Of Chicag '20",
       "linkedin_url": "https://linkedin.com/in/mairuo"
     },
     {
-      "rank": 75,
+      "rank": 71,
       "name": "Michael Amoako",
       "grad_year": "'19",
       "yoe": "6",
@@ -975,11 +1063,13 @@
       "original_title": "Ai Strategist",
       "previous_title": "Summer Associate",
       "previous_company": "Mckinsey & Company",
+      "previous_title_2": "Pre-Mba Intern",
+      "previous_company_2": "Wellington Management",
       "education": "MBA Engineering, Harvard Business Sch '25",
       "linkedin_url": "https://linkedin.com/in/mkamoako"
     },
     {
-      "rank": 76,
+      "rank": 72,
       "name": "Juan Castillo",
       "grad_year": "'18",
       "yoe": "7",
@@ -988,11 +1078,13 @@
       "original_title": "Ai User Experience Researcher",
       "previous_title": "Student Researcher (Aiux)",
       "previous_company": "Google Deepmind",
+      "previous_title_2": "Data Scientist (Intelligent Agents)",
+      "previous_company_2": "Enterra Solutions, Llc",
       "education": "PhD Psychology, Harvard Kenneth C. G '25",
       "linkedin_url": "https://linkedin.com/in/juancastillo-jr"
     },
     {
-      "rank": 77,
+      "rank": 73,
       "name": "Abhishek Goyal",
       "grad_year": "'21",
       "yoe": "4",
@@ -1001,11 +1093,13 @@
       "original_title": "Ai Engineer",
       "previous_title": "Generative Ai Engineer",
       "previous_company": "New Rhein Healthcare Investors",
+      "previous_title_2": "Graduate Research Assistant",
+      "previous_company_2": "University Of Pennsylvania",
       "education": "MS Photography, UPenn '25",
       "linkedin_url": "https://linkedin.com/in/abhishekgoyal2358"
     },
     {
-      "rank": 78,
+      "rank": 74,
       "name": "Heeyoung Kwon",
       "grad_year": "'13",
       "yoe": "12",
@@ -1014,11 +1108,13 @@
       "original_title": "Ai Engineer",
       "previous_title": "Research Scientist",
       "previous_company": "Meta",
+      "previous_title_2": "Phd Software Engineer Intern",
+      "previous_company_2": "Meta",
       "education": "PhD CS, Stony Brook Universi '19",
       "linkedin_url": "https://linkedin.com/in/heeyoung-kwon-9b1b6b2a"
     },
     {
-      "rank": 79,
+      "rank": 75,
       "name": "Saumyaa Mehra",
       "grad_year": "'21",
       "yoe": "4",
@@ -1027,11 +1123,13 @@
       "original_title": "Product Designer",
       "previous_title": "Product Designer",
       "previous_company": "Kwikly Dental Staffing",
+      "previous_title_2": "Product Designer",
+      "previous_company_2": "Sony",
       "education": "MS Design, UW '25",
       "linkedin_url": "https://linkedin.com/in/saumyaamehra"
     },
     {
-      "rank": 80,
+      "rank": 76,
       "name": "Pranav Burugula",
       "grad_year": "'23",
       "yoe": "2",
@@ -1040,11 +1138,13 @@
       "original_title": "Ai Platform Engineer",
       "previous_title": "Software Development Engineer",
       "previous_company": "Amazon",
+      "previous_title_2": "Software Development Engineering Intern",
+      "previous_company_2": "Amazon",
       "education": "Management, UIUC '23",
       "linkedin_url": "https://linkedin.com/in/pranavburugula"
     },
     {
-      "rank": 81,
+      "rank": 77,
       "name": "Yonida Mulita",
       "grad_year": "'07",
       "yoe": "18",
@@ -1053,11 +1153,13 @@
       "original_title": "Founding Recruiter - Distylling Talent Across All Roles P0",
       "previous_title": "Senior Recruiter",
       "previous_company": "Amazon",
+      "previous_title_2": "Lead Recruiter, Digital And Analytics",
+      "previous_company_2": "Mckinsey & Company",
       "education": "BS, Empire State College '07",
       "linkedin_url": "https://linkedin.com/in/yonida-mulita-she-her-9a08361a"
     },
     {
-      "rank": 82,
+      "rank": 78,
       "name": "Cameron Alizadeh",
       "grad_year": "'16",
       "yoe": "9",
@@ -1066,11 +1168,13 @@
       "original_title": "Ai Platform Engineer",
       "previous_title": "Software Engineer Ii",
       "previous_company": "Amazon Web Services (Aws)",
+      "previous_title_2": "Starlink Software Engineer",
+      "previous_company_2": "Spacex",
       "education": "Engineering, University Of Toront '20",
       "linkedin_url": "https://linkedin.com/in/cdalizadeh"
     },
     {
-      "rank": 83,
+      "rank": 79,
       "name": "Noah G",
       "grad_year": "'19",
       "yoe": "6",
@@ -1079,11 +1183,13 @@
       "original_title": "Ai Infrastructure Engineer",
       "previous_title": "Content Creator",
       "previous_company": "Udacity",
+      "previous_title_2": "Instructor",
+      "previous_company_2": "Interview Kickstart",
       "education": "BS Math, Hunter College",
       "linkedin_url": "https://linkedin.com/in/noah-g-22a68b58"
     },
     {
-      "rank": 84,
+      "rank": 80,
       "name": "Emma Brown",
       "grad_year": "'22",
       "yoe": "3",
@@ -1092,11 +1198,13 @@
       "original_title": "Ai Engineer",
       "previous_title": "Ai Engineer",
       "previous_company": "Opponent Systems",
+      "previous_title_2": "Software Engineer Ii",
+      "previous_company_2": "Air",
       "education": "MS, Uc Santa Barbara '25",
       "linkedin_url": "https://linkedin.com/in/emma-nworb"
     },
     {
-      "rank": 85,
+      "rank": 81,
       "name": "Rohan Harpalani",
       "grad_year": "'24",
       "yoe": "1",
@@ -1105,11 +1213,13 @@
       "original_title": "Product & Solutions",
       "previous_title": "Product, Ml Infra",
       "previous_company": "Capital One",
+      "previous_title_2": "Course Assistant",
+      "previous_company_2": "The Grainger College Of Engineering",
       "education": "BS CS, Kth Royal Institute  '23",
       "linkedin_url": "https://linkedin.com/in/rohanharpalani"
     },
     {
-      "rank": 86,
+      "rank": 82,
       "name": "Boudhayan Sen",
       "grad_year": "'00",
       "yoe": "25",
@@ -1118,11 +1228,13 @@
       "original_title": "Ai Strategist",
       "previous_title": "Expert Associate Partner",
       "previous_company": "Mckinsey & Company",
+      "previous_title_2": "Director",
+      "previous_company_2": "Wayfair",
       "education": "PhD Marketing, Yale School Of Manag '12",
       "linkedin_url": "https://linkedin.com/in/boudhayan-sen"
     },
     {
-      "rank": 87,
+      "rank": 83,
       "name": "Chirag Sharma",
       "grad_year": "'22",
       "yoe": "3",
@@ -1131,11 +1243,13 @@
       "original_title": "Platform Engineer",
       "previous_title": "Software Engineer",
       "previous_company": "Scale Ai",
+      "previous_title_2": "Graduate Student Researcher: Rise Lab",
+      "previous_company_2": "Berkeley Rise Lab",
       "education": "MS CS, UC Berkeley '23",
       "linkedin_url": "https://linkedin.com/in/chirag-sharma-00"
     },
     {
-      "rank": 88,
+      "rank": 84,
       "name": "Ridhi Jhamb",
       "grad_year": "'21",
       "yoe": "4",
@@ -1144,11 +1258,13 @@
       "original_title": "Artificial Intelligence Engineer",
       "previous_title": "Machine Learning Engineer",
       "previous_company": "Oxy",
+      "previous_title_2": "Aiml Researcher",
+      "previous_company_2": "University Of Pennsylvania",
       "education": "MS CS, UPenn '24",
       "linkedin_url": "https://linkedin.com/in/ridhi-jhamb"
     },
     {
-      "rank": 89,
+      "rank": 85,
       "name": "Nikhil Gangaram",
       "grad_year": "'25",
       "yoe": "?",
@@ -1157,11 +1273,13 @@
       "original_title": "Ai Research",
       "previous_title": "Founding Engineer",
       "previous_company": "Cerulion",
+      "previous_title_2": "Perception Intern",
+      "previous_company_2": "Untill",
       "education": "MEng CS, Cornell Tech '26",
       "linkedin_url": "https://linkedin.com/in/nikhil-gangaram"
     },
     {
-      "rank": 90,
+      "rank": 86,
       "name": "Jevon Wild",
       "grad_year": "'08",
       "yoe": "17",
@@ -1170,11 +1288,13 @@
       "original_title": "Ai Engineering",
       "previous_title": "Solutions Engineering Leader",
       "previous_company": "Flatfile",
+      "previous_title_2": "Director Of Solutions Architecture, Twilio Professional Services",
+      "previous_company_2": "Twilio",
       "education": "BS General Engineering, UIUC '08",
       "linkedin_url": "https://linkedin.com/in/jevonwild"
     },
     {
-      "rank": 91,
+      "rank": 87,
       "name": "Kate Panawek",
       "grad_year": "'07",
       "yoe": "18",
@@ -1183,11 +1303,13 @@
       "original_title": "Ops Lead, Office Of The Chief Executive Officer",
       "previous_title": "Senior Head Of Content",
       "previous_company": "Dialpad",
+      "previous_title_2": "Member",
+      "previous_company_2": "Glue Club",
       "education": "BS Sociology, Universidade Federal '07",
       "linkedin_url": "https://linkedin.com/in/katelovepanawek"
     },
     {
-      "rank": 92,
+      "rank": 88,
       "name": "Sahana Sudhakar",
       "grad_year": "'20",
       "yoe": "5",
@@ -1196,11 +1318,13 @@
       "original_title": "Recruiter",
       "previous_title": "Technical Recruiter",
       "previous_company": "Rokt",
+      "previous_title_2": "Junior Technical Recruiter",
+      "previous_company_2": "Rokt",
       "education": "BS Psychology, Penn State Universit '19",
       "linkedin_url": "https://linkedin.com/in/sahana-sudhakar"
     },
     {
-      "rank": 93,
+      "rank": 89,
       "name": "Yeji Song",
       "grad_year": "'18",
       "yoe": "7",
@@ -1209,11 +1333,13 @@
       "original_title": "Experience Program Manager",
       "previous_title": "Workplace Experience Manager",
       "previous_company": "Tecton",
+      "previous_title_2": "Esg Program Manager - Workplace",
+      "previous_company_2": "Samsara",
       "education": "BFA, Pratt Institute '18",
       "linkedin_url": "https://linkedin.com/in/songyeji"
     },
     {
-      "rank": 94,
+      "rank": 90,
       "name": "Angel Carradine",
       "grad_year": "'11",
       "yoe": "14",
@@ -1222,11 +1348,13 @@
       "original_title": "Recruiting Coordinator",
       "previous_title": "Recruiting Coordinator",
       "previous_company": "Airbnb",
+      "previous_title_2": "Talent Sourcer",
+      "previous_company_2": "Tiktok",
       "education": "BA Psychology, San Jos\u00e9 State Unive '11",
       "linkedin_url": "https://linkedin.com/in/angel-carradine"
     },
     {
-      "rank": 95,
+      "rank": 91,
       "name": "Jeremy Berkowitz",
       "grad_year": "'21",
       "yoe": "4",
@@ -1235,6 +1363,8 @@
       "original_title": "Ai Strategist",
       "previous_title": "Senior Consultant - Global Data & Ai",
       "previous_company": "Slalom",
+      "previous_title_2": "Consultant - Data & Analytics",
+      "previous_company_2": "Slalom",
       "education": "Bachelor Of Applied  CS, Vrije Universiteit A '20",
       "linkedin_url": "https://linkedin.com/in/jeremy-berkowitz-42775314a"
     }

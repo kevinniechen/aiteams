@@ -1,7 +1,7 @@
 {
   "company": "decagon",
   "company_display": "Decagon",
-  "founded": "2023-01",
+  "founded": "2023-04",
   "employees": [
     {
       "rank": 1,
@@ -13,6 +13,8 @@
       "original_title": "Co-Founder",
       "previous_title": "Co-Founder",
       "previous_company": "Helia (Acquired By Scale Ai)",
+      "previous_title_2": "Deployment Strategist",
+      "previous_company_2": "Palantir Technologies",
       "education": "MS CS, Stanford '19",
       "linkedin_url": "https://linkedin.com/in/sreenivasashwin"
     },
@@ -26,6 +28,8 @@
       "original_title": "Chief Executive Officer / Co-Founder",
       "previous_title": "Chief Executive Officer / Founder",
       "previous_company": "Lowkey (Acquired By Niantic!)",
+      "previous_title_2": "Intern",
+      "previous_company_2": "Citadel",
       "education": "Math, Fairview High School",
       "linkedin_url": "https://linkedin.com/in/thejessezhang"
     },
@@ -39,6 +43,8 @@
       "original_title": "Engineering",
       "previous_title": "Engineering Manager",
       "previous_company": "Scale Ai",
+      "previous_title_2": "Software Engineer",
+      "previous_company_2": "Scale Ai",
       "education": "BA CS, UC Berkeley '19",
       "linkedin_url": "https://linkedin.com/in/sang"
     },
@@ -52,6 +58,8 @@
       "original_title": "Agents",
       "previous_title": "General Manager, Product",
       "previous_company": "Truework",
+      "previous_title_2": "Entrepreneur In Residence",
+      "previous_company_2": "Afore Capital",
       "education": "BS Engineering, Columbia '20",
       "linkedin_url": "https://linkedin.com/in/sambhavjain1436789"
     },
@@ -65,6 +73,8 @@
       "original_title": "Agent Product Manager",
       "previous_title": "Software Investor",
       "previous_company": "Spectrum Equity",
+      "previous_title_2": "Trading",
+      "previous_company_2": "Citadel Securities",
       "education": "CS, Amador Valley High S",
       "linkedin_url": "https://linkedin.com/in/katherinexiao"
     },
@@ -78,6 +88,8 @@
       "original_title": "Sales",
       "previous_title": "Worldwide Sales | Data Observability",
       "previous_company": "Ibm",
+      "previous_title_2": "Sales",
+      "previous_company_2": "Databand.Ai",
       "education": "UPenn '17",
       "linkedin_url": "https://linkedin.com/in/proctorg"
     },
@@ -91,6 +103,8 @@
       "original_title": "Engineer",
       "previous_title": "Intern",
       "previous_company": "Scale Ai",
+      "previous_title_2": "Intern",
+      "previous_company_2": "Hudson River Trading",
       "education": "MS CS, Harvard '24",
       "linkedin_url": "https://linkedin.com/in/chen-cynthia"
     },
@@ -104,6 +118,8 @@
       "original_title": "Engineering",
       "previous_title": "Chief Of Staff",
       "previous_company": "Dorsal Health",
+      "previous_title_2": "Software Engineer",
+      "previous_company_2": "Gather",
       "education": "Harvard '22",
       "linkedin_url": "https://linkedin.com/in/ayjin"
     },
@@ -117,6 +133,8 @@
       "original_title": "Product + Gtm",
       "previous_title": "General Manager, Product",
       "previous_company": "Truework",
+      "previous_title_2": "Entrepreneur In Residence",
+      "previous_company_2": "Afore Capital",
       "education": "BS Industrial Engineeri, Columbia",
       "linkedin_url": "https://linkedin.com/in/sambhavjain2799"
     },
@@ -130,6 +148,8 @@
       "original_title": "Vice President, Agent Product",
       "previous_title": "Co-Founder, Chief Executive Officer",
       "previous_company": "Homeflow",
+      "previous_title_2": "Growth Initiatives",
+      "previous_company_2": "Hippo Insurance",
       "education": "BS Management, MIT '17",
       "linkedin_url": "https://linkedin.com/in/perryha95"
     },
@@ -143,6 +163,8 @@
       "original_title": "Engineer",
       "previous_title": "Software Engineer",
       "previous_company": "Lyft",
+      "previous_title_2": "Full Stack Engineer Intern",
+      "previous_company_2": "Snackpass",
       "education": "BA Math, UC Berkeley '22",
       "linkedin_url": "https://linkedin.com/in/rohan-d-souza"
     },
@@ -156,6 +178,8 @@
       "original_title": "Sales",
       "previous_title": "Strategic Accounts",
       "previous_company": "Mux",
+      "previous_title_2": "Sales Manager, Mid Market (Amer)",
+      "previous_company_2": "Mux",
       "education": "Solo Schools '07",
       "linkedin_url": "https://linkedin.com/in/matthewtosi"
     },
@@ -169,6 +193,8 @@
       "original_title": "Director, Agent Product",
       "previous_title": "Business Operations Manager",
       "previous_company": "Rodeo",
+      "previous_title_2": "Strategy & Operations Lead",
+      "previous_company_2": "Naavik",
       "education": "BS Business, Washington Universit '18",
       "linkedin_url": "https://linkedin.com/in/maxlowenthal"
     },
@@ -182,6 +208,8 @@
       "original_title": "Member Of The Technical Staff",
       "previous_title": "Software Engineer, Product",
       "previous_company": "Plaid",
+      "previous_title_2": "Software Engineer, Platform",
+      "previous_company_2": "Plaid",
       "education": "CS, MIT",
       "linkedin_url": "https://linkedin.com/in/andrew-chen-962979122"
     },
@@ -195,6 +223,8 @@
       "original_title": "Sales",
       "previous_title": "Enterprise Account Executive",
       "previous_company": "Retool",
+      "previous_title_2": "Account Executive",
+      "previous_company_2": "Retool",
       "education": "Web Development, General Assembly '15",
       "linkedin_url": "https://linkedin.com/in/noahspringwater"
     },
@@ -208,6 +238,8 @@
       "original_title": "Head Of Talent",
       "previous_title": "Talent",
       "previous_company": "Adept",
+      "previous_title_2": "Technical Recruiting Manager",
+      "previous_company_2": "Doordash",
       "education": "BS Communication, UW '15",
       "linkedin_url": "https://linkedin.com/in/jacobarnall"
     },
@@ -221,6 +253,8 @@
       "original_title": "Member Of Technical Staff",
       "previous_title": "Software Engineer Ii",
       "previous_company": "Stripe",
+      "previous_title_2": "Software Engineer",
+      "previous_company_2": "Stripe",
       "education": "BS CE, CMU '23",
       "linkedin_url": "https://linkedin.com/in/gramliu"
     },
@@ -234,6 +268,8 @@
       "original_title": "Member Of Technical Staff",
       "previous_title": "Gardening Leave",
       "previous_company": "Headlands Technologies Llc",
+      "previous_title_2": "Research Developer (Quantitative Researcher)",
+      "previous_company_2": "Headlands Technologies Llc",
       "education": "BS CS, UT Austin '22",
       "linkedin_url": "https://linkedin.com/in/virajmaddur"
     },
@@ -247,6 +283,8 @@
       "original_title": "Executive Assistant",
       "previous_title": "Rupa University Program Manager",
       "previous_company": "Rupa Health",
+      "previous_title_2": "Executive Assistant To Chief Executive Officer",
+      "previous_company_2": "Rupa Health",
       "education": "BBA International Busine, San Francisco State  '21",
       "linkedin_url": "https://linkedin.com/in/alexia-esquivel-443113184"
     },
@@ -260,6 +298,8 @@
       "original_title": "Sales",
       "previous_title": "Co-Founder And Head Of Gtm",
       "previous_company": "Canvas",
+      "previous_title_2": "Product Manager",
+      "previous_company_2": "Flexport",
       "education": "BS Advertising, University Of Oregon '13",
       "linkedin_url": "https://linkedin.com/in/ryanjbuick"
     },
@@ -273,6 +313,8 @@
       "original_title": "Sales Development Representative",
       "previous_title": "Sales Development Representative",
       "previous_company": "Tropic",
+      "previous_title_2": "Founding Business Development Representative",
+      "previous_company_2": "Courier",
       "education": "BS Kinesiology, California State Uni '16",
       "linkedin_url": "https://linkedin.com/in/joseph-grinstain-4787285a"
     },
@@ -286,6 +328,8 @@
       "original_title": "Enterprise Gtm Lead",
       "previous_title": "Sales Lead",
       "previous_company": "Userclouds",
+      "previous_title_2": "Senior Account Executive",
+      "previous_company_2": "Productiv",
       "education": "BS EE, Santa Clara Universi '20",
       "linkedin_url": "https://linkedin.com/in/cymir"
     },
@@ -299,6 +343,8 @@
       "original_title": "Member Of Technical Staff",
       "previous_title": "Software Engineer - Conversation Product",
       "previous_company": "Moveworks",
+      "previous_title_2": "Senior Software Engineer",
+      "previous_company_2": "Roblox",
       "education": "BA CS, UC Berkeley '17",
       "linkedin_url": "https://linkedin.com/in/christopherchen95"
     },
@@ -312,6 +358,8 @@
       "original_title": "Member Of Technical Staff",
       "previous_title": "Software Engineer Intern",
       "previous_company": "Scale Ai",
+      "previous_title_2": "Cs 61B Head Ta",
+      "previous_company_2": "Uc Berkeley Electrical Engineering & Computer Sciences (Eecs)",
       "education": "BS, UC Berkeley '24",
       "linkedin_url": "https://linkedin.com/in/allengu01"
     }

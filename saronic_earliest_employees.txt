@@ -1,5 +1,5 @@
 SARONIC - EARLIEST EMPLOYEES
-(Founded: 2022-01)
+(Founded: 2022-06)
 ================================================================================
 
 Employee #1
@@ -7,7 +7,8 @@ Employee #1
   Grad: '00 | YoE: 25
   Start Date: 2022-09
   Title: Co-Founder (Co-Founder And Chief Commercial Officer)
-  Previous: Founder @ 9 Line Solutions, Llc
+  Previous 1: Founder @ 9 Line Solutions, Llc
+  Previous 2: Chairman & Chief Executive Officer @ Temeku Technologies, Inc.
   Education: The Staff College '18
   LinkedIn: https://linkedin.com/in/rob-lehman-8387634
 
@@ -16,7 +17,8 @@ Employee #2
   Grad: '03 | YoE: 22
   Start Date: 2022-09
   Title: Co-Founder & CEO (Co-Founder And Chief Executive Officer)
-  Previous: Entrepreneur In Residence @ 8Vc
+  Previous 1: Entrepreneur In Residence @ 8Vc
+  Previous 2: Board Member @ Navy Seal Foundation
   Education: MBA Finance, The Wharton School '17
   LinkedIn: https://linkedin.com/in/dino-mavrookas-190244127
 
@@ -25,7 +27,8 @@ Employee #3
   Grad: '00 | YoE: 25
   Start Date: 2022-09
   Title: Co-Founder (Co-Founder And Chief Commercial Officer)
-  Previous: Founder @ 9 Line Solutions, Llc
+  Previous 1: Founder @ 9 Line Solutions, Llc
+  Previous 2: Chairman & Chief Executive Officer @ Temeku Technologies, Inc.
   Education: The Staff College '18
   LinkedIn: https://linkedin.com/in/rob-lehman-8387634
 
@@ -34,7 +37,8 @@ Employee #4
   Grad: '20 | YoE: 5
   Start Date: 2023-01
   Title: Senior Engineer (Senior Software Engineer)
-  Previous: Software Engineer @ Anduril Industries
+  Previous 1: Software Engineer @ Anduril Industries
+  Previous 2: Software Engineering Intern @ Anduril Industries
   Education: BS CS, UIUC '20
   LinkedIn: https://linkedin.com/in/rishidesai1
 
@@ -43,7 +47,8 @@ Employee #5
   Grad: '17 | YoE: 8
   Start Date: 2023-02
   Title: Naval Software Architect (Naval Software Architect)
-  Previous: Senior Naval Architect @ Thayermahan, Inc.
+  Previous 1: Senior Naval Architect @ Thayermahan, Inc.
+  Previous 2: Naval Architect @ General Dynamics Electric Boat
   Education: BS Engineering, Webb Institute '17
   LinkedIn: https://linkedin.com/in/joseph-gargiulo-a959bb2aa
 
@@ -52,7 +57,8 @@ Employee #6
   Grad: '20 | YoE: 5
   Start Date: 2023-03
   Title: Engineer (Software Engineer)
-  Previous: Software Engineer @ Leantaas
+  Previous 1: Software Engineer @ Leantaas
+  Previous 2: Associate Software Engineer @ Powerreviews, A 1Worldsync Company
   Education: BS CS, UIUC '20
   LinkedIn: https://linkedin.com/in/javbit
 
@@ -61,7 +67,8 @@ Employee #7
   Grad: '07 | YoE: 18
   Start Date: 2023-04
   Title: Engineer (Research & Development Engineer And Test Manager)
-  Previous: Research Engineer @ Southwest Research Institute
+  Previous 1: Research Engineer @ Southwest Research Institute
+  Previous 2: Blast Effects Project Consultant @ Bakerrisk
   Education: MS Management, The University Of Te '10
   LinkedIn: https://linkedin.com/in/robertduran
 
@@ -70,7 +77,8 @@ Employee #8
   Grad: '16 | YoE: 9
   Start Date: 2023-05
   Title: Engineer (Senior Manufacturing Engineer)
-  Previous: Manufacturing Engineer @ Hyliion
+  Previous 1: Manufacturing Engineer @ Hyliion
+  Previous 2: Npi Process Engineering @ Nxp Semiconductors
   Education: BS Electronics, Arizona State Univer '16
   LinkedIn: https://linkedin.com/in/wtraylor
 
@@ -79,7 +87,8 @@ Employee #9
   Grad: '18 | YoE: 7
   Start Date: 2023-05
   Title: Engineer (Software Engineer)
-  Previous: Engineering Fellow @ 8Vc
+  Previous 1: Engineering Fellow @ 8Vc
+  Previous 2: Ml Developer (Pt / Contract) @ Shade Inc.
   Education: Virginia Tech '23
   LinkedIn: https://linkedin.com/in/aydin-gokce-0aa1bb184
 
@@ -88,7 +97,8 @@ Employee #10
   Grad: '24 | YoE: 1
   Start Date: 2023-09
   Title: Engineer (Forward Deployed Engineer)
-  Previous: Combat Systems Test Engineer @ Jsl Technologies, Inc.
+  Previous 1: Combat Systems Test Engineer @ Jsl Technologies, Inc.
+  Previous 2: Field Service Engineer @ Eos
   Education: MS Software Engineering, University Of Maryla '27
   LinkedIn: https://linkedin.com/in/jamesdstackhouse
 
@@ -97,7 +107,8 @@ Employee #11
   Grad: '05 | YoE: 20
   Start Date: 2023-09
   Title: Corporate Controller (Corporate Controller)
-  Previous: Assistant Controller @ Palantir Technologies
+  Previous 1: Assistant Controller @ Palantir Technologies
+  Previous 2: Senior Associate @ Pwc
   Education: MS Accountancy, Wisconsin School Of  '06
   LinkedIn: https://linkedin.com/in/corey-doermann-9321549
 
@@ -106,7 +117,8 @@ Employee #12
   Grad: '97 | YoE: 28
   Start Date: 2023-09
   Title: Depot Repair Manager (Depot Repair Manager)
-  Previous: Field Service Engineer @ Canon Usa
+  Previous 1: Field Service Engineer @ Canon Usa
+  Previous 2: Service Engineering Manager @ Iron Ox
   Education: Associates Communications, Devry University '97
   LinkedIn: https://linkedin.com/in/rodney-harris-2aa9951a8
 
@@ -115,7 +127,8 @@ Employee #13
   Grad: '17 | YoE: 8
   Start Date: 2023-09
   Title: Engineer (Software Engineer)
-  Previous: Software Engineer @ Anduril Industries
+  Previous 1: Software Engineer @ Anduril Industries
+  Previous 2: Software Engineer @ General Atomics
   Education: BS EE, Lynn University '17
   LinkedIn: https://linkedin.com/in/jacob-h-freeman
 
@@ -124,7 +137,8 @@ Employee #14
   Grad: '19 | YoE: 6
   Start Date: 2023-09
   Title: Naval Architect (Naval Architect)
-  Previous: Engineer @ Naval Surface Warfare Center Carderock Division (Nswccd)
+  Previous 1: Engineer @ Naval Surface Warfare Center Carderock Division (Nswccd)
+  Previous 2: Graduate Intern @ University Of Michigan College Of Engineering
   Education: MS Engineering, UMich '20
   LinkedIn: https://linkedin.com/in/autumn-szczepanski
 
@@ -133,7 +147,8 @@ Employee #15
   Grad: '20 | YoE: 5
   Start Date: 2023-09
   Title: Engineer (Software Engineer)
-  Previous: Software Development Engineer @ Amazon
+  Previous 1: Software Development Engineer @ Amazon
+  Previous 2: Full Stack Engineer @ Spreetail
   Education: BS CE, UT Austin '20
   LinkedIn: https://linkedin.com/in/isaac-steadman
 
@@ -142,7 +157,8 @@ Employee #16
   Grad: '82 | YoE: 43
   Start Date: 2023-10
   Title: Senior Technical Writer (Senior Technical Writer)
-  Previous: Senior Technical Writer @ Secureworks
+  Previous 1: Senior Technical Writer @ Secureworks
+  Previous 2: Technical Writer | Uiux @ Clockwork Solutions
   Education: MA, UT Austin '93
   LinkedIn: https://linkedin.com/in/tomdobbsjr
 
@@ -151,7 +167,8 @@ Employee #17
   Grad: '95 | YoE: 30
   Start Date: 2023-10
   Title: Engineer (Senior Electrical Harness Engineer)
-  Previous: Senior Spacecraft Harness Engineer @ Saic
+  Previous 1: Senior Spacecraft Harness Engineer @ Saic
+  Previous 2: Senior Harness Engineer For Satellite Services Program Division @ Stinger Ghaffarian Technologies (Sgt)
   Education: BS EE, Temple University '95
   LinkedIn: https://linkedin.com/in/nailah-salaam-6737b9
 
@@ -160,7 +177,8 @@ Employee #18
   Grad: '21 | YoE: 4
   Start Date: 2023-10
   Title: Engineer (Mechanical Engineer)
-  Previous: Application Engineer @ Wilder Systems Robots
+  Previous 1: Application Engineer @ Wilder Systems Robots
+  Previous 2: Mechanical Engineer @ Icon
   Education: BS, CMU '19
   LinkedIn: https://linkedin.com/in/stephanievtam
 
@@ -169,7 +187,8 @@ Employee #19
   Grad: '95 | YoE: 30
   Start Date: 2023-10
   Title: Operations (Test Site Manager / Mission Operations Specialist)
-  Previous: Systems Test Engineer @ L3Harris Technologies
+  Previous 1: Systems Test Engineer @ L3Harris Technologies
+  Previous 2: Electronics Maintenance Technician 3 @ Mclaughlin Research Corporation
   Education: Community College Of
   LinkedIn: https://linkedin.com/in/ken-healy-7ba6a4156
 
@@ -178,6 +197,7 @@ Employee #20
   Grad: '23 | YoE: 2
   Start Date: 2023-12
   Title: Boat Captain (Boat Captain)
-  Previous: N/A @ N/A
+  Previous 1: N/A @ N/A
+  Previous 2: N/A @ N/A
   Education: N/A
   LinkedIn: https://linkedin.com/in/tyler-hatfield-1a001b202

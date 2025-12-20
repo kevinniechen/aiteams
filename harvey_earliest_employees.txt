@@ -1,156 +1,201 @@
 HARVEY - EARLIEST EMPLOYEES
-(Founded: 2022-09)
+(Founded: 2022-01)
 ================================================================================
 
 Employee #1
+  Name: Mafimisebi Adetomiwa
+  Grad: '16 | YoE: 9
+  Start Date: 2022-01
+  Title: Fullstack Engineer (Full-Stack Developer)
+  Previous 1: Software Engineer @ Jamf
+  Previous 2: Software Engineer @ Lambda
+  Education: Bachelor Of Applied , Columbia
+
+Employee #2
+  Name: Matt Cleveland
+  Grad: '22 | YoE: 3
+  Start Date: 2022-06
+  Title: Cat Feeder (Cat Feeder)
+  Previous 1: N/A @ N/A
+  Previous 2: N/A @ N/A
+  Education: University Of Roches '20
+
+Employee #3
   Name: Gabe Pereyra
   Grad: '16 | YoE: 9
   Start Date: 2022-08
   Title: Co-Founder (President & Co-Founder)
-  Previous: Research Scientist @ Meta
+  Previous 1: Research Scientist @ Meta
+  Previous 2: Startups @ Stealth Startup
   Education: PhD Neuroscience, University Of Oxford '18
   LinkedIn: https://linkedin.com/in/gabepereyra
 
-Employee #2
+Employee #4
   Name: Winston Weinberg
   Grad: '17 | YoE: 8
   Start Date: 2022-08
   Title: Co-Founder (Chief Executive Officer & Co-Founder)
-  Previous: Associate @ O'Melveny & Myers Llp
+  Previous 1: Associate @ O'Melveny & Myers Llp
+  Previous 2: N/A @ N/A
   Education: Doctor Of Jurisprude Law, Usc Gould School Of  '21
   LinkedIn: https://linkedin.com/in/winston-weinberg
 
-Employee #3
+Employee #5
+  Name: Caroline Johnson
+  Grad: '06 | YoE: 19
+  Start Date: 2022-08
+  Title: Non-Executive Shareholder (Non-Executive Shareholder)
+  Previous 1: Senior Vice President @ Aviara Real Estate
+  Previous 2: Real Estate Development Manager @ Unire Real Estate Group, Inc
+  Education: MS Business, Cornell Johnson Grad '09
+  LinkedIn: https://linkedin.com/in/caroline-johnson-3b1a03240
+
+Employee #6
   Name: Brian Burns
   Grad: '19 | YoE: 6
   Start Date: 2022-11
   Title: Technical Recruiter (Technical Recruiter)
-  Previous: Founder + Writer + Recruiter @ Ai Pub
+  Previous 1: Founder + Writer + Recruiter @ Ai Pub
+  Previous 2: Engineer And Consultant, Computer Vision + Ml @ Burns Ml
   Education: UW '25
   LinkedIn: https://linkedin.com/in/brianandrewburns
 
-Employee #4
+Employee #7
   Name: Adam Erickson
   Grad: '17 | YoE: 8
   Start Date: 2023-01
   Title: Engineer (Member Of Technical Staff)
-  Previous: Software Engineer @ Rippling
+  Previous 1: Software Engineer @ Rippling
+  Previous 2: Research Engineer @ Yale University School Of Medicine
   Education: Yale
   LinkedIn: https://linkedin.com/in/agerick
 
-Employee #5
+Employee #8
   Name: Timothy Lu
   Grad: '18 | YoE: 7
   Start Date: 2023-01
   Title: Operations (Head Of Revenue Operations)
-  Previous: Sales Strategy & Operations @ Airtable
+  Previous 1: Sales Strategy & Operations @ Airtable
+  Previous 2: Strategy Consultant - Experienced Consultant @ Waterstone Management Group Is Now Part Of West Monroe
   Education: MS Engineering, UMich
   LinkedIn: https://linkedin.com/in/timothy-y-lu
 
-Employee #6
+Employee #9
   Name: Beth Lebens
   Grad: '16 | YoE: 9
   Start Date: 2023-02
   Title: Member Of Legal Staff (Member Of Legal Staff)
-  Previous: Associate @ Gunderson Dettmer
+  Previous 1: Associate @ Gunderson Dettmer
+  Previous 2: Associate @ Willkie Farr & Gallagher Llp
   Education: Doctor Of Jurisprude Law, Northwestern Univers '20
   LinkedIn: https://linkedin.com/in/beth-de-la-roche-lebens-777847263
 
-Employee #7
+Employee #10
   Name: Spencer Poff
   Grad: '09 | YoE: 16
   Start Date: 2023-03
   Title: Engineer (Member Of Technical Staff)
-  Previous: Research Engineer @ Fair @ Meta
+  Previous 1: Research Engineer @ Fair @ Meta
+  Previous 2: Software Engineer @ Meta
   Education: Marina High
   LinkedIn: https://linkedin.com/in/spencerpoff
 
-Employee #8
+Employee #11
   Name: John Labarre
   Grad: '94 | YoE: 31
   Start Date: 2023-04
   Title: General Counsel (General Counsel)
-  Previous: Vice President, Deputy General Counsel @ Snowflake
+  Previous 1: Vice President, Deputy General Counsel @ Snowflake
+  Previous 2: Senior Director, Ip Strategy & Commercial Litigation @ Zymergen
   Education: PhD, Letourneau Universit '05
   LinkedIn: https://linkedin.com/in/labaj
 
-Employee #9
+Employee #12
   Name: Karl De La Roche
   Grad: '12 | YoE: 13
   Start Date: 2023-04
   Title: Member Of Legal Staff (Member Of Legal Staff)
-  Previous: Associate @ Sidley Austin Llp
+  Previous 1: Associate @ Sidley Austin Llp
+  Previous 2: Associate @ Weil, Gotshal & Manges Llp
   Education: Doctor Of Jurisprude Criminology, Northwestern Univers '19
   LinkedIn: https://linkedin.com/in/karldelaroche
 
-Employee #10
+Employee #13
   Name: Tonya Mitchell
   Grad: '12 | YoE: 13
   Start Date: 2023-07
   Title: Business (Senior Business Analyst)
-  Previous: Senior Business Analyst With Ettain Group @ Ettain Group
+  Previous 1: Senior Business Analyst With Ettain Group @ Ettain Group
+  Previous 2: Senior Business Analyst @ Ntt Data Services
   Education: Master Of Public Adm Business, Kentucky State Unive
   LinkedIn: https://linkedin.com/in/tonya-mayfield-mitchell-5733aaa6
 
-Employee #11
+Employee #14
   Name: Rob Saliterman
   Grad: '03 | YoE: 22
   Start Date: 2023-08
   Title: VP (Vice President Of Sales)
-  Previous: Head Of Platform Sales @ Stripe
+  Previous 1: Head Of Platform Sales @ Stripe
+  Previous 2: Head Of Strategic Accounts, Enterprise @ Stripe
   Education: MBA, Harvard Business Sch '11
   LinkedIn: https://linkedin.com/in/robsaliterman
 
-Employee #12
+Employee #15
   Name: Aatish Nayak
   Grad: '17 | YoE: 8
   Start Date: 2023-10
   Title: VP (Vice President Of Product)
-  Previous: Director Of Product @ Scale Ai
+  Previous 1: Director Of Product @ Scale Ai
+  Previous 2: Head Of Product @ Scale Ai
   Education: BS CE, CMU '17
   LinkedIn: https://linkedin.com/in/aatishn
 
-Employee #13
+Employee #16
   Name: Carl Fuda
   Grad: '12 | YoE: 13
   Start Date: 2023-10
   Title: Head Of Partnerships (Head Of Partnerships)
-  Previous: Strategic Account Director @ Nobleai
+  Previous 1: Strategic Account Director @ Nobleai
+  Previous 2: Senior Product Manager @ C3 Ai
   Education: MBA Business, Harvard Business Sch '18
   LinkedIn: https://linkedin.com/in/carlfuda
 
-Employee #14
+Employee #17
   Name: Tobias Boelter
   Grad: '15 | YoE: 10
   Start Date: 2023-10
   Title: Head Of Security (Head Of Security)
-  Previous: Security Engineer (Tech Lead) @ Jump Trading
+  Previous 1: Security Engineer (Tech Lead) @ Jump Trading
+  Previous 2: Staff Security Engineer @ Nuro
   Education: Doctor Of Jurisprude Law, Santa Clara Universi '24
   LinkedIn: https://linkedin.com/in/tobias-boelter
 
-Employee #15
+Employee #18
   Name: Vasudha Rengarajan
   Grad: '19 | YoE: 6
   Start Date: 2023-11
   Title: Engineer (Member Of Technical Staff (Ai / Ml))
-  Previous: Machine Learning Engineer @ Meta
+  Previous 1: Machine Learning Engineer @ Meta
+  Previous 2: Course Assistant Fellow, Cs Department @ Columbia University In The City Of New York
   Education: MS CS, Columbia Engineering '20
   LinkedIn: https://linkedin.com/in/vasudha-rengarajan-90700364
 
-Employee #16
+Employee #19
   Name: Tia Thomson
   Grad: '17 | YoE: 8
   Start Date: 2023-11
   Title: Operations (Operations Lead)
-  Previous: Head Of Business Operations @ Visible Hands
+  Previous 1: Head Of Business Operations @ Visible Hands
+  Previous 2: Chief Of Staff @ Visible Hands
   Education: Chinese Culture, City University Of H
   LinkedIn: https://linkedin.com/in/tiathomson
 
-Employee #17
+Employee #20
   Name: Abhishek Verma
   Grad: '17 | YoE: 8
   Start Date: 2023-11
   Title: Engineer (Member Of Technical Staff)
-  Previous: Senior Software Engineer @ Zipline
+  Previous 1: Senior Software Engineer @ Zipline
+  Previous 2: Senior Software Engineer @ Vanta
   Education: BS CS, UIUC '17
   LinkedIn: https://linkedin.com/in/abhiver

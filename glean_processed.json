@@ -13,6 +13,8 @@
       "original_title": "Founder And Chief Executive Officer",
       "previous_title": "Co-Founder",
       "previous_company": "Rubrik",
+      "previous_title_2": "Distinguished Engineer",
+      "previous_company_2": "Google",
       "education": "MS CS, UW '97",
       "linkedin_url": "https://linkedin.com/in/jain-arvind"
     },
@@ -26,6 +28,8 @@
       "original_title": "Co-Founder",
       "previous_title": "Principal Software Engineer",
       "previous_company": "Meta",
+      "previous_title_2": "Principal Development Lead",
+      "previous_company_2": "Microsoft",
       "education": "MS CS, Lynn University '99",
       "linkedin_url": "https://linkedin.com/in/t-r-vishwanath-a045a9"
     },
@@ -39,6 +43,8 @@
       "original_title": "Co-Founder / Head Of Product Engineer",
       "previous_title": "Founding Member",
       "previous_company": "Post Social",
+      "previous_title_2": "Senior Staff Software Engineer",
+      "previous_company_2": "Google",
       "education": "BS Electronics Engineer, Saint Louis Universi '04",
       "linkedin_url": "https://linkedin.com/in/tonygentilcore"
     },
@@ -52,6 +58,8 @@
       "original_title": "Founding Engineer",
       "previous_title": "Software Engineer, Research",
       "previous_company": "Google",
+      "previous_title_2": "Cofounder",
+      "previous_company_2": "Firestop",
       "education": "BS CS, Princeton '16",
       "linkedin_url": "https://linkedin.com/in/eddie-zhou-70364b54"
     },
@@ -65,6 +73,8 @@
       "original_title": "Digital Marketing Manager",
       "previous_title": "N/A",
       "previous_company": "N/A",
+      "previous_title_2": "N/A",
+      "previous_company_2": "N/A",
       "education": "N/A",
       "linkedin_url": "https://linkedin.com/in/mahsin-hossain-345b87179"
     },
@@ -78,6 +88,8 @@
       "original_title": "Staff Software Engineer",
       "previous_title": "Senior Software Engineer",
       "previous_company": "Chiron Health - A Medici Company",
+      "previous_title_2": "N/A",
+      "previous_company_2": "N/A",
       "education": "BS CS, UT Austin '14",
       "linkedin_url": "https://linkedin.com/in/peter-gi-793361343"
     },
@@ -91,6 +103,8 @@
       "original_title": "Founding Engineer, Engineering Manager",
       "previous_title": "Research Engineer",
       "previous_company": "Vicarious",
+      "previous_title_2": "Summer Scholar",
+      "previous_company_2": "Quality Council Of India(Qci)",
       "education": "Stanford '23",
       "linkedin_url": "https://linkedin.com/in/casawa"
     },
@@ -104,6 +118,8 @@
       "original_title": "Software Engineer",
       "previous_title": "Software Engineer",
       "previous_company": "Google",
+      "previous_title_2": "Software Engineer",
+      "previous_company_2": "Esi An Mks Brand",
       "education": "BS CS, Oregon State Univers '02",
       "linkedin_url": "https://linkedin.com/in/james-simonsen-6914843"
     },
@@ -117,6 +133,8 @@
       "original_title": "Engineering Manager",
       "previous_title": "Software Engineer",
       "previous_company": "Pinterest",
+      "previous_title_2": "Software Engineering Intern",
+      "previous_company_2": "Pinterest",
       "education": "BS CS, UC Berkeley '17",
       "linkedin_url": "https://linkedin.com/in/yiming-jen"
     },
@@ -130,6 +148,8 @@
       "original_title": "Software Engineer",
       "previous_title": "Software Engineer",
       "previous_company": "Meta",
+      "previous_title_2": "Senior Software Engineer",
+      "previous_company_2": "Here Technologies",
       "education": "MS ME, University Of Albert '11",
       "linkedin_url": "https://linkedin.com/in/pophus"
     },
@@ -143,6 +163,8 @@
       "original_title": "Software Engineer",
       "previous_title": "Software Engineer",
       "previous_company": "Dropbox",
+      "previous_title_2": "Software Engineer",
+      "previous_company_2": "Google",
       "education": "PhD CS, University Of Maryla '05",
       "linkedin_url": "https://linkedin.com/in/mustafa-tikir-07a30b2"
     },
@@ -156,6 +178,8 @@
       "original_title": "Head Of Sales",
       "previous_title": "Manager, Inside Enterprise West & U.S. Higher Education Sales",
       "previous_company": "Box",
+      "previous_title_2": "Account Executive, Field Sales",
+      "previous_company_2": "Box",
       "education": "BA Econ, Rutgers University '11",
       "linkedin_url": "https://linkedin.com/in/joshuajchang"
     },
@@ -169,6 +193,8 @@
       "original_title": "Engineer",
       "previous_title": "Member Of Technical Staff",
       "previous_company": "Qubole",
+      "previous_title_2": "Software Development Engineer In Test",
+      "previous_company_2": "Amagi",
       "education": "BTech Electronics Engineer, School Of Engineerin '15",
       "linkedin_url": "https://linkedin.com/in/abhijith-shankar-9b70a898"
     },
@@ -182,6 +208,8 @@
       "original_title": "Engineering Manager",
       "previous_title": "Senior Engineering Manager",
       "previous_company": "Rubrik",
+      "previous_title_2": "Software Engineer",
+      "previous_company_2": "Cloudera",
       "education": "MS CS, Stanford '16",
       "linkedin_url": "https://linkedin.com/in/chustephen"
     },
@@ -195,6 +223,8 @@
       "original_title": "Product Manager",
       "previous_title": "Product Manager",
       "previous_company": "Loom",
+      "previous_title_2": "Corporate Development Manager",
+      "previous_company_2": "Godaddy",
       "education": "BA, UPenn '16",
       "linkedin_url": null
     },
@@ -208,6 +238,8 @@
       "original_title": "Director",
       "previous_title": "Software Engineering Manager",
       "previous_company": "Facebook",
+      "previous_title_2": "Software Design Engineer",
+      "previous_company_2": "Microsoft",
       "education": "MS CS, Ucla '00",
       "linkedin_url": "https://linkedin.com/in/daniel-shen-74bba81b0"
     },
@@ -221,6 +253,8 @@
       "original_title": "Site Lead, India Research & Development",
       "previous_title": "Advisor",
       "previous_company": "Relicx",
+      "previous_title_2": "Head Of Platform",
+      "previous_company_2": "Snorkel Ai",
       "education": "Stanford",
       "linkedin_url": "https://linkedin.com/in/garvitjuniwal"
     },
@@ -234,6 +268,8 @@
       "original_title": "Investor",
       "previous_title": "Investor",
       "previous_company": "Affirm",
+      "previous_title_2": "Co-Founder And Chief Executive Officer",
+      "previous_company_2": "Aden",
       "education": "Y Combinator",
       "linkedin_url": "https://linkedin.com/in/vincentjiangx"
     },
@@ -247,6 +283,8 @@
       "original_title": "Software Engineer",
       "previous_title": "Sde Intern",
       "previous_company": "Globalfair",
+      "previous_title_2": "N/A",
+      "previous_company_2": "N/A",
       "education": "BTech, Heritage Institute O '21",
       "linkedin_url": "https://linkedin.com/in/purvi-jain-083333171"
     },
@@ -260,6 +298,8 @@
       "original_title": "Software Engineer",
       "previous_title": "Sde Intern",
       "previous_company": "Globalfair",
+      "previous_title_2": "N/A",
+      "previous_company_2": "N/A",
       "education": "BTech CS, Heritage Institute O '21",
       "linkedin_url": "https://linkedin.com/in/purvi01"
     },
@@ -273,6 +313,8 @@
       "original_title": "Software Engineer (Ui)",
       "previous_title": "Member Of Technical Staff (Ui)",
       "previous_company": "Clumio",
+      "previous_title_2": "Principal Software Engineer (Ui)",
+      "previous_company_2": "Splunk",
       "education": "Woodbridge High Scho '93",
       "linkedin_url": "https://linkedin.com/in/nathanarritt"
     },
@@ -286,6 +328,8 @@
       "original_title": "Engineering Manager",
       "previous_title": "Angel Investor",
       "previous_company": "Angel Investor",
+      "previous_title_2": "Senior Software Engineer",
+      "previous_company_2": "Google",
       "education": "PhD Physics, Princeton '14",
       "linkedin_url": "https://linkedin.com/in/arjunlandes"
     },
@@ -299,6 +343,8 @@
       "original_title": "Site Reliability Engineer",
       "previous_title": "Senior Site Reliability Engineer",
       "previous_company": "Google",
+      "previous_title_2": "Hp-User Experience Backline Support Engineer",
+      "previous_company_2": "Hp",
       "education": "N/A",
       "linkedin_url": "https://linkedin.com/in/gary-luo-7130014"
     },
@@ -312,6 +358,8 @@
       "original_title": "Search Ranking Tech Lead",
       "previous_title": "Senior Software Engineer",
       "previous_company": "Google",
+      "previous_title_2": "Inference Engineer",
+      "previous_company_2": "Scaled Inference",
       "education": "MS CE, UIUC '13",
       "linkedin_url": "https://linkedin.com/in/wrui"
     },
@@ -325,6 +373,8 @@
       "original_title": "Site Reliability Engineer",
       "previous_title": "Senior Site Reliability Engineer",
       "previous_company": "Google",
+      "previous_title_2": "Hp-User Experience Backline Support Engineer",
+      "previous_company_2": "Hp",
       "education": "N/A",
       "linkedin_url": "https://linkedin.com/in/gary-luo-7130014"
     },
@@ -338,6 +388,8 @@
       "original_title": "Software Engineer",
       "previous_title": "Cs 61B Head Ta",
       "previous_company": "University Of California, Berkeley",
+      "previous_title_2": "Software Engineer Intern",
+      "previous_company_2": "Meta",
       "education": "BS CS, Uc Berkeley College  '21",
       "linkedin_url": "https://linkedin.com/in/omarnabikhan"
     },
@@ -351,6 +403,8 @@
       "original_title": "Software Engineer",
       "previous_title": "Software Engineer",
       "previous_company": "Facebook",
+      "previous_title_2": "Sde Ii",
+      "previous_company_2": "Microsoft",
       "education": "Cornell '10",
       "linkedin_url": "https://linkedin.com/in/gayan-edirisinghe-8472503"
     },
@@ -364,6 +418,8 @@
       "original_title": "Software Engineer",
       "previous_title": "Software Engineer",
       "previous_company": "Stealth Startup",
+      "previous_title_2": "Head Ta For Cs61B",
+      "previous_company_2": "University Of California, Berkeley",
       "education": "BS CS, UC Berkeley '20",
       "linkedin_url": "https://linkedin.com/in/connor-lafferty-b1133516a"
     },
@@ -377,6 +433,8 @@
       "original_title": "Management Accountant",
       "previous_title": "Management Accountant",
       "previous_company": "John Hornby Skewes And Company Limited",
+      "previous_title_2": "Assistant Management Accountant",
+      "previous_company_2": "John Hornby Skewes And Company Limited",
       "education": "Aat",
       "linkedin_url": "https://linkedin.com/in/haydn-ahmed-9104a3191"
     },
@@ -390,6 +448,8 @@
       "original_title": "Account Executive, Strategic Accounts",
       "previous_title": "Enterprise Account Executive",
       "previous_company": "Box",
+      "previous_title_2": "Inside Account Executive",
+      "previous_company_2": "Box",
       "education": "BS Business, University Of San Fr '14",
       "linkedin_url": "https://linkedin.com/in/kyle-dos-remedios"
     },
@@ -403,6 +463,8 @@
       "original_title": "Software Engineer",
       "previous_title": "Software Engineer",
       "previous_company": "Rippling",
+      "previous_title_2": "Microsoft Research",
+      "previous_company_2": "Microsoft",
       "education": "BE CS, Birla Institute Of T '19",
       "linkedin_url": "https://linkedin.com/in/adityaku"
     },
@@ -416,6 +478,8 @@
       "original_title": "Product Designer",
       "previous_title": "Product Designer",
       "previous_company": "Intuit",
+      "previous_title_2": "N/A",
+      "previous_company_2": "N/A",
       "education": "BS Architecture, Stanford '20",
       "linkedin_url": "https://linkedin.com/in/dorothy-kang"
     },
@@ -429,6 +493,8 @@
       "original_title": "Software Engineer",
       "previous_title": "Research Intern",
       "previous_company": "Uppsala University",
+      "previous_title_2": "Research Intern",
+      "previous_company_2": "University Of Warsaw",
       "education": "MS CS, UPenn '21",
       "linkedin_url": "https://linkedin.com/in/shaan-vaidya"
     }

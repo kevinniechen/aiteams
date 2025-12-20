@@ -1,5 +1,5 @@
 DISTYL - EARLIEST EMPLOYEES
-(Founded: 2022-01)
+(Founded: 2023-09)
 ================================================================================
 
 Employee #1
@@ -7,7 +7,8 @@ Employee #1
   Grad: '10 | YoE: 15
   Start Date: 2022-01
   Title: Co-Founder & CEO (Co-Founder, Chief Executive Officer)
-  Previous: Head Of Solutions @ Snorkel Ai
+  Previous 1: Head Of Solutions @ Snorkel Ai
+  Previous 2: Executive @ Palantir Technologies
   Education: BS CE, Cornell '10
   LinkedIn: https://linkedin.com/in/arjunsprakash
 
@@ -16,843 +17,897 @@ Employee #2
   Grad: '09 | YoE: 16
   Start Date: 2022-01
   Title: Co-Founder (Co-Founder, Chief Operations Officer)
-  Previous: Business Development @ Palantir Technologies
+  Previous 1: Business Development @ Palantir Technologies
+  Previous 2: Fixed Income Trader @ Citadel
   Education: BS Accounting, The Wharton School '09
   LinkedIn: https://linkedin.com/in/derek-ho-b760a16
 
 Employee #3
-  Name: Jenn Gamble
-  Grad: '06 | YoE: 19
-  Start Date: 2023-01
-  Title: Data Engineer (Founding Head Of Data Science)
-  Previous: Head Of Data Science @ Stealth Startup
-  Education: PhD EE, North Carolina State '15
-  LinkedIn: https://linkedin.com/in/jenn-gamble
-
-Employee #4
-  Name: Karime Maamari
-  Grad: '18 | YoE: 7
-  Start Date: 2023-01
-  Title: Head Of Research (Head Of Research)
-  Previous: Simulation Engineer @ Nasa Langley Research Center
-  Education: Physics, USC
-  LinkedIn: https://linkedin.com/in/karime-maamari
-
-Employee #5
-  Name: Gillian Jarvis
-  Grad: '12 | YoE: 13
-  Start Date: 2023-01
-  Title: Head Of Brand (Head Of Brand)
-  Previous: Design Advisor @ Zero Prime Ventures
-  Education: Advertising, Humber College
-  LinkedIn: https://linkedin.com/in/gillianjarvis
-
-Employee #6
-  Name: David Lisuk
-  Grad: '10 | YoE: 15
-  Start Date: 2023-05
-  Title: Director (Director Of Engineering)
-  Previous: Head Of Ai / Ml Engineering @ Palantir Technologies
-  Education: MS CS, Uc San Diego '14
-  LinkedIn: https://linkedin.com/in/dlisuk
-
-Employee #7
-  Name: Jessica Hamel
-  Grad: '05 | YoE: 20
-  Start Date: 2023-07
-  Title: Engineer (Software Engineer)
-  Previous: Consulting Software Engineer @ Various Companies
-  Education: MS Journalism, UC Berkeley '14
-  LinkedIn: https://linkedin.com/in/jessihamel
-
-Employee #8
   Name: Yonas Tesfaye
   Grad: '07 | YoE: 18
   Start Date: 2023-09
   Title: Engineering (Engineering)
-  Previous: Partner, Data Science Lead @ Point72 Hyperscale
+  Previous 1: Partner, Data Science Lead @ Point72 Hyperscale
+  Previous 2: Software Engineering Manager @ Apple
   Education: MS Aerospace Engineerin, Stanford '09
   LinkedIn: https://linkedin.com/in/yonas-tesfaye
 
-Employee #9
+Employee #4
   Name: Alex Tran
   Grad: '18 | YoE: 7
   Start Date: 2023-10
   Title: Senior Engineer (Senior Software Engineer)
-  Previous: Founding Engineer @ Swsh
+  Previous 1: Founding Engineer @ Swsh
+  Previous 2: Web Developer @ Lyft
   Education: BS CS, University Of Colora '18
   LinkedIn: https://linkedin.com/in/alex1n
 
-Employee #10
+Employee #5
   Name: Patrick Kolencherry
   Grad: '12 | YoE: 13
   Start Date: 2024-01
   Title: AI Engineer (Ai Strategist)
-  Previous: Product (Latitud Finance, Camu) @ Latitud
+  Previous 1: Product (Latitud Finance, Camu) @ Latitud
+  Previous 2: Platform Marketing @ Snorkel Ai
   Education: Math, University Of Warwic
   LinkedIn: https://linkedin.com/in/kolencherryp
 
-Employee #11
+Employee #6
   Name: Connor Landy
   Grad: '13 | YoE: 12
   Start Date: 2024-01
   Title: Product (Product)
-  Previous: Product Data Science @ Airtable
+  Previous 1: Product Data Science @ Airtable
+  Previous 2: Commercial Lead And Data Science @ Palantir Technologies
   Education: Chinese Language, National Taiwan Univ '14
   LinkedIn: https://linkedin.com/in/connorlandy
 
-Employee #12
+Employee #7
   Name: Will Morley
   Grad: '23 | YoE: 2
   Start Date: 2024-01
   Title: Engineering (Engineering)
-  Previous: Software Engineer, Machine Learning @ Arcus
+  Previous 1: Software Engineer, Machine Learning @ Arcus
+  Previous 2: Machine Learning Engineer @ Curv Ai
   Education: Bachelor Of Applied  CE, University Of Toront '23
   LinkedIn: https://linkedin.com/in/will-morley
 
-Employee #13
+Employee #8
   Name: Daniel Jaroslawicz
   Grad: '19 | YoE: 6
   Start Date: 2024-03
   Title: AI Engineer (Ai Research Engineer)
-  Previous: Advanced Ai Scientist @ Benevolentai
+  Previous 1: Advanced Ai Scientist @ Benevolentai
+  Previous 2: Ai Scientist @ Benevolentai
   Education: MS CS, Columbia '20
   LinkedIn: https://linkedin.com/in/djaroslawicz
 
-Employee #14
+Employee #9
   Name: David Roth
   Grad: '18 | YoE: 7
   Start Date: 2024-04
   Title: AI Engineer (Ai Engineer)
-  Previous: Research Fellow @ Zillow
+  Previous 1: Research Fellow @ Zillow
+  Previous 2: Data Science / Machine Learning Engineering Intern @ Spotify
   Education: MS Data Science, Nyu Center For Data  '23
   LinkedIn: https://linkedin.com/in/david-s-roth
 
-Employee #15
+Employee #10
   Name: Edward Chew
   Grad: '23 | YoE: 2
   Start Date: 2024-06
   Title: Frontend Engineer (Frontend Engineer)
-  Previous: Co-Founder, President @ Codelab
+  Previous 1: Co-Founder, President @ Codelab
+  Previous 2: Software Engineer Intern @ Ibm
   Education: BS CS, University Of Califo '23
   LinkedIn: https://linkedin.com/in/edwardchew8
 
-Employee #16
+Employee #11
   Name: Eng Marie-Philippe Gill
   Grad: '18 | YoE: 7
   Start Date: 2024-07
   Title: AI Engineer (Ai Engineer)
-  Previous: Nlp Research Developer @ Croesus
+  Previous 1: Nlp Research Developer @ Croesus
+  Previous 2: Visiting Graduate Student @ Johns Hopkins Whiting School Of Engineering
   Education: MS Engineering, École De Technologie '21
   LinkedIn: https://linkedin.com/in/mariephilippegill
 
-Employee #17
+Employee #12
   Name: Jake Wallin
   Grad: '21 | YoE: 4
   Start Date: 2024-09
   Title: AI Engineer (Ai Engineer)
-  Previous: Software Engineer @ Arista Networks
+  Previous 1: Software Engineer @ Arista Networks
+  Previous 2: Software Engineer Intern @ Arista Networks
   Education: MS CS, Ucla '22
   LinkedIn: https://linkedin.com/in/jake-wallin-716255179
 
-Employee #18
+Employee #13
   Name: Deep Patel
   Grad: '15 | YoE: 10
   Start Date: 2024-09
   Title: AI Engineer (Applied Ai Researcher)
-  Previous: Senior Software Engineer @ Gitstart
+  Previous 1: Senior Software Engineer @ Gitstart
+  Previous 2: Software Engineer @ Oscar Health
   Education: The Hong Kong Univer '14
   LinkedIn: https://linkedin.com/in/patel-deep
 
-Employee #19
+Employee #14
   Name: Tony Yates
   Grad: '96 | YoE: 29
   Start Date: 2024-10
   Title: Product (Founding Product Designer)
-  Previous: Solopreneur @ Studio Y
+  Previous 1: Solopreneur @ Studio Y
+  Previous 2: N/A @ N/A
   Education: Architecture, UW '13
   LinkedIn: https://linkedin.com/in/tonyatmononymous
 
-Employee #20
+Employee #15
   Name: Emily Broadhurst
   Grad: '23 | YoE: 2
   Start Date: 2024-10
   Title: AI Engineer (Ai Engineer)
-  Previous: Research Science Instructor @ Inspirit Ai
+  Previous 1: Research Science Instructor @ Inspirit Ai
+  Previous 2: Software Engineer @ Joby Aviation
   Education: MS CS, Stanford '24
   LinkedIn: https://linkedin.com/in/emily-broadhurst-85b425157
 
-Employee #21
+Employee #16
   Name: Joseph Edell
   Grad: '21 | YoE: 4
   Start Date: 2024-10
   Title: Tech Lead (Tech Lead)
-  Previous: Analyst @ Goldman Sachs
+  Previous 1: Analyst @ Goldman Sachs
+  Previous 2: Software Engineer @ Brewsy
   Education: MS CS, NYU '23
   LinkedIn: https://linkedin.com/in/joseph-edell-63b267139
 
-Employee #22
+Employee #17
   Name: Tessa Jones
   Grad: '17 | YoE: 8
   Start Date: 2024-10
   Title: Platform Engineer (Platform Engineer)
-  Previous: Senior Software Engineer @ Maza
+  Previous 1: Senior Software Engineer @ Maza
+  Previous 2: Senior Software Engineer @ Carbon Health
   Education: The University Of Ed '15
   LinkedIn: https://linkedin.com/in/tessakjones
 
-Employee #23
+Employee #18
   Name: Brian Coyle
   Grad: '99 | YoE: 26
   Start Date: 2024-11
   Title: AI Engineer (Ai Strategist)
-  Previous: Head Of Post Sales Services Strategy And Programs @ Twilio
+  Previous 1: Head Of Post Sales Services Strategy And Programs @ Twilio
+  Previous 2: Product Manager At United States Digital Service @ U.S. Doge Service
   Education: BS Computer Information, Manhattan University '99
   LinkedIn: https://linkedin.com/in/bccoyle
 
-Employee #24
+Employee #19
   Name: Omar Bekdash
   Grad: '22 | YoE: 3
   Start Date: 2024-11
   Title: PM (Ai Strategist (Technical Project / Product Manager))
-  Previous: Data Science Consulting Analyst In Marketing And Sales @ Mckinsey & Company
+  Previous 1: Data Science Consulting Analyst In Marketing And Sales @ Mckinsey & Company
+  Previous 2: Data Science Intern @ Paypal
   Education: BS CS, Cornell '22
   LinkedIn: https://linkedin.com/in/omar-ryan-bekdash
 
-Employee #25
+Employee #20
   Name: Michelle Wetzler
   Grad: '05 | YoE: 20
   Start Date: 2024-11
   Title: Head Of Program Management (Head Of Program Management)
-  Previous: Senior Director, Head Of Global Professional Services (Flex) @ Twilio
+  Previous 1: Senior Director, Head Of Global Professional Services (Flex) @ Twilio
+  Previous 2: Chief Data Scientist @ Keen
   Education: Business, UIUC '06
   LinkedIn: https://linkedin.com/in/michellewetzler
 
-Employee #26
+Employee #21
   Name: Aryeh Klein
   Grad: '20 | YoE: 5
   Start Date: 2024-12
   Title: AI Engineer (Ai Engineer)
-  Previous: Software Development Engineer Iii @ Amazon Web Services (Aws)
+  Previous 1: Software Development Engineer Iii @ Amazon Web Services (Aws)
+  Previous 2: Software Development Engineer Ii @ Amazon Web Services (Aws)
   Education: BA CS, Yeshiva University '20
   LinkedIn: https://linkedin.com/in/aryeh-klein-670527150
 
-Employee #27
+Employee #22
   Name: Jerrell Taylor
   Grad: '12 | YoE: 13
   Start Date: 2025-01
   Title: AI Engineer (Ai Strategist)
-  Previous: Co-Founder - Product & Ai Lead @ Centauru Ai
+  Previous 1: Co-Founder - Product & Ai Lead @ Centauru Ai
+  Previous 2: Senior Product Manager @ Toptal
   Education: BA Creative Writing, University Of North  '12
   LinkedIn: https://linkedin.com/in/jerrell-taylor-5b070841
 
-Employee #28
+Employee #23
   Name: Aisha Quaintance
   Grad: '05 | YoE: 20
   Start Date: 2025-01
   Title: Advisor (Principal Advisor & Head Of Partnerships, Strategy & Growth)
-  Previous: Advisory Board Member For Data Leadership Collaborative @ Salesforce
+  Previous 1: Advisory Board Member For Data Leadership Collaborative @ Salesforce
+  Previous 2: Advisor (Previous Vice President Strategic Development) @ Relationalai
   Education: Georgia State Univer
   LinkedIn: https://linkedin.com/in/aishaquaintance
 
-Employee #29
+Employee #24
   Name: Kwadwo Nyarko
   Grad: '12 | YoE: 13
   Start Date: 2025-01
   Title: AI Engineer (Ai Engineer)
-  Previous: Co-Founder @ Nophin (Yc W22)
+  Previous 1: Co-Founder @ Nophin (Yc W22)
+  Previous 2: Co-Founder & Chief Technology Officer @ Sourcediv
   Education: MEng CS, Cornell Tech '14
   LinkedIn: https://linkedin.com/in/kwadwo-nyarko
 
-Employee #30
+Employee #25
   Name: Ravi Bhandia
   Grad: '18 | YoE: 7
   Start Date: 2025-01
   Title: AI Engineer (Ai Strategist)
-  Previous: Product Manager - Generative Ai (Acquired Through Armorblox) @ Cisco
+  Previous 1: Product Manager - Generative Ai (Acquired Through Armorblox) @ Cisco
+  Previous 2: Mentee @ First Round Fast Track
   Education: MS Data Science, UC Berkeley '20
   LinkedIn: https://linkedin.com/in/ravibhandia
 
-Employee #31
+Employee #26
   Name: Brendan Whiting
   Grad: '14 | YoE: 11
   Start Date: 2025-01
   Title: AI Engineer (Ai Engineer)
-  Previous: Engineer @ Arena
+  Previous 1: Engineer @ Arena
+  Previous 2: Front End Engineer Ii @ Amazon Web Services (Aws)
   Education: Software Engineering, General Assembly '18
   LinkedIn: https://linkedin.com/in/brendan-whiting
 
-Employee #32
+Employee #27
   Name: Eric Yu
   Grad: '15 | YoE: 10
   Start Date: 2025-01
   Title: AI Engineer (Ai Engineer)
-  Previous: Research @ Morph Labs
+  Previous 1: Research @ Morph Labs
+  Previous 2: Senior Software Engineer, Research @ Snorkel Ai
   Education: BS Bioengineering, UC Berkeley '15
   LinkedIn: https://linkedin.com/in/eric-yu-63606831
 
-Employee #33
+Employee #28
   Name: Ozden Onder
   Grad: '04 | YoE: 21
   Start Date: 2025-01
   Title: Fractional People & Talent Lea (Fractional People & Talent Leader)
-  Previous: People Strategy Consultant @ Alpeniq
+  Previous 1: People Strategy Consultant @ Alpeniq
+  Previous 2: Strategic Advisor @ Advolve.Ai
   Education: MA Econ, San Francisco State  '07
   LinkedIn: https://linkedin.com/in/oonder
 
-Employee #34
+Employee #29
   Name: Yosser D'Avanzo
   Grad: '18 | YoE: 7
   Start Date: 2025-01
   Title: AI Engineer (Ai Engineer)
-  Previous: Senior Software Engineer @ Scale Ai
+  Previous 1: Senior Software Engineer @ Scale Ai
+  Previous 2: Senior Software Development Engineer @ Cruise
   Education: BS ME, CMU '18
   LinkedIn: https://linkedin.com/in/yosser-d-avanzo-895768115
 
-Employee #35
+Employee #30
   Name: Pranav Menon
   Grad: '16 | YoE: 9
   Start Date: 2025-01
   Title: AI Engineer (Ai Engineer)
-  Previous: Senior Data Scientist / Mle (Tech Lead) @ C3 Ai
+  Previous 1: Senior Data Scientist / Mle (Tech Lead) @ C3 Ai
+  Previous 2: Machine Learning Engineer (Computer Vision) @ Grabango
   Education: CS, Udacity '19
   LinkedIn: https://linkedin.com/in/psmenon
 
-Employee #36
+Employee #31
   Name: Rob Schwartz
   Grad: '21 | YoE: 4
   Start Date: 2025-01
   Title: AI Engineer (Ai Strategist)
-  Previous: Product Manager @ Nfx
+  Previous 1: Product Manager @ Nfx
+  Previous 2: Analyst @ Nfx
   Education: BA Math, UC Berkeley '21
   LinkedIn: https://linkedin.com/in/r-schwartz
 
-Employee #37
+Employee #32
   Name: Vijay Candade
   Grad: '08 | YoE: 17
   Start Date: 2025-01
   Title: Strategy & Growth (Strategy & Growth)
-  Previous: Head Of Marketplace @ Scale Ai
+  Previous 1: Head Of Marketplace @ Scale Ai
+  Previous 2: Strategy @ Hp
   Education: MBA, Columbia '16
   LinkedIn: https://linkedin.com/in/vijay-candade
 
-Employee #38
+Employee #33
   Name: Alba Rodriguez
   Grad: '12 | YoE: 13
   Start Date: 2025-01
   Title: AI Engineer (Strategy & Growth | Agentic Ai)
-  Previous: Strategy, And Central Pmo @ Kkr
+  Previous 1: Strategy, And Central Pmo @ Kkr
+  Previous 2: Chief Of Staff (Former Operations, Corporate Development) @ Careem
   Education: MBA, Stanford '24
   LinkedIn: https://linkedin.com/in/alba-rubio-rodriguez-4a791365
 
-Employee #39
+Employee #34
   Name: Vitoria Lima
   Grad: '20 | YoE: 5
   Start Date: 2025-01
   Title: AI Engineer (Ai Deployment Strategist)
-  Previous: Machine Learning Engineer @ Weights & Biases
+  Previous 1: Machine Learning Engineer @ Weights & Biases
+  Previous 2: Data Science Teaching Fellow @ Harvard University
   Education: MIT '22
   LinkedIn: https://linkedin.com/in/thevitorialima
 
-Employee #40
+Employee #35
   Name: Jiahao Dong
   Grad: '21 | YoE: 4
   Start Date: 2025-01
   Title: AI Engineer (Ai Engineer)
-  Previous: Software Engineer @ Eyenuk, Inc.
+  Previous 1: Software Engineer @ Eyenuk, Inc.
+  Previous 2: Machine Learning Researcher @ Cornell Tech
   Education: MS, Cornell Tech '23
   LinkedIn: https://linkedin.com/in/jiahaodong
 
-Employee #41
+Employee #36
   Name: Gautham R
   Grad: '25 | YoE: ?
   Start Date: 2025-01
   Title: AI Engineer (Ai Strategist)
-  Previous: N/A @ N/A
+  Previous 1: N/A @ N/A
+  Previous 2: N/A @ N/A
   Education: Monta Vista High Sch
   LinkedIn: https://linkedin.com/in/gurugautham
 
-Employee #42
+Employee #37
   Name: Wilbur W
   Grad: '22 | YoE: 3
   Start Date: 2025-01
   Title: AI Engineer (Ai Strategist)
-  Previous: Senior Business Analyst @ Mckinsey & Company
+  Previous 1: Senior Business Analyst @ Mckinsey & Company
+  Previous 2: N/A @ N/A
   Education: MEng Financial Engineerin, Princeton
   LinkedIn: https://linkedin.com/in/wilbur-w-6a5b33144
 
-Employee #43
+Employee #38
   Name: Erica Lee
   Grad: '15 | YoE: 10
   Start Date: 2025-02
   Title: People & Talent Analyst (People & Talent Analyst)
-  Previous: Senior People Operations Manager @ Daybreak
+  Previous 1: Senior People Operations Manager @ Daybreak
+  Previous 2: People Operations Manager @ Daybreak
   Education: MBA, University Of San Fr '19
   LinkedIn: https://linkedin.com/in/ericaglee
 
-Employee #44
+Employee #39
   Name: Jessie Ko
   Grad: '21 | YoE: 4
   Start Date: 2025-02
   Title: Operations (Operations Analyst)
-  Previous: Global Benefits Operations Analyst @ Uber
+  Previous 1: Global Benefits Operations Analyst @ Uber
+  Previous 2: People Operations Coordinator @ Clari
   Education: BS Business, University Of San Fr '21
   LinkedIn: https://linkedin.com/in/jessie-ko
 
-Employee #45
+Employee #40
   Name: William Minnis
   Grad: '23 | YoE: 2
   Start Date: 2025-02
   Title: Engineer (Software Engineer)
-  Previous: Software Engineer @ Goldman Sachs
+  Previous 1: Software Engineer @ Goldman Sachs
+  Previous 2: Head Of Protocol Governance @ Blockchain At Berkeley
   Education: BS CS, UC Berkeley '23
   LinkedIn: https://linkedin.com/in/willminnis
 
-Employee #46
+Employee #41
   Name: Vashisht Anand
   Grad: '14 | YoE: 11
   Start Date: 2025-02
   Title: AI Engineer (Ai Strategist)
-  Previous: Product And Strategy (Founding Team) @ Sequio.Ai
+  Previous 1: Product And Strategy (Founding Team) @ Sequio.Ai
+  Previous 2: Product Manager @ Anthill Ventures
   Education: MS Engineering, San José State Unive '24
   LinkedIn: https://linkedin.com/in/vga5
 
-Employee #47
+Employee #42
   Name: Yenchia Feng
   Grad: '18 | YoE: 7
   Start Date: 2025-03
   Title: AI Engineer (Applied Ai Researcher)
-  Previous: Data Scientist & Research Lead @ Studycat
+  Previous 1: Data Scientist & Research Lead @ Studycat
+  Previous 2: Data Science Intern @ Studycat
   Education: PhD, Stanford '23
   LinkedIn: https://linkedin.com/in/yenchia-feng
 
-Employee #48
+Employee #43
   Name: Rahul Singhal
   Grad: '24 | YoE: 1
   Start Date: 2025-03
   Title: Researcher (Researcher)
-  Previous: Software Engineer Intern @ Liveramp
+  Previous 1: Software Engineer Intern @ Liveramp
+  Previous 2: Research Engineer Intern @ Cornell Recursion And Learning Lab
   Education: MEng CS, Cornell '24
   LinkedIn: https://linkedin.com/in/rahul3402
 
-Employee #49
+Employee #44
+  Name: Gillian Jarvis
+  Grad: '12 | YoE: 13
+  Start Date: 2025-04
+  Title: Head Of Brand (Head Of Brand)
+  Previous 1: Design Advisor @ Zero Prime Ventures
+  Previous 2: Design Director @ Twist Bioscience
+  Education: Advertising, Humber College
+  LinkedIn: https://linkedin.com/in/gillianjarvis
+
+Employee #45
   Name: David Mcnerney
   Grad: '98 | YoE: 27
   Start Date: 2025-04
   Title: Platform Engineer (Platform Engineer)
-  Previous: Head Of Engineering @ Branch Care
+  Previous 1: Head Of Engineering @ Branch Care
+  Previous 2: Tech Lead / Manager @ Flatiron Health
   Education: BA Chemistry, University Of Califo
   LinkedIn: https://linkedin.com/in/david-mcnerney-08178168
 
-Employee #50
+Employee #46
   Name: Bryan Rivera
   Grad: '19 | YoE: 6
   Start Date: 2025-04
   Title: Senior Engineer (Senior Software Engineer)
-  Previous: Senior Software Engineer @ Coursera
+  Previous 1: Senior Software Engineer @ Coursera
+  Previous 2: Software Engineering Intern @ Coursera
   Education: BS CS, University Of Florid '19
   LinkedIn: https://linkedin.com/in/riverab
 
-Employee #51
+Employee #47
   Name: Nitesh Nagpal
   Grad: '20 | YoE: 5
   Start Date: 2025-04
   Title: AI Engineer (Ai Strategist)
-  Previous: Data & Ai Consultant @ Guidehouse
+  Previous 1: Data & Ai Consultant @ Guidehouse
+  Previous 2: Advanced Solutions Intern - Business And It Strategy @ Guidehouse
   Education: UC Berkeley '23
   LinkedIn: https://linkedin.com/in/nitesh-nagpal
 
-Employee #52
+Employee #48
   Name: Smarth Gupta
   Grad: '20 | YoE: 5
   Start Date: 2025-04
   Title: AI Engineer (Ai Engineer)
-  Previous: Data Scientist | Founding Team @ Spiny.Ai
+  Previous 1: Data Scientist | Founding Team @ Spiny.Ai
+  Previous 2: Member Of Technical Staff @ Eightfold
   Education: MS Data Science, Columbia '22
   LinkedIn: https://linkedin.com/in/smarth-gupta
 
-Employee #53
+Employee #49
   Name: Aria Eghbali
   Grad: '24 | YoE: 1
   Start Date: 2025-04
   Title: AI Engineer (Ai Strategist)
-  Previous: Analyst @ Morgan Stanley
+  Previous 1: Analyst @ Morgan Stanley
+  Previous 2: Graduate Teaching Assistant @ University Of Pennsylvania Engineering
   Education: MS CS, UPenn '24
   LinkedIn: https://linkedin.com/in/aria-eghbali
 
-Employee #54
+Employee #50
   Name: Vedant Sahai
   Grad: '21 | YoE: 4
   Start Date: 2025-04
   Title: AI Engineer (Ai Engineer)
-  Previous: Machine Learning Engineer @ Julep Ai
+  Previous 1: Machine Learning Engineer @ Julep Ai
+  Previous 2: Teaching Assistant @ Penn State University
   Education: MS CS, Penn State Universit '24
   LinkedIn: https://linkedin.com/in/vedantsahai18
 
-Employee #55
+Employee #51
   Name: Rachel O
   Grad: '22 | YoE: 3
   Start Date: 2025-04
   Title: Frontend Engineer (Frontend Engineer)
-  Previous: Software Engineer @ Alteryx
+  Previous 1: Software Engineer @ Alteryx
+  Previous 2: Research Intern (Explorecsr) @ Brown University
   Education: BS CS, Nyu Tandon School Of '22
   LinkedIn: https://linkedin.com/in/rachelombok
 
-Employee #56
+Employee #52
   Name: Kulbir Singh
   Grad: '25 | YoE: ?
   Start Date: 2025-04
   Title: AI Engineer (Ai Strategist (Fwd Deployed Engineer))
-  Previous: Seattle Chapter Lead @ The Ai Collective
+  Previous 1: Seattle Chapter Lead @ The Ai Collective
+  Previous 2: Research @ University Of Washington
   Education: BS Design, UW '25
   LinkedIn: https://linkedin.com/in/kulbir123
 
-Employee #57
+Employee #53
   Name: Andre Chen
   Grad: '18 | YoE: 7
   Start Date: 2025-05
   Title: AI Engineer (Ai Engineer)
-  Previous: Senior Data Scientist, Generative Ai @ Accenture Federal Services
+  Previous 1: Senior Data Scientist, Generative Ai @ Accenture Federal Services
+  Previous 2: Data Scientist, Generative Ai @ Accenture Federal Services
   Education: MS Data Science, NYU '23
   LinkedIn: https://linkedin.com/in/andre-chen1
 
-Employee #58
+Employee #54
   Name: Heather Katz
   Grad: '06 | YoE: 19
   Start Date: 2025-05
   Title: AI Engineer (Enterprise Ai Delivery Manager)
-  Previous: Head Of Document Platforms @ Geico
+  Previous 1: Head Of Document Platforms @ Geico
+  Previous 2: Assistant Vice President | Underwriting Systems @ Geico
   Education: MS Business, Tain '08
   LinkedIn: https://linkedin.com/in/heatherkatz
 
-Employee #59
+Employee #55
   Name: Louis Penafiel
   Grad: '18 | YoE: 7
   Start Date: 2025-05
   Title: Platform Engineer (Ai Platform Engineer)
-  Previous: Senior Research Engineer | Data Scientist @ Aptima
+  Previous 1: Senior Research Engineer | Data Scientist @ Aptima
+  Previous 2: Lead, Artificial Intelligence Technologies @ Aptima
   Education: MS Physics, Cornell '20
   LinkedIn: https://linkedin.com/in/jorelpenafiel
 
-Employee #60
+Employee #56
   Name: Mustafa Mirza
   Grad: '25 | YoE: ?
   Start Date: 2025-05
   Title: AI Engineer (Ai Engineer)
-  Previous: Software Engineer Intern @ Deductive Ai
+  Previous 1: Software Engineer Intern @ Deductive Ai
+  Previous 2: Teaching Assistant - Cs 188 (Artificial Intelligence) @ Uc Berkeley Electrical Engineering & Computer Sciences (Eecs)
   Education: BA CS, UC Berkeley '25
   LinkedIn: https://linkedin.com/in/mustafa-mirza-460551234
 
-Employee #61
+Employee #57
   Name: Akshat Vaidya
   Grad: '18 | YoE: 7
   Start Date: 2025-05
   Title: AI Engineer (Ai Strategist)
-  Previous: Product Manager @ Prodigal
+  Previous 1: Product Manager @ Prodigal
+  Previous 2: Associate Product Manager @ Prodigal
   Education: MS Information Systems, University Of Maryla '19
   LinkedIn: https://linkedin.com/in/akshat-vaidya
 
-Employee #62
+Employee #58
   Name: Anish Dulla
   Grad: '24 | YoE: 1
   Start Date: 2025-05
   Title: AI Engineer (Ai Strategist (Fde))
-  Previous: Data Scientist @ Adobe
+  Previous 1: Data Scientist @ Adobe
+  Previous 2: Data Science Intern @ Adobe
   Education: BS Data Science, Ucla '24
   LinkedIn: https://linkedin.com/in/anish-dulla
 
-Employee #63
+Employee #59
   Name: Mihir Sawhney
   Grad: '25 | YoE: ?
   Start Date: 2025-05
   Title: AI Engineer (Ai Engineer (Tpm))
-  Previous: Technical Product Manager Intern @ Adobe
+  Previous 1: Technical Product Manager Intern @ Adobe
+  Previous 2: Ai & Ml Intern @ Mercor
   Education: BS Econ, Ucla '25
   LinkedIn: https://linkedin.com/in/mihir-sawhney-8b466924a
 
-Employee #64
+Employee #60
   Name: Joshua Shou
   Grad: '23 | YoE: 2
   Start Date: 2025-05
   Title: AI Engineer (Ai Engineer)
-  Previous: Ai Software Engineer @ Instalily Ai
+  Previous 1: Ai Software Engineer @ Instalily Ai
+  Previous 2: Quantitative Trader @ Imc Trading
   Education: BS Math, University Of Chicag '23
   LinkedIn: https://linkedin.com/in/joshua-shou-43a107199
 
-Employee #65
+Employee #61
   Name: Tianxiao Li
   Grad: '23 | YoE: 2
   Start Date: 2025-05
   Title: AI Engineer (Ai Engineer)
-  Previous: Research Engineer @ University Of Toronto
+  Previous 1: Research Engineer @ University Of Toronto
+  Previous 2: Ai Engineer @ Intact
   Education: MEng CS, UC Berkeley '25
   LinkedIn: https://linkedin.com/in/tonyltx
 
-Employee #66
+Employee #62
   Name: Nicholas Gannon
   Grad: '20 | YoE: 5
   Start Date: 2025-05
   Title: AI Engineer (Ai Engineer)
-  Previous: Analytics And Ai - Data Scientist And Software Engineer @ Pwc
+  Previous 1: Analytics And Ai - Data Scientist And Software Engineer @ Pwc
+  Previous 2: Data Analyst And Software Engineer @ Lifestacks
   Education: MS Data Science, Tufts University '22
   LinkedIn: https://linkedin.com/in/nicholas-gannon-ba922a157
 
-Employee #67
+Employee #63
   Name: Hemantha Bharadwaj
   Grad: '22 | YoE: 3
   Start Date: 2025-05
   Title: AI Engineer (Ai Engineer)
-  Previous: Ai / Ml Lead @ Rippleworx
+  Previous 1: Ai / Ml Lead @ Rippleworx
+  Previous 2: Generative Ai Technical Lead @ Airlinq
   Education: MS CE, Georgia Tech '24
   LinkedIn: https://linkedin.com/in/hemantha-krishna-bharadwaj-2504a21ab
 
-Employee #68
+Employee #64
   Name: Ankit Kumar
   Grad: '12 | YoE: 13
   Start Date: 2025-05
   Title: PM (Ai Product Manager | Strategist)
-  Previous: Senior Product Manager @ Datavant
+  Previous 1: Senior Product Manager @ Datavant
+  Previous 2: Senior Product Manager @ Sattva Consulting
   Education: MBA, Mays Business School '17
   LinkedIn: https://linkedin.com/in/ankit10k
 
-Employee #69
+Employee #65
   Name: Brad Freitag
   Grad: '94 | YoE: 31
   Start Date: 2025-06
   Title: Advisor (Principal Advisor)
-  Previous: Chief Executive Officer @ Claris, An Apple Company
+  Previous 1: Chief Executive Officer @ Claris, An Apple Company
+  Previous 2: Employee @ Apple
   Education: BS, Loyola University Ch
   LinkedIn: https://linkedin.com/in/bradfreitag
 
-Employee #70
+Employee #66
   Name: Natasha Prats
   Grad: '09 | YoE: 16
   Start Date: 2025-06
   Title: AI Engineer (Ai Strategist)
-  Previous: Product Management Leader @ Sabbatical
+  Previous 1: Product Management Leader @ Sabbatical
+  Previous 2: Senior Product Manager @ Intuit
   Education: MA Design, Stanford '14
   LinkedIn: https://linkedin.com/in/natasha-prats
 
-Employee #71
+Employee #67
   Name: Levi Gordon
   Grad: '13 | YoE: 12
   Start Date: 2025-06
   Title: Operations (Operations Coordinator)
-  Previous: Community Associate @ Wework
+  Previous 1: Community Associate @ Wework
+  Previous 2: Research And Filing Assistant @ Tuff City Records
   Education: BS Engineering, American College Of  '13
   LinkedIn: https://linkedin.com/in/levi-gordon-58a78036
 
-Employee #72
+Employee #68
   Name: Austin Fischer
   Grad: '17 | YoE: 8
   Start Date: 2025-06
   Title: AI Engineer (Ai Engineer)
-  Previous: Senior Machine Learning Engineer @ Rapidscale
+  Previous 1: Senior Machine Learning Engineer @ Rapidscale
+  Previous 2: Machine Learning Engineer @ Rapidscale
   Education: MS CS, Georgia Tech '26
   LinkedIn: https://linkedin.com/in/alfischer33
 
-Employee #73
+Employee #69
   Name: Durga Saluru
   Grad: '21 | YoE: 4
   Start Date: 2025-06
   Title: AI Engineer (Applied Ai Researcher)
-  Previous: Intern - Research Engineer @ Quantiphi
+  Previous 1: Intern - Research Engineer @ Quantiphi
+  Previous 2: Artificial Intelligence Intern @ Aira Technologies
   Education: MS CS, University Of Massac '25
   LinkedIn: https://linkedin.com/in/durga-sandeep-saluru-391301144
 
-Employee #74
+Employee #70
   Name: Michael Liu
   Grad: '15 | YoE: 10
   Start Date: 2025-06
   Title: AI Engineer (Ai Strategist)
-  Previous: Lead Data Scientist @ Mckinsey & Company
+  Previous 1: Lead Data Scientist @ Mckinsey & Company
+  Previous 2: Lead Data Scientist @ Quantumblack, Ai By Mckinsey
   Education: MS Data Science, University Of Chicag '20
   LinkedIn: https://linkedin.com/in/mairuo
 
-Employee #75
+Employee #71
   Name: Michael Amoako
   Grad: '19 | YoE: 6
   Start Date: 2025-06
   Title: AI Engineer (Ai Strategist)
-  Previous: Summer Associate @ Mckinsey & Company
+  Previous 1: Summer Associate @ Mckinsey & Company
+  Previous 2: Pre-Mba Intern @ Wellington Management
   Education: MBA Engineering, Harvard Business Sch '25
   LinkedIn: https://linkedin.com/in/mkamoako
 
-Employee #76
+Employee #72
   Name: Juan Castillo
   Grad: '18 | YoE: 7
   Start Date: 2025-06
   Title: AI Engineer (Ai User Experience Researcher)
-  Previous: Student Researcher (Aiux) @ Google Deepmind
+  Previous 1: Student Researcher (Aiux) @ Google Deepmind
+  Previous 2: Data Scientist (Intelligent Agents) @ Enterra Solutions, Llc
   Education: PhD Psychology, Harvard Kenneth C. G '25
   LinkedIn: https://linkedin.com/in/juancastillo-jr
 
-Employee #77
+Employee #73
   Name: Abhishek Goyal
   Grad: '21 | YoE: 4
   Start Date: 2025-06
   Title: AI Engineer (Ai Engineer)
-  Previous: Generative Ai Engineer @ New Rhein Healthcare Investors
+  Previous 1: Generative Ai Engineer @ New Rhein Healthcare Investors
+  Previous 2: Graduate Research Assistant @ University Of Pennsylvania
   Education: MS Photography, UPenn '25
   LinkedIn: https://linkedin.com/in/abhishekgoyal2358
 
-Employee #78
+Employee #74
   Name: Heeyoung Kwon
   Grad: '13 | YoE: 12
   Start Date: 2025-07
   Title: AI Engineer (Ai Engineer)
-  Previous: Research Scientist @ Meta
+  Previous 1: Research Scientist @ Meta
+  Previous 2: Phd Software Engineer Intern @ Meta
   Education: PhD CS, Stony Brook Universi '19
   LinkedIn: https://linkedin.com/in/heeyoung-kwon-9b1b6b2a
 
-Employee #79
+Employee #75
   Name: Saumyaa Mehra
   Grad: '21 | YoE: 4
   Start Date: 2025-07
   Title: Product (Product Designer)
-  Previous: Product Designer @ Kwikly Dental Staffing
+  Previous 1: Product Designer @ Kwikly Dental Staffing
+  Previous 2: Product Designer @ Sony
   Education: MS Design, UW '25
   LinkedIn: https://linkedin.com/in/saumyaamehra
 
-Employee #80
+Employee #76
   Name: Pranav Burugula
   Grad: '23 | YoE: 2
   Start Date: 2025-07
   Title: Platform Engineer (Ai Platform Engineer)
-  Previous: Software Development Engineer @ Amazon
+  Previous 1: Software Development Engineer @ Amazon
+  Previous 2: Software Development Engineering Intern @ Amazon
   Education: Management, UIUC '23
   LinkedIn: https://linkedin.com/in/pranavburugula
 
-Employee #81
+Employee #77
   Name: Yonida Mulita
   Grad: '07 | YoE: 18
   Start Date: 2025-07
   Title: Founding Recruiter - Distyllin (Founding Recruiter - Distylling Talent Across All Roles P0)
-  Previous: Senior Recruiter @ Amazon
+  Previous 1: Senior Recruiter @ Amazon
+  Previous 2: Lead Recruiter, Digital And Analytics @ Mckinsey & Company
   Education: BS, Empire State College '07
   LinkedIn: https://linkedin.com/in/yonida-mulita-she-her-9a08361a
 
-Employee #82
+Employee #78
   Name: Cameron Alizadeh
   Grad: '16 | YoE: 9
   Start Date: 2025-08
   Title: Platform Engineer (Ai Platform Engineer)
-  Previous: Software Engineer Ii @ Amazon Web Services (Aws)
+  Previous 1: Software Engineer Ii @ Amazon Web Services (Aws)
+  Previous 2: Starlink Software Engineer @ Spacex
   Education: Engineering, University Of Toront '20
   LinkedIn: https://linkedin.com/in/cdalizadeh
 
-Employee #83
+Employee #79
   Name: Noah G
   Grad: '19 | YoE: 6
   Start Date: 2025-08
   Title: Infra Engineer (Ai Infrastructure Engineer)
-  Previous: Content Creator @ Udacity
+  Previous 1: Content Creator @ Udacity
+  Previous 2: Instructor @ Interview Kickstart
   Education: BS Math, Hunter College
   LinkedIn: https://linkedin.com/in/noah-g-22a68b58
 
-Employee #84
+Employee #80
   Name: Emma Brown
   Grad: '22 | YoE: 3
   Start Date: 2025-08
   Title: AI Engineer (Ai Engineer)
-  Previous: Ai Engineer @ Opponent Systems
+  Previous 1: Ai Engineer @ Opponent Systems
+  Previous 2: Software Engineer Ii @ Air
   Education: MS, Uc Santa Barbara '25
   LinkedIn: https://linkedin.com/in/emma-nworb
 
-Employee #85
+Employee #81
   Name: Rohan Harpalani
   Grad: '24 | YoE: 1
   Start Date: 2025-09
   Title: Product (Product & Solutions)
-  Previous: Product, Ml Infra @ Capital One
+  Previous 1: Product, Ml Infra @ Capital One
+  Previous 2: Course Assistant @ The Grainger College Of Engineering
   Education: BS CS, Kth Royal Institute  '23
   LinkedIn: https://linkedin.com/in/rohanharpalani
 
-Employee #86
+Employee #82
   Name: Boudhayan Sen
   Grad: '00 | YoE: 25
   Start Date: 2025-09
   Title: AI Engineer (Ai Strategist)
-  Previous: Expert Associate Partner @ Mckinsey & Company
+  Previous 1: Expert Associate Partner @ Mckinsey & Company
+  Previous 2: Director @ Wayfair
   Education: PhD Marketing, Yale School Of Manag '12
   LinkedIn: https://linkedin.com/in/boudhayan-sen
 
-Employee #87
+Employee #83
   Name: Chirag Sharma
   Grad: '22 | YoE: 3
   Start Date: 2025-09
   Title: Platform Engineer (Platform Engineer)
-  Previous: Software Engineer @ Scale Ai
+  Previous 1: Software Engineer @ Scale Ai
+  Previous 2: Graduate Student Researcher: Rise Lab @ Berkeley Rise Lab
   Education: MS CS, UC Berkeley '23
   LinkedIn: https://linkedin.com/in/chirag-sharma-00
 
-Employee #88
+Employee #84
   Name: Ridhi Jhamb
   Grad: '21 | YoE: 4
   Start Date: 2025-09
   Title: Engineer (Artificial Intelligence Engineer)
-  Previous: Machine Learning Engineer @ Oxy
+  Previous 1: Machine Learning Engineer @ Oxy
+  Previous 2: Aiml Researcher @ University Of Pennsylvania
   Education: MS CS, UPenn '24
   LinkedIn: https://linkedin.com/in/ridhi-jhamb
 
-Employee #89
+Employee #85
   Name: Nikhil Gangaram
   Grad: '25 | YoE: ?
   Start Date: 2025-09
   Title: AI Engineer (Ai Research)
-  Previous: Founding Engineer @ Cerulion
+  Previous 1: Founding Engineer @ Cerulion
+  Previous 2: Perception Intern @ Untill
   Education: MEng CS, Cornell Tech '26
   LinkedIn: https://linkedin.com/in/nikhil-gangaram
 
-Employee #90
+Employee #86
   Name: Jevon Wild
   Grad: '08 | YoE: 17
   Start Date: 2025-10
   Title: AI Engineer (Ai Engineering)
-  Previous: Solutions Engineering Leader @ Flatfile
+  Previous 1: Solutions Engineering Leader @ Flatfile
+  Previous 2: Director Of Solutions Architecture, Twilio Professional Services @ Twilio
   Education: BS General Engineering, UIUC '08
   LinkedIn: https://linkedin.com/in/jevonwild
 
-Employee #91
+Employee #87
   Name: Kate Panawek
   Grad: '07 | YoE: 18
   Start Date: 2025-10
   Title: CEO (Ops Lead, Office Of The Chief Executive Officer)
-  Previous: Senior Head Of Content @ Dialpad
+  Previous 1: Senior Head Of Content @ Dialpad
+  Previous 2: Member @ Glue Club
   Education: BS Sociology, Universidade Federal '07
   LinkedIn: https://linkedin.com/in/katelovepanawek
 
-Employee #92
+Employee #88
   Name: Sahana Sudhakar
   Grad: '20 | YoE: 5
   Start Date: 2025-10
   Title: Recruiter (Recruiter)
-  Previous: Technical Recruiter @ Rokt
+  Previous 1: Technical Recruiter @ Rokt
+  Previous 2: Junior Technical Recruiter @ Rokt
   Education: BS Psychology, Penn State Universit '19
   LinkedIn: https://linkedin.com/in/sahana-sudhakar
 
-Employee #93
+Employee #89
   Name: Yeji Song
   Grad: '18 | YoE: 7
   Start Date: 2025-10
   Title: Experience Program Manager (Experience Program Manager)
-  Previous: Workplace Experience Manager @ Tecton
+  Previous 1: Workplace Experience Manager @ Tecton
+  Previous 2: Esg Program Manager - Workplace @ Samsara
   Education: BFA, Pratt Institute '18
   LinkedIn: https://linkedin.com/in/songyeji
 
-Employee #94
+Employee #90
   Name: Angel Carradine
   Grad: '11 | YoE: 14
   Start Date: 2025-11
   Title: Recruiting Coordinator (Recruiting Coordinator)
-  Previous: Recruiting Coordinator @ Airbnb
+  Previous 1: Recruiting Coordinator @ Airbnb
+  Previous 2: Talent Sourcer @ Tiktok
   Education: BA Psychology, San José State Unive '11
   LinkedIn: https://linkedin.com/in/angel-carradine
 
-Employee #95
+Employee #91
   Name: Jeremy Berkowitz
   Grad: '21 | YoE: 4
   Start Date: 2025-11
   Title: AI Engineer (Ai Strategist)
-  Previous: Senior Consultant - Global Data & Ai @ Slalom
+  Previous 1: Senior Consultant - Global Data & Ai @ Slalom
+  Previous 2: Consultant - Data & Analytics @ Slalom
   Education: Bachelor Of Applied  CS, Vrije Universiteit A '20
   LinkedIn: https://linkedin.com/in/jeremy-berkowitz-42775314a

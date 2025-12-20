@@ -1,10 +1,40 @@
 {
   "company": "harvey",
   "company_display": "Harvey",
-  "founded": "2022-09",
+  "founded": "2022-01",
   "employees": [
     {
       "rank": 1,
+      "name": "Mafimisebi Adetomiwa",
+      "grad_year": "'16",
+      "yoe": "9",
+      "start_date": "2022-01",
+      "title": "Fullstack Engineer",
+      "original_title": "Full-Stack Developer",
+      "previous_title": "Software Engineer",
+      "previous_company": "Jamf",
+      "previous_title_2": "Software Engineer",
+      "previous_company_2": "Lambda",
+      "education": "Bachelor Of Applied , Columbia",
+      "linkedin_url": null
+    },
+    {
+      "rank": 2,
+      "name": "Matt Cleveland",
+      "grad_year": "'22",
+      "yoe": "3",
+      "start_date": "2022-06",
+      "title": "Cat Feeder",
+      "original_title": "Cat Feeder",
+      "previous_title": "N/A",
+      "previous_company": "N/A",
+      "previous_title_2": "N/A",
+      "previous_company_2": "N/A",
+      "education": "University Of Roches '20",
+      "linkedin_url": null
+    },
+    {
+      "rank": 3,
       "name": "Gabe Pereyra",
       "grad_year": "'16",
       "yoe": "9",
@@ -13,11 +43,13 @@
       "original_title": "President & Co-Founder",
       "previous_title": "Research Scientist",
       "previous_company": "Meta",
+      "previous_title_2": "Startups",
+      "previous_company_2": "Stealth Startup",
       "education": "PhD Neuroscience, University Of Oxford '18",
       "linkedin_url": "https://linkedin.com/in/gabepereyra"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "name": "Winston Weinberg",
       "grad_year": "'17",
       "yoe": "8",
@@ -26,11 +58,28 @@
       "original_title": "Chief Executive Officer & Co-Founder",
       "previous_title": "Associate",
       "previous_company": "O'Melveny & Myers Llp",
+      "previous_title_2": "N/A",
+      "previous_company_2": "N/A",
       "education": "Doctor Of Jurisprude Law, Usc Gould School Of  '21",
       "linkedin_url": "https://linkedin.com/in/winston-weinberg"
     },
     {
-      "rank": 3,
+      "rank": 5,
+      "name": "Caroline Johnson",
+      "grad_year": "'06",
+      "yoe": "19",
+      "start_date": "2022-08",
+      "title": "Non-Executive Shareholder",
+      "original_title": "Non-Executive Shareholder",
+      "previous_title": "Senior Vice President",
+      "previous_company": "Aviara Real Estate",
+      "previous_title_2": "Real Estate Development Manager",
+      "previous_company_2": "Unire Real Estate Group, Inc",
+      "education": "MS Business, Cornell Johnson Grad '09",
+      "linkedin_url": "https://linkedin.com/in/caroline-johnson-3b1a03240"
+    },
+    {
+      "rank": 6,
       "name": "Brian Burns",
       "grad_year": "'19",
       "yoe": "6",
@@ -39,11 +88,13 @@
       "original_title": "Technical Recruiter",
       "previous_title": "Founder + Writer + Recruiter",
       "previous_company": "Ai Pub",
+      "previous_title_2": "Engineer And Consultant, Computer Vision + Ml",
+      "previous_company_2": "Burns Ml",
       "education": "UW '25",
       "linkedin_url": "https://linkedin.com/in/brianandrewburns"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "name": "Adam Erickson",
       "grad_year": "'17",
       "yoe": "8",
@@ -52,11 +103,13 @@
       "original_title": "Member Of Technical Staff",
       "previous_title": "Software Engineer",
       "previous_company": "Rippling",
+      "previous_title_2": "Research Engineer",
+      "previous_company_2": "Yale University School Of Medicine",
       "education": "Yale",
       "linkedin_url": "https://linkedin.com/in/agerick"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "name": "Timothy Lu",
       "grad_year": "'18",
       "yoe": "7",
@@ -65,11 +118,13 @@
       "original_title": "Head Of Revenue Operations",
       "previous_title": "Sales Strategy & Operations",
       "previous_company": "Airtable",
+      "previous_title_2": "Strategy Consultant - Experienced Consultant",
+      "previous_company_2": "Waterstone Management Group Is Now Part Of West Monroe",
       "education": "MS Engineering, UMich",
       "linkedin_url": "https://linkedin.com/in/timothy-y-lu"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "name": "Beth Lebens",
       "grad_year": "'16",
       "yoe": "9",
@@ -78,11 +133,13 @@
       "original_title": "Member Of Legal Staff",
       "previous_title": "Associate",
       "previous_company": "Gunderson Dettmer",
+      "previous_title_2": "Associate",
+      "previous_company_2": "Willkie Farr & Gallagher Llp",
       "education": "Doctor Of Jurisprude Law, Northwestern Univers '20",
       "linkedin_url": "https://linkedin.com/in/beth-de-la-roche-lebens-777847263"
     },
     {
-      "rank": 7,
+      "rank": 10,
       "name": "Spencer Poff",
       "grad_year": "'09",
       "yoe": "16",
@@ -91,11 +148,13 @@
       "original_title": "Member Of Technical Staff",
       "previous_title": "Research Engineer @ Fair",
       "previous_company": "Meta",
+      "previous_title_2": "Software Engineer",
+      "previous_company_2": "Meta",
       "education": "Marina High",
       "linkedin_url": "https://linkedin.com/in/spencerpoff"
     },
     {
-      "rank": 8,
+      "rank": 11,
       "name": "John Labarre",
       "grad_year": "'94",
       "yoe": "31",
@@ -104,11 +163,13 @@
       "original_title": "General Counsel",
       "previous_title": "Vice President, Deputy General Counsel",
       "previous_company": "Snowflake",
+      "previous_title_2": "Senior Director, Ip Strategy & Commercial Litigation",
+      "previous_company_2": "Zymergen",
       "education": "PhD, Letourneau Universit '05",
       "linkedin_url": "https://linkedin.com/in/labaj"
     },
     {
-      "rank": 9,
+      "rank": 12,
       "name": "Karl De La Roche",
       "grad_year": "'12",
       "yoe": "13",
@@ -117,11 +178,13 @@
       "original_title": "Member Of Legal Staff",
       "previous_title": "Associate",
       "previous_company": "Sidley Austin Llp",
+      "previous_title_2": "Associate",
+      "previous_company_2": "Weil, Gotshal & Manges Llp",
       "education": "Doctor Of Jurisprude Criminology, Northwestern Univers '19",
       "linkedin_url": "https://linkedin.com/in/karldelaroche"
     },
     {
-      "rank": 10,
+      "rank": 13,
       "name": "Tonya Mitchell",
       "grad_year": "'12",
       "yoe": "13",
@@ -130,11 +193,13 @@
       "original_title": "Senior Business Analyst",
       "previous_title": "Senior Business Analyst With Ettain Group",
       "previous_company": "Ettain Group",
+      "previous_title_2": "Senior Business Analyst",
+      "previous_company_2": "Ntt Data Services",
       "education": "Master Of Public Adm Business, Kentucky State Unive",
       "linkedin_url": "https://linkedin.com/in/tonya-mayfield-mitchell-5733aaa6"
     },
     {
-      "rank": 11,
+      "rank": 14,
       "name": "Rob Saliterman",
       "grad_year": "'03",
       "yoe": "22",
@@ -143,11 +208,13 @@
       "original_title": "Vice President Of Sales",
       "previous_title": "Head Of Platform Sales",
       "previous_company": "Stripe",
+      "previous_title_2": "Head Of Strategic Accounts, Enterprise",
+      "previous_company_2": "Stripe",
       "education": "MBA, Harvard Business Sch '11",
       "linkedin_url": "https://linkedin.com/in/robsaliterman"
     },
     {
-      "rank": 12,
+      "rank": 15,
       "name": "Aatish Nayak",
       "grad_year": "'17",
       "yoe": "8",
@@ -156,11 +223,13 @@
       "original_title": "Vice President Of Product",
       "previous_title": "Director Of Product",
       "previous_company": "Scale Ai",
+      "previous_title_2": "Head Of Product",
+      "previous_company_2": "Scale Ai",
       "education": "BS CE, CMU '17",
       "linkedin_url": "https://linkedin.com/in/aatishn"
     },
     {
-      "rank": 13,
+      "rank": 16,
       "name": "Carl Fuda",
       "grad_year": "'12",
       "yoe": "13",
@@ -169,11 +238,13 @@
       "original_title": "Head Of Partnerships",
       "previous_title": "Strategic Account Director",
       "previous_company": "Nobleai",
+      "previous_title_2": "Senior Product Manager",
+      "previous_company_2": "C3 Ai",
       "education": "MBA Business, Harvard Business Sch '18",
       "linkedin_url": "https://linkedin.com/in/carlfuda"
     },
     {
-      "rank": 14,
+      "rank": 17,
       "name": "Tobias Boelter",
       "grad_year": "'15",
       "yoe": "10",
@@ -182,11 +253,13 @@
       "original_title": "Head Of Security",
       "previous_title": "Security Engineer (Tech Lead)",
       "previous_company": "Jump Trading",
+      "previous_title_2": "Staff Security Engineer",
+      "previous_company_2": "Nuro",
       "education": "Doctor Of Jurisprude Law, Santa Clara Universi '24",
       "linkedin_url": "https://linkedin.com/in/tobias-boelter"
     },
     {
-      "rank": 15,
+      "rank": 18,
       "name": "Vasudha Rengarajan",
       "grad_year": "'19",
       "yoe": "6",
@@ -195,11 +268,13 @@
       "original_title": "Member Of Technical Staff (Ai / Ml)",
       "previous_title": "Machine Learning Engineer",
       "previous_company": "Meta",
+      "previous_title_2": "Course Assistant Fellow, Cs Department",
+      "previous_company_2": "Columbia University In The City Of New York",
       "education": "MS CS, Columbia Engineering '20",
       "linkedin_url": "https://linkedin.com/in/vasudha-rengarajan-90700364"
     },
     {
-      "rank": 16,
+      "rank": 19,
       "name": "Tia Thomson",
       "grad_year": "'17",
       "yoe": "8",
@@ -208,11 +283,13 @@
       "original_title": "Operations Lead",
       "previous_title": "Head Of Business Operations",
       "previous_company": "Visible Hands",
+      "previous_title_2": "Chief Of Staff",
+      "previous_company_2": "Visible Hands",
       "education": "Chinese Culture, City University Of H",
       "linkedin_url": "https://linkedin.com/in/tiathomson"
     },
     {
-      "rank": 17,
+      "rank": 20,
       "name": "Abhishek Verma",
       "grad_year": "'17",
       "yoe": "8",
@@ -221,6 +298,8 @@
       "original_title": "Member Of Technical Staff",
       "previous_title": "Senior Software Engineer",
       "previous_company": "Zipline",
+      "previous_title_2": "Senior Software Engineer",
+      "previous_company_2": "Vanta",
       "education": "BS CS, UIUC '17",
       "linkedin_url": "https://linkedin.com/in/abhiver"
     }

@@ -5,17 +5,21 @@
       "name": "Aman Sanger",
       "start_date": "2022-01",
       "title": "Co-Founder",
-      "previous_title": "Software Engineer Intern",
-      "previous_company": "Scale AI",
+      "previous_title": "Research",
+      "previous_company": "AI Consultancy",
+      "previous_title_2": "Investment Associate Intern",
+      "previous_company_2": "Bridgewater Associates",
       "education": "BS CS, MIT '23",
-      "linkedin_url": "https://linkedin.com/in/aman-sanger"
+      "linkedin_url": "https://linkedin.com/in/amansanger"
     },
     {
       "name": "Arvid Lunnemark",
       "start_date": "2022-01",
       "title": "Co-Founder",
-      "previous_title": "Software Engineer Intern",
-      "previous_company": "Stripe",
+      "previous_title": "Quantitative Trading",
+      "previous_company": "Jane Street",
+      "previous_title_2": "Software Engineering",
+      "previous_company_2": "Stripe",
       "education": "BS CS, MIT '23",
       "linkedin_url": "https://linkedin.com/in/arvidlunnemark"
     },
@@ -23,30 +27,26 @@
       "name": "Sualeh Asif",
       "start_date": "2022-01",
       "title": "Co-Founder",
-      "previous_title": "Software Engineer Intern",
-      "previous_company": "Citadel",
+      "previous_title": "Intern",
+      "previous_company": "IBM",
+      "previous_title_2": "Lab/Research Assistant",
+      "previous_company_2": "MIT",
       "education": "BS CS, MIT '23",
-      "linkedin_url": "https://linkedin.com/in/sualeh-asif"
-    },
-    {
-      "name": "Michael Truell",
-      "start_date": "2022-01",
-      "title": "Co-Founder",
-      "previous_title": "Software Engineer Intern",
-      "previous_company": "Jane Street",
-      "education": "BS CS, MIT '23",
-      "linkedin_url": "https://linkedin.com/in/michaeltruell"
+      "linkedin_url": "https://linkedin.com/in/sualehasif"
     }
   ],
   "saronic": [
     {
       "name": "Vib Altekar",
-      "start_date": "2022-06",
+      "start_date": "2022-11",
       "title": "Co-Founder & CTO",
-      "previous_title": "Senior Software Engineer",
-      "previous_company": "Nuro",
-      "education": "BS CS, MIT '14",
-      "linkedin_url": "https://linkedin.com/in/vibaltekar"
+      "yoe": "7",
+      "previous_title": "Engineering Manager (Perception)",
+      "previous_company": "Anduril Industries",
+      "previous_title_2": "Machine Learning Engineer",
+      "previous_company_2": "Anduril Industries",
+      "education": "BS EE, UC Davis '18",
+      "linkedin_url": "https://linkedin.com/in/vibhavaltekar"
     }
   ]
 }
