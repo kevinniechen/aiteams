@@ -78,6 +78,10 @@
   "augment": [
     { "date": "2024-10", "amount": 25, "round": "Seed" },
     { "date": "2025-10", "amount": 85, "round": "A" }
+  ],
+  "manus": [
+    { "date": "2023-01", "amount": 10, "round": "A" },
+    { "date": "2025-04", "amount": 75, "round": "B" }
   ]
 }
 

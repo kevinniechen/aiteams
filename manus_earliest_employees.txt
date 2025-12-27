@@ -1,0 +1,420 @@
+MANUS - EARLIEST EMPLOYEES
+(Founded: 2024-01)
+================================================================================
+
+Employee #1
+  Name: Hyan Gao
+  Grad: '23 | YoE: 1
+  Start Date: 2024-01
+  Title: Operations (Head Of Global Operations)
+  Previous 1: Product Manager Intern Of Y-Tech (Ai Lab) @ Kuaishou Technology
+  Previous 2: Investor (Strategy Investment Division) @ Xiaohongshu
+  Education: BS Finance, Jilin University '23
+  LinkedIn: https://linkedin.com/in/hyangao
+
+Employee #2
+  Name: Manoj Bharde
+  Grad: '24 | YoE: ?
+  Start Date: 2024-01
+  Title: Manager (Manager)
+  Previous 1: Assistant Works Manager @ Machine Tool Prototype Factory
+  Previous 2: N/A @ N/A
+  Education: N/A
+  LinkedIn: https://linkedin.com/in/manoj-bharde-8b72a730
+
+Employee #3
+  Name: Cz Chen
+  Grad: '14 | YoE: 10
+  Start Date: 2024-03
+  Title: Operations (Chief Operations Officer)
+  Previous 1: Vice President @ Mm Capital
+  Previous 2: Investment Associate @ Vanke
+  Education: MS, Columbia '17
+  LinkedIn: https://linkedin.com/in/zhe-chen
+
+Employee #4
+  Name: Tao Zhang
+  Grad: '09 | YoE: 15
+  Start Date: 2024-07
+  Title: Co-Founder (Co-Founder)
+  Previous 1: Product Lead @ Light Year
+  Previous 2: Head Of Global Product @ Bytedance
+  Education: BE Communication, Chongqing University '09
+  LinkedIn: https://linkedin.com/in/hidecloud
+
+Employee #5
+  Name: Tao Cheung
+  Grad: '09 | YoE: 15
+  Start Date: 2024-07
+  Title: Partner (Partner)
+  Previous 1: Partner @ Monica.Im
+  Previous 2: Product Lead @ Guang Nian Zhi Wai
+  Education: BS Communication, Chongqing University '09
+
+Employee #6
+  Name: Sean Lai
+  Grad: '27 | YoE: ?
+  Start Date: 2025-01
+  Title: Fellow (Fellow)
+  Previous 1: Data & Ai @ Boost Payment Solutions
+  Previous 2: Research Assistant @ New York University
+  Education: BS CS, NYU '27
+  LinkedIn: https://linkedin.com/in/sean-sh-lai
+
+Employee #7
+  Name: Alan Chan
+  Grad: '13 | YoE: 12
+  Start Date: 2025-01
+  Title: GTM (Gtm)
+  Previous 1: Chief Marketing Officer @ Tanka Ai
+  Previous 2: Product Manager @ Bytedance
+  Education: Management, Reforge
+  LinkedIn: https://linkedin.com/in/chanyinglunalan
+
+Employee #8
+  Name: Yi Wei
+  Grad: '24 | YoE: 1
+  Start Date: 2025-02
+  Title: 产品经理 (产品经理)
+  Previous 1: 投资实习生 @ Zhenfund 真格基金
+  Previous 2: Ai 产品经理 @ Baidu, Inc.
+  Education: Renmin University Of '25
+  LinkedIn: https://linkedin.com/in/yi-wei-938b9332b
+
+Employee #9
+  Name: Ziming Miao
+  Grad: '10 | YoE: 15
+  Start Date: 2025-03
+  Title: VP (Vice President Of Engineering)
+  Previous 1: Senior Software Developer @ Hulu
+  Previous 2: Research & Development Director @ Acfun.Tv
+  Education: BS CS, Beijing Institute Of '10
+  LinkedIn: https://linkedin.com/in/miaoziming
+
+Employee #10
+  Name: Pāvels Baskakovs
+  Grad: '14 | YoE: 11
+  Start Date: 2025-03
+  Title: Fellow (Fellow)
+  Previous 1: Product Lead @ Ryte
+  Previous 2: Senior Product Manager @ Chainalysis
+  Education: Business Management, University Of Warwic '15
+  LinkedIn: https://linkedin.com/in/baskakovs
+
+Employee #11
+  Name: Parker Lyman
+  Grad: '21 | YoE: 4
+  Start Date: 2025-03
+  Title: Chief Of Staff (Chief Of Staff)
+  Previous 1: Associate @ Lightbank
+  Previous 2: Investment Analyst @ Elevation Capital
+  Education: MS, Schwarzman Scholars '25
+  LinkedIn: https://linkedin.com/in/lyman-parker
+
+Employee #12
+  Name: Zhong Bingzhe
+  Grad: '13 | YoE: 12
+  Start Date: 2025-03
+  Title: PM (Data Product Manager)
+  Previous 1: Product Lead @ Amymiss Ad Tech
+  Previous 2: Consulting Lead @ 神策数据
+  Education: MS Econ, Barcelona School Of  '14
+  LinkedIn: https://linkedin.com/in/zhong-bingzhe
+
+Employee #13
+  Name: Tim C
+  Grad: '23 | YoE: 2
+  Start Date: 2025-03
+  Title: PM (Product Manager)
+  Previous 1: Senior Product Analyst @ Openstore
+  Previous 2: Business Analyst @ Openstore
+  Education: BS Econ, Middlebury College '23
+  LinkedIn: https://linkedin.com/in/timcht
+
+Employee #14
+  Name: Alley Xiang
+  Grad: '22 | YoE: 3
+  Start Date: 2025-03
+  Title: 產品經理 (產品經理)
+  Previous 1: 产品经理 @ Tencent
+  Previous 2: 产品经理 @ Meitu Inc.
+  Education: Xiamen University '24
+  LinkedIn: https://linkedin.com/in/alley-xiang
+
+Employee #15
+  Name: Yan Lu
+  Grad: '16 | YoE: 9
+  Start Date: 2025-03
+  Title: Early-Stage Operator, Head Of  (Early-Stage Operator, Head Of Community)
+  Previous 1: Early-Stage Operator @ Monica Ai
+  Previous 2: Senior Associate @ Mm Capital
+  Education: MS Finance, Boston College Carro '17
+  LinkedIn: https://linkedin.com/in/yan-lucia-lu
+
+Employee #16
+  Name: Henry Yang
+  Grad: '16 | YoE: 9
+  Start Date: 2025-03
+  Title: Marketing (Chief Marketing Officer)
+  Previous 1: Chief Marketing Officer @ Monica Ai
+  Previous 2: N/A @ N/A
+  Education: BS Civil Engineering, Huazhong University  '16
+  LinkedIn: https://linkedin.com/in/henry-yang-654098355
+
+Employee #17
+  Name: Jessy Brenenstahl
+  Grad: '25 | YoE: ?
+  Start Date: 2025-03
+  Title: Discord Server Moderator (Manu (Discord Server Moderator (Manus Beta))
+  Previous 1: N/A @ N/A
+  Previous 2: N/A @ N/A
+  Education: N/A
+  LinkedIn: https://linkedin.com/in/jessy-brenenstahl-124458343
+
+Employee #18
+  Name: Lester Antoine
+  Grad: '22 | YoE: 3
+  Start Date: 2025-04
+  Title: Beta Tester (Beta Tester)
+  Previous 1: Vr Developer @ Hopeverse
+  Previous 2: Virtual Reality Hardware Engineer @ Hopeverse
+  Education: BA, Louisiana State Univ '22
+  LinkedIn: https://linkedin.com/in/lester-antoine-iii-aab4982a5
+
+Employee #19
+  Name: Jingyi Zhou
+  Grad: '22 | YoE: 3
+  Start Date: 2025-04
+  Title: Public Relations & Communicati (Public Relations & Communications)
+  Previous 1: Business Development Specialist @ Deutsche Börse
+  Previous 2: Project Manager Of China Market Development @ Deutsche Börse
+  Education: BA Asian Studies, Bowdoin College '22
+  LinkedIn: https://linkedin.com/in/jingyi-zhou-607a211b1
+
+Employee #20
+  Name: Jane Yang
+  Grad: '25 | YoE: ?
+  Start Date: 2025-04
+  Title: 人力资源业务合作伙伴 (人力资源业务合作伙伴)
+  Previous 1: N/A @ N/A
+  Previous 2: N/A @ N/A
+  Education: N/A
+  LinkedIn: https://linkedin.com/in/jane-yang-9008341b2
+
+Employee #21
+  Name: Umair Habib
+  Grad: '21 | YoE: 4
+  Start Date: 2025-05
+  Title: Manus Fellow (Manus Fellow)
+  Previous 1: It Risk Advisory Senior Associate @ Grant Thornton (Us)
+  Previous 2: It Risk Advisory Associate @ Grant Thornton (Us)
+  Education: MS Data Science, UC Berkeley '26
+  LinkedIn: https://linkedin.com/in/umair-habib
+
+Employee #22
+  Name: Hongyi Zhou
+  Grad: '23 | YoE: 2
+  Start Date: 2025-05
+  Title: Manus Fellow (Manus Fellow)
+  Previous 1: Technical Product Marketing @ Amazon Web Services (Aws)
+  Previous 2: Ai Program Manager @ Sap
+  Education: CS, Northeastern Univers '25
+  LinkedIn: https://linkedin.com/in/hongyi-zhou
+
+Employee #23
+  Name: Siyi Zhu
+  Grad: '25 | YoE: ?
+  Start Date: 2025-05
+  Title: Marketing (Marketing)
+  Previous 1: Ai Investment Analyst Intern @ Lenovo
+  Previous 2: Ai Investment Intern @ Z.Ai
+  Education: MS, London Business Scho '26
+  LinkedIn: https://linkedin.com/in/siyi-zhu-lepenseur
+
+Employee #24
+  Name: Isabella Zhou
+  Grad: '16 | YoE: 9
+  Start Date: 2025-06
+  Title: GTM (Gtm Growth)
+  Previous 1: Investor @ Anderson Venture Impact Partners
+  Previous 2: Partner & Fund Strategy @ A26 Ventures
+  Education: MBA, Ucla Anderson School '26
+  LinkedIn: https://linkedin.com/in/yangqing-isabella-zhou
+
+Employee #25
+  Name: Charmaine Fu
+  Grad: '09 | YoE: 16
+  Start Date: 2025-06
+  Title: Director (Finance Director)
+  Previous 1: Group Finance Director @ Virtuos
+  Previous 2: Group Financial Controller @ Virtuos
+  Education: BBA Accountancy, National University  '09
+  LinkedIn: https://linkedin.com/in/charmaine-fu
+
+Employee #26
+  Name: Samuel Faroun-Amin
+  Grad: '18 | YoE: 7
+  Start Date: 2025-06
+  Title: Fellow (Fellow)
+  Previous 1: Senior User Researcher @ Solirius Consulting
+  Previous 2: Management Consultant @ Pa Consulting
+  Education: MS Entrepreneurial Stud, Nottingham Universit '19
+  LinkedIn: https://linkedin.com/in/samuel-faroun
+
+Employee #27
+  Name: Celeste Liu
+  Grad: '21 | YoE: 4
+  Start Date: 2025-07
+  Title: Marketing (Marketing Specialist)
+  Previous 1: Marketing Executive @ Muddy Murphy Holdings
+  Previous 2: Marketing Executive @ Racinewineco
+  Education: MS Business, Ucd Michael Smurfit  '25
+  LinkedIn: https://linkedin.com/in/celesteliufr
+
+Employee #28
+  Name: Kai Lee
+  Grad: '17 | YoE: 8
+  Start Date: 2025-07
+  Title: Finance Manager (Finance Manager)
+  Previous 1: Audit Manager @ Kpmg Singapore
+  Previous 2: Assistant Audit Manager @ Pwc Malaysia
+  Education: Association Of Chart '16
+  LinkedIn: https://linkedin.com/in/kai-fung-lee-493213251
+
+Employee #29
+  Name: Evita Yi
+  Grad: '23 | YoE: 2
+  Start Date: 2025-07
+  Title: Marketing (Marketing Specialist)
+  Previous 1: Product Marketing Intern @ L'Oréal
+  Previous 2: Marketing Intern @ Prettyfit
+  Education: MS Marketing, Nanyang Technologica '25
+  LinkedIn: https://linkedin.com/in/evita-yi-923yy
+
+Employee #30
+  Name: Ivan Leo
+  Grad: '16 | YoE: 9
+  Start Date: 2025-07
+  Title: AI Engineer (Ai Engineer)
+  Previous 1: Ai Engineer @ 567 Labs
+  Previous 2: Software Engineer @ Credit Suisse
+  Education: International Relati, Yale '19
+  LinkedIn: https://linkedin.com/in/ivanleo
+
+Employee #31
+  Name: Ion Del Gratia
+  Grad: '25 | YoE: ?
+  Start Date: 2025-07
+  Title: Assistant (Assistant)
+  Previous 1: Assistant @ Abnormal Ai
+  Previous 2: Assistant @ Generative Ai
+  Education: N/A
+  LinkedIn: https://linkedin.com/in/ion-del-gratia-9023b8378
+
+Employee #32
+  Name: Bonnie Yu
+  Grad: '20 | YoE: 5
+  Start Date: 2025-07
+  Title: Operations (User Growth Ops & Strategy Manager)
+  Previous 1: Senior Investment Operation Manager @ Zhenfund 真格基金
+  Previous 2: Investment Operation Manager @ Zhenfund 真格基金
+  Education: BS Communication, Nanyang Technologica '20
+
+Employee #33
+  Name: Daniel Kok
+  Grad: '25 | YoE: ?
+  Start Date: 2025-08
+  Title: Fullstack Engineer (Full Stack Engineer)
+  Previous 1: Co-Founder @ Qumo Ai
+  Previous 2: Software Developer @ Esg-Nrg
+  Education: Nus Overseas College '24
+  LinkedIn: https://linkedin.com/in/daniel-kok-jw
+
+Employee #34
+  Name: Han Zhao
+  Grad: '18 | YoE: 7
+  Start Date: 2025-08
+  Title: AI Engineer (Ai Research Scientist)
+  Previous 1: Ai Scientist @ Shanda Group
+  Previous 2: Research Engineer @ Nanyang Technological University Singapore
+  Education: PhD Electronics Engineer, Nanyang Technologica '23
+  LinkedIn: https://linkedin.com/in/zhaohan918918
+
+Employee #35
+  Name: Ryan Tan
+  Grad: '26 | YoE: ?
+  Start Date: 2025-08
+  Title: AI Engineer (Ai Agent Engineer Intern)
+  Previous 1: Frontend Engineer Intern @ Tiktok
+  Previous 2: Software Engineer Intern @ Heycharge
+  Education: Nus Overseas College
+  LinkedIn: https://linkedin.com/in/ryantzr
+
+Employee #36
+  Name: Chor Yung
+  Grad: '25 | YoE: ?
+  Start Date: 2025-08
+  Title: Engineer (Mobile Engineer)
+  Previous 1: Mobile Engineer (Ios) @ Getgo Carsharing
+  Previous 2: Software Developer @ Continental
+  Education: Western University '23
+  LinkedIn: https://linkedin.com/in/chaoyung
+
+Employee #37
+  Name: Tan Jie
+  Grad: '21 | YoE: 4
+  Start Date: 2025-08
+  Title: Engineer (Software Engineer (Frontend))
+  Previous 1: Senior Software Engineer @ Alta (Formerly Fundnel)
+  Previous 2: Software Engineer @ Alta (Formerly Fundnel)
+  Education: Music, Zhejiang University '19
+  LinkedIn: https://linkedin.com/in/tanshinjie
+
+Employee #38
+  Name: Zhao Brandon
+  Grad: '25 | YoE: ?
+  Start Date: 2025-08
+  Title: Engineer (Agent Engineer)
+  Previous 1: Ai Engineer Intern @ Ventas Bio
+  Previous 2: Coding Tutor @ The Lab Singapore
+  Education: Linköping University '24
+  LinkedIn: https://linkedin.com/in/zhao-xuze-brandon-276129232
+
+Employee #39
+  Name: Ziyu C
+  Grad: '22 | YoE: 3
+  Start Date: 2025-09
+  Title: Data Engineer (Data Analyst)
+  Previous 1: Data Analyst @ Tencent Games
+  Previous 2: Data Analyst - Search & Recommendation @ Shopee
+  Education: MS CE, National University  '25
+
+Employee #40
+  Name: Zhipeng Huang
+  Grad: '23 | YoE: 2
+  Start Date: 2025-09
+  Title: Marketing (Marketing)
+  Previous 1: N/A @ N/A
+  Previous 2: N/A @ N/A
+  Education: N/A
+  LinkedIn: https://linkedin.com/in/zhipeng-huang-624191375
+
+Employee #41
+  Name: Fangzhou Chen
+  Grad: '21 | YoE: 4
+  Start Date: 2025-10
+  Title: Strategy (Strategy)
+  Previous 1: Investment Advisor @ Funplus
+  Previous 2: Investment Manager @ Funplus
+  Education: Architecture, Pontifícia Universid '19
+  LinkedIn: https://linkedin.com/in/fzchen97
+
+Employee #42
+  Name: Chris Yeh
+  Grad: '07 | YoE: 18
+  Start Date: 2025-11
+  Title: Head Of Partnerships (Head Of Partnerships)
+  Previous 1: Co-Founder @ Oci Rendeznousmeilleurs
+  Previous 2: Southeast Asia Regional Head Of Partnerships Solutions @ Google
+  Education: BS Business, Northwestern Univers '07
+  LinkedIn: https://linkedin.com/in/chris-yeh-3b688b35
