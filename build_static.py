@@ -20,7 +20,7 @@ def build_static():
     companies = [
         'perplexity', 'cognition', 'cursor', 'elevenlabs', 'physical-intelligence',
         'harvey', 'sierra', 'glean', 'saronic', 'decagon', 'contextual',
-        'distyl', 'serval', 'brainco'
+        'distyl', 'serval', 'brainco', 'augment'
     ]
     
     company_data = {}

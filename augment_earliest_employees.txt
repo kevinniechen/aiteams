@@ -1,0 +1,933 @@
+AUGMENT - EARLIEST EMPLOYEES
+(Founded: 2024-01)
+================================================================================
+
+Employee #1
+  Name: Harish Abbott
+  Grad: '97 | YoE: 27
+  Start Date: 2024-10
+  Title: Co-Founder (Chief Executive Officer / Co-Founder)
+  Previous 1: Vice President Of Product Management @ Shopify
+  Previous 2: Chief Executive Officer / Co-Founder @ Deliverr Inc.
+  Education: MBA, Stanford '06
+  LinkedIn: https://linkedin.com/in/habbott
+
+Employee #2
+  Name: Artur Rivilis
+  Grad: '06 | YoE: 18
+  Start Date: 2024-10
+  Title: Co-Founder (Chief Technology Officer And Co-Founder)
+  Previous 1: Vice President Of Engineering @ Shopify
+  Previous 2: Vice President Of Engineering @ Deliverr Inc.
+  Education: BA CS, UC Berkeley '06
+  LinkedIn: https://linkedin.com/in/arturrivilis
+
+Employee #3
+  Name: Steven Doubilet
+  Grad: '06 | YoE: 18
+  Start Date: 2024-10
+  Title: Engineer (Software Engineer)
+  Previous 1: Senior Development Manager - Shopify Logistics @ Shopify
+  Previous 2: Engineering Group Manager @ Deliverr Inc.
+  Education: CS, Stanford '11
+  LinkedIn: https://linkedin.com/in/steven-doubilet-4a40a74
+
+Employee #4
+  Name: Tom Blaser
+  Grad: '10 | YoE: 14
+  Start Date: 2024-10
+  Title: Data Engineer (Data Science)
+  Previous 1: Staff Data Scientist @ Fis
+  Previous 2: Senior Data Science Manager @ Flexport
+  Education: BA Econ, University Of Chicag '10
+  LinkedIn: https://linkedin.com/in/tom-blaser
+
+Employee #5
+  Name: Braden Katzman
+  Grad: '17 | YoE: 7
+  Start Date: 2024-11
+  Title: Engineering Manager (Engineering Manager)
+  Previous 1: Senior Engineering Manager @ Flexport
+  Previous 2: Engineering Manager @ Flexport
+  Education: MA Philosophy, The Jewish Theologic '18
+  LinkedIn: https://linkedin.com/in/bradenkatzman
+
+Employee #6
+  Name: Mikhail Levkovsky
+  Grad: '13 | YoE: 11
+  Start Date: 2024-12
+  Title: Engineer (Software Engineer)
+  Previous 1: Software Engineer @ Homeaglow
+  Previous 2: Senior Software Engineering Manager @ Flexport
+  Education: BE Engineering, Concordia University '13
+  LinkedIn: https://linkedin.com/in/mikhaillevkovsky
+
+Employee #7
+  Name: Edward Pavlovsky
+  Grad: '17 | YoE: 7
+  Start Date: 2024-12
+  Title: Data Engineer (Data & Software)
+  Previous 1: Staff Machine Learning Scientist @ Flexport
+  Previous 2: Senior Data Scientist @ Shopify
+  Education: BS Finance, Michigan State Unive '17
+  LinkedIn: https://linkedin.com/in/edwardpavlovsky
+
+Employee #8
+  Name: Hugh Klein
+  Grad: '20 | YoE: 4
+  Start Date: 2024-12
+  Title: Data Engineer (Data Science)
+  Previous 1: Senior Data Scientist @ Locally
+  Previous 2: Senior Data Scientist @ Flexport
+  Education: BA Econ, Brown University '20
+  LinkedIn: https://linkedin.com/in/hughklein91
+
+Employee #9
+  Name: Andrew Marione
+  Grad: '14 | YoE: 10
+  Start Date: 2024-12
+  Title: Product (Product)
+  Previous 1: Senior Product Manager @ Flexport
+  Previous 2: Senior Product Manager @ Shopify
+  Education: MBA Entrepreneurship, The University Of Ch '21
+  LinkedIn: https://linkedin.com/in/andrewmarione
+
+Employee #10
+  Name: Phil Lagambino
+  Grad: '17 | YoE: 7
+  Start Date: 2024-12
+  Title: Engineer (Software Engineer)
+  Previous 1: Founding Engineer @ Quill
+  Previous 2: Senior Software Engineer @ Flexport
+  Education: BS CS, Rensselaer Polytechn '17
+  LinkedIn: https://linkedin.com/in/phil-lagambino
+
+Employee #11
+  Name: Marsha Chan
+  Grad: '15 | YoE: 9
+  Start Date: 2024-12
+  Title: Design (Product & Design)
+  Previous 1: Product Designer @ Square
+  Previous 2: Staff Product Designer @ Flexport
+  Education: MS, University Of Waterl '16
+  LinkedIn: https://linkedin.com/in/marsha-chan
+
+Employee #12
+  Name: Sanjay Bysani
+  Grad: '10 | YoE: 15
+  Start Date: 2025-01
+  Title: Engineering (Engineering)
+  Previous 1: Engineering Lead @ Superorder
+  Previous 2: Senior Staff Software Engineer @ Flexport
+  Education: MS CS, The University Of Te '13
+  LinkedIn: https://linkedin.com/in/sanjaybysani
+
+Employee #13
+  Name: Lana Whiteford
+  Grad: '10 | YoE: 15
+  Start Date: 2025-01
+  Title: Head Of Talent (Head Of Talent)
+  Previous 1: Founding Director @ Puffin Talent
+  Previous 2: Senior Talent Leader @ Shopify
+  Education: MS, Tel Aviv University '15
+  LinkedIn: https://linkedin.com/in/lana-whiteford
+
+Employee #14
+  Name: Nelson Auner
+  Grad: '14 | YoE: 11
+  Start Date: 2025-01
+  Title: AI Engineer (Data & Ai)
+  Previous 1: Machine Learning Consultant - Llm / Rag / Fine-Tuning / Evaluations / Security @ Various Companies
+  Previous 2: Co-Founder & Chief Technology Officer @ Housitive
+  Education: MS Stats, University Of Chicag '14
+  LinkedIn: https://linkedin.com/in/nelsonauner
+
+Employee #15
+  Name: Daniel Chen
+  Grad: '14 | YoE: 11
+  Start Date: 2025-01
+  Title: Head Of Finance (Head Of Finance)
+  Previous 1: Member @ The F Suite
+  Previous 2: Director, Strategic Finance @ Shopify
+  Education: BA Econ, University Of Chicag
+  LinkedIn: https://linkedin.com/in/daniellchen
+
+Employee #16
+  Name: Gabriel Song
+  Grad: '08 | YoE: 17
+  Start Date: 2025-01
+  Title: Engineer (Software Engineer)
+  Previous 1: Software Engineer @ Flexport
+  Previous 2: Software Engineer @ Prive
+  Education: BS Biochemistry, Uc San Diego '08
+  LinkedIn: https://linkedin.com/in/gabrielsong
+
+Employee #17
+  Name: Stewart Buskirk
+  Grad: '94 | YoE: 31
+  Start Date: 2025-01
+  Title: Engineer (Software Engineer)
+  Previous 1: Head Of Scientific Modalities Engineering @ Benchling
+  Previous 2: Engineering Leader, Molecular Biology @ Benchling
+  Education: BS Biology, Uc San Diego '94
+  LinkedIn: https://linkedin.com/in/stewart-buskirk-6512127
+
+Employee #18
+  Name: Justin Hall
+  Grad: '02 | YoE: 23
+  Start Date: 2025-01
+  Title: Co-Founder (Co-Founder)
+  Previous 1: Advisor @ Primo
+  Previous 2: Corporate Board Member @ Lean Solutions Group
+  Education: BA Entrepreneurial Stud, University Of St. Th '02
+  LinkedIn: https://linkedin.com/in/justinmhall
+
+Employee #19
+  Name: Johnny Craddock
+  Grad: '09 | YoE: 16
+  Start Date: 2025-01
+  Title: Growth (Growth)
+  Previous 1: Strategy (Consultant) @ Shipbob
+  Previous 2: Executive Vice President Of Sales (Consultant) @ Batch Freight
+  Education: BS, Purdue University '09
+  LinkedIn: https://linkedin.com/in/johnnycraddock
+
+Employee #20
+  Name: Jasmine He
+  Grad: '20 | YoE: 5
+  Start Date: 2025-01
+  Title: Engineer (Software Engineer)
+  Previous 1: Software Engineer Ii @ Flexport
+  Previous 2: Software Engineer Ii @ Shopify
+  Education: Cognitive Science, UC Berkeley '22
+  LinkedIn: https://linkedin.com/in/jasmine-he-bb99921b5
+
+Employee #21
+  Name: Tyler Smith
+  Grad: '14 | YoE: 11
+  Start Date: 2025-01
+  Title: Growth (Growth)
+  Previous 1: Product & Engineering @ Fluidwave
+  Previous 2: Product Manager Ii @ Flexport
+  Education: Software Engineering, Flatiron School '24
+  LinkedIn: https://linkedin.com/in/tyler-smith-pm-se
+
+Employee #22
+  Name: Cherice Wingfield
+  Grad: '10 | YoE: 15
+  Start Date: 2025-02
+  Title: Senior Technical Recruiter (Senior Technical Recruiter)
+  Previous 1: Senior Technical Recruiter @ Mozilla
+  Previous 2: Recruiter @ Procaps Laboratories
+  Education: BS Human Resources Mana, University Of Phoeni '10
+  LinkedIn: https://linkedin.com/in/cwingfield
+
+Employee #23
+  Name: Kenni Terrell
+  Grad: '18 | YoE: 7
+  Start Date: 2025-02
+  Title: Senior Customer Success Repres (Senior Customer Success Represenative)
+  Previous 1: Data Entry Operator @ Mcmaster-Carr
+  Previous 2: Operations Manager @ Uber Freight
+  Education: MS Communication, Depaul University '21
+  LinkedIn: https://linkedin.com/in/kenniterrell
+
+Employee #24
+  Name: Nadia Virjee
+  Grad: '10 | YoE: 15
+  Start Date: 2025-02
+  Title: Program Manager, Growth (Program Manager, Growth)
+  Previous 1: Director Of Operations @ Polarity Partnerships
+  Previous 2: Technical Program Manager @ Flexport
+  Education: Software Engineering, Flatiron School '23
+  LinkedIn: https://linkedin.com/in/nadia-virjee
+
+Employee #25
+  Name: Joshua Karstendick
+  Grad: '08 | YoE: 17
+  Start Date: 2025-02
+  Title: Engineer (Software Engineer)
+  Previous 1: Director Of Engineering @ Flexport
+  Previous 2: Director Of Engineering @ Shopify
+  Education: BS CS, Drexel University '08
+  LinkedIn: https://linkedin.com/in/karstendick
+
+Employee #26
+  Name: Shannon Dreier
+  Grad: '13 | YoE: 12
+  Start Date: 2025-02
+  Title: Human Resources Manager (Human Resources Manager)
+  Previous 1: People Operations Manager @ Verano
+  Previous 2: Talent Mergers & Acquisitions @ Shopify
+  Education: Human Resources, Marquette University '15
+  LinkedIn: https://linkedin.com/in/shannon-dreier
+
+Employee #27
+  Name: Lisa Li
+  Grad: '16 | YoE: 9
+  Start Date: 2025-02
+  Title: PM (Staff Product Manager)
+  Previous 1: Staff Product Manager @ Semgrep
+  Previous 2: Product Lead @ Shopify
+  Education: Bachelor Of Applied  Chemical Engineering, The University Of Br '16
+  LinkedIn: https://linkedin.com/in/lisaxili
+
+Employee #28
+  Name: Dionne Cherry
+  Grad: '11 | YoE: 14
+  Start Date: 2025-02
+  Title: Customer Success Representativ (Customer Success Representative)
+  Previous 1: Customer Operations Lead @ Molo Solutions
+  Previous 2: Operational Specialist @ Doordash
+  Education: Management, Brainstation '23
+  LinkedIn: https://linkedin.com/in/dionne-cherry
+
+Employee #29
+  Name: Irene Horn
+  Grad: '22 | YoE: 3
+  Start Date: 2025-02
+  Title: Customer Success Representativ (Customer Success Representative)
+  Previous 1: Customer Service Representative @ Helix Logistics
+  Previous 2: Clinical Lab Associate I @ Tempus Ai
+  Education: BS Biology, University Of Illino '22
+  LinkedIn: https://linkedin.com/in/irene-horn-580aa3216
+
+Employee #30
+  Name: Caleb Nelson
+  Grad: '16 | YoE: 9
+  Start Date: 2025-02
+  Title: Customer Success Representativ (Customer Success Representative)
+  Previous 1: Senior Operations Representative @ Rxo, Inc.
+  Previous 2: Operations Representative @ Coyote Logistics
+  Education: Media Studies, North Park Universit '20
+  LinkedIn: https://linkedin.com/in/caleb-nelson-41311719a
+
+Employee #31
+  Name: Ciara Roberson
+  Grad: '15 | YoE: 10
+  Start Date: 2025-02
+  Title: Customer Success Representativ (Customer Success Representative)
+  Previous 1: Customer Service Representative @ Uber Freight
+  Previous 2: Operational Representative @ C.H. Robinson
+  Education: N/A
+  LinkedIn: https://linkedin.com/in/ciara-roberson-a8a175145
+
+Employee #32
+  Name: Nabeel Shahid
+  Grad: '18 | YoE: 7
+  Start Date: 2025-03
+  Title: PM (Product Manager)
+  Previous 1: Head Of Growth Bizops And Strategy @ Runway
+  Previous 2: Head Of Growth Marketing @ Shopify
+  Education: Bachelor Of Applied  Design, University Of Waterl '18
+  LinkedIn: https://linkedin.com/in/nabeelxshahid
+
+Employee #33
+  Name: Lorenzo Patrick
+  Grad: '11 | YoE: 14
+  Start Date: 2025-03
+  Title: Customer Success Representativ (Customer Success Representative)
+  Previous 1: Account Manager @ Draiver
+  Previous 2: Dispatcher @ Tst Expedited Services
+  Education: MS Journalism, Northwestern Univers '14
+  LinkedIn: https://linkedin.com/in/lorenzo-patrick-a6050553
+
+Employee #34
+  Name: Quinton Donald
+  Grad: '17 | YoE: 8
+  Start Date: 2025-03
+  Title: Senior Customer Success Repres (Senior Customer Success Representative)
+  Previous 1: Lead Enterprise Truckload Specialist @ Priority1
+  Previous 2: Senior Account Sales Representative Ii @ Loadsmart
+  Education: Expedient
+  LinkedIn: https://linkedin.com/in/quinton-donald-14815a105
+
+Employee #35
+  Name: Benjamin Oldham
+  Grad: '13 | YoE: 12
+  Start Date: 2025-03
+  Title: Growth (Growth)
+  Previous 1: Senior Operations Manager @ Amazon
+  Previous 2: Senior Manager, Final Mile & Ecommerce Operations @ Nolan Transportation Group (Ntg)
+  Education: BA Communication, University Of Kentuc '13
+  LinkedIn: https://linkedin.com/in/benjamin-oldham
+
+Employee #36
+  Name: Molly Lubow
+  Grad: '13 | YoE: 12
+  Start Date: 2025-03
+  Title: Senior Recruiter (Senior Recruiter)
+  Previous 1: Senior Technical Recruiter @ Replicant
+  Previous 2: Senior Technical Recruiter @ Shopify
+  Education: BA Sociology, Ithaca College
+  LinkedIn: https://linkedin.com/in/molly-lubow
+
+Employee #37
+  Name: Rachel Rodewald
+  Grad: '17 | YoE: 8
+  Start Date: 2025-03
+  Title: Customer Success Representativ (Customer Success Representative)
+  Previous 1: Client Support Specialist @ Onbe
+  Previous 2: Logistics Representative @ C.H. Robinson
+  Education: BA Theatre, North Central Colleg '17
+  LinkedIn: https://linkedin.com/in/rachel-rodewald-32a778141
+
+Employee #38
+  Name: Tyronne Fuentes
+  Grad: '17 | YoE: 8
+  Start Date: 2025-03
+  Title: Customer Success Manager (Customer Success Manager)
+  Previous 1: Ils Learning Coordinator @ Nfi
+  Previous 2: Key Account Manager @ Transportation One Llc
+  Education: BS Culinary Arts, Kendall College '17
+  LinkedIn: https://linkedin.com/in/tyronne-fuentes-9ab4a014a
+
+Employee #39
+  Name: Alexander Cooper
+  Grad: '20 | YoE: 5
+  Start Date: 2025-03
+  Title: Engineer (Software Engineer)
+  Previous 1: Software Engineer Ii @ Replicant
+  Previous 2: Software Engineer @ Flexport
+  Education: BS Physics, University Of Waterl '20
+  LinkedIn: https://linkedin.com/in/alexander-n-cooper
+
+Employee #40
+  Name: Alex Hong
+  Grad: '11 | YoE: 14
+  Start Date: 2025-03
+  Title: PM (Product Manager)
+  Previous 1: Staff Product Manager @ Motive
+  Previous 2: Senior Staff Product Manager @ Flexport
+  Education: Bachelor Of Applied  Aerospace Engineerin, University Of Toront
+  LinkedIn: https://linkedin.com/in/thealexhong
+
+Employee #41
+  Name: Lina Ramirez
+  Grad: '21 | YoE: 4
+  Start Date: 2025-03
+  Title: Executive Assistant (Executive Assistant)
+  Previous 1: Chief Of Staff @ Fr8Tribe
+  Previous 2: Sales Operations Leader @ Primo
+  Education: BS Marketing, Universidad Eafit '21
+  LinkedIn: https://linkedin.com/in/lina-ramirez-233071166
+
+Employee #42
+  Name: Alfred Gui
+  Grad: '08 | YoE: 17
+  Start Date: 2025-04
+  Title: Engineer (Engineer)
+  Previous 1: Staff Software Engineer @ Flexport
+  Previous 2: Staff Software Engineer @ Shopify
+  Education: PhD EE, UW '14
+  LinkedIn: https://linkedin.com/in/alfred-gui-77035b16
+
+Employee #43
+  Name: Mario Hoyos
+  Grad: '10 | YoE: 15
+  Start Date: 2025-04
+  Title: Engineer (Software Engineer)
+  Previous 1: Staff Software Engineer @ Flexport
+  Previous 2: Senior Software Engineer @ Flexport
+  Education: Software Engineering, Devmountain '18
+  LinkedIn: https://linkedin.com/in/mario-hoyos
+
+Employee #44
+  Name: Haley Winer
+  Grad: '11 | YoE: 14
+  Start Date: 2025-04
+  Title: Customer Success Lead (Customer Success Lead)
+  Previous 1: Director, Carrier Operations @ Molo Solutions
+  Previous 2: Director, Training @ Molo Solutions
+  Education: Management, Indiana University B '12
+  LinkedIn: https://linkedin.com/in/haley-winer-5b5a0535
+
+Employee #45
+  Name: Ali Gerlach
+  Grad: '15 | YoE: 10
+  Start Date: 2025-04
+  Title: Growth (Growth)
+  Previous 1: Senior Account Manager @ Uber Freight
+  Previous 2: Manager Of Account Management @ Uber Freight
+  Education: BS Business, The Ohio State Unive '15
+  LinkedIn: https://linkedin.com/in/alisongerlach
+
+Employee #46
+  Name: Orhan Özalp
+  Grad: '07 | YoE: 18
+  Start Date: 2025-04
+  Title: Engineering Manager (Engineering Manager)
+  Previous 1: Staff Software Engineer @ Yo
+  Previous 2: Senior Staff Software Engineer @ Flexport
+  Education: PhD CE, Istanbul Technical U '16
+  LinkedIn: https://linkedin.com/in/ocozalp
+
+Employee #47
+  Name: Ryan Muttaqi
+  Grad: '17 | YoE: 8
+  Start Date: 2025-04
+  Title: Senior Engineer (Senior Software Engineer)
+  Previous 1: Senior Software Engineer @ Flexport
+  Previous 2: Senior Software Engineer @ Shopify
+  Education: Bachelor Of Mathemat CS, University Of Waterl '17
+  LinkedIn: https://linkedin.com/in/ryanmuttaqi
+
+Employee #48
+  Name: Vinny Barra
+  Grad: '18 | YoE: 7
+  Start Date: 2025-04
+  Title: Customer Success Manager (Customer Success Manager)
+  Previous 1: Manager, Account Management - Key Account Growth @ Uber Freight
+  Previous 2: Senior Account Manager, Enterprise Growth & Development @ Uber Freight
+  Education: BS Marketing, Northern Illinois Un '18
+  LinkedIn: https://linkedin.com/in/vinny-barra
+
+Employee #49
+  Name: Kevin Xing
+  Grad: '19 | YoE: 6
+  Start Date: 2025-04
+  Title: Engineer (Software Engineer)
+  Previous 1: Senior Software Engineer @ Flexport
+  Previous 2: Senior Software Engineer @ Shopify
+  Education: BS CS, University Of Waterl '19
+  LinkedIn: https://linkedin.com/in/kev-xing
+
+Employee #50
+  Name: Armeen Hadizadeh
+  Grad: '20 | YoE: 5
+  Start Date: 2025-04
+  Title: Engineer (Software Engineer)
+  Previous 1: Senior Software Engineer @ Vial
+  Previous 2: Software Engineer @ Flexport
+  Education: CS, Lighthouse Labs '21
+  LinkedIn: https://linkedin.com/in/armeenhadizadeh
+
+Employee #51
+  Name: Jawad Jawid
+  Grad: '22 | YoE: 3
+  Start Date: 2025-04
+  Title: Engineer (Software Engineer)
+  Previous 1: Senior Software Engineer @ Flexport
+  Previous 2: Software Developer @ Flexport
+  Education: BS Software Engineering, University Of Toront '22
+  LinkedIn: https://linkedin.com/in/jawad-jawid
+
+Employee #52
+  Name: Jawaad Salahuddin
+  Grad: '23 | YoE: 2
+  Start Date: 2025-04
+  Title: Engineer (Software Engineer)
+  Previous 1: Software Engineer @ Instacart
+  Previous 2: Software Engineer @ Wonolo
+  Education: Bachelor Of Applied  CE, University Of Waterl '23
+  LinkedIn: https://linkedin.com/in/jawaad-salahuddin
+
+Employee #53
+  Name: Rocco Mangin
+  Grad: '17 | YoE: 8
+  Start Date: 2025-04
+  Title: Customer Success Manager (Customer Success Manager)
+  Previous 1: Operations Manager @ Rxo, Inc.
+  Previous 2: Project Manager: Ups Peak Project @ Coyote Logistics
+  Education: BS Psychology, UIUC '17
+  LinkedIn: https://linkedin.com/in/rocco-mangin-22041a13a
+
+Employee #54
+  Name: Andrew Mintz
+  Grad: '10 | YoE: 15
+  Start Date: 2025-05
+  Title: Growth (Growth)
+  Previous 1: Senior Vice President, Customer Success @ Bfc Software
+  Previous 2: Vice President, Sales @ Project44
+  Education: MS Business, Quantic School Of Bu '21
+  LinkedIn: https://linkedin.com/in/andrewlmintz
+
+Employee #55
+  Name: Cheng Cheng
+  Grad: '13 | YoE: 12
+  Start Date: 2025-05
+  Title: Operations (Head Of Operations)
+  Previous 1: Vice President Corporate Development @ Easypost
+  Previous 2: Senior Director, Corporate Development @ Project44
+  Education: BS Accountancy, UIUC '13
+  LinkedIn: https://linkedin.com/in/cheng-cheng-04045418
+
+Employee #56
+  Name: Klaus Steiner
+  Grad: '16 | YoE: 9
+  Start Date: 2025-05
+  Title: Engineer (Software Engineer)
+  Previous 1: Software Development Engineer 2, Dynamodb @ Amazon Web Services (Aws)
+  Previous 2: Senior Software Engineer @ Flexport
+  Education: MS Physics, Technische Universit '18
+  LinkedIn: https://linkedin.com/in/klaus-steiner
+
+Employee #57
+  Name: Michael Brady
+  Grad: '15 | YoE: 10
+  Start Date: 2025-05
+  Title: Engineer (Software Engineer)
+  Previous 1: Senior Software Engineer @ Flexport
+  Previous 2: Senior Software Engineer @ Shopify
+  Education: BS CS, University Of Toront '15
+  LinkedIn: https://linkedin.com/in/michael-brady-4b8a995b
+
+Employee #58
+  Name: Kevin Zhao
+  Grad: '21 | YoE: 4
+  Start Date: 2025-05
+  Title: Engineer (Software Engineer)
+  Previous 1: Software Engineer @ Assembled
+  Previous 2: Software Engineer @ Convoy Inc
+  Education: Business, UMich '21
+  LinkedIn: https://linkedin.com/in/kevinkzhao
+
+Employee #59
+  Name: Ryan Lam
+  Grad: '22 | YoE: 3
+  Start Date: 2025-05
+  Title: Engineer (Software Engineer)
+  Previous 1: Software Engineer @ Flexport
+  Previous 2: Junior Software Engineer @ Shopify
+  Education: BS CS, Uc Irvine '22
+  LinkedIn: https://linkedin.com/in/ryan~lam
+
+Employee #60
+  Name: Edwin Su
+  Grad: '10 | YoE: 15
+  Start Date: 2025-06
+  Title: Engineer (Software Engineer)
+  Previous 1: Senior Solutions Architect @ Butlr
+  Previous 2: Senior Solutions Engineer @ Flexport
+  Education: BS EE, Ucla '10
+  LinkedIn: https://linkedin.com/in/edwinesu
+
+Employee #61
+  Name: Riley Napier
+  Grad: '07 | YoE: 18
+  Start Date: 2025-06
+  Title: Engineer (Software Engineer)
+  Previous 1: First Engineering Hire @ Courier
+  Previous 2: Senior Software Engineer @ Growlabs Is Now Rollworks
+  Education: BS CS, Univerisity Of Minne '07
+  LinkedIn: https://linkedin.com/in/rileylnapier
+
+Employee #62
+  Name: Arthur Doorn
+  Grad: '18 | YoE: 7
+  Start Date: 2025-06
+  Title: Account Executive (Strategic Account Executive)
+  Previous 1: Founding Gtm @ Levity
+  Previous 2: Senior Enterprise Account Executive @ Freightwaves
+  Education: BBA Finance, New Mexico State Uni '18
+  LinkedIn: https://linkedin.com/in/arthur-doorn
+
+Employee #63
+  Name: Vikram Sraon
+  Grad: '18 | YoE: 7
+  Start Date: 2025-06
+  Title: GTM (Business Operations Strategist)
+  Previous 1: Senior Manager, Strategy And Operations - Agentic Ai @ Wonolo
+  Previous 2: Senior Manager, Central Operations @ Wonolo
+  Education: Bachelor Of Applied  Engineering, University Of Waterl '18
+  LinkedIn: https://linkedin.com/in/vikramsraon
+
+Employee #64
+  Name: Mohammed Muzawar
+  Grad: '21 | YoE: 4
+  Start Date: 2025-06
+  Title: Engineer (Software Engineer)
+  Previous 1: Senior Software Engineer @ Silq
+  Previous 2: Software Engineer Intern @ Silq
+  Education: MS CS, University Of Califo '24
+  LinkedIn: https://linkedin.com/in/mohammed-faizaan-muzawar
+
+Employee #65
+  Name: Anthony Cafaro
+  Grad: '18 | YoE: 7
+  Start Date: 2025-06
+  Title: Growth (Growth)
+  Previous 1: Senior Solutions Engineer @ Shipium
+  Previous 2: Product Manager @ Project44
+  Education: Loyola University Ch '17
+  LinkedIn: https://linkedin.com/in/anthony-cafaro-bb64112b4
+
+Employee #66
+  Name: Daniel Veenstra
+  Grad: '13 | YoE: 12
+  Start Date: 2025-07
+  Title: Engineer (Software Engineer)
+  Previous 1: Lead Backend Engineer @ Airshop
+  Previous 2: Engineering Manager @ Gridplus
+  Education: Management, Bayes Business Schoo '12
+  LinkedIn: https://linkedin.com/in/daniel-veenstra-3185ba57
+
+Employee #67
+  Name: Carlos Hernandez
+  Grad: '09 | YoE: 16
+  Start Date: 2025-07
+  Title: Designer (Product Marketing Designer)
+  Previous 1: Principal Product Designer @ Sendturtle - Ai Document Analytics. Sign, Send, And Summarize Docs.
+  Previous 2: Senior Product Designer @ Mealsguru
+  Education: Design, Springboard '21
+  LinkedIn: https://linkedin.com/in/designercj
+
+Employee #68
+  Name: Andrew Holbrook
+  Grad: '05 | YoE: 20
+  Start Date: 2025-08
+  Title: PM (Product Manager)
+  Previous 1: Vice President, Product Management @ Fis
+  Previous 2: Product Manager @ Lyft
+  Education: Entrepreneurship, Stanford '10
+  LinkedIn: https://linkedin.com/in/andrew-b-holbrook-9ab01a6
+
+Employee #69
+  Name: Agustin Sacco
+  Grad: '12 | YoE: 13
+  Start Date: 2025-08
+  Title: Engineering (Engineering)
+  Previous 1: Principal Software Engineer @ Aucctus Ai
+  Previous 2: Director Of Engineering @ Ascendis
+  Education: BS CS, Concordia University
+  LinkedIn: https://linkedin.com/in/agustin-sacco-34a2a663
+
+Employee #70
+  Name: Andrea Ortega
+  Grad: '04 | YoE: 21
+  Start Date: 2025-08
+  Title: GTM (Senior Gtm Recruiter)
+  Previous 1: Executive Recruiter @ Procaps Laboratories
+  Previous 2: Senior Sales / Technical Recruiter @ Shopify
+  Education: BS Business, Grossmont College '04
+  LinkedIn: https://linkedin.com/in/andrea-ortega-23568111
+
+Employee #71
+  Name: Shana Beniamin
+  Grad: '20 | YoE: 5
+  Start Date: 2025-08
+  Title: Engineer (Software Engineer)
+  Previous 1: Software Engineer @ Evenup
+  Previous 2: Software Engineer @ Flexport
+  Education: Medical Engineering, Ryerson University '21
+  LinkedIn: https://linkedin.com/in/shana-beniamin
+
+Employee #72
+  Name: Mashrur Khan
+  Grad: '12 | YoE: 13
+  Start Date: 2025-08
+  Title: Engineer (Software Engineer)
+  Previous 1: Senior Software Engineer @ Flexport
+  Previous 2: Senior Software Engineer @ Shopify
+  Education: MS CS, University Of Waterl '15
+  LinkedIn: https://linkedin.com/in/swastiekhan
+
+Employee #73
+  Name: Shadab Rashid
+  Grad: '10 | YoE: 15
+  Start Date: 2025-08
+  Title: Product (Product)
+  Previous 1: Principal Product Manager @ Orderful
+  Previous 2: Product Lead @ Anzenna
+  Education: BS Business, University Of Waterl '10
+  LinkedIn: https://linkedin.com/in/shadab-rashid
+
+Employee #74
+  Name: Brennen Denomme
+  Grad: '17 | YoE: 8
+  Start Date: 2025-08
+  Title: Engineer (Software Engineer)
+  Previous 1: Staff Software Engineer @ Grafana Labs
+  Previous 2: Senior Software Engineer Ii @ Bit Complete
+  Education: Georgian College '19
+  LinkedIn: https://linkedin.com/in/bkd705
+
+Employee #75
+  Name: Ray Wang
+  Grad: '12 | YoE: 13
+  Start Date: 2025-08
+  Title: Engineering (Engineering)
+  Previous 1: Engineering Manager @ Flexport
+  Previous 2: Software Development Manager @ Shopify
+  Education: BS CS, University Of Waterl '12
+  LinkedIn: https://linkedin.com/in/r7wang
+
+Employee #76
+  Name: Mike Pilarz
+  Grad: '05 | YoE: 20
+  Start Date: 2025-09
+  Title: VP (Vice President Of Marketing)
+  Previous 1: Head Of Corporate And Product Marketing @ 15Five
+  Previous 2: Senior Director, Corporate Marketing @ 15Five
+  Education: BA Advertising, Central Michigan Uni
+  LinkedIn: https://linkedin.com/in/mikepilarz
+
+Employee #77
+  Name: Eugen Burianov
+  Grad: '07 | YoE: 18
+  Start Date: 2025-09
+  Title: Engineer (Software Engineer)
+  Previous 1: Staff Software Engineer @ Flexport
+  Previous 2: Software Engineering Manager @ Flexport
+  Education: MS CS, Maharishi Internatio '11
+  LinkedIn: https://linkedin.com/in/eugenburianov
+
+Employee #78
+  Name: Dustin Sears
+  Grad: '98 | YoE: 27
+  Start Date: 2025-09
+  Title: Growth Consultant (Growth Consultant)
+  Previous 1: Vice President Of Sales @ Intellishift
+  Previous 2: Head Of Sales @ Gpx Intelligence
+  Education: Software Engineering, Free Code Camp '16
+  LinkedIn: https://linkedin.com/in/dsears
+
+Employee #79
+  Name: Sid Palaniappan
+  Grad: '18 | YoE: 7
+  Start Date: 2025-09
+  Title: Account Executive (Enterprise Account Executive)
+  Previous 1: National Sales Manager @ Allen Lund Company
+  Previous 2: Manager, Sales @ U.S. Xpress, Inc.
+  Education: BS, UIUC '17
+  LinkedIn: https://linkedin.com/in/siddarth-palaniappan
+
+Employee #80
+  Name: Amir Bavani
+  Grad: '07 | YoE: 18
+  Start Date: 2025-09
+  Title: Account Executive (Senior Enterprise Account Executive)
+  Previous 1: Enterprise Account Executive @ Lvk Logistics
+  Previous 2: Mid-Market Account Executive @ Flexport
+  Education: BA Econ, University Of Cincin '07
+  LinkedIn: https://linkedin.com/in/amirbavani
+
+Employee #81
+  Name: Brian Honer
+  Grad: '10 | YoE: 15
+  Start Date: 2025-09
+  Title: Account Executive (Senior Enterprise Account Executive)
+  Previous 1: Vice President Of Sales @ 123Loadboard
+  Previous 2: Senior Director, Commercial Strategy & Revenue @ Emerge
+  Education: Business, University Of Missou '10
+  LinkedIn: https://linkedin.com/in/brian-honer-36124820
+
+Employee #82
+  Name: Devashri Nagarkar
+  Grad: '19 | YoE: 6
+  Start Date: 2025-09
+  Title: Engineer (Software Engineer)
+  Previous 1: Software Engineer @ Redfin
+  Previous 2: Software Engineering Intern @ Microsoft
+  Education: BS CS, UIUC '19
+  LinkedIn: https://linkedin.com/in/devashrinagarkar
+
+Employee #83
+  Name: Victor Trinh
+  Grad: '22 | YoE: 3
+  Start Date: 2025-09
+  Title: Engineer (Software Engineer)
+  Previous 1: Software Engineer @ Instacart
+  Previous 2: Software Engineer @ Amazon
+  Education: BS CS, University Of Toront '22
+  LinkedIn: https://linkedin.com/in/victortrinh
+
+Employee #84
+  Name: Dhruv Sharma
+  Grad: '26 | YoE: ?
+  Start Date: 2025-09
+  Title: Engineer (Software Engineer)
+  Previous 1: Machine Learning Engineer @ Safari Ai
+  Previous 2: Machine Learning Engineer @ Stealth Startup
+  Education: Dtu - Technical Univ '24
+  LinkedIn: https://linkedin.com/in/dhruv-sharma98
+
+Employee #85
+  Name: Merissa Molinar
+  Grad: '12 | YoE: 13
+  Start Date: 2025-10
+  Title: PM (Product Manager)
+  Previous 1: Senior Product Manager @ Atelio By Fis
+  Previous 2: Lead Product Manager @ Pavilion
+  Education: MA Public Policy, Stanford '13
+  LinkedIn: https://linkedin.com/in/merissamolinar
+
+Employee #86
+  Name: Matthew Borta
+  Grad: '19 | YoE: 6
+  Start Date: 2025-10
+  Title: Implementation Manager (Implementation Manager)
+  Previous 1: Technical Account Manager @ Project44
+  Previous 2: Operations Manager @ Project44
+  Education: BBA Business, University Of Wiscon '19
+  LinkedIn: https://linkedin.com/in/matthew-borta
+
+Employee #87
+  Name: Cory Itzen
+  Grad: '15 | YoE: 10
+  Start Date: 2025-10
+  Title: Engineer (Software Engineer)
+  Previous 1: Software Engineer @ Leafly
+  Previous 2: Software Engineer @ Spreetail
+  Education: CE, Iowa State Universit '17
+  LinkedIn: https://linkedin.com/in/cditzen
+
+Employee #88
+  Name: Ashley Atunzu
+  Grad: '18 | YoE: 7
+  Start Date: 2025-10
+  Title: Operations (Talent Operations Manager)
+  Previous 1: Executive Assistant To Chief Executive Officer, Chief Technology Officer, And Senior Vice President Of Product @ Cobalt
+  Previous 2: Executive Assistant @ Zillow
+  Education: BS Business Management, Dalton State College '18
+  LinkedIn: https://linkedin.com/in/ashleyatunzu
+
+Employee #89
+  Name: Bryan Zake
+  Grad: '16 | YoE: 9
+  Start Date: 2025-10
+  Title: Engineer (Api Integration Engineer)
+  Previous 1: Senior Software Engineer @ Homeaglow
+  Previous 2: Senior Software Engineer @ Security Journey
+  Education: BS CS, The Ohio State Unive '16
+  LinkedIn: https://linkedin.com/in/bryanzake
+
+Employee #90
+  Name: Pradyumn Bangera
+  Grad: '21 | YoE: 4
+  Start Date: 2025-10
+  Title: Engineer (Software Engineer)
+  Previous 1: Software Engineer @ Amazon
+  Previous 2: Cloud Engineer @ Oracle
+  Education: BS CS, University Of Maryla '21
+  LinkedIn: https://linkedin.com/in/pradyumnbangera
+
+Employee #91
+  Name: Minh Le
+  Grad: '22 | YoE: 3
+  Start Date: 2025-10
+  Title: Engineer (Software Engineer)
+  Previous 1: Software Engineer @ Capital One
+  Previous 2: Associate Software Engineer @ Capital One
+  Education: MS CS, Georgia Tech
+  LinkedIn: https://linkedin.com/in/minh-nguyen-le-b536a91b5
+
+Employee #92
+  Name: Andy L
+  Grad: '16 | YoE: 9
+  Start Date: 2025-10
+  Title: Engineer (Software Engineer)
+  Previous 1: Software Engineer Ii @ Flexport
+  Previous 2: Junior Backend Engineer @ Shopify
+  Education: Software Engineering, Hack Reactor '21
+  LinkedIn: https://linkedin.com/in/jleiandy
+
+Employee #93
+  Name: Alejandro Sanabria
+  Grad: '08 | YoE: 17
+  Start Date: 2025-11
+  Title: Engineer (Software Engineer)
+  Previous 1: Engineering Manager @ Braze
+  Previous 2: Software Development Manager - Search Relevance @ Shopify
+  Education: Philosophy, University Of Albert '14
+  LinkedIn: https://linkedin.com/in/alejandroramirezsanabria

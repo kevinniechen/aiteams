@@ -74,6 +74,10 @@
     { "date": "2024-09", "amount": 175, "round": "B" },
     { "date": "2025-03", "amount": 600, "round": "C" }
   ],
-  "brainco": []
+  "brainco": [],
+  "augment": [
+    { "date": "2024-10", "amount": 25, "round": "Seed" },
+    { "date": "2025-10", "amount": 85, "round": "A" }
+  ]
 }
 
