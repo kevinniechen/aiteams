@@ -82,6 +82,14 @@
   "manus": [
     { "date": "2023-01", "amount": 10, "round": "A" },
     { "date": "2025-04", "amount": 75, "round": "B" }
+  ],
+  "anthropic": [
+    { "date": "2021-05", "amount": 124, "round": "A" },
+    { "date": "2022-04", "amount": 580, "round": "B" },
+    { "date": "2023-05", "amount": 450, "round": "C" },
+    { "date": "2023-09", "amount": 4000, "round": "D" },
+    { "date": "2024-03", "amount": 2750, "round": "D2" },
+    { "date": "2025-01", "amount": 2000, "round": "E" }
   ]
 }
 

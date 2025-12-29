@@ -1,0 +1,887 @@
+ANTHROPIC - EARLIEST EMPLOYEES
+(Founded: 2021-01)
+================================================================================
+
+Employee #1
+  Name: Jack Clark
+  Grad: '09 | YoE: 12
+  Start Date: 2021-01
+  Title: Co-Founder (Co-Founder)
+  Previous 1: Policy Director @ Openai
+  Previous 2: Strategy & Communications @ Openai
+  Education: BA Creative Writing, University Of East A '09
+  LinkedIn: https://linkedin.com/in/jack-clark-5a320317
+
+Employee #2
+  Name: Sam Mccandlish
+  Grad: '12 | YoE: 9
+  Start Date: 2021-01
+  Title: Co-Founder (Co-Founder And Chief Architect)
+  Previous 1: Member Of Technical Staff @ Openai
+  Previous 2: Postdoctoral Fellow @ Boston University
+  Education: PhD Physics, Stanford '17
+  LinkedIn: https://linkedin.com/in/sam-mccandlish
+
+Employee #3
+  Name: Tom Brown
+  Grad: '04 | YoE: 17
+  Start Date: 2021-01
+  Title: Co-Founder (Co-Founder)
+  Previous 1: Research Engineering Lead, Gpt-3 @ Openai
+  Previous 2: Member Of Technical Staff @ Google Deepmind
+  Education: Cfar '15
+  LinkedIn: https://linkedin.com/in/nottombrown
+
+Employee #4
+  Name: Jared Kaplan
+  Grad: '05 | YoE: 16
+  Start Date: 2021-01
+  Title: Co-Founder (Co-Founder And Chief Science Officer)
+  Previous 1: Research Consultant @ Openai
+  Previous 2: Professor @ The Johns Hopkins University
+  Education: PhD Physics, Harvard '09
+  LinkedIn: https://linkedin.com/in/jared-kaplan-645843213
+
+Employee #5
+  Name: Tom Henighan
+  Grad: '10 | YoE: 11
+  Start Date: 2021-01
+  Title: Engineer (Member Of The Technical Staff)
+  Previous 1: Member Of The Technical Staff, Safety Team @ Openai
+  Previous 2: Artificial Intelligence Engineer @ Beehive Ai
+  Education: PhD Philosophy, Stanford '17
+  LinkedIn: https://linkedin.com/in/tom-henighan-757498123
+
+Employee #6
+  Name: Nicholas Joseph
+  Grad: '17 | YoE: 4
+  Start Date: 2021-01
+  Title: Engineer (Member Of Technical Staff)
+  Previous 1: Member Of Technical Staff @ Openai
+  Previous 2: Research Engineer @ Vicarious
+  Education: BS CS, Harvard '17
+  LinkedIn: https://linkedin.com/in/njoseph2
+
+Employee #7
+  Name: Brett Smith
+  Grad: '02 | YoE: 19
+  Start Date: 2021-01
+  Title: Principal Clinical Project Man (Principal Clinical Project Manager, Neurology)
+  Previous 1: Senior Data Scientist @ Mortech, A Zillow Group Business
+  Previous 2: Data Scientist @ Mortech, A Zillow Group Business
+  Education: MS CS, UW '04
+  LinkedIn: https://linkedin.com/in/blake-shealy-73bb3065
+
+Employee #8
+  Name: Valence Luteganya
+  Grad: '04 | YoE: 17
+  Start Date: 2021-01
+  Title: Engineer (Research Engineer)
+  Previous 1: Senior Product Manager @ Standard Chartered
+  Previous 2: Head - Business Development And Marketing @ Mwalimu Commercial Bank Plc
+  Education: Bachelor Of Commerce Management, University Of Dar Es '04
+
+Employee #9
+  Name: Cindy Li
+  Grad: '10 | YoE: 11
+  Start Date: 2021-01
+  Title: AI Engineer (Senior Data Scientist, Ai Research)
+  Previous 1: Senior Technical Consultant @ Tanium
+  Previous 2: Senior Engineer Manager @ Guangzhou Chenyang Communication Technology
+  Education: MS Computer Application, UW '14
+  LinkedIn: https://linkedin.com/in/cindy-li-455810354
+
+Employee #10
+  Name: Jenny Y
+  Grad: '01 | YoE: 20
+  Start Date: 2021-01
+  Title: Director (Ai Intelligent Research & Development Project Director)
+  Previous 1: Senior Ai Research Manager @ Datarobot
+  Previous 2: Ai Engineer & Research Scientist @ Datarobot
+  Education: MS CS, Purdue University
+  LinkedIn: https://linkedin.com/in/jennyy-cn
+
+Employee #11
+  Name: Tina Li
+  Grad: '15 | YoE: 6
+  Start Date: 2021-01
+  Title: AI Engineer (Ai-Focused It Modernization Lead | Cloudops, Devops & Intelligent Automation)
+  Previous 1: N/A @ N/A
+  Previous 2: N/A @ N/A
+  Education: BS Information Systems, Usc Marshall School  '15
+  LinkedIn: https://linkedin.com/in/tina-li-35b3a72b3
+
+Employee #12
+  Name: Julia Bennett
+  Grad: '98 | YoE: 23
+  Start Date: 2021-01
+  Title: VP (Senior Vice President Of Engineering)
+  Previous 1: Vice President Of Engineering @ Nuro
+  Previous 2: Director Of Ai Ethics @ Microsoft
+  Education: MS, École Polytechnique '00
+
+Employee #13
+  Name: Brian Zhao
+  Grad: '00 | YoE: 21
+  Start Date: 2021-01
+  Title: AI Engineer (Ai Consultant / Technology Consultant Semi-Retirement Direction)
+  Previous 1: Senior Research Scientist @ Openai
+  Previous 2: Research Scientist @ Openai
+  Education: MBA CS, Santa Clara Universi
+  LinkedIn: https://linkedin.com/in/brian-zhao-6a9938342
+
+Employee #14
+  Name: Kylie B
+  Grad: '00 | YoE: 21
+  Start Date: 2021-01
+  Title: Co-Founder (Co-Founder And Chairwoman Of The Board Of Directors)
+  Previous 1: Chairwoman Of The Business Council @ The White House
+  Previous 2: First Vice President @ International Olympic Committee – Ioc
+  Education: PhD, The Juilliard School '14
+
+Employee #15
+  Name: Peter Taylor
+  Grad: '03 | YoE: 18
+  Start Date: 2021-01
+  Title: Lead Research Analyst (Lead Research Analyst)
+  Previous 1: Lead Research Analyst @ Sama.Ai
+  Previous 2: Senior Research Analyst @ Sama.Ai
+  Education: MS, Uc Irvine
+  LinkedIn: https://linkedin.com/in/peter-taylor-47868186
+
+Employee #16
+  Name: Allen Lee
+  Grad: '00 | YoE: 21
+  Start Date: 2021-01
+  Title: Director (Ai Product Director)
+  Previous 1: Ai Platform Product Manager @ Openai
+  Previous 2: Demand Analyst @ Google
+  Education: MS CE, USC '05
+  LinkedIn: https://linkedin.com/in/allen-lee-076a36187
+
+Employee #17
+  Name: Javier Chui
+  Grad: '97 | YoE: 24
+  Start Date: 2021-01
+  Title: AI Engineer (Head Of Applied Ai Platforms)
+  Previous 1: Principal Research Engineer @ Nuro
+  Previous 2: Senior Software Engineer Ai Integration @ Google
+  Education: BS CS, University Of Califo
+
+Employee #18
+  Name: Blake H
+  Grad: '05 | YoE: 16
+  Start Date: 2021-01
+  Title: AI Engineer (Head Of Ai Engineering)
+  Previous 1: Manager, Machine Learning Infrastructure @ Soundhound Ai
+  Previous 2: Senior Manager, Machine Learning Infrastructure @ Soundhound Ai
+  Education: MS CS, UC Berkeley
+
+Employee #19
+  Name: Martin Ruan
+  Grad: '03 | YoE: 18
+  Start Date: 2021-01
+  Title: VP (Vice President For Research)
+  Previous 1: Ai Experts @ Openai
+  Previous 2: Senior, Research Engineer @ Openai
+  Education: Arizona State Univer
+
+Employee #20
+  Name: Steven Kang
+  Grad: '96 | YoE: 25
+  Start Date: 2021-01
+  Title: VP (Vice President)
+  Previous 1: Senior Project Manager @ Datarobot
+  Previous 2: Research & Development Engineering Associate @ Brampton Engineering
+  Education: MS CS, Ucla
+
+Employee #21
+  Name: Danny Hernandez
+  Grad: '07 | YoE: 14
+  Start Date: 2021-02
+  Title: Research Scientist (Research Scientist)
+  Previous 1: Research Scientist @ Openai
+  Previous 2: Data Scientist @ Twitch
+  Education: MS ME, MIT '10
+  LinkedIn: https://linkedin.com/in/danny-hernandez-2b748823
+
+Employee #22
+  Name: Benjamin Mann
+  Grad: '11 | YoE: 10
+  Start Date: 2021-02
+  Title: Engineer (Member Of Technical Staff)
+  Previous 1: Member Of Technical Staff @ Openai
+  Previous 2: Founder @ Startup Events
+  Education: BS CS, Columbia Engineering '11
+  LinkedIn: https://linkedin.com/in/benjamin-mann
+
+Employee #23
+  Name: David Andrew
+  Grad: '06 | YoE: 15
+  Start Date: 2021-02
+  Title: CEO (Chief Executive Officer)
+  Previous 1: Vice President Research @ Openai
+  Previous 2: Research Director @ Openai
+  Education: Philosophy, Princeton '11
+  LinkedIn: https://linkedin.com/in/david-andrew-9b746b35b
+
+Employee #24
+  Name: David Koke
+  Grad: '06 | YoE: 15
+  Start Date: 2021-02
+  Title: CEO (Chief Executive Officer)
+  Previous 1: Vice President Research @ Openai
+  Previous 2: Research Director @ Openai
+  Education: Philosophy, Princeton '11
+  LinkedIn: https://linkedin.com/in/david-koke-287bb135a
+
+Employee #25
+  Name: An Chen
+  Grad: '08 | YoE: 13
+  Start Date: 2021-02
+  Title: Investor (Investor)
+  Previous 1: Ai Investors @ Cribl
+  Previous 2: Associate Investment Banking Division (Tmt) @ Morgan Stanley
+  Education: MS Econ, Mit Sloan School Of  '14
+  LinkedIn: https://linkedin.com/in/an-ni-chen-157861290
+
+Employee #26
+  Name: Christopher Olah
+  Grad: '09 | YoE: 12
+  Start Date: 2021-03
+  Title: Co-Founder (Cofounder, Interpretability Research Lead)
+  Previous 1: Member Of Technical Staff @ Openai
+  Previous 2: Research Scientist @ Google
+  Education: University Of Real L '15
+  LinkedIn: https://linkedin.com/in/christopher-olah-b574414a
+
+Employee #27
+  Name: Catherine Olsson
+  Grad: '13 | YoE: 8
+  Start Date: 2021-03
+  Title: Engineer (Member Of Technical Staff)
+  Previous 1: Senior Program Associate @ Coefficient Giving
+  Previous 2: Research Software Engineer At Google Brain @ Google
+  Education: BS Cognitive Science, MIT '13
+  LinkedIn: https://linkedin.com/in/catherineolsson
+
+Employee #28
+  Name: Amanda Askell
+  Grad: '04 | YoE: 17
+  Start Date: 2021-03
+  Title: Engineer (Member Of Technical Staff)
+  Previous 1: Research Scientist (Policy) @ Openai
+  Previous 2: N/A @ N/A
+  Education: PhD Philosophy, NYU '18
+  LinkedIn: https://linkedin.com/in/amanda-askell
+
+Employee #29
+  Name: Raul Sanz
+  Grad: '16 | YoE: 5
+  Start Date: 2021-03
+  Title: Fullstack Engineer (Senior Full Stack Developer)
+  Previous 1: Full Stack Developer @ Stripe
+  Previous 2: Frontend Developer @ Epic
+  Education: BS CS, Briarcliffe College '16
+  LinkedIn: https://linkedin.com/in/raul-sanz-3b9559143
+
+Employee #30
+  Name: Olanioekun David
+  Grad: '21 | YoE: ?
+  Start Date: 2021-03
+  Title: Account Manager (Account Manager)
+  Previous 1: N/A @ N/A
+  Previous 2: N/A @ N/A
+  Education: Econ, University Of Ibadan '20
+  LinkedIn: https://linkedin.com/in/olanioekun-mayowa-david-45619a189
+
+Employee #31
+  Name: Kamal Ndousse
+  Grad: '14 | YoE: 7
+  Start Date: 2021-04
+  Title: Engineer (Member Of Technical Staff)
+  Previous 1: Member Of Technical Staff @ Stealth Startup
+  Previous 2: Member Of Technical Staff (Fellow) @ Openai
+  Education: BS Math, MIT '14
+  LinkedIn: https://linkedin.com/in/kamal-ndousse-a74932126
+
+Employee #32
+  Name: Andy Jones
+  Grad: '07 | YoE: 14
+  Start Date: 2021-04
+  Title: Engineer (Technical Staff)
+  Previous 1: Researcher @ Gsa
+  Previous 2: Machine Learning Engineer @ Biosignatures Ltd
+  Education: MA Math, The University Of Ed '12
+  LinkedIn: https://linkedin.com/in/andyjonescs
+
+Employee #33
+  Name: Nelson Elhage
+  Grad: '09 | YoE: 12
+  Start Date: 2021-05
+  Title: Engineer (Member Of Technical Staff)
+  Previous 1: Staff Software Engineer @ Stripe
+  Previous 2: N/A @ N/A
+  Education: BS CS, MIT '09
+  LinkedIn: https://linkedin.com/in/nelhage
+
+Employee #34
+  Name: Ansel Chan
+  Grad: '02 | YoE: 19
+  Start Date: 2021-05
+  Title: Director (Director, Ai Systems Engineering)
+  Previous 1: Software Architecture Manager @ Figure Eight
+  Previous 2: Senior Engineer @ Savi Technology
+  Education: MS CS, Stanford
+
+Employee #35
+  Name: Dawn Drain
+  Grad: '17 | YoE: 4
+  Start Date: 2021-07
+  Title: Engineer (Member Of The Technical Staff)
+  Previous 1: Machine Learning Research Scientist Ii @ Microsoft
+  Previous 2: Student Assistant @ Center For Human-Compatible Ai
+  Education: MS Math, Ucla '18
+  LinkedIn: https://linkedin.com/in/dawn-drain-414601a8
+
+Employee #36
+  Name: Yuntao Bai
+  Grad: '13 | YoE: 8
+  Start Date: 2021-07
+  Title: Engineer (Member Of Technical Staff)
+  Previous 1: Sherman Fairchild Postdoctoral Fellow @ Caltech
+  Previous 2: N/A @ N/A
+  Education: PhD Physics, Princeton '18
+  LinkedIn: https://linkedin.com/in/yuntao-bai-3039bb138
+
+Employee #37
+  Name: Muhammad Amin
+  Grad: '21 | YoE: ?
+  Start Date: 2021-07
+  Title: Assistant Office Manager (Assistant Office Manager)
+  Previous 1: N/A @ N/A
+  Previous 2: N/A @ N/A
+  Education: Stanford
+  LinkedIn: https://linkedin.com/in/muhammad-amin-00094131b
+
+Employee #38
+  Name: Michael J
+  Grad: '01 | YoE: 20
+  Start Date: 2021-07
+  Title: AI Engineer (Ai Research Scientist)
+  Previous 1: Research Engineer / Senior Ml Engineer @ Ibm
+  Previous 2: Machine Learning Engineer / Nlp Expert @ Ibm
+  Education: MS CS, USC '04
+
+Employee #39
+  Name: Deep Ganguli
+  Grad: '06 | YoE: 15
+  Start Date: 2021-08
+  Title: Engineer (Member Of Technical Staff)
+  Previous 1: Research Director @ Stanford Institute For Human-Centered Artificial Intelligence (Hai)
+  Previous 2: Science Program Officer @ Chan Zuckerberg Initiative
+  Education: PhD Neuroscience, NYU '12
+  LinkedIn: https://linkedin.com/in/dganguli
+
+Employee #40
+  Name: Mark Lynch
+  Grad: '18 | YoE: 3
+  Start Date: 2021-10
+  Title: AI Engineer (Ai Analyst)
+  Previous 1: Remote Test Scoring / Language Arts @ Cognia
+  Previous 2: Social Media Analyst @ Appen
+  Education: BA Liberal Studies, University Of North  '18
+  LinkedIn: https://linkedin.com/in/mark-lynch-243532165
+
+Employee #41
+  Name: Jia Loke
+  Grad: '13 | YoE: 8
+  Start Date: 2021-10
+  Title: Gnome (Gnome)
+  Previous 1: Operations @ Center On Long-Term Risk
+  Previous 2: Summer Research Fellow @ Center On Long-Term Risk
+  Education: University Of Cambri '18
+  LinkedIn: https://linkedin.com/in/jiayuanloke
+
+Employee #42
+  Name: Jackson Kernion
+  Grad: '12 | YoE: 9
+  Start Date: 2021-11
+  Title: Engineer (Technical Staff)
+  Previous 1: Postdoctoral Associate @ Massachusetts Institute Of Technology
+  Previous 2: Youth Philanthropy Internship @ The Heinz Endowments
+  Education: PhD Philosophy, UC Berkeley '20
+  LinkedIn: https://linkedin.com/in/jacksonkernion
+
+Employee #43
+  Name: Tom Conerly
+  Grad: '11 | YoE: 10
+  Start Date: 2021-11
+  Title: Interpretability (Interpretability)
+  Previous 1: Ml & Infra On A Trading Team @ Jump Trading
+  Previous 2: Infrastructure @ Meta
+  Education: BS CS, CMU '11
+  LinkedIn: https://linkedin.com/in/tom-conerly-a56a095
+
+Employee #44
+  Name: Sheer Showk
+  Grad: '00 | YoE: 21
+  Start Date: 2021-12
+  Title: Engineer (Member Of Technical Staff)
+  Previous 1: Senior Software Engineer @ Coiled
+  Previous 2: Founder & President @ Nascent Ai
+  Education: PhD Physics, University Of Amster '09
+  LinkedIn: https://linkedin.com/in/sheer-el-showk
+
+Employee #45
+  Name: Saurav Kadavath
+  Grad: '20 | YoE: 2
+  Start Date: 2022-01
+  Title: Engineer (Member Of Technical Staff)
+  Previous 1: Software Engineering Intern @ Okta
+  Previous 2: Machine Learning Researcher @ Berkeley Artificial Intelligence Research
+  Education: MS CS, UC Berkeley '21
+  LinkedIn: https://linkedin.com/in/kadavath
+
+Employee #46
+  Name: Shauna Kravec
+  Grad: '12 | YoE: 10
+  Start Date: 2022-01
+  Title: Engineer (Member Of Technical Staff)
+  Previous 1: Chief Executive Officer @ Hofvarpnir Studios
+  Previous 2: Machine Learning Engineer @ Clostra, Inc.
+  Education: PhD Energy, Uc San Diego '19
+  LinkedIn: https://linkedin.com/in/shauna-kravec-0a88a6217
+
+Employee #47
+  Name: Bryan Seethor
+  Grad: '19 | YoE: 3
+  Start Date: 2022-01
+  Title: Business (Business)
+  Previous 1: Software Investor @ Tpg
+  Previous 2: Investment Banking @ Morgan Stanley
+  Education: Sciences Po Lyon '17
+  LinkedIn: https://linkedin.com/in/bryan-seethor-874120118
+
+Employee #48
+  Name: Ridwan Mohamed
+  Grad: '03 | YoE: 19
+  Start Date: 2022-01
+  Title: Cloud Architect (Cloud Architect)
+  Previous 1: Owner @ Global Commodities
+  Previous 2: N/A @ N/A
+  Education: N/A
+
+Employee #49
+  Name: Emma Tan
+  Grad: '08 | YoE: 14
+  Start Date: 2022-01
+  Title: Machine Learning Engineering M (Machine Learning Engineering Manager)
+  Previous 1: Senior Ai Developer @ Stability Ai
+  Previous 2: Quantitative Modeler, Vice President @ Bank Of The West
+  Education: MS CS, Unc Kenan - Flagler  '10
+  LinkedIn: https://linkedin.com/in/emma-tan-1a6b76353
+
+Employee #50
+  Name: Eric Ng
+  Grad: '07 | YoE: 15
+  Start Date: 2022-01
+  Title: Project Manager (Project Manager)
+  Previous 1: Research Engineer @ Rockwell Automation
+  Previous 2: Career Transition @ Rockwell Automation
+  Education: MS CS, Ucl
+  LinkedIn: https://linkedin.com/in/eric-ng-33a110230
+
+Employee #51
+  Name: Denis Macharia
+  Grad: '18 | YoE: 4
+  Start Date: 2022-01
+  Title: AI Engineer (Freelance Data Science & Ai Expert)
+  Previous 1: Laborer And First Aider @ Sogea-Satom
+  Previous 2: Attache @ Kengen Kenya
+  Education: BS Physics, University Of Kabian '18
+  LinkedIn: https://linkedin.com/in/denis-macharia-529207149
+
+Employee #52
+  Name: Peter Zhao
+  Grad: '04 | YoE: 18
+  Start Date: 2022-01
+  Title: AI Engineer (Head Of Ai Engineering)
+  Previous 1: Senior Manager, Machine Learning Infrastructure @ Soundhound Ai
+  Previous 2: Staff Engineer @ Siri Labs
+  Education: MS CS, UC Berkeley
+  LinkedIn: https://linkedin.com/in/peter-zhao-b0746b2a5
+
+Employee #53
+  Name: Dustin L
+  Grad: '13 | YoE: 9
+  Start Date: 2022-01
+  Title: Director (Member Of Technical Staff & Director Of Bubble Tea Center Of Excellence)
+  Previous 1: Special Programs Director @ Information Technology Disaster Resource Center (Itdrc)
+  Previous 2: Telecommunications Specialist @ U.S. Department Of Health And Human Services (Hhs)
+  Education: Georgia Tech
+  LinkedIn: https://linkedin.com/in/dustin-li
+
+Employee #54
+  Name: Andrew Peng
+  Grad: '09 | YoE: 13
+  Start Date: 2022-01
+  Title: VP (Vice President Of Ai Research)
+  Previous 1: Director Of Software Engineering @ Smartmuni
+  Previous 2: Worldwide Channels Technical Lead @ Ibm
+  Education: MS CS, UC Berkeley
+  LinkedIn: https://linkedin.com/in/andrew-peng-8065a533a
+
+Employee #55
+  Name: Shiham Hussami
+  Grad: '04 | YoE: 18
+  Start Date: 2022-01
+  Title: AI Engineer (Head Of Ai Engineering)
+  Previous 1: Senior Manager, Machine Learning Infrastructure @ Soundhound Ai
+  Previous 2: Staff Engineer, Ai Platforms @ Siri Labs
+  Education: MS CS, UC Berkeley
+  LinkedIn: https://linkedin.com/in/shiham-raza-hussami-7a8a3a326
+
+Employee #56
+  Name: Erik Salminen
+  Grad: '08 | YoE: 14
+  Start Date: 2022-01
+  Title: Director (Technical Director)
+  Previous 1: Research Engineer @ Rockwell Automation
+  Previous 2: Vocational Development @ Rockwell Automation
+  Education: MS CS, The University Of Ma
+
+Employee #57
+  Name: Nathali Van Dam
+  Grad: '08 | YoE: 14
+  Start Date: 2022-01
+  Title: Technical Supervisor (Technical Supervisor)
+  Previous 1: Research Engineer @ Rockwell Automation
+  Previous 2: Career Transition @ Rockwell Automation
+  Education: Cbr Heftruck Certifi '22
+
+Employee #58
+  Name: Saurav Kadavath
+  Grad: '18 | YoE: 4
+  Start Date: 2022-01
+  Title: Engineer (Member Of Technical Staff)
+  Previous 1: Software Engineering Intern @ Okta
+  Previous 2: Machine Learning Researcher @ Berkeley Artificial Intelligence Research
+  Education: UC Berkeley '21
+  LinkedIn: https://linkedin.com/in/saurav-kadavath-808b07132
+
+Employee #59
+  Name: Benjamin M
+  Grad: '00 | YoE: 22
+  Start Date: 2022-01
+  Title: CTO (Chief Technology Officer)
+  Previous 1: Head Of Machine Learning Enginee @ Openai
+  Previous 2: Senior Data Scientist @ Uipath
+  Education: MS Computer Application, University Of Chicag
+
+Employee #60
+  Name: Janardan J
+  Grad: '11 | YoE: 11
+  Start Date: 2022-03
+  Title: Lead Talent Acquistion - Techn (Lead Talent Acquistion - Technology)
+  Previous 1: Senior Manager Ta @ Microsoft
+  Previous 2: N/A @ N/A
+  Education: Indian Institute Of  '11
+  LinkedIn: https://linkedin.com/in/janardan-j-7ab987382
+
+Employee #61
+  Name: Darius Chan
+  Grad: '07 | YoE: 15
+  Start Date: 2022-03
+  Title: Senior Engineering Manager (Senior Engineering Manager)
+  Previous 1: Engineering Manager @ Openai
+  Previous 2: Senior Software Engineer @ Atlassian
+  Education: MS CS, UC Berkeley
+
+Employee #62
+  Name: Jovelyn Macalalad
+  Grad: '22 | YoE: ?
+  Start Date: 2022-03
+  Title: Research Assistant (Research Assistant)
+  Previous 1: N/A @ N/A
+  Previous 2: N/A @ N/A
+  Education: N/A
+  LinkedIn: https://linkedin.com/in/jovelyn-macalalad-37b3a01a4
+
+Employee #63
+  Name: Ethan Perez
+  Grad: '18 | YoE: 4
+  Start Date: 2022-05
+  Title: Research Scientist (Research Scientist)
+  Previous 1: Research Scientist Intern @ Google Deepmind
+  Previous 2: Assistant Lecturer @ African Institute Of Mathematical Sciences
+  Education: PhD CS, NYU
+  LinkedIn: https://linkedin.com/in/ethanjperez
+
+Employee #64
+  Name: Guro Khundadze
+  Grad: '01 | YoE: 21
+  Start Date: 2022-05
+  Title: Fullstack Engineer (Full Stack Engineer)
+  Previous 1: Tech Lead / Principal Software Engineer @ Aula
+  Previous 2: Co Founder / Head Of Development Team @ Myvideo.Ge
+  Education: N/A
+  LinkedIn: https://linkedin.com/in/guro-khundadze-6075968
+
+Employee #65
+  Name: Nicholas Schiefer
+  Grad: '16 | YoE: 6
+  Start Date: 2022-05
+  Title: Engineer (Member Of Technical Staff)
+  Previous 1: Research Assistant @ Massachusetts Institute Of Technology
+  Previous 2: Icloud Software Engineer @ Apple
+  Education: MS CS, MIT '22
+  LinkedIn: https://linkedin.com/in/nicholasschiefer
+
+Employee #66
+  Name: Renzo Song
+  Grad: '05 | YoE: 17
+  Start Date: 2022-05
+  Title: Director (Technical Director Data Engineering)
+  Previous 1: Technical Lead, Data Infrastructure @ Palantir Technologies
+  Previous 2: Principal Backend Engineer - Infrastructure @ Palantir Technologies
+  Education: Scuola Statale Profe '81
+  LinkedIn: https://linkedin.com/in/renzo-satti
+
+Employee #67
+  Name: Cathy Burgess
+  Grad: '20 | YoE: 2
+  Start Date: 2022-05
+  Title: Stockholder (Stockholder)
+  Previous 1: Senior Management | Family Office @ 3Dexcite
+  Previous 2: Development Director @ 3Dexcite
+  Education: Associates, Fm2S Educação E Cons '23
+  LinkedIn: https://linkedin.com/in/cathy-burgess-b049ba1a4
+
+Employee #68
+  Name: Sahoua Jeremie
+  Grad: '11 | YoE: 11
+  Start Date: 2022-05
+  Title: Data Engineer (Data Scientist | Rockwell Automation)
+  Previous 1: Directeur @ Independant
+  Previous 2: N/A @ N/A
+  Education: N/A
+  LinkedIn: https://linkedin.com/in/jeremie-sahoua-0ab621154
+
+Employee #69
+  Name: Sam Bowman
+  Grad: '11 | YoE: 11
+  Start Date: 2022-06
+  Title: Engineer (Member Of Technical Staff)
+  Previous 1: Participant @ Giving What We Can
+  Previous 2: Faculty Sponsor @ Nyu Ai School
+  Education: Nyu Center For Data 
+  LinkedIn: https://linkedin.com/in/sr-bowman
+
+Employee #70
+  Name: Sam Ringer
+  Grad: '13 | YoE: 9
+  Start Date: 2022-06
+  Title: Engineer (Member Of Technical Staff)
+  Previous 1: Chief Machine Learning Engineer @ Speechmatics
+  Previous 2: Machine Learning Engineer @ Speechmatics
+  Education: MEng Chemical Engineering, University Of Cambri '18
+
+Employee #71
+  Name: Bobby J
+  Grad: '12 | YoE: 10
+  Start Date: 2022-06
+  Title: Director (Director Talent Acquisition)
+  Previous 1: Talent Acquisition Manager @ Nvidia
+  Previous 2: N/A @ N/A
+  Education: BS Business, Harvard Business Sch
+  LinkedIn: https://linkedin.com/in/bobby-j-27419936b
+
+Employee #72
+  Name: Sandipan Kundu
+  Grad: '06 | YoE: 16
+  Start Date: 2022-07
+  Title: Engineer (Member Of Technical Staff)
+  Previous 1: Postdoctoral Associate @ The Johns Hopkins University
+  Previous 2: Postdoctoral Research Associate @ Cornell University
+  Education: MS Physics, IIT '08
+  LinkedIn: https://linkedin.com/in/sandipan-kundu
+
+Employee #73
+  Name: Cam Mckinnon
+  Grad: '15 | YoE: 7
+  Start Date: 2022-07
+  Title: Engineer (Member Of Technical Staff)
+  Previous 1: Software Engineer @ Asana
+  Previous 2: Software Engineer @ Google
+  Education: BS CS, University Of Waterl '15
+  LinkedIn: https://linkedin.com/in/cam-mckinnon-03496524
+
+Employee #74
+  Name: Miranda Zhang
+  Grad: '22 | YoE: ?
+  Start Date: 2022-07
+  Title: Operations (Operations Generalist)
+  Previous 1: Campus Specialist Intern @ The Centre For Effective Altruism
+  Previous 2: New York Public Affairs Intern @ Skdk
+  Education: BS Public Policy, University Of Chicag '22
+  LinkedIn: https://linkedin.com/in/miranda-h-zhang
+
+Employee #75
+  Name: Da Yan
+  Grad: '16 | YoE: 6
+  Start Date: 2022-07
+  Title: Engineer (Member Of Technical Staff)
+  Previous 1: Independent Contractor @ Openai
+  Previous 2: N/A @ N/A
+  Education: PhD CS, The Hong Kong Univer '22
+  LinkedIn: https://linkedin.com/in/da-yan-1b8211216
+
+Employee #76
+  Name: Meagan Mitchell
+  Grad: '09 | YoE: 13
+  Start Date: 2022-07
+  Title: Researcher (Researcher)
+  Previous 1: Technical Writer @ Clarivate
+  Previous 2: Postdoctoral Researcher @ Harvard University
+  Education: Philosophy, Columbia '15
+  LinkedIn: https://linkedin.com/in/meagan-mitchell-35404b369
+
+Employee #77
+  Name: James Sully
+  Grad: '06 | YoE: 16
+  Start Date: 2022-08
+  Title: Engineer (Member Of The Technical Staff)
+  Previous 1: Postdoctoral Researcher @ The University Of British Columbia
+  Previous 2: Banting Postdoctoral Fellow @ Mcgill University
+  Education: PhD Physics, Uc Santa Barbara '12
+  LinkedIn: https://linkedin.com/in/james-sully-293b233b
+
+Employee #78
+  Name: Robert Lasenby
+  Grad: '11 | YoE: 11
+  Start Date: 2022-08
+  Title: Engineer (Member Of Technical Staff)
+  Previous 1: Postdoctoral Researcher @ Stanford University
+  Previous 2: Postdoctoral Researcher @ Perimeter Institute
+  Education: PhD Physics, University Of Oxford '15
+  LinkedIn: https://linkedin.com/in/robert-lasenby-78aa05257
+
+Employee #79
+  Name: Suneel Rathee
+  Grad: '22 | YoE: ?
+  Start Date: 2022-08
+  Title: Aviation Specialist (Aviation Specialist)
+  Previous 1: N/A @ N/A
+  Previous 2: N/A @ N/A
+  Education: N/A
+  LinkedIn: https://linkedin.com/in/suneel-rathee-b39443237
+
+Employee #80
+  Name: Randy A
+  Grad: '18 | YoE: 4
+  Start Date: 2022-08
+  Title: AI Engineer (Head Of Ai Engineering)
+  Previous 1: N/A @ N/A
+  Previous 2: N/A @ N/A
+  Education: BS Electronics Engineer, Ahsanullah Universit
+
+Employee #81
+  Name: Ryan W
+  Grad: '07 | YoE: 15
+  Start Date: 2022-09
+  Title: Director (Director - Ai / Ml)
+  Previous 1: Director - Cloud Services & Data Engineering @ Apple
+  Previous 2: Software Engineering Manager @ Apple
+  Education: MS Math, Ohio University
+  LinkedIn: https://linkedin.com/in/ryan-w-b58082108
+
+Employee #82
+  Name: Amanda Bailey
+  Grad: '14 | YoE: 8
+  Start Date: 2022-09
+  Title: Marketing (Digital Marketing Specialist)
+  Previous 1: Marketing Coordinator @ Durhamlane
+  Previous 2: N/A @ N/A
+  Education: BS Communications, Sheffield Hallam Uni '14
+  LinkedIn: https://linkedin.com/in/amanda-bailey-21b534361
+
+Employee #83
+  Name: Orowa Sikder
+  Grad: '10 | YoE: 12
+  Start Date: 2022-10
+  Title: Engineer (Member Of Technical Staff (Research Manager, Post-Training))
+  Previous 1: Research Fellowship: Large Language Models @ Ai Objectives Institute
+  Previous 2: Co-Founder @ Cophi
+  Education: BA Econ, University Of Oxford
+  LinkedIn: https://linkedin.com/in/orowa
+
+Employee #84
+  Name: Matt Bell
+  Grad: '01 | YoE: 21
+  Start Date: 2022-10
+  Title: Engineer (Member Of Technical Staff)
+  Previous 1: Founder And Board Member @ Matterport
+  Previous 2: Founder & Chief Scientist @ Reactrix Systems, Inc.
+  Education: BS CS, Stanford '01
+  LinkedIn: https://linkedin.com/in/thismattbell
+
+Employee #85
+  Name: Oliver R
+  Grad: '21 | YoE: 1
+  Start Date: 2022-10
+  Title: Engineer (Member Of Technical Staff)
+  Previous 1: Research Intern (Microsoft Research) @ Microsoft
+  Previous 2: Research Assistant (Scalable Parallel Computing Laboratory) @ Eth Zürich
+  Education: MS CS, University Of Oxford '22
+  LinkedIn: https://linkedin.com/in/orausch
+
+Employee #86
+  Name: Logan Graham
+  Grad: '15 | YoE: 7
+  Start Date: 2022-11
+  Title: Engineer (Member Of Technical Staff)
+  Previous 1: Special Advisor To The Prime Minister @ 10 Downing Street
+  Previous 2: Research Scientist Intern @ Emed Healthcare Uk
+  Education: PhD Engineering, University Of Oxford '20
+  LinkedIn: https://linkedin.com/in/logangraham
+
+Employee #87
+  Name: Mike Lambert
+  Grad: '05 | YoE: 17
+  Start Date: 2022-11
+  Title: Engineer (Member Of Technical Staff)
+  Previous 1: Principal Software Engineer, Transit Bikes And Scooters @ Lyft
+  Previous 2: Chief Executive Officer / Developer @ Dancedeets
+  Education: Redwood Research'S M
+  LinkedIn: https://linkedin.com/in/mike-lambert-dancer
+
+Employee #88
+  Name: Peter Lofgren
+  Grad: '11 | YoE: 11
+  Start Date: 2022-11
+  Title: Engineer (Member Of Technical Staff, Machine Learning)
+  Previous 1: Staff Machine Learning Engineer @ Stripe
+  Previous 2: Software Engineer @ Teapot Inc.
+  Education: PhD CS, Stanford '16
+  LinkedIn: https://linkedin.com/in/peter-lofgren-35619417
+
+Employee #89
+  Name: Jonathan Brigden
+  Grad: '13 | YoE: 9
+  Start Date: 2022-11
+  Title: AI Engineer (Ai Training)
+  Previous 1: Producer / Remixer @ Trance4Live Records
+  Previous 2: N/A @ N/A
+  Education: University Of Trance '10
+  LinkedIn: https://linkedin.com/in/jonathan-brigden-38b598ab
+
+Employee #90
+  Name: Autumn Russell
+  Grad: '18 | YoE: 4
+  Start Date: 2022-12
+  Title: Infra Engineer (Infrastructure Engineer)
+  Previous 1: Software Engineer @ Ladder
+  Previous 2: Software Development Engineer @ Amazon Web Services (Aws)
+  Education: BA Math, University Of Maryla '18
+  LinkedIn: https://linkedin.com/in/adrusi
