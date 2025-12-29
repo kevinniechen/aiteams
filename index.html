@@ -1372,8 +1372,8 @@
                 : null;
             
 document.getElementById('company-info').innerHTML =
-                `<strong>${data.company_display || data.company}</strong> · Founded: ${data.founded || '?'} · <span class="info-tooltip" onclick="document.getElementById('mobile-disclaimer').classList.toggle('visible')">${currentEmployees.length} employees<span class="tooltip-text">Snapshot from data provider. May not be up to date or entirely accurate.</span></span>${spamCount > 0 ? ` (${spamCount} hidden)` : ''}
-                <div class="mobile-disclaimer" id="mobile-disclaimer">ℹ️ Snapshot from data provider. May not be up to date or entirely accurate. <span class="close-btn" onclick="event.stopPropagation(); this.parentElement.classList.remove('visible')">×</span></div>`;
+                `<strong>${data.company_display || data.company}</strong> · Founded: ${data.founded || '?'} · <span class="info-tooltip" onclick="document.getElementById('mobile-disclaimer').classList.toggle('visible')">${currentEmployees.length} employees<span class="tooltip-text">Snapshot from data provider. May not be up to date or entirely accurate. Bigger companies tend to have more spammy/incorrect profiles. Does not include former employees.</span></span>${spamCount > 0 ? ` (${spamCount} hidden)` : ''}
+                <div class="mobile-disclaimer" id="mobile-disclaimer">ℹ️ Snapshot from data provider. May not be up to date or entirely accurate. Bigger companies tend to have more spammy/incorrect profiles. Does not include former employees. <span class="close-btn" onclick="event.stopPropagation(); this.parentElement.classList.remove('visible')">×</span></div>`;
             
             let html = '<div class="main-layout">';
             
